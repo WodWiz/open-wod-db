@@ -1,0 +1,41 @@
+name: validate
+
+# Gate every change to the dataset against the schema contract so community
+# PRs can be accepted without hand-reviewing each entry.
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "schema/**"
+      - "scripts/**"
+      - ".github/workflows/validate.yml"
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "schema/**"
+      - "scripts/**"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install jsonschema
+
+      - name: Validate entries against schema
+        run: python scripts/validate.py
+
+      - name: Confirm the index compiles
+        # build_index.py both re-derives index.json and renders each .md twin;
+        # running it here proves every entry compiles cleanly.
+        run: python scripts/build_index.py

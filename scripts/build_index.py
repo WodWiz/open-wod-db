@@ -44,15 +44,17 @@ def render_markdown(wod):
 all_entries = []
 for category_dir in ["girls", "heroes"]:
     for path in sorted(glob.glob(os.path.join(DATA, category_dir, "*.json"))):
-        with open(path) as f:
+        with open(path, encoding="utf-8") as f:
             wod = json.load(f)
         all_entries.append(wod)
         md_path = path.replace(".json", ".md")
-        with open(md_path, "w") as f:
+        # Force UTF-8 + LF so output is byte-identical on Windows and Linux
+        # (default text mode would emit cp1252/CRLF on Windows).
+        with open(md_path, "w", encoding="utf-8", newline="\n") as f:
             f.write(render_markdown(wod))
 
 index_path = os.path.join(DATA, "index.json")
-with open(index_path, "w") as f:
+with open(index_path, "w", encoding="utf-8", newline="\n") as f:
     json.dump({"count": len(all_entries), "wods": all_entries}, f, indent=2)
 
 print(f"Indexed {len(all_entries)} structured WODs -> {index_path}")

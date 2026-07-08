@@ -1,0 +1,4 @@
+# Normalize all text to LF in the repo and working tree so generated data
+# (index.json, .md twins) is byte-identical across Windows/Linux — the publish
+# workflow regenerates and diffs these, and CRLF churn would create noise commits.
+* text=auto eol=lf

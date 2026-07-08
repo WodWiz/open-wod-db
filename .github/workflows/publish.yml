@@ -1,0 +1,88 @@
+name: publish
+
+# On merge to main: re-derive the compiled index + .md twins, commit any drift,
+# and cut an auto-incremented semver tag + release so consumers can pin a version
+# (and the jsdelivr @<tag> / @latest URLs resolve to a real release).
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "schema/**"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  # Never let two publishes race on the tag counter or the main branch.
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    # Skip the bot's own regeneration commit (belt-and-suspenders; GITHUB_TOKEN
+    # pushes don't retrigger workflows, but a human could push "[skip ci]" too).
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install jsonschema
+
+      - name: Validate before publishing
+        run: python scripts/validate.py
+
+      - name: Rebuild index and markdown twins
+        run: python scripts/build_index.py
+
+      - name: Commit regenerated artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git add data/
+            git commit -m "chore: rebuild index.json and .md twins [skip ci]"
+            git push
+          else
+            echo "No regeneration needed — index and .md twins already current."
+          fi
+
+      - name: Compute next semver tag
+        id: version
+        run: |
+          git fetch --tags --force
+          latest=$(git tag -l 'v*.*.*' --sort=-v:refname | head -n1)
+          if [ -z "$latest" ]; then
+            next="v1.0.0"
+          else
+            v=${latest#v}
+            IFS='.' read -r MAJ MIN PAT <<< "$v"
+            next="v${MAJ}.${MIN}.$((PAT + 1))"
+          fi
+          echo "Previous tag: ${latest:-<none>} -> next: $next"
+          echo "tag=$next" >> "$GITHUB_OUTPUT"
+
+      - name: Tag and publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          count=$(python -c "import json;print(json.load(open('data/index.json'))['count'])")
+          git tag "${{ steps.version.outputs.tag }}"
+          git push origin "${{ steps.version.outputs.tag }}"
+          gh release create "${{ steps.version.outputs.tag }}" \
+            --title "${{ steps.version.outputs.tag }}" \
+            --notes "Open WOD Database — ${count} structured benchmark WODs.
+
+          Consume the compiled bundle:
+          \`https://cdn.jsdelivr.net/gh/wodwiz/open-wod-db@${{ steps.version.outputs.tag }}/data/index.json\`
+
+          Data licensed CC BY 4.0; code MIT." \
+            --generate-notes

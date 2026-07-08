@@ -9,7 +9,10 @@ By submitting a pull request, you agree your contribution to `/data` is licensed
 3. If it's a new entry entirely, add it to the right folder under `data/` with a unique `id` (lowercase, hyphenated).
 4. Always fill `source_notes` — a URL or citation for where you verified the movements/reps/scoring. Entries without this will be asked for it before merge.
 5. Don't copy descriptive text, hero bios, or narrative content from any other site verbatim — write your own from the facts, or omit the `origin.summary` field.
-6. Run `python3 scripts/build_index.py` locally before opening a PR — this validates your entry compiles into the index and generates its `.md` twin.
+6. Run `python3 scripts/validate.py` to check your entry against the schema (also verifies `source_notes` is present, `id` matches the filename, and ids are unique). Requires `pip install jsonschema`.
+7. Run `python3 scripts/build_index.py` to regenerate the index and your entry's `.md` twin.
+
+CI runs both of these on every PR (`.github/workflows/validate.yml`) — a PR that fails schema validation won't be merged, so running them locally first saves a round-trip.
 
 ## Format reference
 

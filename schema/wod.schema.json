@@ -56,7 +56,7 @@
     "origin": {
       "type": ["object", "null"],
       "properties": {
-        "summary": { "type": "string" },
+        "summary": { "type": ["string", "null"] },
         "first_posted": { "type": ["string", "null"] }
       }
     },
