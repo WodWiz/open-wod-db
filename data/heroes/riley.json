@@ -1,0 +1,33 @@
+{
+  "id": "riley",
+  "name": "Riley",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 2414
+    },
+    {
+      "exercise": "burpee",
+      "reps": 150
+    },
+    {
+      "exercise": "run",
+      "distance_m": 2414
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "bodyweight",
+    "high-volume",
+    "weight-vest-optional"
+  ],
+  "source_notes": "crossfit.com/benchmark/riley (official CrossFit Hero WOD page), retrieved 2026-07-08; official Rx adds an optional load: 'If you've got a weight vest or body armor, wear it.'",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

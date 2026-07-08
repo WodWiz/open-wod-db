@@ -1,0 +1,35 @@
+{
+  "id": "rocket",
+  "name": "Rocket",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 30
+  },
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 46,
+      "notes": "50 yards"
+    },
+    {
+      "exercise": "push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "swimming",
+    "bodyweight",
+    "amrap"
+  ],
+  "source_notes": "crossfit.com/benchmark/rocket (official CrossFit Hero WOD page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

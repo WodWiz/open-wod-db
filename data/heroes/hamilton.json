@@ -1,0 +1,40 @@
+{
+  "id": "hamilton",
+  "name": "Hamilton",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "push-up",
+      "reps": 50
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 50
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "rowing",
+    "running",
+    "bodyweight",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/hamilton (official CrossFit Hero WOD page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

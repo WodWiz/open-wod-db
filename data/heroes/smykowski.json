@@ -1,0 +1,29 @@
+{
+  "id": "smykowski",
+  "name": "Smykowski",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 6000
+    },
+    {
+      "exercise": "burpee-pull-up",
+      "reps": 60
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "bodyweight",
+    "endurance",
+    "weight-vest-optional"
+  ],
+  "source_notes": "crossfit.com/benchmark/smykowski (official CrossFit Hero WOD page), retrieved 2026-07-08; official Rx adds an optional load: 'If you've got body armor or a 30-lb vest, wear it.'",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

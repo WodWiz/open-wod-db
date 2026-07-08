@@ -1,0 +1,35 @@
+{
+  "id": "michael",
+  "name": "Michael",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "back-extension",
+      "reps": 50
+    },
+    {
+      "exercise": "sit-up",
+      "reps": 50
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "bodyweight",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/michael (official CrossFit Hero WOD page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

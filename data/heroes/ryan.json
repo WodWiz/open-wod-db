@@ -1,0 +1,31 @@
+{
+  "id": "ryan",
+  "name": "Ryan",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 7
+    },
+    {
+      "exercise": "burpee",
+      "reps": 21
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "bodyweight",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/ryan (official CrossFit Hero WOD page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

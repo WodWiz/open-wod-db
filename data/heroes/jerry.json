@@ -1,0 +1,32 @@
+{
+  "id": "jerry",
+  "name": "Jerry",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 1609
+    },
+    {
+      "exercise": "row",
+      "distance_m": 2000
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1609
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "rowing",
+    "endurance"
+  ],
+  "source_notes": "crossfit.com/benchmark/jerry (official CrossFit Hero WOD page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}
