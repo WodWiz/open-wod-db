@@ -1,0 +1,37 @@
+{
+  "id": "nancy",
+  "name": "Nancy",
+  "category": "girl",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 15,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2004-12-05"
+  },
+  "tags": [
+    "running",
+    "barbell"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

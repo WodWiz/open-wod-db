@@ -1,0 +1,34 @@
+{
+  "id": "gwen",
+  "name": "Gwen",
+  "category": "girl",
+  "format": "max_load",
+  "format_meta": {
+    "scoring": "load"
+  },
+  "movements": [
+    {
+      "exercise": "clean-and-jerk",
+      "reps": [
+        15,
+        12,
+        9
+      ],
+      "notes": "touch and go at floor only; no dumping; same load across all sets; rest as needed"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2003-05-25"
+  },
+  "tags": [
+    "load-test",
+    "barbell",
+    "touch-and-go"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "linda",
+  "name": "Linda",
+  "category": "girl",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": [
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "load": {
+        "rx_male": "1.5x bodyweight",
+        "rx_female": "1.5x bodyweight"
+      }
+    },
+    {
+      "exercise": "bench-press",
+      "reps": [
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "load": {
+        "rx_male": "bodyweight",
+        "rx_female": "bodyweight"
+      }
+    },
+    {
+      "exercise": "clean",
+      "reps": [
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "load": {
+        "rx_male": "0.75x bodyweight",
+        "rx_female": "0.75x bodyweight"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2003-07-05"
+  },
+  "tags": [
+    "descending-ladder",
+    "bodyweight-relative",
+    "barbell"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

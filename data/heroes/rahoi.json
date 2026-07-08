@@ -1,0 +1,33 @@
+{
+  "id": "rahoi",
+  "name": "Rahoi",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 12
+  },
+  "movements": [
+    {
+      "exercise": "box-jump",
+      "reps": 12
+    },
+    {
+      "exercise": "thruster",
+      "reps": 6
+    },
+    {
+      "exercise": "bar-facing-burpee",
+      "reps": 6
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell"
+  ],
+  "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

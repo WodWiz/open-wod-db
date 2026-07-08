@@ -1,0 +1,34 @@
+{
+  "id": "candy",
+  "name": "Candy",
+  "category": "girl",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "pull-up",
+      "reps": 20
+    },
+    {
+      "exercise": "push-up",
+      "reps": 40
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 60
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "bodyweight",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

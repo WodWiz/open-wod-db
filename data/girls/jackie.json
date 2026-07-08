@@ -1,0 +1,39 @@
+{
+  "id": "jackie",
+  "name": "Jackie",
+  "category": "girl",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "thruster",
+      "reps": 50,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "45lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 30
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2005-08-03"
+  },
+  "tags": [
+    "triplet",
+    "rowing",
+    "barbell"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

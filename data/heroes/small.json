@@ -1,0 +1,36 @@
+{
+  "id": "small",
+  "name": "Small",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "burpee",
+      "reps": 50
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 50
+    },
+    {
+      "exercise": "run",
+      "distance_m": 800
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "rowing",
+    "running",
+    "bodyweight"
+  ],
+  "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

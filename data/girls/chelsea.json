@@ -1,0 +1,37 @@
+{
+  "id": "chelsea",
+  "name": "Chelsea",
+  "category": "girl",
+  "format": "emom",
+  "format_meta": {
+    "interval_seconds": 60,
+    "total_minutes": 30
+  },
+  "movements": [
+    {
+      "exercise": "pull-up",
+      "reps": 5
+    },
+    {
+      "exercise": "push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2003-09-07"
+  },
+  "tags": [
+    "bodyweight",
+    "emom"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

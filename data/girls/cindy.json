@@ -1,0 +1,37 @@
+{
+  "id": "cindy",
+  "name": "Cindy",
+  "category": "girl",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "pull-up",
+      "reps": 5
+    },
+    {
+      "exercise": "push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2004-12-29"
+  },
+  "tags": [
+    "bodyweight",
+    "amrap",
+    "triplet"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "annie",
+  "name": "Annie",
+  "category": "girl",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "double-under",
+      "reps": [
+        50,
+        40,
+        30,
+        20,
+        10
+      ]
+    },
+    {
+      "exercise": "sit-up",
+      "reps": [
+        50,
+        40,
+        30,
+        20,
+        10
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2005-04-16"
+  },
+  "tags": [
+    "couplet",
+    "descending-ladder",
+    "jump-rope"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

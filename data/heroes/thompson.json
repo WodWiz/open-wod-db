@@ -1,0 +1,35 @@
+{
+  "id": "thompson",
+  "name": "Thompson",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "rope-climb",
+      "reps": 1,
+      "notes": "to 15 feet, start seated"
+    },
+    {
+      "exercise": "back-squat",
+      "reps": 29
+    },
+    {
+      "exercise": "farmers-carry",
+      "distance_m": 10
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "10-rounds",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

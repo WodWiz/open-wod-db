@@ -1,0 +1,38 @@
+{
+  "id": "ingrid",
+  "name": "Ingrid",
+  "category": "girl",
+  "format": "for_time",
+  "format_meta": {
+    "rounds": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "snatch",
+      "reps": 3,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "burpee-over-the-bar",
+      "reps": 3
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2021-01-03"
+  },
+  "tags": [
+    "couplet",
+    "barbell",
+    "10-rounds"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

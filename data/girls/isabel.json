@@ -1,0 +1,31 @@
+{
+  "id": "isabel",
+  "name": "Isabel",
+  "category": "girl",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "snatch",
+      "reps": 30,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "135lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2004-11-11"
+  },
+  "tags": [
+    "single-movement",
+    "barbell",
+    "sprint"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

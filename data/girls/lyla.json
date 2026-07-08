@@ -1,0 +1,54 @@
+{
+  "id": "lyla",
+  "name": "Lyla",
+  "category": "girl",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": [
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "exercise": "bodyweight-clean-and-jerk",
+      "reps": [
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2021-01-07"
+  },
+  "tags": [
+    "couplet",
+    "descending-ladder",
+    "gymnastics",
+    "bodyweight-relative"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "karen",
+  "name": "Karen",
+  "category": "girl",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 150,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2008-08-07"
+  },
+  "tags": [
+    "single-movement",
+    "high-volume"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

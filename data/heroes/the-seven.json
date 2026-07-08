@@ -1,0 +1,50 @@
+{
+  "id": "the-seven",
+  "name": "The Seven",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "handstand-push-up",
+      "reps": 7
+    },
+    {
+      "exercise": "thruster",
+      "reps": 7
+    },
+    {
+      "exercise": "knees-to-elbows",
+      "reps": 7
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 7
+    },
+    {
+      "exercise": "burpee",
+      "reps": 7
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 7
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 7
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "7-rounds",
+    "high-skill"
+  ],
+  "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

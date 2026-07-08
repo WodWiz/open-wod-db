@@ -1,0 +1,2158 @@
+{
+  "count": 52,
+  "wods": [
+    {
+      "id": "amanda",
+      "name": "Amanda",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "muscle-up",
+          "reps": [
+            9,
+            7,
+            5
+          ]
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": [
+            9,
+            7,
+            5
+          ],
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "135lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2010-07-17"
+      },
+      "tags": [
+        "couplet",
+        "gymnastics",
+        "barbell",
+        "high-skill"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "andi",
+      "name": "Andi",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "hang-power-snatch",
+          "reps": 100,
+          "load": {
+            "rx_male": "65lb",
+            "rx_female": "45lb"
+          }
+        },
+        {
+          "exercise": "push-press",
+          "reps": 100,
+          "load": {
+            "rx_male": "65lb",
+            "rx_female": "45lb"
+          }
+        },
+        {
+          "exercise": "sumo-deadlift-high-pull",
+          "reps": 100,
+          "load": {
+            "rx_male": "65lb",
+            "rx_female": "45lb"
+          }
+        },
+        {
+          "exercise": "front-squat",
+          "reps": 100,
+          "load": {
+            "rx_male": "65lb",
+            "rx_female": "45lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2021-01-14"
+      },
+      "tags": [
+        "high-volume",
+        "barbell"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "angie",
+      "name": "Angie",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "pull-up",
+          "reps": 100
+        },
+        {
+          "exercise": "push-up",
+          "reps": 100
+        },
+        {
+          "exercise": "sit-up",
+          "reps": 100
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 100
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2004-07-26"
+      },
+      "tags": [
+        "bodyweight",
+        "high-volume"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "annie",
+      "name": "Annie",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "double-under",
+          "reps": [
+            50,
+            40,
+            30,
+            20,
+            10
+          ]
+        },
+        {
+          "exercise": "sit-up",
+          "reps": [
+            50,
+            40,
+            30,
+            20,
+            10
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2005-04-16"
+      },
+      "tags": [
+        "couplet",
+        "descending-ladder",
+        "jump-rope"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "barbara-ann",
+      "name": "Barbara Ann",
+      "category": "girl",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "rest_between_seconds": 180,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "handstand-push-up",
+          "reps": 20
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 30,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "sit-up",
+          "reps": 40
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2021-01-04"
+      },
+      "tags": [
+        "5-rounds",
+        "gymnastics",
+        "barbell"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "barbara",
+      "name": "Barbara",
+      "category": "girl",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "rest_between_seconds": 180,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "pull-up",
+          "reps": 20
+        },
+        {
+          "exercise": "push-up",
+          "reps": 30
+        },
+        {
+          "exercise": "sit-up",
+          "reps": 40
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 50
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2003-09-27"
+      },
+      "tags": [
+        "bodyweight",
+        "5-rounds"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "candy",
+      "name": "Candy",
+      "category": "girl",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "pull-up",
+          "reps": 20
+        },
+        {
+          "exercise": "push-up",
+          "reps": 40
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 60
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "bodyweight",
+        "5-rounds"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "chelsea",
+      "name": "Chelsea",
+      "category": "girl",
+      "format": "emom",
+      "format_meta": {
+        "interval_seconds": 60,
+        "total_minutes": 30
+      },
+      "movements": [
+        {
+          "exercise": "pull-up",
+          "reps": 5
+        },
+        {
+          "exercise": "push-up",
+          "reps": 10
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 15
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2003-09-07"
+      },
+      "tags": [
+        "bodyweight",
+        "emom"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "cindy",
+      "name": "Cindy",
+      "category": "girl",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 20
+      },
+      "movements": [
+        {
+          "exercise": "pull-up",
+          "reps": 5
+        },
+        {
+          "exercise": "push-up",
+          "reps": 10
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 15
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2004-12-29"
+      },
+      "tags": [
+        "bodyweight",
+        "amrap",
+        "triplet"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "diane",
+      "name": "Diane",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": [
+            21,
+            15,
+            9
+          ],
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "225lb"
+          }
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": [
+            21,
+            15,
+            9
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2003-09-19"
+      },
+      "tags": [
+        "couplet",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": [
+            21,
+            15,
+            9
+          ],
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "135lb"
+          }
+        },
+        {
+          "exercise": "ring-dip",
+          "reps": [
+            21,
+            15,
+            9
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2003-09-12"
+      },
+      "tags": [
+        "couplet",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "ellen",
+      "name": "Ellen",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "burpee",
+          "reps": 20
+        },
+        {
+          "exercise": "dumbbell-snatch",
+          "reps": 21,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "dumbbell-thruster",
+          "reps": 12,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          },
+          "notes": "pair of dumbbells"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2021-01-10"
+      },
+      "tags": [
+        "triplet",
+        "dumbbell",
+        "3-rounds"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "eva",
+      "name": "Eva",
+      "category": "girl",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "kettlebell-swing",
+          "reps": 30,
+          "load": {
+            "rx_male": "2 pood",
+            "rx_female": "2 pood"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 30
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2008-02-24"
+      },
+      "tags": [
+        "running",
+        "kettlebell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "fran",
+      "name": "Fran",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": [
+            21,
+            15,
+            9
+          ],
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": [
+            21,
+            15,
+            9
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2003-08-25"
+      },
+      "tags": [
+        "couplet",
+        "sprint",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "grace",
+      "name": "Grace",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 30,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "135lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2004-06-24"
+      },
+      "tags": [
+        "single-movement",
+        "barbell",
+        "sprint"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "grettel",
+      "name": "Grettel",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {
+        "rounds": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 3,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "burpee-over-the-bar",
+          "reps": 3
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2021-01-03"
+      },
+      "tags": [
+        "couplet",
+        "barbell",
+        "10-rounds"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "gwen",
+      "name": "Gwen",
+      "category": "girl",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": [
+            15,
+            12,
+            9
+          ],
+          "notes": "touch and go at floor only; no dumping; same load across all sets; rest as needed"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2003-05-25"
+      },
+      "tags": [
+        "load-test",
+        "barbell",
+        "touch-and-go"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "helen",
+      "name": "Helen",
+      "category": "girl",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "kettlebell-swing",
+          "reps": 21,
+          "load": {
+            "rx_male": "1.5 pood",
+            "rx_female": "1.5 pood"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 12
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2003-08-09"
+      },
+      "tags": [
+        "running",
+        "kettlebell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "hope",
+      "name": "Hope",
+      "category": "girl",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "interval_seconds": 60,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "burpee"
+        },
+        {
+          "exercise": "power-snatch",
+          "load": {
+            "rx_male": "75lb",
+            "rx_female": "75lb"
+          }
+        },
+        {
+          "exercise": "box-jump",
+          "notes": "24in box"
+        },
+        {
+          "exercise": "thruster",
+          "load": {
+            "rx_male": "75lb",
+            "rx_female": "75lb"
+          }
+        },
+        {
+          "exercise": "chest-to-bar-pull-up"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": "Same format as Fight Gone Bad: five one-minute stations, one-minute rest between rounds, clock runs continuously, scored by total reps across stations.",
+        "first_posted": "2012-06-08"
+      },
+      "tags": [
+        "fgb-format",
+        "station-based"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "ingrid",
+      "name": "Ingrid",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {
+        "rounds": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "snatch",
+          "reps": 3,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "burpee-over-the-bar",
+          "reps": 3
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2021-01-03"
+      },
+      "tags": [
+        "couplet",
+        "barbell",
+        "10-rounds"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "isabel",
+      "name": "Isabel",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "snatch",
+          "reps": 30,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "135lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2004-11-11"
+      },
+      "tags": [
+        "single-movement",
+        "barbell",
+        "sprint"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "jackie",
+      "name": "Jackie",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 1000
+        },
+        {
+          "exercise": "thruster",
+          "reps": 50,
+          "load": {
+            "rx_male": "45lb",
+            "rx_female": "45lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 30
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2005-08-03"
+      },
+      "tags": [
+        "triplet",
+        "rowing",
+        "barbell"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "karen",
+      "name": "Karen",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 150,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2008-08-07"
+      },
+      "tags": [
+        "single-movement",
+        "high-volume"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "kelly",
+      "name": "Kelly",
+      "category": "girl",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 30,
+          "notes": "24in box"
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 30,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "20lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2005-04-10"
+      },
+      "tags": [
+        "running",
+        "box-jump"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "lane",
+      "name": "Lane",
+      "category": "girl",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "hang-power-snatch",
+          "reps": "max",
+          "load": {
+            "rx_male": "0.75x bodyweight",
+            "rx_female": "0.75x bodyweight"
+          }
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": "max"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2021-01-26"
+      },
+      "tags": [
+        "max-reps",
+        "gymnastics",
+        "bodyweight-relative"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "linda",
+      "name": "Linda",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "load": {
+            "rx_male": "1.5x bodyweight",
+            "rx_female": "1.5x bodyweight"
+          }
+        },
+        {
+          "exercise": "bench-press",
+          "reps": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "load": {
+            "rx_male": "bodyweight",
+            "rx_female": "bodyweight"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "load": {
+            "rx_male": "0.75x bodyweight",
+            "rx_female": "0.75x bodyweight"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2003-07-05"
+      },
+      "tags": [
+        "descending-ladder",
+        "bodyweight-relative",
+        "barbell"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "lyla",
+      "name": "Lyla",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "muscle-up",
+          "reps": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+          ]
+        },
+        {
+          "exercise": "bodyweight-clean-and-jerk",
+          "reps": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2021-01-07"
+      },
+      "tags": [
+        "couplet",
+        "descending-ladder",
+        "gymnastics",
+        "bodyweight-relative"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "lynne",
+      "name": "Lynne",
+      "category": "girl",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "bench-press",
+          "reps": "max",
+          "load": {
+            "rx_male": "bodyweight",
+            "rx_female": "bodyweight"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": "max"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2004-04-22"
+      },
+      "tags": [
+        "max-reps",
+        "strength",
+        "bodyweight-relative"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "maggie",
+      "name": "Maggie",
+      "category": "girl",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "handstand-push-up",
+          "reps": 20
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 40
+        },
+        {
+          "exercise": "pistol",
+          "reps": 60,
+          "notes": "alternating legs"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2006-07-28"
+      },
+      "tags": [
+        "bodyweight",
+        "gymnastics",
+        "5-rounds"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "marguerita",
+      "name": "Marguerita",
+      "category": "girl",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "burpee",
+          "reps": 50
+        },
+        {
+          "exercise": "push-up",
+          "reps": 50
+        },
+        {
+          "exercise": "jumping-jack",
+          "reps": 50
+        },
+        {
+          "exercise": "sit-up",
+          "reps": 50
+        },
+        {
+          "exercise": "handstand",
+          "reps": 50
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2014-01-15"
+      },
+      "tags": [
+        "bodyweight",
+        "high-volume"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "mary",
+      "name": "Mary",
+      "category": "girl",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 20
+      },
+      "movements": [
+        {
+          "exercise": "handstand-push-up",
+          "reps": 5
+        },
+        {
+          "exercise": "pistol",
+          "reps": 10,
+          "notes": "alternating legs"
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 15
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2005-01-19"
+      },
+      "tags": [
+        "amrap",
+        "gymnastics",
+        "triplet"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "nancy",
+      "name": "Nancy",
+      "category": "girl",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 15,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2004-12-05"
+      },
+      "tags": [
+        "running",
+        "barbell"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "nicole",
+      "name": "Nicole",
+      "category": "girl",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 20,
+        "scoring": "rounds_reps"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "pull-up",
+          "reps": "max"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": {
+        "summary": null,
+        "first_posted": "2006-12-11"
+      },
+      "tags": [
+        "running",
+        "amrap"
+      ],
+      "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "badger",
+      "name": "Badger",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "squat-clean",
+          "reps": 30
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 30
+        },
+        {
+          "exercise": "run",
+          "distance_m": 800
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "barbell",
+        "running",
+        "3-rounds"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "pull-up",
+          "reps": 50
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "thruster",
+          "reps": 21,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "thruster",
+          "reps": 21,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 50
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "dt",
+      "name": "DT",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 12,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "105lb"
+          }
+        },
+        {
+          "exercise": "hang-power-clean",
+          "reps": 9,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "105lb"
+          }
+        },
+        {
+          "exercise": "push-jerk",
+          "reps": 6,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "105lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "barbell",
+        "5-rounds"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "hansen",
+      "name": "Hansen",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "kettlebell-swing",
+          "reps": 30
+        },
+        {
+          "exercise": "burpee",
+          "reps": 30
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 30
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "kettlebell",
+        "bodyweight",
+        "5-rounds"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "holleyman",
+      "name": "Holleyman",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {
+        "rounds": 30,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 5
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 3
+        },
+        {
+          "exercise": "power-clean",
+          "reps": 1
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "30-rounds",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "jason",
+      "name": "Jason",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "air-squat",
+          "reps": 100
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 5
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 75
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 10
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 50
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 15
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 25
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 20
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "gymnastics",
+        "bodyweight",
+        "descending-ascending"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "josh",
+      "name": "Josh",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "overhead-squat",
+          "reps": 21,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 42
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 15,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 30
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 9,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 18
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "jt",
+      "name": "JT",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "handstand-push-up",
+          "reps": [
+            21,
+            15,
+            9
+          ]
+        },
+        {
+          "exercise": "ring-dip",
+          "reps": [
+            21,
+            15,
+            9
+          ]
+        },
+        {
+          "exercise": "push-up",
+          "reps": [
+            21,
+            15,
+            9
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "gymnastics",
+        "bodyweight"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "murph",
+      "name": "Murph",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 1609
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 100
+        },
+        {
+          "exercise": "push-up",
+          "reps": 200
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 300
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1609
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "memorial-day",
+        "high-volume",
+        "running"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08; partition pull-ups/push-ups/squats as needed, per official prescription",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "nate",
+      "name": "Nate",
+      "category": "hero",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 20
+      },
+      "movements": [
+        {
+          "exercise": "muscle-up",
+          "reps": 2
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 4
+        },
+        {
+          "exercise": "kettlebell-swing",
+          "reps": 8,
+          "load": {
+            "rx_male": "2 pood",
+            "rx_female": "1.5 pood"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "gymnastics",
+        "kettlebell",
+        "amrap"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "nutts",
+      "name": "Nutts",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "handstand-push-up",
+          "reps": 10
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 15
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 25
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 50
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 100
+        },
+        {
+          "exercise": "double-under",
+          "reps": 200
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400,
+          "notes": "with a plate"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "gymnastics",
+        "high-volume"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "rahoi",
+      "name": "Rahoi",
+      "category": "hero",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 12
+      },
+      "movements": [
+        {
+          "exercise": "box-jump",
+          "reps": 12
+        },
+        {
+          "exercise": "thruster",
+          "reps": 6
+        },
+        {
+          "exercise": "bar-facing-burpee",
+          "reps": 6
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "amrap",
+        "barbell"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "randy",
+      "name": "Randy",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "power-snatch",
+          "reps": 75,
+          "load": {
+            "rx_male": "75lb",
+            "rx_female": "55lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "single-movement",
+        "barbell",
+        "sprint"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "ship",
+      "name": "Ship",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 9,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "squat-clean",
+          "reps": 7
+        },
+        {
+          "exercise": "burpee-box-jump",
+          "reps": 8
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "9-rounds",
+        "barbell"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "small",
+      "name": "Small",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 1000
+        },
+        {
+          "exercise": "burpee",
+          "reps": 50
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 50
+        },
+        {
+          "exercise": "run",
+          "distance_m": 800
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "rowing",
+        "running",
+        "bodyweight"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "the-seven",
+      "name": "The Seven",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "handstand-push-up",
+          "reps": 7
+        },
+        {
+          "exercise": "thruster",
+          "reps": 7
+        },
+        {
+          "exercise": "knees-to-elbows",
+          "reps": 7
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 7
+        },
+        {
+          "exercise": "burpee",
+          "reps": 7
+        },
+        {
+          "exercise": "kettlebell-swing",
+          "reps": 7
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 7
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "7-rounds",
+        "high-skill"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "thompson",
+      "name": "Thompson",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "rope-climb",
+          "reps": 1,
+          "notes": "to 15 feet, start seated"
+        },
+        {
+          "exercise": "back-squat",
+          "reps": 29
+        },
+        {
+          "exercise": "farmers-carry",
+          "distance_m": 10
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "10-rounds",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "tommy-v",
+      "name": "Tommy V",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": 21,
+          "load": {
+            "rx_male": "115lb",
+            "rx_female": "75lb"
+          }
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 12
+        },
+        {
+          "exercise": "thruster",
+          "reps": 15,
+          "load": {
+            "rx_male": "115lb",
+            "rx_female": "75lb"
+          }
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 9
+        },
+        {
+          "exercise": "thruster",
+          "reps": 9,
+          "load": {
+            "rx_male": "115lb",
+            "rx_female": "75lb"
+          }
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 6
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "wittman",
+      "name": "Wittman",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "kettlebell-swing",
+          "reps": 15
+        },
+        {
+          "exercise": "power-clean",
+          "reps": 15
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 15
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "7-rounds",
+        "kettlebell",
+        "barbell"
+      ],
+      "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    }
+  ]
+}

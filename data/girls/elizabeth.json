@@ -1,0 +1,43 @@
+{
+  "id": "elizabeth",
+  "name": "Elizabeth",
+  "category": "girl",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "clean",
+      "reps": [
+        21,
+        15,
+        9
+      ],
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "135lb"
+      }
+    },
+    {
+      "exercise": "ring-dip",
+      "reps": [
+        21,
+        15,
+        9
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2003-09-12"
+  },
+  "tags": [
+    "couplet",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

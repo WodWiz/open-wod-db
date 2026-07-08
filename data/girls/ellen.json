@@ -1,0 +1,47 @@
+{
+  "id": "ellen",
+  "name": "Ellen",
+  "category": "girl",
+  "format": "for_time",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "burpee",
+      "reps": 20
+    },
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": 21,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "dumbbell-thruster",
+      "reps": 12,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "pair of dumbbells"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2021-01-10"
+  },
+  "tags": [
+    "triplet",
+    "dumbbell",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

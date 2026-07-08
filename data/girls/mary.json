@@ -1,0 +1,38 @@
+{
+  "id": "mary",
+  "name": "Mary",
+  "category": "girl",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "handstand-push-up",
+      "reps": 5
+    },
+    {
+      "exercise": "pistol",
+      "reps": 10,
+      "notes": "alternating legs"
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2005-01-19"
+  },
+  "tags": [
+    "amrap",
+    "gymnastics",
+    "triplet"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "hope",
+  "name": "Hope",
+  "category": "girl",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "interval_seconds": 60,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "burpee"
+    },
+    {
+      "exercise": "power-snatch",
+      "load": {
+        "rx_male": "75lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "notes": "24in box"
+    },
+    {
+      "exercise": "thruster",
+      "load": {
+        "rx_male": "75lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "chest-to-bar-pull-up"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": "Same format as Fight Gone Bad: five one-minute stations, one-minute rest between rounds, clock runs continuously, scored by total reps across stations.",
+    "first_posted": "2012-06-08"
+  },
+  "tags": [
+    "fgb-format",
+    "station-based"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nate",
+  "name": "Nate",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 2
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 4
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 8,
+      "load": {
+        "rx_male": "2 pood",
+        "rx_female": "1.5 pood"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "kettlebell",
+    "amrap"
+  ],
+  "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

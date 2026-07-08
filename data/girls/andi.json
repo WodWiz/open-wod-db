@@ -1,0 +1,54 @@
+{
+  "id": "andi",
+  "name": "Andi",
+  "category": "girl",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "hang-power-snatch",
+      "reps": 100,
+      "load": {
+        "rx_male": "65lb",
+        "rx_female": "45lb"
+      }
+    },
+    {
+      "exercise": "push-press",
+      "reps": 100,
+      "load": {
+        "rx_male": "65lb",
+        "rx_female": "45lb"
+      }
+    },
+    {
+      "exercise": "sumo-deadlift-high-pull",
+      "reps": 100,
+      "load": {
+        "rx_male": "65lb",
+        "rx_female": "45lb"
+      }
+    },
+    {
+      "exercise": "front-squat",
+      "reps": 100,
+      "load": {
+        "rx_male": "65lb",
+        "rx_female": "45lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2021-01-14"
+  },
+  "tags": [
+    "high-volume",
+    "barbell"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

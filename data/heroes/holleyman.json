@@ -1,0 +1,34 @@
+{
+  "id": "holleyman",
+  "name": "Holleyman",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {
+    "rounds": 30,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 5
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 3
+    },
+    {
+      "exercise": "power-clean",
+      "reps": 1
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "30-rounds",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

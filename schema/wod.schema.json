@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/wodwiz/open-wod-db/schema/wod.schema.json",
+  "title": "WOD",
+  "type": "object",
+  "required": ["id", "name", "category", "format", "movements", "source_notes", "schema_version"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "name": { "type": "string" },
+    "category": { "type": "string", "enum": ["girl", "hero", "games", "open", "quarterfinal", "community"] },
+    "format": {
+      "type": "string",
+      "enum": ["for_time", "amrap", "emom", "tabata", "death_by", "max_effort", "interval", "complex", "max_load"]
+    },
+    "format_meta": {
+      "type": "object",
+      "properties": {
+        "time_cap_minutes": { "type": ["number", "null"] },
+        "interval_seconds": { "type": ["number", "null"] },
+        "total_minutes": { "type": ["number", "null"] },
+        "work_seconds": { "type": ["number", "null"] },
+        "rest_seconds": { "type": ["number", "null"] },
+        "rounds": { "type": ["number", "null"] },
+        "rest_between_seconds": { "type": ["number", "null"] },
+        "scoring": { "type": ["string", "null"], "enum": ["time", "reps", "load", "rounds_reps", null] }
+      }
+    },
+    "movements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["exercise"],
+        "properties": {
+          "exercise": { "type": "string" },
+          "reps": {},
+          "distance_m": { "type": ["number", "null"] },
+          "load": {
+            "type": ["object", "null"],
+            "properties": {
+              "rx_male": { "type": "string" },
+              "rx_female": { "type": "string" }
+            }
+          },
+          "notes": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "partition": { "type": ["string", "null"], "enum": ["you-go-i-go", "synchro", "shared-reps", null] },
+    "scaling": {
+      "type": ["object", "null"],
+      "properties": {
+        "scaled": { "type": "string" },
+        "beginner": { "type": "string" }
+      }
+    },
+    "origin": {
+      "type": ["object", "null"],
+      "properties": {
+        "summary": { "type": "string" },
+        "first_posted": { "type": ["string", "null"] }
+      }
+    },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "source_notes": { "type": "string" },
+    "schema_version": { "type": "string" },
+    "last_updated": { "type": "string" }
+  }
+}

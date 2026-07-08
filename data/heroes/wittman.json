@@ -1,0 +1,35 @@
+{
+  "id": "wittman",
+  "name": "Wittman",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 15
+    },
+    {
+      "exercise": "power-clean",
+      "reps": 15
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "7-rounds",
+    "kettlebell",
+    "barbell"
+  ],
+  "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

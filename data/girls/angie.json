@@ -1,0 +1,38 @@
+{
+  "id": "angie",
+  "name": "Angie",
+  "category": "girl",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "pull-up",
+      "reps": 100
+    },
+    {
+      "exercise": "push-up",
+      "reps": 100
+    },
+    {
+      "exercise": "sit-up",
+      "reps": 100
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 100
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2004-07-26"
+  },
+  "tags": [
+    "bodyweight",
+    "high-volume"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

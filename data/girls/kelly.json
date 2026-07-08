@@ -1,0 +1,42 @@
+{
+  "id": "kelly",
+  "name": "Kelly",
+  "category": "girl",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 30,
+      "notes": "24in box"
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 30,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "20lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2005-04-10"
+  },
+  "tags": [
+    "running",
+    "box-jump"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

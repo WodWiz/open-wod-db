@@ -1,0 +1,52 @@
+{
+  "id": "jason",
+  "name": "Jason",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "air-squat",
+      "reps": 100
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 5
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 75
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 10
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 50
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 15
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 25
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 20
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "bodyweight",
+    "descending-ascending"
+  ],
+  "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

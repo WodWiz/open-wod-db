@@ -1,0 +1,38 @@
+{
+  "id": "lane",
+  "name": "Lane",
+  "category": "girl",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "hang-power-snatch",
+      "reps": "max",
+      "load": {
+        "rx_male": "0.75x bodyweight",
+        "rx_female": "0.75x bodyweight"
+      }
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": "max"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2021-01-26"
+  },
+  "tags": [
+    "max-reps",
+    "gymnastics",
+    "bodyweight-relative"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

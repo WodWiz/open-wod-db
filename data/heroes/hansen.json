@@ -1,0 +1,35 @@
+{
+  "id": "hansen",
+  "name": "Hansen",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 30
+    },
+    {
+      "exercise": "burpee",
+      "reps": 30
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 30
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "kettlebell",
+    "bodyweight",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "eva",
+  "name": "Eva",
+  "category": "girl",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 30,
+      "load": {
+        "rx_male": "2 pood",
+        "rx_female": "2 pood"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 30
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": {
+    "summary": null,
+    "first_posted": "2008-02-24"
+  },
+  "tags": [
+    "running",
+    "kettlebell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

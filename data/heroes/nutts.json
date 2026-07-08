@@ -1,0 +1,48 @@
+{
+  "id": "nutts",
+  "name": "Nutts",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "handstand-push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 15
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 25
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 50
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 100
+    },
+    {
+      "exercise": "double-under",
+      "reps": 200
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400,
+      "notes": "with a plate"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "high-volume"
+  ],
+  "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}
