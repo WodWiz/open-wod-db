@@ -1,0 +1,31 @@
+{
+  "id": "wilmot",
+  "name": "Wilmot",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 6,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "air-squat",
+      "reps": 50
+    },
+    {
+      "exercise": "ring-dip",
+      "reps": 25
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "bodyweight",
+    "gymnastics",
+    "6-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/wilmot (official CrossFit Hero WOD page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

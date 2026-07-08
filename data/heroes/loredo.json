@@ -1,0 +1,40 @@
+{
+  "id": "loredo",
+  "name": "Loredo",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 6,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "air-squat",
+      "reps": 24
+    },
+    {
+      "exercise": "push-up",
+      "reps": 24
+    },
+    {
+      "exercise": "walking-lunge",
+      "reps": 24,
+      "notes": "steps"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "bodyweight",
+    "running",
+    "6-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/loredo (official CrossFit Hero WOD page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}

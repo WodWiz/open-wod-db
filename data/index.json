@@ -1,5 +1,5 @@
 {
-  "count": 52,
+  "count": 64,
   "wods": [
     {
       "id": "amanda",
@@ -1508,6 +1508,83 @@
       "last_updated": "2026-07-08"
     },
     {
+      "id": "griff",
+      "name": "Griff",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400,
+          "notes": "run backward"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400,
+          "notes": "run backward"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "single-modality"
+      ],
+      "source_notes": "crossfit.com/benchmark/griff (official CrossFit Hero WOD page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "hamilton",
+      "name": "Hamilton",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 1000
+        },
+        {
+          "exercise": "push-up",
+          "reps": 50
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1000
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 50
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "rowing",
+        "running",
+        "bodyweight",
+        "3-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/hamilton (official CrossFit Hero WOD page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
       "id": "hansen",
       "name": "Hansen",
       "category": "hero",
@@ -1577,6 +1654,41 @@
       "last_updated": "2026-07-08"
     },
     {
+      "id": "jared",
+      "name": "Jared",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 4,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 40
+        },
+        {
+          "exercise": "push-up",
+          "reps": 70
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "bodyweight",
+        "4-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/jared (official CrossFit Hero WOD page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
       "id": "jason",
       "name": "Jason",
       "category": "hero",
@@ -1625,6 +1737,38 @@
         "descending-ascending"
       ],
       "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "jerry",
+      "name": "Jerry",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 1609
+        },
+        {
+          "exercise": "row",
+          "distance_m": 2000
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1609
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "rowing",
+        "endurance"
+      ],
+      "source_notes": "crossfit.com/benchmark/jerry (official CrossFit Hero WOD page), retrieved 2026-07-08",
       "schema_version": "1.0",
       "last_updated": "2026-07-08"
     },
@@ -1723,6 +1867,81 @@
         "bodyweight"
       ],
       "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "loredo",
+      "name": "Loredo",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "air-squat",
+          "reps": 24
+        },
+        {
+          "exercise": "push-up",
+          "reps": 24
+        },
+        {
+          "exercise": "walking-lunge",
+          "reps": 24,
+          "notes": "steps"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "bodyweight",
+        "running",
+        "6-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/loredo (official CrossFit Hero WOD page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "michael",
+      "name": "Michael",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "back-extension",
+          "reps": 50
+        },
+        {
+          "exercise": "sit-up",
+          "reps": 50
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "bodyweight",
+        "3-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/michael (official CrossFit Hero WOD page), retrieved 2026-07-08",
       "schema_version": "1.0",
       "last_updated": "2026-07-08"
     },
@@ -1914,6 +2133,105 @@
       "last_updated": "2026-07-08"
     },
     {
+      "id": "riley",
+      "name": "Riley",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 2414
+        },
+        {
+          "exercise": "burpee",
+          "reps": 150
+        },
+        {
+          "exercise": "run",
+          "distance_m": 2414
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "bodyweight",
+        "high-volume",
+        "weight-vest-optional"
+      ],
+      "source_notes": "crossfit.com/benchmark/riley (official CrossFit Hero WOD page), retrieved 2026-07-08; official Rx adds an optional load: 'If you've got a weight vest or body armor, wear it.'",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "category": "hero",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 30
+      },
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 46,
+          "notes": "50 yards"
+        },
+        {
+          "exercise": "push-up",
+          "reps": 10
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 15
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "swimming",
+        "bodyweight",
+        "amrap"
+      ],
+      "source_notes": "crossfit.com/benchmark/rocket (official CrossFit Hero WOD page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "ryan",
+      "name": "Ryan",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "muscle-up",
+          "reps": 7
+        },
+        {
+          "exercise": "burpee",
+          "reps": 21
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "gymnastics",
+        "bodyweight",
+        "5-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/ryan (official CrossFit Hero WOD page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
       "id": "ship",
       "name": "Ship",
       "category": "hero",
@@ -1976,6 +2294,83 @@
         "bodyweight"
       ],
       "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "smykowski",
+      "name": "Smykowski",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 6000
+        },
+        {
+          "exercise": "burpee-pull-up",
+          "reps": 60
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "bodyweight",
+        "endurance",
+        "weight-vest-optional"
+      ],
+      "source_notes": "crossfit.com/benchmark/smykowski (official CrossFit Hero WOD page), retrieved 2026-07-08; official Rx adds an optional load: 'If you've got body armor or a 30-lb vest, wear it.'",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "terry",
+      "name": "Terry",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 1609
+        },
+        {
+          "exercise": "push-up",
+          "reps": 100
+        },
+        {
+          "exercise": "bear-crawl",
+          "distance_m": 100
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1609
+        },
+        {
+          "exercise": "bear-crawl",
+          "distance_m": 100
+        },
+        {
+          "exercise": "push-up",
+          "reps": 100
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1609
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "bodyweight",
+        "high-volume"
+      ],
+      "source_notes": "crossfit.com/benchmark/terry (official CrossFit Hero WOD page), retrieved 2026-07-08",
       "schema_version": "1.0",
       "last_updated": "2026-07-08"
     },
@@ -2116,6 +2511,37 @@
         "gymnastics"
       ],
       "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-08"
+    },
+    {
+      "id": "wilmot",
+      "name": "Wilmot",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "air-squat",
+          "reps": 50
+        },
+        {
+          "exercise": "ring-dip",
+          "reps": 25
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "bodyweight",
+        "gymnastics",
+        "6-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/wilmot (official CrossFit Hero WOD page), retrieved 2026-07-08",
       "schema_version": "1.0",
       "last_updated": "2026-07-08"
     },

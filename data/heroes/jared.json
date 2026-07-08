@@ -1,0 +1,35 @@
+{
+  "id": "jared",
+  "name": "Jared",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 40
+    },
+    {
+      "exercise": "push-up",
+      "reps": 70
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "bodyweight",
+    "4-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/jared (official CrossFit Hero WOD page), retrieved 2026-07-08",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-08"
+}
