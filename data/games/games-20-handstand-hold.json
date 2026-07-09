@@ -1,0 +1,28 @@
+{
+  "id": "games-20-handstand-hold",
+  "name": "Handstand Hold",
+  "category": "games",
+  "format": "max_effort",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "handstand-hold",
+      "notes": "freestanding, within a 4x4 ft box; ends on a hand touching/crossing the box border or foot/head touching the ground; multiple attempts allowed"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "gymnastics",
+    "max-effort"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/6 (official CrossFit Games event), retrieved 2026-07-09; score is longest single hold duration, not fastest time",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

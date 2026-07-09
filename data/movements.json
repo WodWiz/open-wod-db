@@ -141,6 +141,7 @@
         "brian",
         "bruck",
         "coffey",
+        "games-20-crossfit-total",
         "jenny",
         "justin",
         "kutschbach",
@@ -161,6 +162,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-20-swim-n-stuff",
         "whitt"
       ],
       "description": null
@@ -184,6 +186,7 @@
       "aliases": [],
       "workouts": [
         "buriak",
+        "games-20-nasty-nancy",
         "larry",
         "marston",
         "omar",
@@ -204,6 +207,7 @@
         "bmu"
       ],
       "workouts": [
+        "games-20-2007-reload",
         "games-21-event-2",
         "games-22-jackie-pro",
         "games-23-helena",
@@ -292,6 +296,8 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-20-bike-repeater",
+        "games-20-swim-n-stuff",
         "games-22-bike-to-work",
         "hoover"
       ],
@@ -425,6 +431,7 @@
         "ellen",
         "forrest",
         "fournier",
+        "games-20-happy-star",
         "games-24-firestorm",
         "glen",
         "hansen",
@@ -579,6 +586,7 @@
         "bulger",
         "cameron",
         "del",
+        "games-20-friendly-fran",
         "games-21-event-15",
         "games-22-bike-to-work",
         "games-23-pig-chipper",
@@ -626,6 +634,7 @@
         "adambrown",
         "big-sexy",
         "elizabeth",
+        "games-20-awful-annie",
         "games-21-event-6",
         "games-21-event-7",
         "linda",
@@ -740,6 +749,8 @@
         "diane",
         "donny",
         "dt",
+        "games-20-crossfit-total",
+        "games-20-damn-diane",
         "games-21-event-14",
         "games-22-back-nine",
         "games-24-midline-climb",
@@ -885,6 +896,7 @@
         "bradshaw",
         "bull",
         "dork",
+        "games-20-awful-annie",
         "games-21-event-11",
         "games-23-parallel-bar-pull",
         "k27",
@@ -1460,6 +1472,7 @@
         "andi",
         "bell",
         "bulger",
+        "games-20-1rm-front-squat",
         "games-22-back-nine",
         "gator",
         "larry",
@@ -1492,6 +1505,8 @@
         "ghd sit-up"
       ],
       "workouts": [
+        "games-20-awful-annie",
+        "games-20-swim-n-stuff",
         "games-22-up-and-over",
         "games-24-midline-climb",
         "hansen",
@@ -1571,7 +1586,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-20-handstand-hold"
+      ],
       "description": null
     },
     {
@@ -1591,6 +1608,7 @@
         "del",
         "diane",
         "falkel",
+        "games-20-atalanta",
         "games-24-push-pull-2",
         "holleyman",
         "jt",
@@ -1625,6 +1643,7 @@
         "hs walk"
       ],
       "workouts": [
+        "games-20-handstand-sprint",
         "games-23-inverted-medley",
         "open-18-4",
         "open-19-3",
@@ -1885,7 +1904,9 @@
         "kettlebell"
       ],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-20-toes-to-bar-lunge"
+      ],
       "description": null
     },
     {
@@ -2086,6 +2107,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-20-bike-repeater",
         "games-23-alpaca-redux"
       ],
       "description": null
@@ -2246,6 +2268,7 @@
       "workouts": [
         "arnie",
         "bull",
+        "games-20-nasty-nancy",
         "jbo",
         "jenny",
         "josh",
@@ -2342,6 +2365,7 @@
         "pistol squat"
       ],
       "workouts": [
+        "games-20-atalanta",
         "maggie",
         "mary",
         "open-20-4",
@@ -2452,6 +2476,7 @@
         "erin",
         "eva",
         "fran",
+        "games-20-atalanta",
         "gaza",
         "hamilton",
         "helen",
@@ -2706,6 +2731,8 @@
       "aliases": [],
       "workouts": [
         "brehm",
+        "games-20-1000m-row",
+        "games-20-2007-reload",
         "games-21-event-15",
         "games-22-jackie-pro",
         "hamilton",
@@ -2763,6 +2790,10 @@
         "eva",
         "forrest",
         "gallant",
+        "games-20-atalanta",
+        "games-20-happy-star",
+        "games-20-nasty-nancy",
+        "games-20-ranch-loop",
         "games-21-event-10",
         "games-21-event-6",
         "games-21-event-7",
@@ -2862,7 +2893,8 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
-        "collin"
+        "collin",
+        "games-20-corn-sack-sprint"
       ],
       "description": null
     },
@@ -2920,6 +2952,7 @@
       "aliases": [],
       "workouts": [
         "fournier",
+        "games-20-2007-reload",
         "open-13-2"
       ],
       "description": null
@@ -3046,6 +3079,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-20-sprint-sled-sprint",
         "games-21-event-2",
         "games-22-the-alpaca",
         "games-23-alpaca-redux"
@@ -3128,6 +3162,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-20-sprint-sled-sprint",
         "games-21-event-3",
         "games-22-hat-trick"
       ],
@@ -3205,6 +3240,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-20-damn-diane",
         "games-24-push-pull-2",
         "open-19-3",
         "qf-22-1",
@@ -3231,7 +3267,9 @@
         "barbell"
       ],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-20-crossfit-total"
+      ],
       "description": null
     },
     {
@@ -3288,6 +3326,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-20-swim-n-stuff",
         "games-21-event-1",
         "games-22-rinse-n-repeat",
         "games-24-lake-day",
@@ -3312,6 +3351,8 @@
         "dae-han",
         "daniel",
         "fran",
+        "games-20-friendly-fran",
+        "games-20-happy-star",
         "games-21-event-4",
         "games-22-jackie-pro",
         "games-23-echo-thruster-final",
@@ -3366,6 +3407,7 @@
         "adrian",
         "dg",
         "forrest",
+        "games-20-toes-to-bar-lunge",
         "games-21-event-10",
         "games-22-bike-to-work",
         "games-23-pig-chipper",

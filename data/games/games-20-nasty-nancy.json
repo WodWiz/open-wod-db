@@ -1,0 +1,41 @@
+{
+  "id": "games-20-nasty-nancy",
+  "name": "Nasty Nancy",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 500
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 15,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "125lb"
+      }
+    },
+    {
+      "exercise": "bar-facing-burpee",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "barbell",
+    "running",
+    "bodyweight"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/5 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "games-20-bike-repeater",
+  "name": "Bike Repeater",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "bike",
+      "distance_m": 440
+    },
+    {
+      "exercise": "legless-rope-climb",
+      "reps": 1,
+      "notes": "to 15 feet"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/15 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

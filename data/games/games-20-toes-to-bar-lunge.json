@@ -1,0 +1,44 @@
+{
+  "id": "games-20-toes-to-bar-lunge",
+  "name": "Toes-to-Bar/Lunge",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "toes-to-bar",
+      "reps": [
+        30,
+        20,
+        10
+      ]
+    },
+    {
+      "exercise": "kettlebell-front-rack-lunge",
+      "distance_m": 1,
+      "reps": [
+        30,
+        20,
+        10
+      ],
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      },
+      "notes": "2 kettlebells (32 kg men / 24 kg women); reps measured in yards walked"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "gymnastics",
+    "kettlebell",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/13 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

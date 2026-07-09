@@ -1,0 +1,56 @@
+{
+  "id": "games-20-awful-annie",
+  "name": "Awful Annie",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "double-under",
+      "reps": [
+        50,
+        40,
+        30,
+        20,
+        10
+      ]
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": [
+        50,
+        40,
+        30,
+        20,
+        10
+      ]
+    },
+    {
+      "exercise": "clean",
+      "reps": [
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/7 (official CrossFit Games event), retrieved 2026-07-09; the field was cut to the top 5 men and top 5 women after this event (end of Stage 1)",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

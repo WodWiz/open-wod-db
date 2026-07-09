@@ -1,0 +1,29 @@
+{
+  "id": "games-20-1rm-front-squat",
+  "name": "1RM Front Squat",
+  "category": "games",
+  "format": "max_load",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "load"
+  },
+  "movements": [
+    {
+      "exercise": "front-squat",
+      "reps": 1,
+      "notes": "athlete's own 1-rep-max; no fixed Rx weight"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "barbell",
+    "max-load"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/2 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

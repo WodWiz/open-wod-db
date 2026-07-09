@@ -1,0 +1,37 @@
+{
+  "id": "games-20-damn-diane",
+  "name": "Damn Diane",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 15,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "205lb"
+      }
+    },
+    {
+      "exercise": "strict-handstand-push-up",
+      "reps": 15,
+      "notes": "3.5 in (men) / 2 in (women) deficit"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/3 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
