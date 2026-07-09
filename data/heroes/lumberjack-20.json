@@ -1,0 +1,92 @@
+{
+  "id": "lumberjack-20",
+  "name": "Lumberjack 20",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 20,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 20,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 20,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "burpee",
+      "reps": 20
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 20
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 20
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "dumbbell-squat-clean",
+      "reps": 20,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "30lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "running",
+    "high-volume"
+  ],
+  "source_notes": "crossfit.com/benchmark/lumberjack-20 (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

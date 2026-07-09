@@ -1,0 +1,52 @@
+{
+  "id": "strange",
+  "name": "Strange",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 8,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 600
+    },
+    {
+      "exercise": "weighted-pull-up",
+      "reps": 11,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "walking-lunge",
+      "reps": 11,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      },
+      "notes": "carrying two kettlebells"
+    },
+    {
+      "exercise": "kettlebell-thruster",
+      "reps": 11,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "kettlebell",
+    "8-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/strange (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

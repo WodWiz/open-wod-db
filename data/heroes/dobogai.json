@@ -1,0 +1,35 @@
+{
+  "id": "dobogai",
+  "name": "Dobogai",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 8
+    },
+    {
+      "exercise": "farmers-carry",
+      "distance_m": 20,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "dumbbell",
+    "7-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/dobogai (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

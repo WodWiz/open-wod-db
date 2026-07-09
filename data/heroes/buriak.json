@@ -1,0 +1,42 @@
+{
+  "id": "buriak",
+  "name": "Buriak",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "squat-clean",
+      "reps": 5,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "135lb"
+      }
+    },
+    {
+      "exercise": "bar-facing-burpee",
+      "reps": 10
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 15
+    },
+    {
+      "exercise": "run",
+      "distance_m": 200
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/buriak (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

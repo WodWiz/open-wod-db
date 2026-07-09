@@ -1,6 +1,6 @@
 # Gwen
 
 **Max load**
-  Clean And Jerk
+  15-12-9 Clean And Jerk
 
 *Type: Max Load · Category: Girl*

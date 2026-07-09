@@ -1,0 +1,54 @@
+{
+  "id": "monti",
+  "name": "Monti",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "barbell-step-up",
+      "reps": 50,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "clean",
+      "reps": 15,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "barbell-step-up",
+      "reps": 50,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "snatch",
+      "reps": 10,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/monti (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

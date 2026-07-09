@@ -1,0 +1,98 @@
+{
+  "id": "crain",
+  "name": "Crain",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 2,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "push-up",
+      "reps": 34
+    },
+    {
+      "exercise": "run",
+      "distance_m": 46,
+      "notes": "sprint"
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 34,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 46,
+      "notes": "sprint"
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 34
+    },
+    {
+      "exercise": "run",
+      "distance_m": 46,
+      "notes": "sprint"
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 34,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 46,
+      "notes": "sprint"
+    },
+    {
+      "exercise": "burpee",
+      "reps": 34
+    },
+    {
+      "exercise": "run",
+      "distance_m": 46,
+      "notes": "sprint"
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 34,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 46,
+      "notes": "sprint"
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 34
+    },
+    {
+      "exercise": "run",
+      "distance_m": 46,
+      "notes": "sprint"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "high-volume",
+    "2-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/crain (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

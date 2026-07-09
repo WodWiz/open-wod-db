@@ -1,0 +1,49 @@
+{
+  "id": "joshie",
+  "name": "Joshie",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": 21,
+      "load": {
+        "rx_male": "40lb",
+        "rx_female": "25lb"
+      },
+      "notes": "right arm"
+    },
+    {
+      "exercise": "l-pull-up",
+      "reps": 21
+    },
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": 21,
+      "load": {
+        "rx_male": "40lb",
+        "rx_female": "25lb"
+      },
+      "notes": "left arm"
+    },
+    {
+      "exercise": "l-pull-up",
+      "reps": 21
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "dumbbell",
+    "gymnastics",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/joshie (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

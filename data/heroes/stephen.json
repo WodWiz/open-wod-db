@@ -1,0 +1,68 @@
+{
+  "id": "stephen",
+  "name": "Stephen",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "ghd-sit-up",
+      "reps": [
+        30,
+        25,
+        20,
+        15,
+        10,
+        5
+      ]
+    },
+    {
+      "exercise": "back-extension",
+      "reps": [
+        30,
+        25,
+        20,
+        15,
+        10,
+        5
+      ]
+    },
+    {
+      "exercise": "knees-to-elbows",
+      "reps": [
+        30,
+        25,
+        20,
+        15,
+        10,
+        5
+      ]
+    },
+    {
+      "exercise": "stiff-legged-deadlift",
+      "reps": [
+        30,
+        25,
+        20,
+        15,
+        10,
+        5
+      ],
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "crossfit.com/benchmark/stephen (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "roney",
+  "name": "Roney",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 200
+    },
+    {
+      "exercise": "thruster",
+      "reps": 11,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 200
+    },
+    {
+      "exercise": "push-press",
+      "reps": 11,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 200
+    },
+    {
+      "exercise": "bench-press",
+      "reps": 11,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "barbell",
+    "4-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/roney (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

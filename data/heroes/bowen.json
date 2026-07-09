@@ -1,0 +1,53 @@
+{
+  "id": "bowen",
+  "name": "Bowen",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 7,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    },
+    {
+      "exercise": "burpee-pull-up",
+      "reps": 10
+    },
+    {
+      "exercise": "single-arm-kettlebell-thruster",
+      "reps": 14,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      },
+      "notes": "7 each arm"
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 20
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "barbell",
+    "kettlebell",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/bowen (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "abbate",
+  "name": "Abbate",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 1609
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 21,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 21,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1609
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "barbell"
+  ],
+  "source_notes": "crossfit.com/benchmark/abbate (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

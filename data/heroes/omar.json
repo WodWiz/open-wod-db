@@ -1,0 +1,39 @@
+{
+  "id": "omar",
+  "name": "Omar",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": [
+        10,
+        20,
+        30
+      ],
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "bar-facing-burpee",
+      "reps": [
+        15,
+        25,
+        35
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "ladder"
+  ],
+  "source_notes": "crossfit.com/benchmark/omar (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

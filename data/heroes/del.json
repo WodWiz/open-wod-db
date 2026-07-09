@@ -1,0 +1,65 @@
+{
+  "id": "del",
+  "name": "Del",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "burpee",
+      "reps": 25
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400,
+      "notes": "carrying a 20/14 lb medicine ball"
+    },
+    {
+      "exercise": "weighted-pull-up",
+      "reps": 25,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "15lb"
+      },
+      "notes": "holding a dumbbell"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400,
+      "notes": "carrying a 20/14 lb medicine ball"
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 25
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400,
+      "notes": "carrying a 20/14 lb medicine ball"
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 25
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400,
+      "notes": "carrying a 20/14 lb medicine ball"
+    },
+    {
+      "exercise": "burpee",
+      "reps": 25
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "bodyweight",
+    "running",
+    "dumbbell"
+  ],
+  "source_notes": "crossfit.com/benchmark/del (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

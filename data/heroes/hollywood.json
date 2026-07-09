@@ -1,0 +1,64 @@
+{
+  "id": "hollywood",
+  "name": "Hollywood",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 2000
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 22,
+      "load": {
+        "rx_male": "30lb",
+        "rx_female": "20lb"
+      }
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 22
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 22,
+      "load": {
+        "rx_male": "30lb",
+        "rx_female": "20lb"
+      }
+    },
+    {
+      "exercise": "power-clean",
+      "reps": 22,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "125lb"
+      }
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 22,
+      "load": {
+        "rx_male": "30lb",
+        "rx_female": "20lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 2000
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/hollywood (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

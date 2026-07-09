@@ -1,0 +1,79 @@
+{
+  "id": "arnie",
+  "name": "Arnie",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "turkish-get-up",
+      "reps": 21,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      },
+      "notes": "right arm"
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 50,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      }
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 21,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      },
+      "notes": "left arm"
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 50,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      }
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 21,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      },
+      "notes": "right arm"
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 50,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      }
+    },
+    {
+      "exercise": "turkish-get-up",
+      "reps": 21,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      },
+      "notes": "left arm"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "kettlebell",
+    "single-kettlebell"
+  ],
+  "source_notes": "crossfit.com/benchmark/arnie (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

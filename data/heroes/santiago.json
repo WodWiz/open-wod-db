@@ -1,0 +1,48 @@
+{
+  "id": "santiago",
+  "name": "Santiago",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-hang-squat-clean",
+      "reps": 18,
+      "load": {
+        "rx_male": "35lb",
+        "rx_female": "20lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 18
+    },
+    {
+      "exercise": "power-clean",
+      "reps": 10,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 10
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "dumbbell",
+    "barbell",
+    "gymnastics",
+    "7-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/santiago (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

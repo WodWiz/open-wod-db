@@ -1,0 +1,46 @@
+{
+  "id": "white",
+  "name": "White",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "rope-climb",
+      "reps": 3,
+      "notes": "to 15 feet"
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 10
+    },
+    {
+      "exercise": "overhead-walking-lunge",
+      "reps": 21,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "25lb"
+      },
+      "notes": "plate held overhead"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "barbell",
+    "running",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/white-hero (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

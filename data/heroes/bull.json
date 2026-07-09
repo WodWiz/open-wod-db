@@ -1,0 +1,44 @@
+{
+  "id": "bull",
+  "name": "Bull",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 2,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "double-under",
+      "reps": 200
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 50,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 50
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1609
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "running",
+    "2-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/bull (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

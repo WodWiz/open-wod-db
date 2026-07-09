@@ -1,0 +1,47 @@
+{
+  "id": "triple-deuce",
+  "name": "Triple Deuce",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "burpee",
+      "reps": 22
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 22
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 22
+    },
+    {
+      "exercise": "sandbag-ground-to-shoulder",
+      "reps": 22,
+      "load": {
+        "rx_male": "60lb",
+        "rx_female": "40lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 722,
+      "notes": "sprint"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "sandbag",
+    "bodyweight"
+  ],
+  "source_notes": "crossfit.com/benchmark/triple-deuce (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

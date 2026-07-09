@@ -1,0 +1,51 @@
+{
+  "id": "moon",
+  "name": "Moon",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-hang-split-snatch",
+      "reps": 10,
+      "load": {
+        "rx_male": "40lb",
+        "rx_female": "30lb"
+      },
+      "notes": "right arm"
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 1,
+      "notes": "to 15 feet"
+    },
+    {
+      "exercise": "dumbbell-hang-split-snatch",
+      "reps": 10,
+      "load": {
+        "rx_male": "40lb",
+        "rx_female": "30lb"
+      },
+      "notes": "left arm"
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 1,
+      "notes": "to 15 feet"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "dumbbell",
+    "gymnastics",
+    "7-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/moon (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

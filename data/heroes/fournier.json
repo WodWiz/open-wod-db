@@ -1,0 +1,54 @@
+{
+  "id": "fournier",
+  "name": "Fournier",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "shoulder-to-overhead",
+      "reps": 50,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "sled-pull",
+      "distance_m": 15,
+      "notes": "arm-over-arm; challenging load"
+    },
+    {
+      "exercise": "burpee",
+      "reps": 40
+    },
+    {
+      "exercise": "sled-pull",
+      "distance_m": 15,
+      "notes": "arm-over-arm; challenging load"
+    },
+    {
+      "exercise": "sumo-deadlift-high-pull",
+      "reps": 30,
+      "load": {
+        "rx_male": "85lb",
+        "rx_female": "55lb"
+      }
+    },
+    {
+      "exercise": "sled-pull",
+      "distance_m": 15,
+      "notes": "arm-over-arm; challenging load"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "sled"
+  ],
+  "source_notes": "crossfit.com/benchmark/fournier (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

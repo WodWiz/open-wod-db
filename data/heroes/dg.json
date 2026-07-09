@@ -1,0 +1,42 @@
+{
+  "id": "dg",
+  "name": "DG",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 10
+  },
+  "movements": [
+    {
+      "exercise": "toes-to-bar",
+      "reps": 8
+    },
+    {
+      "exercise": "dumbbell-thruster",
+      "reps": 8,
+      "load": {
+        "rx_male": "35lb",
+        "rx_female": "20lb"
+      }
+    },
+    {
+      "exercise": "dumbbell-walking-lunge",
+      "reps": 12,
+      "load": {
+        "rx_male": "35lb",
+        "rx_female": "20lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "dumbbell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/dg (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

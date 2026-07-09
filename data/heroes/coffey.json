@@ -1,0 +1,88 @@
+{
+  "id": "coffey",
+  "name": "Coffey",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "back-squat",
+      "reps": 50,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "bench-press",
+      "reps": 50,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "back-squat",
+      "reps": 35,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "bench-press",
+      "reps": 35,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "back-squat",
+      "reps": 20,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "bench-press",
+      "reps": 20,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 1
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/coffey (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

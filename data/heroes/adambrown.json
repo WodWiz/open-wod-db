@@ -1,0 +1,71 @@
+{
+  "id": "adambrown",
+  "name": "Adambrown",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 2,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 24,
+      "load": {
+        "rx_male": "295lb",
+        "rx_female": "195lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 24
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 24,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "bench-press",
+      "reps": 24,
+      "load": {
+        "rx_male": "195lb",
+        "rx_female": "135lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 24
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 24,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "clean",
+      "reps": 24,
+      "load": {
+        "rx_male": "145lb",
+        "rx_female": "95lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "2-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/adambrown (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

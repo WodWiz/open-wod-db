@@ -1,0 +1,38 @@
+{
+  "id": "spehar",
+  "name": "Spehar",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": 100,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 100
+    },
+    {
+      "exercise": "run",
+      "distance_m": 9656,
+      "notes": "partition the thrusters, pull-ups, and run as needed"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "running",
+    "endurance"
+  ],
+  "source_notes": "crossfit.com/benchmark/spehar (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

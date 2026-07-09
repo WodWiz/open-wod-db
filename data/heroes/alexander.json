@@ -1,0 +1,38 @@
+{
+  "id": "alexander",
+  "name": "Alexander",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "back-squat",
+      "reps": 31,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "power-clean",
+      "reps": 12,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "125lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/alexander (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

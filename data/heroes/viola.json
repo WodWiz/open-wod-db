@@ -1,0 +1,46 @@
+{
+  "id": "viola",
+  "name": "Viola",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "power-snatch",
+      "reps": 11,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 17
+    },
+    {
+      "exercise": "power-clean",
+      "reps": 13,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/viola (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

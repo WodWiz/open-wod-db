@@ -1,0 +1,53 @@
+{
+  "id": "weston",
+  "name": "Weston",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "farmers-carry",
+      "distance_m": 200,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "30lb"
+      }
+    },
+    {
+      "exercise": "dumbbell-waiters-walk",
+      "distance_m": 50,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "30lb"
+      },
+      "notes": "right arm"
+    },
+    {
+      "exercise": "dumbbell-waiters-walk",
+      "distance_m": 50,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "30lb"
+      },
+      "notes": "left arm"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "rowing",
+    "dumbbell",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/weston (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

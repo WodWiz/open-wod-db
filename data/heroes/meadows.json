@@ -1,0 +1,40 @@
+{
+  "id": "meadows",
+  "name": "Meadows",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 20
+    },
+    {
+      "exercise": "ring-lower",
+      "reps": 25,
+      "notes": "slow, from inverted hang, straight body and arms"
+    },
+    {
+      "exercise": "ring-handstand-push-up",
+      "reps": 30
+    },
+    {
+      "exercise": "ring-row",
+      "reps": 35
+    },
+    {
+      "exercise": "ring-push-up",
+      "reps": 40
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "rings"
+  ],
+  "source_notes": "crossfit.com/benchmark/meadows (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

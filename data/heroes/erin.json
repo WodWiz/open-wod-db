@@ -1,0 +1,35 @@
+{
+  "id": "erin",
+  "name": "Erin",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-split-clean",
+      "reps": 15,
+      "load": {
+        "rx_male": "40lb",
+        "rx_female": "30lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 21
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "dumbbell",
+    "gymnastics",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/erin (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

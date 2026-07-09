@@ -1,0 +1,47 @@
+{
+  "id": "larry",
+  "name": "Larry",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "front-squat",
+      "reps": [
+        21,
+        18,
+        15,
+        12,
+        9,
+        6,
+        3
+      ],
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "bar-facing-burpee",
+      "reps": [
+        21,
+        18,
+        15,
+        12,
+        9,
+        6,
+        3
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "ladder"
+  ],
+  "source_notes": "crossfit.com/benchmark/larry (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "johnson",
+  "name": "Johnson",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 9,
+      "load": {
+        "rx_male": "245lb",
+        "rx_female": "165lb"
+      }
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 8
+    },
+    {
+      "exercise": "squat-clean",
+      "reps": 9,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/johnson (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

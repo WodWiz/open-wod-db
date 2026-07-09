@@ -1,0 +1,44 @@
+{
+  "id": "hoover",
+  "name": "Hoover",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 8,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "burpee-box-jump-over",
+      "reps": 15
+    },
+    {
+      "exercise": "bike",
+      "reps": 10,
+      "notes": "calories"
+    },
+    {
+      "exercise": "alternating-dumbbell-snatch",
+      "reps": 6,
+      "load": {
+        "rx_male": "75lb",
+        "rx_female": "50lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "dumbbell",
+    "8-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/hoover-hero (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

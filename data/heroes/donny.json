@@ -1,0 +1,45 @@
+{
+  "id": "donny",
+  "name": "Donny",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": [
+        21,
+        15,
+        9,
+        9,
+        15,
+        21
+      ],
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": [
+        21,
+        15,
+        9,
+        9,
+        15,
+        21
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "ladder"
+  ],
+  "source_notes": "crossfit.com/benchmark/donny (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

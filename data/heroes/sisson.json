@@ -1,0 +1,35 @@
+{
+  "id": "sisson",
+  "name": "Sisson",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "rope-climb",
+      "reps": 1,
+      "notes": "to 15 feet"
+    },
+    {
+      "exercise": "burpee",
+      "reps": 5
+    },
+    {
+      "exercise": "run",
+      "distance_m": 200
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "gymnastics",
+    "weight-vest"
+  ],
+  "source_notes": "crossfit.com/benchmark/sisson (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx includes a 20 lb (men) / 14 lb (women) weight vest",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sham",
+  "name": "Sham",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 11,
+      "notes": "bodyweight"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 100,
+      "notes": "sprint"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "running",
+    "7-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/sham (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "kelly-brown",
+  "name": "Kelly Brown",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 440
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 10
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 10,
+      "load": {
+        "rx_male": "30lb",
+        "rx_female": "20lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "rowing",
+    "barbell",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/kelly-brown (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

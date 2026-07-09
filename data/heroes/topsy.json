@@ -1,0 +1,39 @@
+{
+  "id": "topsy",
+  "name": "Topsy",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 25
+  },
+  "movements": [
+    {
+      "exercise": "ring-muscle-up",
+      "reps": 3
+    },
+    {
+      "exercise": "thruster",
+      "reps": 8,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "row",
+      "reps": 17,
+      "notes": "calories"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/topsy (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "cameron",
+  "name": "Cameron",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "walking-lunge",
+      "reps": 50,
+      "notes": "steps"
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 25
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 50
+    },
+    {
+      "exercise": "triple-under",
+      "reps": 25
+    },
+    {
+      "exercise": "back-extension",
+      "reps": 50
+    },
+    {
+      "exercise": "ring-dip",
+      "reps": 25
+    },
+    {
+      "exercise": "knees-to-elbows",
+      "reps": 50
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 25,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      },
+      "notes": "two-for-ones"
+    },
+    {
+      "exercise": "sit-up",
+      "reps": 50
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 5,
+      "notes": "to 15 feet"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "bodyweight",
+    "gymnastics",
+    "high-volume"
+  ],
+  "source_notes": "crossfit.com/benchmark/cameron (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

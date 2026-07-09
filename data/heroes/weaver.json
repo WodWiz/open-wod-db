@@ -1,0 +1,47 @@
+{
+  "id": "weaver",
+  "name": "Weaver",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "l-pull-up",
+      "reps": 10
+    },
+    {
+      "exercise": "push-up",
+      "reps": 15
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 15
+    },
+    {
+      "exercise": "push-up",
+      "reps": 15
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 20
+    },
+    {
+      "exercise": "push-up",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "bodyweight",
+    "4-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/weaver (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

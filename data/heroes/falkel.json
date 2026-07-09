@@ -1,0 +1,34 @@
+{
+  "id": "falkel",
+  "name": "Falkel",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 25
+  },
+  "movements": [
+    {
+      "exercise": "handstand-push-up",
+      "reps": 8
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 8
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 1,
+      "notes": "to 15 feet"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/falkel (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

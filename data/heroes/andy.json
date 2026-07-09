@@ -1,0 +1,65 @@
+{
+  "id": "andy",
+  "name": "Andy",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": 25,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 50
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 75,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 2414
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 75,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 50
+    },
+    {
+      "exercise": "thruster",
+      "reps": 25,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "running",
+    "weight-vest",
+    "high-volume"
+  ],
+  "source_notes": "crossfit.com/benchmark/andy (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx includes a 20 lb (men) / 14 lb (women) weight vest",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

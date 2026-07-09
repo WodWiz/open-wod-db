@@ -1,0 +1,36 @@
+{
+  "id": "luce",
+  "name": "Luce",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 10
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 100
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "gymnastics",
+    "weight-vest",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/luce (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx includes a 20 lb (men) / 14 lb (women) weight vest",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

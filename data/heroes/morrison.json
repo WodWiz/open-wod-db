@@ -1,0 +1,57 @@
+{
+  "id": "morrison",
+  "name": "Morrison",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "wall-ball-shot",
+      "reps": [
+        50,
+        40,
+        30,
+        20,
+        10
+      ],
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": [
+        50,
+        40,
+        30,
+        20,
+        10
+      ]
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": [
+        50,
+        40,
+        30,
+        20,
+        10
+      ],
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "kettlebell",
+    "ladder"
+  ],
+  "source_notes": "crossfit.com/benchmark/morrison (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

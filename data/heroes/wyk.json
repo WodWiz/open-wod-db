@@ -1,0 +1,46 @@
+{
+  "id": "wyk",
+  "name": "Wyk",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "front-squat",
+      "reps": 5,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 5,
+      "notes": "to 15 feet"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "25lb"
+      },
+      "notes": "carrying a plate"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "running",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/wyk (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

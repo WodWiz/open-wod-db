@@ -1,0 +1,51 @@
+{
+  "id": "collin",
+  "name": "Collin",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 6,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "sandbag-carry",
+      "distance_m": 400,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "push-press",
+      "reps": 12,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 12
+    },
+    {
+      "exercise": "sumo-deadlift-high-pull",
+      "reps": 12,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "running",
+    "6-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/collin (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

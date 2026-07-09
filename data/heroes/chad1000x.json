@@ -1,0 +1,29 @@
+{
+  "id": "chad1000x",
+  "name": "Chad1000x",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "box-step-up",
+      "reps": 1000,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "35lb"
+      },
+      "notes": "ruck; 20-inch box"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "weighted",
+    "single-movement",
+    "high-volume"
+  ],
+  "source_notes": "crossfit.com/benchmark/chad1000x (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dunn",
+  "name": "Dunn",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 19
+  },
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 3
+    },
+    {
+      "exercise": "shuttle-sprint",
+      "reps": 1,
+      "notes": "5, 10, and 15 yards"
+    },
+    {
+      "exercise": "burpee-box-jump-over",
+      "reps": 6,
+      "notes": "jump over the box without touching it"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/dunn (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

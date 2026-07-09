@@ -1,0 +1,32 @@
+{
+  "id": "taylor",
+  "name": "Taylor",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "burpee-muscle-up",
+      "reps": 5
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "gymnastics",
+    "weight-vest",
+    "4-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/taylor (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx includes a 20 lb (men) / 14 lb (women) weight vest",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

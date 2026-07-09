@@ -1,0 +1,37 @@
+{
+  "id": "miron",
+  "name": "Miron",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "back-squat",
+      "reps": 23,
+      "notes": "3/4 bodyweight"
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 13,
+      "notes": "1 1/2 bodyweight"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "barbell",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/miron (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

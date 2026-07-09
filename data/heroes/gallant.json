@@ -1,0 +1,46 @@
+{
+  "id": "gallant",
+  "name": "Gallant",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 1609,
+      "notes": "carrying a 20/14 lb medicine ball"
+    },
+    {
+      "exercise": "burpee-pull-up",
+      "reps": 60
+    },
+    {
+      "exercise": "run",
+      "distance_m": 800,
+      "notes": "carrying a 20/14 lb medicine ball"
+    },
+    {
+      "exercise": "burpee-pull-up",
+      "reps": 30
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400,
+      "notes": "carrying a 20/14 lb medicine ball"
+    },
+    {
+      "exercise": "burpee-pull-up",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/gallant (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

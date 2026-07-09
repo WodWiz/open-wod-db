@@ -1,0 +1,45 @@
+{
+  "id": "kevin",
+  "name": "Kevin",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 32,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "125lb"
+      }
+    },
+    {
+      "exercise": "hanging-hip-touch",
+      "reps": 32,
+      "notes": "alternating arms"
+    },
+    {
+      "exercise": "farmers-carry",
+      "distance_m": 800,
+      "load": {
+        "rx_male": "15lb",
+        "rx_female": "10lb"
+      },
+      "notes": "running"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "dumbbell",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/kevin (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}
