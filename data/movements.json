@@ -89,7 +89,9 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-18-two-stroke-pull"
+      ],
       "description": null
     },
     {
@@ -141,6 +143,7 @@
         "brian",
         "bruck",
         "coffey",
+        "games-18-crossfit-total",
         "games-20-crossfit-total",
         "jenny",
         "justin",
@@ -207,6 +210,7 @@
         "bmu"
       ],
       "workouts": [
+        "games-18-bicouplet-2",
         "games-19-sprint-couplet",
         "games-20-2007-reload",
         "games-21-event-2",
@@ -378,6 +382,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-18-chaos",
         "games-22-up-and-over",
         "open-22-1",
         "open-26-1"
@@ -433,6 +438,7 @@
         "ellen",
         "forrest",
         "fournier",
+        "games-18-chaos",
         "games-19-ringer-2",
         "games-20-happy-star",
         "games-24-firestorm",
@@ -589,6 +595,7 @@
         "bulger",
         "cameron",
         "del",
+        "games-18-bicouplet-1",
         "games-20-friendly-fran",
         "games-21-event-15",
         "games-22-bike-to-work",
@@ -754,6 +761,7 @@
         "diane",
         "donny",
         "dt",
+        "games-18-crossfit-total",
         "games-20-crossfit-total",
         "games-20-damn-diane",
         "games-21-event-14",
@@ -901,6 +909,7 @@
         "bradshaw",
         "bull",
         "dork",
+        "games-18-handstand-walk",
         "games-19-split-triplet",
         "games-20-awful-annie",
         "games-21-event-11",
@@ -1171,6 +1180,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-18-chaos",
         "games-21-event-11"
       ],
       "description": null
@@ -1652,6 +1662,7 @@
         "hs walk"
       ],
       "workouts": [
+        "games-18-handstand-walk",
         "games-19-second-cut",
         "games-20-handstand-sprint",
         "games-23-inverted-medley",
@@ -1903,7 +1914,9 @@
         "kettlebell"
       ],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-18-fibonacci"
+      ],
       "description": null
     },
     {
@@ -1938,7 +1951,9 @@
         "kettlebell"
       ],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-18-fibonacci"
+      ],
       "description": null
     },
     {
@@ -2217,6 +2232,7 @@
         "coffey",
         "dobogai",
         "dunn",
+        "games-18-30-muscle-ups",
         "games-19-the-standard",
         "games-21-event-2",
         "games-22-up-and-over",
@@ -2333,6 +2349,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-18-madison-triplus",
         "games-19-swim-paddle"
       ],
       "description": null
@@ -2355,6 +2372,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-18-fibonacci",
         "ledesma"
       ],
       "description": null
@@ -2366,6 +2384,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-18-aeneas",
         "games-19-split-triplet",
         "games-21-event-11"
       ],
@@ -2392,6 +2411,7 @@
         "pistol squat"
       ],
       "workouts": [
+        "games-18-chaos",
         "games-19-mary",
         "games-20-atalanta",
         "maggie",
@@ -2760,6 +2780,7 @@
       "aliases": [],
       "workouts": [
         "brehm",
+        "games-18-marathon-row",
         "games-19-second-cut",
         "games-20-1000m-row",
         "games-20-2007-reload",
@@ -2820,6 +2841,8 @@
         "eva",
         "forrest",
         "gallant",
+        "games-18-madison-triplus",
+        "games-18-two-stroke-pull",
         "games-19-first-cut",
         "games-19-ruck",
         "games-20-atalanta",
@@ -3084,6 +3107,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-18-chaos",
         "games-21-event-5",
         "games-22-rinse-n-repeat",
         "games-23-ski-bag",
@@ -3099,6 +3123,8 @@
       "aliases": [],
       "workouts": [
         "fournier",
+        "games-18-chaos",
+        "games-18-two-stroke-pull",
         "games-23-parallel-bar-pull",
         "games-24-push-pull-2"
       ],
@@ -3128,6 +3154,8 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-18-bicouplet-1",
+        "games-18-bicouplet-2",
         "games-19-the-standard",
         "games-21-event-12",
         "games-21-event-9",
@@ -3303,6 +3331,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-18-crossfit-total",
         "games-20-crossfit-total"
       ],
       "description": null
@@ -3361,6 +3390,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-18-madison-triplus",
         "games-19-swim-paddle",
         "games-20-swim-n-stuff",
         "games-21-event-1",
@@ -3387,6 +3417,7 @@
         "dae-han",
         "daniel",
         "fran",
+        "games-18-aeneas",
         "games-20-friendly-fran",
         "games-20-happy-star",
         "games-21-event-4",
@@ -3641,6 +3672,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-18-aeneas",
         "games-22-back-nine",
         "games-24-final-1815",
         "games-24-final-2421"

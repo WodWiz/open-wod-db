@@ -1,0 +1,43 @@
+{
+  "id": "games-18-two-stroke-pull",
+  "name": "Two-Stroke Pull",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "time_cap_minutes": 18,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 300
+    },
+    {
+      "exercise": "assault-bike",
+      "reps": 20,
+      "notes": "calories (women use 15)"
+    },
+    {
+      "exercise": "sled-pull",
+      "distance_m": 13,
+      "load": {
+        "rx_male": "183lb",
+        "rx_female": "153lb"
+      },
+      "notes": "44 ft"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2018",
+    "venue-equipment",
+    "running"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2018/12 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
