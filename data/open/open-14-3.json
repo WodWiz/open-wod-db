@@ -1,0 +1,96 @@
+{
+  "id": "open-14-3",
+  "name": "14.3",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 8,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 15
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 15,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "135lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 15
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 20,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 15
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 25,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 15
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 30,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "205lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 15
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 35,
+      "load": {
+        "rx_male": "365lb",
+        "rx_female": "225lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2014",
+    "barbell",
+    "bodyweight"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2014/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "open-13-2",
+  "name": "13.2",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "shoulder-to-overhead",
+      "reps": 5,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2013",
+    "barbell",
+    "bodyweight"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2013/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

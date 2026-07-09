@@ -1,0 +1,57 @@
+{
+  "id": "open-12-2",
+  "name": "12.2",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "snatch",
+      "reps": 30,
+      "load": {
+        "rx_male": "75lb",
+        "rx_female": "45lb"
+      }
+    },
+    {
+      "exercise": "snatch",
+      "reps": 30,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "snatch",
+      "reps": 30,
+      "load": {
+        "rx_male": "165lb",
+        "rx_female": "100lb"
+      }
+    },
+    {
+      "exercise": "snatch",
+      "reps": "max",
+      "load": {
+        "rx_male": "210lb",
+        "rx_female": "120lb"
+      },
+      "notes": "AMRAP for remainder of the time cap"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2012",
+    "barbell",
+    "single-movement"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2012/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

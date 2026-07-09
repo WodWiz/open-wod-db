@@ -1,0 +1,53 @@
+{
+  "id": "open-15-4",
+  "name": "15.4",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 8,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "handstand-push-up",
+      "reps": [
+        3,
+        6,
+        9,
+        12,
+        15,
+        18,
+        21
+      ]
+    },
+    {
+      "exercise": "clean",
+      "reps": [
+        3,
+        3,
+        3,
+        6,
+        6,
+        6,
+        9
+      ],
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "125lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2015",
+    "gymnastics",
+    "barbell",
+    "ascending"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2015/4 (official CrossFit Games Open workout), retrieved 2026-07-09; handstand push-ups increase by 3 reps every round; clean reps increase by 3 every 3rd round; pattern continues indefinitely until the 8-minute cap",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

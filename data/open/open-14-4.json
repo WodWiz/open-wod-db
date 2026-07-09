@@ -1,0 +1,54 @@
+{
+  "id": "open-14-4",
+  "name": "14.4",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 14,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "reps": 60,
+      "notes": "calories"
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 50
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 40,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "clean",
+      "reps": 30,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 20
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2014",
+    "rowing",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2014/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
