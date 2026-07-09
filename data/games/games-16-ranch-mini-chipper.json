@@ -1,0 +1,42 @@
+{
+  "id": "games-16-ranch-mini-chipper",
+  "name": "Ranch Mini Chipper",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 50,
+      "load": {
+        "rx_male": "30lb",
+        "rx_female": "20lb"
+      }
+    },
+    {
+      "exercise": "medicine-ball-sit-up",
+      "reps": 25,
+      "load": {
+        "rx_male": "30lb",
+        "rx_female": "20lb"
+      },
+      "notes": "GHD sit-up variant"
+    },
+    {
+      "exercise": "sprint",
+      "notes": "hill sprint, carrying the medicine ball"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2016",
+    "outdoor",
+    "hill"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2016/3 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

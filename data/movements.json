@@ -27,6 +27,7 @@
         "chelsea",
         "cindy",
         "daniel-ray",
+        "games-16-murph",
         "garrett",
         "hortman",
         "jason",
@@ -90,6 +91,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-16-rope-chipper",
         "games-17-assault-banger",
         "games-18-two-stroke-pull"
       ],
@@ -144,6 +146,7 @@
         "brian",
         "bruck",
         "coffey",
+        "games-16-the-separator",
         "games-18-crossfit-total",
         "games-20-crossfit-total",
         "jenny",
@@ -350,6 +353,7 @@
         "crain",
         "danny",
         "falkel",
+        "games-16-100-percent",
         "gaza",
         "hope",
         "jack",
@@ -440,6 +444,7 @@
         "ellen",
         "forrest",
         "fournier",
+        "games-16-the-separator",
         "games-17-madison-triplet",
         "games-18-chaos",
         "games-19-ringer-2",
@@ -727,7 +732,9 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-16-100-percent"
+      ],
       "description": null
     },
     {
@@ -765,6 +772,8 @@
         "diane",
         "donny",
         "dt",
+        "games-16-double-dt",
+        "games-16-ranch-deadlift-ladder",
         "games-18-crossfit-total",
         "games-20-crossfit-total",
         "games-20-damn-diane",
@@ -913,6 +922,7 @@
         "bradshaw",
         "bull",
         "dork",
+        "games-16-rope-chipper",
         "games-17-heavy-17-5",
         "games-18-handstand-walk",
         "games-19-split-triplet",
@@ -1497,6 +1507,7 @@
         "andi",
         "bell",
         "bulger",
+        "games-16-the-separator",
         "games-20-1rm-front-squat",
         "games-22-back-nine",
         "gator",
@@ -1670,6 +1681,7 @@
         "hs walk"
       ],
       "workouts": [
+        "games-16-handstand-walk",
         "games-17-strongmans-fear",
         "games-18-handstand-walk",
         "games-19-second-cut",
@@ -1705,6 +1717,7 @@
       "aliases": [],
       "workouts": [
         "dt",
+        "games-16-double-dt",
         "k27",
         "matt-16"
       ],
@@ -2208,7 +2221,9 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-16-ranch-mini-chipper"
+      ],
       "description": null
     },
     {
@@ -2321,6 +2336,7 @@
       "workouts": [
         "arnie",
         "bull",
+        "games-16-the-separator",
         "games-17-2223-intervals",
         "games-19-ringer-2",
         "games-20-nasty-nancy",
@@ -2409,6 +2425,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-16-redemption",
         "games-18-aeneas",
         "games-19-split-triplet",
         "games-21-event-11"
@@ -2550,6 +2567,7 @@
         "erin",
         "eva",
         "fran",
+        "games-16-murph",
         "games-17-triple-g-chipper",
         "games-19-mary",
         "games-20-atalanta",
@@ -2596,6 +2614,7 @@
       "aliases": [],
       "workouts": [
         "dt",
+        "games-16-double-dt",
         "lee",
         "pheezy"
       ],
@@ -2638,6 +2657,7 @@
         "chelsea",
         "cindy",
         "crain",
+        "games-16-murph",
         "gaza",
         "gunny",
         "hamilton",
@@ -2700,6 +2720,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-16-the-separator",
         "garrett",
         "meadows"
       ],
@@ -2777,6 +2798,7 @@
         "cameron",
         "dae-han",
         "falkel",
+        "games-16-climbing-snail",
         "games-17-2223-intervals",
         "games-21-event-5",
         "games-24-midline-climb",
@@ -2808,6 +2830,7 @@
       "aliases": [],
       "workouts": [
         "brehm",
+        "games-16-rope-chipper",
         "games-17-triple-g-chipper",
         "games-18-marathon-row",
         "games-19-second-cut",
@@ -2870,6 +2893,9 @@
         "eva",
         "forrest",
         "gallant",
+        "games-16-climbing-snail",
+        "games-16-murph",
+        "games-16-ranch-trail-run",
         "games-17-madison-triplet",
         "games-17-run-swim-run",
         "games-18-madison-triplus",
@@ -3063,7 +3089,8 @@
       "aliases": [],
       "workouts": [
         "dunn",
-        "feeks"
+        "feeks",
+        "games-16-suicide-sprint"
       ],
       "description": null
     },
@@ -3138,6 +3165,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-16-rope-chipper",
         "games-17-2223-intervals",
         "games-18-chaos",
         "games-21-event-5",
@@ -3155,6 +3183,8 @@
       "aliases": [],
       "workouts": [
         "fournier",
+        "games-16-rope-chipper",
+        "games-16-the-plow",
         "games-17-strongmans-fear",
         "games-18-chaos",
         "games-18-two-stroke-pull",
@@ -3170,6 +3200,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-16-climbing-snail",
         "games-19-sprint-couplet",
         "games-20-sprint-sled-sprint",
         "games-21-event-2",
@@ -3269,6 +3300,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-16-ranch-mini-chipper",
         "games-20-sprint-sled-sprint",
         "games-21-event-3",
         "games-22-hat-trick"
@@ -3436,6 +3468,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-16-ocean-swim",
         "games-17-run-swim-run",
         "games-18-madison-triplus",
         "games-19-swim-paddle",
@@ -3464,6 +3497,7 @@
         "dae-han",
         "daniel",
         "fran",
+        "games-16-redemption",
         "games-17-heavy-17-5",
         "games-18-aeneas",
         "games-20-friendly-fran",
@@ -3629,6 +3663,7 @@
         "blake",
         "cameron",
         "crain",
+        "games-16-ranch-mini-chipper",
         "games-22-hat-trick",
         "games-23-pig-chipper",
         "holleyman",

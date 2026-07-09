@@ -1,0 +1,61 @@
+{
+  "id": "games-16-redemption",
+  "name": "Redemption",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "pegboard",
+      "reps": 3
+    },
+    {
+      "exercise": "thruster",
+      "reps": 21,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "85lb"
+      }
+    },
+    {
+      "exercise": "pegboard",
+      "reps": 2
+    },
+    {
+      "exercise": "thruster",
+      "reps": 15,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "85lb"
+      }
+    },
+    {
+      "exercise": "pegboard",
+      "reps": 1
+    },
+    {
+      "exercise": "thruster",
+      "reps": 9,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "85lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2016",
+    "venue-equipment",
+    "barbell",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2016/15 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

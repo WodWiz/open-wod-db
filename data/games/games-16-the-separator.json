@@ -1,0 +1,72 @@
+{
+  "id": "games-16-the-separator",
+  "name": "The Separator",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 16,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "ring-handstand-push-up",
+      "reps": 12
+    },
+    {
+      "exercise": "back-squat",
+      "reps": 15,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "165lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 20
+    },
+    {
+      "exercise": "ring-handstand-push-up",
+      "reps": 9
+    },
+    {
+      "exercise": "front-squat",
+      "reps": 18,
+      "load": {
+        "rx_male": "205lb",
+        "rx_female": "145lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 20
+    },
+    {
+      "exercise": "ring-handstand-push-up",
+      "reps": 6
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 21,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "125lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 20
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2016",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2016/9 (official CrossFit Games event), retrieved 2026-07-09; time cap 16 minutes (women); men's cap not confirmed from available sources. One source described a slightly different women's movement order/rep count (ring HSPU descending 6-4-2 vs. the men's 12-9-6) that could not be fully corroborated -- this entry uses the men's structure, flagged per CONTRIBUTING",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

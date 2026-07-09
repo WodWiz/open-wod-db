@@ -1,0 +1,25 @@
+{
+  "id": "games-16-handstand-walk",
+  "name": "Handstand Walk (2016 Games)",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 85,
+      "notes": "280 ft; every 20 ft section must be unbroken"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2016",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2016/11 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

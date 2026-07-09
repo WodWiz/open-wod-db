@@ -1,0 +1,44 @@
+{
+  "id": "games-16-climbing-snail",
+  "name": "Climbing Snail",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "time_cap_minutes": 21,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 500,
+      "notes": "berm run"
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 2
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 12,
+      "notes": "40 ft, \"Snail\" apparatus"
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 2
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2016",
+    "venue-equipment",
+    "running",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2016/8 (official CrossFit Games event), retrieved 2026-07-09; only 1 rope ascent (not 2) on the final round",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
