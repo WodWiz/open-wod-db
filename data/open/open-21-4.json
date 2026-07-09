@@ -1,0 +1,42 @@
+{
+  "id": "open-21-4",
+  "name": "21.4",
+  "category": "open",
+  "format": "max_load",
+  "format_meta": {
+    "time_cap_minutes": 7,
+    "scoring": "load"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 1
+    },
+    {
+      "exercise": "clean",
+      "reps": 1
+    },
+    {
+      "exercise": "hang-clean",
+      "reps": 1
+    },
+    {
+      "exercise": "jerk",
+      "reps": 1,
+      "notes": "same barbell throughout; no re-gripping/dropping between lifts"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2021",
+    "barbell",
+    "max-load",
+    "complex"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2021/4 (official CrossFit Games Open workout), retrieved 2026-07-09; max-load complex -- athlete determines and builds their own barbell load (score is the heaviest complex completed), so there is no prescribed Rx weight; time begins immediately after 21.3",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

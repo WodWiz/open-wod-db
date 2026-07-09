@@ -1,0 +1,49 @@
+{
+  "id": "open-19-5",
+  "name": "19.5",
+  "category": "open",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": [
+        33,
+        27,
+        21,
+        15,
+        9
+      ],
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": [
+        33,
+        27,
+        21,
+        15,
+        9
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2019",
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2019/5 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

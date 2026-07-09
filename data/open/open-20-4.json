@@ -1,0 +1,96 @@
+{
+  "id": "open-20-4",
+  "name": "20.4",
+  "category": "open",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "box-jump",
+      "reps": 30
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 15,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 30
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 15,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "85lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 30
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 10,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "pistol",
+      "reps": 30
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 10,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "145lb"
+      }
+    },
+    {
+      "exercise": "pistol",
+      "reps": 30
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 5,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "175lb"
+      }
+    },
+    {
+      "exercise": "pistol",
+      "reps": 30
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 5,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "205lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2020",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2020/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

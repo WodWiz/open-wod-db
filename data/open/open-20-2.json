@@ -1,0 +1,40 @@
+{
+  "id": "open-20-2",
+  "name": "20.2",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-thruster",
+      "reps": 4,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 6
+    },
+    {
+      "exercise": "double-under",
+      "reps": 24
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2020",
+    "dumbbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2020/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

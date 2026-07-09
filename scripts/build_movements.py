@@ -26,6 +26,7 @@ GROUPS = {
         "deadlift", "sumo-deadlift", "romanian-deadlift", "stiff-legged-deadlift",
         "deficit-deadlift", "sumo-deadlift-high-pull",
         "clean", "power-clean", "squat-clean", "hang-clean", "hang-power-clean",
+        "ground-to-overhead",
         "hang-squat-clean", "muscle-clean", "clean-pull", "clean-and-jerk",
         "bodyweight-clean-and-jerk",
         "snatch", "power-snatch", "squat-snatch", "hang-snatch", "hang-power-snatch",
@@ -137,6 +138,7 @@ ALIASES = {
     "bar-muscle-up": ["bmu"],
     "ring-muscle-up": ["rmu"],
     "handstand-walk": ["hs walk"],
+    "pistol": ["single-leg squat", "pistol squat"],
 }
 
 
