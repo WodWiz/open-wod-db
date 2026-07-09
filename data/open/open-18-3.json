@@ -1,0 +1,67 @@
+{
+  "id": "open-18-3",
+  "name": "18.3",
+  "category": "open",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 2,
+    "time_cap_minutes": 14,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "double-under",
+      "reps": 100
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 20,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "80lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 100
+    },
+    {
+      "exercise": "ring-muscle-up",
+      "reps": 12
+    },
+    {
+      "exercise": "double-under",
+      "reps": 100
+    },
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": 20,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 100
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 12
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2018",
+    "barbell",
+    "dumbbell",
+    "gymnastics",
+    "jump-rope"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2018/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

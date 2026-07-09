@@ -1,0 +1,51 @@
+{
+  "id": "open-16-1",
+  "name": "16.1",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "overhead-walking-lunge",
+      "distance_m": 8,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      },
+      "notes": "25 ft"
+    },
+    {
+      "exercise": "burpee",
+      "reps": 8
+    },
+    {
+      "exercise": "overhead-walking-lunge",
+      "distance_m": 8,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      },
+      "notes": "25 ft"
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 8
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2016",
+    "barbell",
+    "bodyweight",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2016/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

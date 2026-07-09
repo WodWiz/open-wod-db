@@ -1,0 +1,158 @@
+{
+  "id": "open-17-3",
+  "name": "17.3",
+  "category": "open",
+  "format": "multi_part",
+  "format_meta": {
+    "total_minutes": 24,
+    "scoring": "time"
+  },
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2017",
+    "barbell",
+    "gymnastics",
+    "time-extension-ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2017/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "0:00-8:00 (Round Set 1)",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 6
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": 6,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "0:00-8:00 (Round Set 2)",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 7
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": 5,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "If complete, continue to 12:00",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 8
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": 4,
+          "load": {
+            "rx_male": "185lb",
+            "rx_female": "135lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "If complete, continue to 16:00",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 9
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": 3,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "If complete, continue to 20:00",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 10
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": 2,
+          "load": {
+            "rx_male": "245lb",
+            "rx_female": "175lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "If complete, continue to 24:00",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 11
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": 1,
+          "load": {
+            "rx_male": "265lb",
+            "rx_female": "185lb"
+          }
+        }
+      ]
+    }
+  ]
+}

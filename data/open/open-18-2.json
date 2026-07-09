@@ -1,0 +1,78 @@
+{
+  "id": "open-18-2",
+  "name": "18.2",
+  "category": "open",
+  "format": "multi_part",
+  "format_meta": {
+    "time_cap_minutes": 12
+  },
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2018",
+    "dumbbell",
+    "barbell",
+    "max-load"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2018/2 (official CrossFit Games Open workout), retrieved 2026-07-09; 18.2 (ascending ladder, scored by reps/time) and 18.2a (1-rep-max clean, scored by load) share one 12-minute clock and are scored separately",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "18.2",
+      "format": "for_time",
+      "movements": [
+        {
+          "exercise": "dumbbell-front-rack-squat",
+          "reps": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "bar-facing-burpee",
+          "reps": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "scoring": "reps"
+    },
+    {
+      "label": "18.2a",
+      "format": "max_load",
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "notes": "athlete's own 1-rep-max; power, squat, or split clean allowed; barbell with collars, no fixed Rx weight"
+        }
+      ],
+      "scoring": "load"
+    }
+  ]
+}

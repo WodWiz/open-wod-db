@@ -1,5 +1,5 @@
 {
-  "count": 228,
+  "count": 230,
   "movements": [
     {
       "id": "ab-mat-sit-up",
@@ -197,6 +197,9 @@
         "bmu"
       ],
       "workouts": [
+        "open-16-3",
+        "open-17-2",
+        "open-18-3",
         "open-22-3",
         "open-25-2"
       ],
@@ -409,6 +412,8 @@
         "lumberjack-20",
         "marguerita",
         "maxton",
+        "open-16-1",
+        "open-16-5",
         "ralph",
         "rene",
         "riley",
@@ -453,6 +458,7 @@
       "workouts": [
         "dunn",
         "hoover",
+        "open-17-1",
         "open-21-2"
       ],
       "description": null
@@ -546,6 +552,8 @@
         "del",
         "hope",
         "lumberjack-20",
+        "open-16-1",
+        "open-18-5",
         "open-19-5",
         "open-22-3",
         "open-25-2",
@@ -690,6 +698,9 @@
         "miron",
         "mr-joshua",
         "nutts",
+        "open-16-4",
+        "open-17-4",
+        "open-18-4",
         "open-20-3",
         "open-21-4",
         "open-22-2",
@@ -811,6 +822,8 @@
         "dork",
         "k27",
         "nutts",
+        "open-17-5",
+        "open-18-3",
         "open-20-2",
         "open-21-1",
         "open-22-3",
@@ -929,6 +942,17 @@
       "description": null
     },
     {
+      "id": "dumbbell-front-rack-squat",
+      "name": "Dumbbell Front Rack Squat",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": null
+    },
+    {
       "id": "dumbbell-front-squat",
       "name": "Dumbbell Front Squat",
       "category": "dumbbell",
@@ -948,6 +972,19 @@
       ],
       "aliases": [],
       "workouts": [],
+      "description": null
+    },
+    {
+      "id": "dumbbell-hang-clean-and-jerk",
+      "name": "Dumbbell Hang Clean And Jerk",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "workouts": [
+        "open-18-1"
+      ],
       "description": null
     },
     {
@@ -1114,6 +1151,8 @@
       "workouts": [
         "ellen",
         "joshie",
+        "open-17-1",
+        "open-18-3",
         "open-21-2",
         "open-22-1",
         "open-24-1"
@@ -1209,7 +1248,8 @@
       ],
       "aliases": [],
       "workouts": [
-        "dg"
+        "dg",
+        "open-17-2"
       ],
       "description": null
     },
@@ -1437,6 +1477,9 @@
         "nate",
         "nick",
         "nutts",
+        "open-16-4",
+        "open-17-4",
+        "open-18-4",
         "open-20-3",
         "pike",
         "santiago",
@@ -1454,6 +1497,7 @@
         "hs walk"
       ],
       "workouts": [
+        "open-18-4",
         "open-19-3",
         "open-20-3"
       ],
@@ -2012,7 +2056,8 @@
         "jenny",
         "josh",
         "lumberjack-20",
-        "nancy"
+        "nancy",
+        "open-18-3"
       ],
       "description": null
     },
@@ -2037,6 +2082,7 @@
       "aliases": [],
       "workouts": [
         "blake",
+        "open-16-1",
         "white"
       ],
       "description": null
@@ -2127,6 +2173,7 @@
         "alexander",
         "holleyman",
         "hollywood",
+        "open-17-2",
         "santiago",
         "t-u-p",
         "viola",
@@ -2144,6 +2191,7 @@
       "aliases": [],
       "workouts": [
         "hope",
+        "open-16-3",
         "randy",
         "viola"
       ],
@@ -2344,6 +2392,7 @@
         "rmu"
       ],
       "workouts": [
+        "open-18-3",
         "topsy"
       ],
       "description": null
@@ -2424,6 +2473,9 @@
         "jerry",
         "kelly-brown",
         "ned",
+        "open-16-4",
+        "open-17-4",
+        "open-18-1",
         "open-19-1",
         "open-20-5",
         "open-23-1",
@@ -2949,6 +3001,9 @@
         "jackie",
         "marco",
         "omar",
+        "open-16-5",
+        "open-17-5",
+        "open-18-5",
         "open-19-5",
         "open-22-3",
         "open-25-2",
@@ -2988,6 +3043,8 @@
         "forrest",
         "liam",
         "marston",
+        "open-17-2",
+        "open-18-1",
         "open-20-2",
         "open-23-1",
         "pheezy",
@@ -3084,6 +3141,8 @@
         "kelly-brown",
         "morrison",
         "nutts",
+        "open-16-4",
+        "open-17-4",
         "open-19-1",
         "open-20-5",
         "open-23-1",

@@ -1,5 +1,5 @@
 {
-  "count": 229,
+  "count": 244,
   "wods": [
     {
       "id": "amanda",
@@ -8859,6 +8859,1031 @@
       ],
       "source_notes": "crossfit.com/benchmark/zimmerman (official CrossFit Hero WOD page), retrieved 2026-07-09",
       "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-16-1",
+      "name": "16.1",
+      "category": "open",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 20,
+        "scoring": "rounds_reps"
+      },
+      "movements": [
+        {
+          "exercise": "overhead-walking-lunge",
+          "distance_m": 8,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          },
+          "notes": "25 ft"
+        },
+        {
+          "exercise": "burpee",
+          "reps": 8
+        },
+        {
+          "exercise": "overhead-walking-lunge",
+          "distance_m": 8,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          },
+          "notes": "25 ft"
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 8
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2016",
+        "barbell",
+        "bodyweight",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2016/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-16-2",
+      "name": "16.2",
+      "category": "open",
+      "format": "multi_part",
+      "format_meta": {
+        "total_minutes": 20,
+        "scoring": "time"
+      },
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2016",
+        "barbell",
+        "gymnastics",
+        "time-extension-ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2016/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09",
+      "segments": [
+        {
+          "label": "0:00-4:00",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 4,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "toes-to-bar",
+              "reps": 25
+            },
+            {
+              "exercise": "double-under",
+              "reps": 50
+            },
+            {
+              "exercise": "squat-clean",
+              "reps": 15,
+              "load": {
+                "rx_male": "135lb",
+                "rx_female": "85lb"
+              }
+            }
+          ]
+        },
+        {
+          "label": "If complete, +4:00 (to 8:00)",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 4,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "toes-to-bar",
+              "reps": 25
+            },
+            {
+              "exercise": "double-under",
+              "reps": 50
+            },
+            {
+              "exercise": "squat-clean",
+              "reps": 13,
+              "load": {
+                "rx_male": "185lb",
+                "rx_female": "115lb"
+              }
+            }
+          ]
+        },
+        {
+          "label": "If complete, +4:00 (to 12:00)",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 4,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "toes-to-bar",
+              "reps": 25
+            },
+            {
+              "exercise": "double-under",
+              "reps": 50
+            },
+            {
+              "exercise": "squat-clean",
+              "reps": 11,
+              "load": {
+                "rx_male": "225lb",
+                "rx_female": "145lb"
+              }
+            }
+          ]
+        },
+        {
+          "label": "If complete, +4:00 (to 16:00)",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 4,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "toes-to-bar",
+              "reps": 25
+            },
+            {
+              "exercise": "double-under",
+              "reps": 50
+            },
+            {
+              "exercise": "squat-clean",
+              "reps": 9,
+              "load": {
+                "rx_male": "275lb",
+                "rx_female": "175lb"
+              }
+            }
+          ]
+        },
+        {
+          "label": "If complete, +4:00 (to 20:00)",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 4,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "toes-to-bar",
+              "reps": 25
+            },
+            {
+              "exercise": "double-under",
+              "reps": 50
+            },
+            {
+              "exercise": "squat-clean",
+              "reps": 7,
+              "load": {
+                "rx_male": "315lb",
+                "rx_female": "205lb"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "open-16-3",
+      "name": "16.3",
+      "category": "open",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 7,
+        "scoring": "rounds_reps"
+      },
+      "movements": [
+        {
+          "exercise": "power-snatch",
+          "reps": 10,
+          "load": {
+            "rx_male": "75lb",
+            "rx_female": "55lb"
+          }
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 3
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2016",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2016/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-16-4",
+      "name": "16.4",
+      "category": "open",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 13,
+        "scoring": "rounds_reps"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 55,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 55,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        },
+        {
+          "exercise": "row",
+          "reps": 55,
+          "notes": "calories"
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 55
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2016",
+        "barbell",
+        "rowing",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2016/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-16-5",
+      "name": "16.5",
+      "category": "open",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": [
+            21,
+            18,
+            15,
+            12,
+            9,
+            6,
+            3
+          ],
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": [
+            21,
+            18,
+            15,
+            12,
+            9,
+            6,
+            3
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2016",
+        "barbell",
+        "bodyweight",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2016/5 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-17-1",
+      "name": "17.1",
+      "category": "open",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 20,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "dumbbell-snatch",
+          "reps": [
+            10,
+            20,
+            30,
+            40,
+            50
+          ],
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "burpee-box-jump-over",
+          "reps": 15,
+          "notes": "24 in (men) / 20 in (women) box; repeated between each snatch set"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2017",
+        "dumbbell",
+        "bodyweight"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2017/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-17-2",
+      "name": "17.2",
+      "category": "open",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 12,
+        "scoring": "rounds_reps"
+      },
+      "movements": [
+        {
+          "exercise": "dumbbell-walking-lunge",
+          "distance_m": 15,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          },
+          "notes": "50 ft"
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 16
+        },
+        {
+          "exercise": "power-clean",
+          "reps": 8
+        },
+        {
+          "exercise": "dumbbell-walking-lunge",
+          "distance_m": 15,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          },
+          "notes": "50 ft"
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 16
+        },
+        {
+          "exercise": "power-clean",
+          "reps": 8
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2017",
+        "dumbbell",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2017/2 (official CrossFit Games Open workout), retrieved 2026-07-09; alternates toes-to-bar and bar-muscle-ups every other round; power clean load increases with each pass (per official movement standards)",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-17-3",
+      "name": "17.3",
+      "category": "open",
+      "format": "multi_part",
+      "format_meta": {
+        "total_minutes": 24,
+        "scoring": "time"
+      },
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2017",
+        "barbell",
+        "gymnastics",
+        "time-extension-ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2017/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09",
+      "segments": [
+        {
+          "label": "0:00-8:00 (Round Set 1)",
+          "format": "interval",
+          "format_meta": {
+            "rounds": 3,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "chest-to-bar-pull-up",
+              "reps": 6
+            },
+            {
+              "exercise": "squat-snatch",
+              "reps": 6,
+              "load": {
+                "rx_male": "95lb",
+                "rx_female": "65lb"
+              }
+            }
+          ]
+        },
+        {
+          "label": "0:00-8:00 (Round Set 2)",
+          "format": "interval",
+          "format_meta": {
+            "rounds": 3,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "chest-to-bar-pull-up",
+              "reps": 7
+            },
+            {
+              "exercise": "squat-snatch",
+              "reps": 5,
+              "load": {
+                "rx_male": "135lb",
+                "rx_female": "95lb"
+              }
+            }
+          ]
+        },
+        {
+          "label": "If complete, continue to 12:00",
+          "format": "interval",
+          "format_meta": {
+            "rounds": 3,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "chest-to-bar-pull-up",
+              "reps": 8
+            },
+            {
+              "exercise": "squat-snatch",
+              "reps": 4,
+              "load": {
+                "rx_male": "185lb",
+                "rx_female": "135lb"
+              }
+            }
+          ]
+        },
+        {
+          "label": "If complete, continue to 16:00",
+          "format": "interval",
+          "format_meta": {
+            "rounds": 3,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "chest-to-bar-pull-up",
+              "reps": 9
+            },
+            {
+              "exercise": "squat-snatch",
+              "reps": 3,
+              "load": {
+                "rx_male": "225lb",
+                "rx_female": "155lb"
+              }
+            }
+          ]
+        },
+        {
+          "label": "If complete, continue to 20:00",
+          "format": "interval",
+          "format_meta": {
+            "rounds": 3,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "chest-to-bar-pull-up",
+              "reps": 10
+            },
+            {
+              "exercise": "squat-snatch",
+              "reps": 2,
+              "load": {
+                "rx_male": "245lb",
+                "rx_female": "175lb"
+              }
+            }
+          ]
+        },
+        {
+          "label": "If complete, continue to 24:00",
+          "format": "interval",
+          "format_meta": {
+            "rounds": 3,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "chest-to-bar-pull-up",
+              "reps": 11
+            },
+            {
+              "exercise": "squat-snatch",
+              "reps": 1,
+              "load": {
+                "rx_male": "265lb",
+                "rx_female": "185lb"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "open-17-4",
+      "name": "17.4",
+      "category": "open",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 13,
+        "scoring": "rounds_reps"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 55,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 55,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        },
+        {
+          "exercise": "row",
+          "reps": 55,
+          "notes": "calories"
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 55
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2017",
+        "barbell",
+        "rowing",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2017/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-17-5",
+      "name": "17.5",
+      "category": "open",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 10,
+        "time_cap_minutes": 40,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": 9,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "double-under",
+          "reps": 35
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2017",
+        "barbell",
+        "jump-rope",
+        "10-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2017/5 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-18-1",
+      "name": "18.1",
+      "category": "open",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 20,
+        "scoring": "rounds_reps"
+      },
+      "movements": [
+        {
+          "exercise": "toes-to-bar",
+          "reps": 8
+        },
+        {
+          "exercise": "dumbbell-hang-clean-and-jerk",
+          "reps": 10,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "row",
+          "reps": 14,
+          "notes": "calories; 12 for women"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2018",
+        "dumbbell",
+        "rowing",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2018/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-18-2",
+      "name": "18.2",
+      "category": "open",
+      "format": "multi_part",
+      "format_meta": {
+        "time_cap_minutes": 12
+      },
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2018",
+        "dumbbell",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2018/2 (official CrossFit Games Open workout), retrieved 2026-07-09; 18.2 (ascending ladder, scored by reps/time) and 18.2a (1-rep-max clean, scored by load) share one 12-minute clock and are scored separately",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09",
+      "segments": [
+        {
+          "label": "18.2",
+          "format": "for_time",
+          "movements": [
+            {
+              "exercise": "dumbbell-front-rack-squat",
+              "reps": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+              ],
+              "load": {
+                "rx_male": "50lb",
+                "rx_female": "35lb"
+              }
+            },
+            {
+              "exercise": "bar-facing-burpee",
+              "reps": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+              ]
+            }
+          ],
+          "scoring": "reps"
+        },
+        {
+          "label": "18.2a",
+          "format": "max_load",
+          "movements": [
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "notes": "athlete's own 1-rep-max; power, squat, or split clean allowed; barbell with collars, no fixed Rx weight"
+            }
+          ],
+          "scoring": "load"
+        }
+      ]
+    },
+    {
+      "id": "open-18-3",
+      "name": "18.3",
+      "category": "open",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 2,
+        "time_cap_minutes": 14,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "double-under",
+          "reps": 100
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 20,
+          "load": {
+            "rx_male": "115lb",
+            "rx_female": "80lb"
+          }
+        },
+        {
+          "exercise": "double-under",
+          "reps": 100
+        },
+        {
+          "exercise": "ring-muscle-up",
+          "reps": 12
+        },
+        {
+          "exercise": "double-under",
+          "reps": 100
+        },
+        {
+          "exercise": "dumbbell-snatch",
+          "reps": 20,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "double-under",
+          "reps": 100
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 12
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2018",
+        "barbell",
+        "dumbbell",
+        "gymnastics",
+        "jump-rope"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2018/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-18-4",
+      "name": "18.4",
+      "category": "open",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 9,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 21,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 21
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 15,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 15
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 9,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 9
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 21,
+          "load": {
+            "rx_male": "315lb",
+            "rx_female": "205lb"
+          }
+        },
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 15
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 15,
+          "load": {
+            "rx_male": "315lb",
+            "rx_female": "205lb"
+          }
+        },
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 15
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 9,
+          "load": {
+            "rx_male": "315lb",
+            "rx_female": "205lb"
+          }
+        },
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 15
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2018",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2018/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "open-18-5",
+      "name": "18.5",
+      "category": "open",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 7,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18
+          ],
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "open",
+        "2018",
+        "barbell",
+        "gymnastics",
+        "ascending"
+      ],
+      "source_notes": "games.crossfit.com/workouts/open/2018/5 (official CrossFit Games Open workout), retrieved 2026-07-09; ascending ladder (+3 reps each round) continues indefinitely until the 7-minute cap",
+      "schema_version": "1.1",
       "last_updated": "2026-07-09"
     },
     {

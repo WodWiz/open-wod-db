@@ -1,0 +1,42 @@
+{
+  "id": "open-18-1",
+  "name": "18.1",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "toes-to-bar",
+      "reps": 8
+    },
+    {
+      "exercise": "dumbbell-hang-clean-and-jerk",
+      "reps": 10,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "row",
+      "reps": 14,
+      "notes": "calories; 12 for women"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2018",
+    "dumbbell",
+    "rowing",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2018/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
