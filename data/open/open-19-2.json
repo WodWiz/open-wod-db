@@ -1,0 +1,146 @@
+{
+  "id": "open-19-2",
+  "name": "19.2",
+  "category": "open",
+  "format": "multi_part",
+  "format_meta": {
+    "total_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2019",
+    "barbell",
+    "gymnastics",
+    "time-extension-ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2019/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "0:00-8:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 8,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "toes-to-bar",
+          "reps": 25
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "squat-clean",
+          "reps": 15,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "85lb"
+          }
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 25
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "squat-clean",
+          "reps": 13,
+          "load": {
+            "rx_male": "185lb",
+            "rx_female": "115lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "If complete, +4:00 (to 12:00)",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 4,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "toes-to-bar",
+          "reps": 25
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "squat-clean",
+          "reps": 11,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "145lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "If complete, +4:00 (to 16:00)",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 4,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "toes-to-bar",
+          "reps": 25
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "squat-clean",
+          "reps": 9,
+          "load": {
+            "rx_male": "275lb",
+            "rx_female": "175lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "If complete, +4:00 (to 20:00)",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 4,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "toes-to-bar",
+          "reps": 25
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "squat-clean",
+          "reps": 7,
+          "load": {
+            "rx_male": "315lb",
+            "rx_female": "205lb"
+          }
+        }
+      ]
+    }
+  ]
+}

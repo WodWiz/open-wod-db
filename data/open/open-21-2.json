@@ -1,0 +1,43 @@
+{
+  "id": "open-21-2",
+  "name": "21.2",
+  "category": "open",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": [
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "burpee-box-jump-over",
+      "reps": 15,
+      "notes": "24 in (men) / 20 in (women) box; repeated between each snatch set"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2021",
+    "dumbbell",
+    "bodyweight"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2021/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

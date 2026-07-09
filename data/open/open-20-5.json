@@ -1,0 +1,42 @@
+{
+  "id": "open-20-5",
+  "name": "20.5",
+  "category": "open",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 40
+    },
+    {
+      "exercise": "row",
+      "reps": 80,
+      "notes": "calories"
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 120,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2020",
+    "gymnastics",
+    "rowing",
+    "any-order"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2020/5 (official CrossFit Games Open workout), retrieved 2026-07-09; movements may be performed in any order, partitioned as desired",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
