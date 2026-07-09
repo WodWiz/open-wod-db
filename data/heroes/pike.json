@@ -1,0 +1,49 @@
+{
+  "id": "pike",
+  "name": "Pike",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": 20,
+      "load": {
+        "rx_male": "75lb",
+        "rx_female": "55lb"
+      }
+    },
+    {
+      "exercise": "ring-dip",
+      "reps": 10,
+      "notes": "strict"
+    },
+    {
+      "exercise": "push-up",
+      "reps": 20
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 10,
+      "notes": "strict"
+    },
+    {
+      "exercise": "bear-crawl",
+      "distance_m": 50
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/pike (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

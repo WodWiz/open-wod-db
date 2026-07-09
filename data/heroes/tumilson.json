@@ -1,0 +1,35 @@
+{
+  "id": "tumilson",
+  "name": "Tumilson",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 8,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 200
+    },
+    {
+      "exercise": "dumbbell-burpee-deadlift",
+      "reps": 11,
+      "load": {
+        "rx_male": "60lb",
+        "rx_female": "45lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "dumbbell",
+    "8-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/tumilson-hero (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "tk",
+  "name": "TK",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "strict-pull-up",
+      "reps": 8
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 8,
+      "notes": "36-inch box (men) / 30-inch (women)"
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 12,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "kettlebell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/tk (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

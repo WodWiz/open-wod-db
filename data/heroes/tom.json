@@ -1,0 +1,38 @@
+{
+  "id": "tom",
+  "name": "Tom",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 25
+  },
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 7
+    },
+    {
+      "exercise": "thruster",
+      "reps": 11,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      }
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 14
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/tom (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

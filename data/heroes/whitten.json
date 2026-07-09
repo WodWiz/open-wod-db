@@ -1,0 +1,51 @@
+{
+  "id": "whitten",
+  "name": "Whitten",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 22,
+      "load": {
+        "rx_male": "72lb",
+        "rx_female": "53lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 22
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "burpee",
+      "reps": 22
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 22,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "kettlebell",
+    "running",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/whitten (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

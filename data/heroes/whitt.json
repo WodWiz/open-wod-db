@@ -1,0 +1,43 @@
+{
+  "id": "whitt",
+  "name": "Whitt",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 800,
+      "notes": "carrying a 30/20 lb medicine ball"
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 30,
+      "load": {
+        "rx_male": "30lb",
+        "rx_female": "20lb"
+      }
+    },
+    {
+      "exercise": "ball-slam",
+      "reps": 30,
+      "load": {
+        "rx_male": "30lb",
+        "rx_female": "20lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/whitt-hero (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

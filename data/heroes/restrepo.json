@@ -1,0 +1,56 @@
+{
+  "id": "restrepo",
+  "name": "Restrepo",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "strict-pull-up",
+      "reps": 7
+    },
+    {
+      "exercise": "strict-handstand-push-up",
+      "reps": 7
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 20
+    },
+    {
+      "exercise": "alternating-dumbbell-snatch",
+      "reps": 22,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "dumbbell-carry",
+      "distance_m": 200,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "dumbbell",
+    "gymnastics",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/restrepo (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

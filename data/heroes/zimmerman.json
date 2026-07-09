@@ -1,0 +1,38 @@
+{
+  "id": "zimmerman",
+  "name": "Zimmerman",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 25
+  },
+  "movements": [
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 11
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 2,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "205lb"
+      }
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 10
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/zimmerman (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

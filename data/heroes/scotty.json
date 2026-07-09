@@ -1,0 +1,41 @@
+{
+  "id": "scotty",
+  "name": "Scotty",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 11
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 5,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "205lb"
+      }
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 18,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "bar-facing-burpee",
+      "reps": 17
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell"
+  ],
+  "source_notes": "crossfit.com/benchmark/scotty (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

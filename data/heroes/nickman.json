@@ -1,0 +1,46 @@
+{
+  "id": "nickman",
+  "name": "Nickman",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "farmers-carry",
+      "distance_m": 200,
+      "load": {
+        "rx_male": "55lb",
+        "rx_female": "40lb"
+      }
+    },
+    {
+      "exercise": "weighted-pull-up",
+      "reps": 10,
+      "load": {
+        "rx_male": "35lb",
+        "rx_female": "20lb"
+      }
+    },
+    {
+      "exercise": "alternating-dumbbell-power-snatch",
+      "reps": 20,
+      "load": {
+        "rx_male": "55lb",
+        "rx_female": "40lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "dumbbell",
+    "10-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/nickman (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

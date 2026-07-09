@@ -1,0 +1,35 @@
+{
+  "id": "tully",
+  "name": "Tully",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 200
+    },
+    {
+      "exercise": "dumbbell-squat-clean",
+      "reps": 23,
+      "load": {
+        "rx_male": "40lb",
+        "rx_female": "30lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "swimming",
+    "dumbbell",
+    "4-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/tully (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

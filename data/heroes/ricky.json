@@ -1,0 +1,42 @@
+{
+  "id": "ricky",
+  "name": "Ricky",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "pull-up",
+      "reps": 10
+    },
+    {
+      "exercise": "dumbbell-deadlift",
+      "reps": 5,
+      "load": {
+        "rx_male": "75lb",
+        "rx_female": "50lb"
+      }
+    },
+    {
+      "exercise": "push-press",
+      "reps": 8,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "dumbbell",
+    "barbell"
+  ],
+  "source_notes": "crossfit.com/benchmark/ricky (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

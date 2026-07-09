@@ -1,0 +1,76 @@
+{
+  "id": "the-don",
+  "name": "The Don",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 66,
+      "load": {
+        "rx_male": "110lb",
+        "rx_female": "70lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 66
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 66,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "knees-to-elbows",
+      "reps": 66
+    },
+    {
+      "exercise": "sit-up",
+      "reps": 66
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 66
+    },
+    {
+      "exercise": "thruster",
+      "reps": 66,
+      "load": {
+        "rx_male": "55lb",
+        "rx_female": "55lb"
+      }
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 66,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 66
+    },
+    {
+      "exercise": "double-under",
+      "reps": 66
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "kettlebell",
+    "high-volume"
+  ],
+  "source_notes": "crossfit.com/benchmark/the-don-hero (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

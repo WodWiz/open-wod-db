@@ -1,0 +1,65 @@
+{
+  "id": "zeus",
+  "name": "Zeus",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 30,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "sumo-deadlift-high-pull",
+      "reps": 30,
+      "load": {
+        "rx_male": "75lb",
+        "rx_female": "55lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 30
+    },
+    {
+      "exercise": "push-press",
+      "reps": 30,
+      "load": {
+        "rx_male": "75lb",
+        "rx_female": "55lb"
+      }
+    },
+    {
+      "exercise": "row",
+      "reps": 30,
+      "notes": "calories"
+    },
+    {
+      "exercise": "push-up",
+      "reps": 30
+    },
+    {
+      "exercise": "back-squat",
+      "reps": 10,
+      "notes": "bodyweight"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "high-volume",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/zeus (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

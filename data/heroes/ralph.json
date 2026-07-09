@@ -1,0 +1,44 @@
+{
+  "id": "ralph",
+  "name": "Ralph",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 8,
+      "load": {
+        "rx_male": "250lb",
+        "rx_female": "175lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 16
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 3,
+      "notes": "to 15 feet"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 600
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "4-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/ralph (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

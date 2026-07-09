@@ -1,0 +1,59 @@
+{
+  "id": "pheezy",
+  "name": "Pheezy",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "front-squat",
+      "reps": 5,
+      "load": {
+        "rx_male": "165lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 18
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 5,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 18
+    },
+    {
+      "exercise": "push-jerk",
+      "reps": 5,
+      "load": {
+        "rx_male": "165lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "hand-release-push-up",
+      "reps": 18
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/pheezy (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

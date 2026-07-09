@@ -1,0 +1,45 @@
+{
+  "id": "walsh",
+  "name": "Walsh",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "burpee-pull-up",
+      "reps": 22
+    },
+    {
+      "exercise": "back-squat",
+      "reps": 22,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "125lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 200,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "25lb"
+      },
+      "notes": "with a plate held overhead"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "running",
+    "4-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/walsh (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

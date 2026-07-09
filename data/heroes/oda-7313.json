@@ -1,0 +1,51 @@
+{
+  "id": "oda-7313",
+  "name": "ODA 7313",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 300,
+      "notes": "jog"
+    },
+    {
+      "exercise": "dumbbell-thruster",
+      "reps": 10,
+      "load": {
+        "rx_male": "30lb",
+        "rx_female": "20lb"
+      },
+      "notes": "left arm"
+    },
+    {
+      "exercise": "dumbbell-thruster",
+      "reps": 10,
+      "load": {
+        "rx_male": "30lb",
+        "rx_female": "20lb"
+      },
+      "notes": "right arm"
+    },
+    {
+      "exercise": "strict-pull-up",
+      "reps": 7
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "dumbbell",
+    "gymnastics",
+    "7-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/oda-7313 (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

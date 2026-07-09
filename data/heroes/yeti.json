@@ -1,0 +1,39 @@
+{
+  "id": "yeti",
+  "name": "Yeti",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "pull-up",
+      "reps": 25
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 10
+    },
+    {
+      "exercise": "run",
+      "distance_m": 2414
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 10
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 25
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "running"
+  ],
+  "source_notes": "crossfit.com/benchmark/yeti (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}
