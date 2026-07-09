@@ -1,0 +1,64 @@
+{
+  "id": "qf-22-1",
+  "name": "22.QF1",
+  "category": "quarterfinal",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 15,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-walking-lunge",
+      "reps": 50,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "steps; two dumbbells"
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 30
+    },
+    {
+      "exercise": "dumbbell-front-rack-lunge",
+      "reps": 40,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "steps; two dumbbells"
+    },
+    {
+      "exercise": "deficit-handstand-push-up",
+      "reps": 20,
+      "notes": "3.5 in deficit (men) / 2 in (women)"
+    },
+    {
+      "exercise": "dumbbell-overhead-lunge",
+      "reps": 30,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "steps; two dumbbells"
+    },
+    {
+      "exercise": "strict-handstand-push-up",
+      "reps": 10
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2022",
+    "dumbbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2022/1 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

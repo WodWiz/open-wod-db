@@ -1,0 +1,37 @@
+{
+  "id": "qf-24-2",
+  "name": "24.QF2",
+  "category": "quarterfinal",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 50,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "lateral-burpee",
+      "reps": 50,
+      "notes": "over a box; 24 in (men) / 20 in (women)"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2024",
+    "bodyweight",
+    "3-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2024/2 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "qf-21-4",
+  "name": "21.QF4",
+  "category": "quarterfinal",
+  "format": "max_load",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "load"
+  },
+  "movements": [
+    {
+      "exercise": "front-squat",
+      "reps": 4,
+      "notes": "athlete's own 4-rep-max; no fixed Rx weight"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2021",
+    "barbell",
+    "max-load"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2021/4 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

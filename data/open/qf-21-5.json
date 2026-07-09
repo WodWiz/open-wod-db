@@ -1,0 +1,46 @@
+{
+  "id": "qf-21-5",
+  "name": "21.QF5",
+  "category": "quarterfinal",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "snatch",
+      "reps": [
+        9,
+        6,
+        3
+      ],
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "135lb"
+      }
+    },
+    {
+      "exercise": "burpee-box-jump-over",
+      "reps": [
+        9,
+        6,
+        3
+      ],
+      "notes": "30 in box"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2021",
+    "barbell",
+    "bodyweight",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2021/5 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

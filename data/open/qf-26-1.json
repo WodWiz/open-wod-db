@@ -1,0 +1,58 @@
+{
+  "id": "qf-26-1",
+  "name": "26.QF1",
+  "category": "quarterfinal",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "shuttle-run",
+      "reps": 10,
+      "notes": "50 ft"
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 20,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "80lb"
+      }
+    },
+    {
+      "exercise": "burpee-over-the-bar",
+      "reps": 30
+    },
+    {
+      "exercise": "burpee-over-the-bar",
+      "reps": 30
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 20,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "80lb"
+      }
+    },
+    {
+      "exercise": "shuttle-run",
+      "reps": 10,
+      "notes": "50 ft"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2026",
+    "barbell",
+    "bodyweight"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2026/1 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09; 1-minute mandatory rest between the two burpee-over-the-bar sets; score includes the rest period",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

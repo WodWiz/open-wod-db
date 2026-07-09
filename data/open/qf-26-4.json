@@ -1,0 +1,45 @@
+{
+  "id": "qf-26-4",
+  "name": "26.QF4",
+  "category": "quarterfinal",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 30,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "row",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "strict-handstand-push-up",
+      "reps": 30
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2026",
+    "barbell",
+    "rowing",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2026/4 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

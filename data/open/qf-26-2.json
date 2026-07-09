@@ -1,0 +1,36 @@
+{
+  "id": "qf-26-2",
+  "name": "26.QF2",
+  "category": "quarterfinal",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 15,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-hang-squat-clean",
+      "reps": 80,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 40
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2026",
+    "dumbbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2026/2 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09; movements may be completed in any order/partitioned as desired",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

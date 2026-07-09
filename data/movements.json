@@ -1,5 +1,5 @@
 {
-  "count": 230,
+  "count": 232,
   "movements": [
     {
       "id": "ab-mat-sit-up",
@@ -202,7 +202,9 @@
         "open-17-2",
         "open-18-3",
         "open-22-3",
-        "open-25-2"
+        "open-25-2",
+        "qf-23-5",
+        "qf-26-2"
       ],
       "description": null
     },
@@ -257,6 +259,7 @@
         "justin",
         "linda",
         "lynne",
+        "qf-22-4",
         "roney"
       ],
       "description": null
@@ -467,7 +470,10 @@
         "dunn",
         "hoover",
         "open-17-1",
-        "open-21-2"
+        "open-21-2",
+        "qf-21-5",
+        "qf-22-5",
+        "qf-23-3"
       ],
       "description": null
     },
@@ -513,7 +519,8 @@
       ],
       "workouts": [
         "grettel",
-        "ingrid"
+        "ingrid",
+        "qf-26-1"
       ],
       "description": null
     },
@@ -571,6 +578,7 @@
         "open-22-3",
         "open-25-2",
         "open-26-2",
+        "qf-23-5",
         "sean",
         "spehar",
         "weaver",
@@ -606,7 +614,8 @@
         "open-15-4",
         "open-21-4",
         "open-23-1",
-        "open-25-3"
+        "open-25-3",
+        "qf-22-4"
       ],
       "description": null
     },
@@ -629,7 +638,9 @@
         "grettel",
         "gwen",
         "open-13-4",
-        "open-20-4"
+        "open-20-4",
+        "qf-23-3",
+        "qf-26-4"
       ],
       "description": null
     },
@@ -659,7 +670,9 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "qf-23-2"
+      ],
       "description": null
     },
     {
@@ -727,6 +740,8 @@
         "open-24-2",
         "open-25-3",
         "pheezy",
+        "qf-23-5",
+        "qf-26-3",
         "ralph",
         "rankel",
         "roy",
@@ -756,7 +771,8 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
-        "ozzy"
+        "ozzy",
+        "qf-22-1"
       ],
       "description": null
     },
@@ -855,6 +871,7 @@
         "open-24-2",
         "open-25-2",
         "paul",
+        "qf-26-3",
         "the-don"
       ],
       "description": null
@@ -879,7 +896,8 @@
       ],
       "aliases": [],
       "workouts": [
-        "open-19-3"
+        "open-19-3",
+        "qf-24-1"
       ],
       "description": null
     },
@@ -963,7 +981,9 @@
         "dumbbell"
       ],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "qf-22-1"
+      ],
       "description": null
     },
     {
@@ -1026,6 +1046,17 @@
       "description": null
     },
     {
+      "id": "dumbbell-hang-power-clean",
+      "name": "Dumbbell Hang Power Clean",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": null
+    },
+    {
       "id": "dumbbell-hang-split-snatch",
       "name": "Dumbbell Hang Split Snatch",
       "category": "dumbbell",
@@ -1048,6 +1079,7 @@
       "aliases": [],
       "workouts": [
         "nick",
+        "qf-26-2",
         "santiago"
       ],
       "description": null
@@ -1073,7 +1105,9 @@
       "aliases": [],
       "workouts": [
         "open-19-3",
-        "open-26-2"
+        "open-26-2",
+        "qf-22-1",
+        "qf-23-2"
       ],
       "description": null
     },
@@ -1166,6 +1200,17 @@
       "description": null
     },
     {
+      "id": "dumbbell-shoulder-to-overhead",
+      "name": "Dumbbell Shoulder To Overhead",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": null
+    },
+    {
       "id": "dumbbell-snatch",
       "name": "Dumbbell Snatch",
       "category": "dumbbell",
@@ -1180,7 +1225,8 @@
         "open-18-3",
         "open-21-2",
         "open-22-1",
-        "open-24-1"
+        "open-24-1",
+        "qf-23-2"
       ],
       "description": null
     },
@@ -1274,7 +1320,8 @@
       "aliases": [],
       "workouts": [
         "dg",
-        "open-17-2"
+        "open-17-2",
+        "qf-22-1"
       ],
       "description": null
     },
@@ -1373,6 +1420,8 @@
         "larry",
         "liam",
         "pheezy",
+        "qf-21-4",
+        "qf-23-1",
         "sean",
         "t-u-p",
         "willy",
@@ -1401,6 +1450,9 @@
         "hansen",
         "jorge",
         "mr-joshua",
+        "qf-21-2",
+        "qf-22-2",
+        "qf-23-4",
         "stephen"
       ],
       "description": null
@@ -1508,6 +1560,8 @@
         "open-18-4",
         "open-20-3",
         "pike",
+        "qf-22-1",
+        "qf-24-3",
         "santiago",
         "the-seven",
         "zimmerman"
@@ -1525,7 +1579,8 @@
       "workouts": [
         "open-18-4",
         "open-19-3",
-        "open-20-3"
+        "open-20-3",
+        "qf-23-1"
       ],
       "description": null
     },
@@ -1933,7 +1988,9 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "qf-24-2"
+      ],
       "description": null
     },
     {
@@ -2055,6 +2112,9 @@
         "open-20-5",
         "open-23-1",
         "open-26-2",
+        "qf-22-2",
+        "qf-23-1",
+        "qf-24-3",
         "ryan",
         "tom",
         "tyler",
@@ -2092,7 +2152,9 @@
         "open-11-4",
         "open-14-2",
         "open-15-2",
-        "open-18-3"
+        "open-18-3",
+        "qf-22-4",
+        "qf-26-1"
       ],
       "description": null
     },
@@ -2165,7 +2227,9 @@
       "workouts": [
         "maggie",
         "mary",
-        "open-20-4"
+        "open-20-4",
+        "qf-21-2",
+        "qf-22-2"
       ],
       "description": null
     },
@@ -2489,6 +2553,10 @@
         "liam",
         "moon",
         "moore",
+        "qf-21-2",
+        "qf-22-3",
+        "qf-23-5",
+        "qf-24-3",
         "ralph",
         "rj",
         "robbie",
@@ -2523,6 +2591,11 @@
         "open-23-1",
         "open-24-2",
         "open-25-3",
+        "qf-21-3",
+        "qf-22-5",
+        "qf-23-4",
+        "qf-24-1",
+        "qf-26-4",
         "small",
         "topsy",
         "weston",
@@ -2693,7 +2766,10 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "qf-22-3",
+        "qf-26-1"
+      ],
       "description": null
     },
     {
@@ -2816,7 +2892,10 @@
         "open-12-2",
         "open-13-1",
         "open-15-1",
-        "open-25-3"
+        "open-25-3",
+        "qf-21-5",
+        "qf-22-5",
+        "qf-24-1"
       ],
       "description": null
     },
@@ -2945,6 +3024,9 @@
       "aliases": [],
       "workouts": [
         "open-19-3",
+        "qf-22-1",
+        "qf-24-3",
+        "qf-26-4",
         "restrepo"
       ],
       "description": null
@@ -3105,6 +3187,7 @@
         "open-20-2",
         "open-23-1",
         "pheezy",
+        "qf-24-3",
         "restrepo",
         "tom",
         "white"
@@ -3161,7 +3244,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "qf-23-4"
+      ],
       "description": null
     },
     {
@@ -3209,6 +3294,9 @@
         "open-20-5",
         "open-23-1",
         "open-26-1",
+        "qf-21-3",
+        "qf-22-3",
+        "qf-24-2",
         "scotty",
         "the-don",
         "whitt",
@@ -3238,8 +3326,13 @@
       "name": "Wall Facing Handstand Push Up",
       "category": "gymnastics",
       "equipment": [],
-      "aliases": [],
-      "workouts": [],
+      "aliases": [
+        "chest-to-wall handstand push-up"
+      ],
+      "workouts": [
+        "qf-23-1",
+        "qf-24-3"
+      ],
       "description": null
     },
     {

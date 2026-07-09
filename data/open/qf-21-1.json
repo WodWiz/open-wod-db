@@ -1,0 +1,78 @@
+{
+  "id": "qf-21-1",
+  "name": "21.QF1",
+  "category": "quarterfinal",
+  "format": "multi_part",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "time"
+  },
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2021",
+    "dumbbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2021/1 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "Part 1",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "strict-handstand-push-up",
+          "reps": 10
+        },
+        {
+          "exercise": "dumbbell-hang-power-clean",
+          "reps": 10,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        }
+      ],
+      "rest_after_seconds": 60
+    },
+    {
+      "label": "Part 2",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "handstand-push-up",
+          "reps": 10
+        },
+        {
+          "exercise": "dumbbell-shoulder-to-overhead",
+          "reps": 10,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        }
+      ]
+    }
+  ]
+}

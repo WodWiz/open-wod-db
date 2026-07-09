@@ -1,0 +1,64 @@
+{
+  "id": "qf-23-2",
+  "name": "23.QF2",
+  "category": "quarterfinal",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": 8,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "50lb"
+      },
+      "notes": "arm 1"
+    },
+    {
+      "exercise": "dumbbell-overhead-lunge",
+      "reps": 8,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "50lb"
+      },
+      "notes": "steps; arm 1"
+    },
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": 8,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "50lb"
+      },
+      "notes": "arm 2"
+    },
+    {
+      "exercise": "dumbbell-overhead-lunge",
+      "reps": 8,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "50lb"
+      },
+      "notes": "steps; arm 2"
+    },
+    {
+      "exercise": "crossover-single-under",
+      "reps": 40
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2023",
+    "dumbbell",
+    "jump-rope"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2023/2 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

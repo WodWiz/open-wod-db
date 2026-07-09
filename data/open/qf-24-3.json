@@ -1,0 +1,73 @@
+{
+  "id": "qf-24-3",
+  "name": "24.QF3",
+  "category": "quarterfinal",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 15,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "handstand-push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 20
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 20
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 20
+    },
+    {
+      "exercise": "strict-handstand-push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 5,
+      "notes": "to 15 feet"
+    },
+    {
+      "exercise": "strict-handstand-push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 5,
+      "notes": "to 15 feet"
+    },
+    {
+      "exercise": "wall-facing-handstand-push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 20
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2024",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2024/3 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
