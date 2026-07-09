@@ -1,5 +1,5 @@
 {
-  "count": 240,
+  "count": 241,
   "movements": [
     {
       "id": "ab-mat-sit-up",
@@ -207,6 +207,7 @@
         "bmu"
       ],
       "workouts": [
+        "games-19-sprint-couplet",
         "games-20-2007-reload",
         "games-21-event-2",
         "games-22-jackie-pro",
@@ -296,6 +297,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-19-ringer-1",
         "games-20-bike-repeater",
         "games-20-swim-n-stuff",
         "games-22-bike-to-work",
@@ -431,6 +433,7 @@
         "ellen",
         "forrest",
         "fournier",
+        "games-19-ringer-2",
         "games-20-happy-star",
         "games-24-firestorm",
         "glen",
@@ -634,6 +637,7 @@
         "adambrown",
         "big-sexy",
         "elizabeth",
+        "games-19-clean",
         "games-20-awful-annie",
         "games-21-event-6",
         "games-21-event-7",
@@ -662,6 +666,7 @@
         "abbate",
         "crain",
         "desforges",
+        "games-19-the-standard",
         "games-23-olympic-total",
         "glen",
         "grace",
@@ -896,6 +901,7 @@
         "bradshaw",
         "bull",
         "dork",
+        "games-19-split-triplet",
         "games-20-awful-annie",
         "games-21-event-11",
         "games-23-parallel-bar-pull",
@@ -1071,6 +1077,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-19-split-triplet",
         "open-18-1"
       ],
       "description": null
@@ -1108,6 +1115,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-19-split-triplet",
         "moon"
       ],
       "description": null
@@ -1608,6 +1616,7 @@
         "del",
         "diane",
         "falkel",
+        "games-19-mary",
         "games-20-atalanta",
         "games-24-push-pull-2",
         "holleyman",
@@ -1643,6 +1652,7 @@
         "hs walk"
       ],
       "workouts": [
+        "games-19-second-cut",
         "games-20-handstand-sprint",
         "games-23-inverted-medley",
         "open-18-4",
@@ -1939,7 +1949,9 @@
         "kettlebell"
       ],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-19-second-cut"
+      ],
       "description": null
     },
     {
@@ -2107,6 +2119,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-19-first-cut",
         "games-20-bike-repeater",
         "games-23-alpaca-redux"
       ],
@@ -2204,6 +2217,7 @@
         "coffey",
         "dobogai",
         "dunn",
+        "games-19-the-standard",
         "games-21-event-2",
         "games-22-up-and-over",
         "games-23-muscle-up-logs",
@@ -2268,6 +2282,7 @@
       "workouts": [
         "arnie",
         "bull",
+        "games-19-ringer-2",
         "games-20-nasty-nancy",
         "jbo",
         "jenny",
@@ -2312,6 +2327,17 @@
       "description": null
     },
     {
+      "id": "paddleboard",
+      "name": "Paddleboard",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "workouts": [
+        "games-19-swim-paddle"
+      ],
+      "description": null
+    },
+    {
       "id": "parallel-bar-traverse",
       "name": "Parallel Bar Traverse",
       "category": "gymnastics",
@@ -2340,6 +2366,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-19-split-triplet",
         "games-21-event-11"
       ],
       "description": null
@@ -2365,6 +2392,7 @@
         "pistol squat"
       ],
       "workouts": [
+        "games-19-mary",
         "games-20-atalanta",
         "maggie",
         "mary",
@@ -2476,6 +2504,7 @@
         "erin",
         "eva",
         "fran",
+        "games-19-mary",
         "games-20-atalanta",
         "gaza",
         "hamilton",
@@ -2731,6 +2760,7 @@
       "aliases": [],
       "workouts": [
         "brehm",
+        "games-19-second-cut",
         "games-20-1000m-row",
         "games-20-2007-reload",
         "games-21-event-15",
@@ -2790,6 +2820,8 @@
         "eva",
         "forrest",
         "gallant",
+        "games-19-first-cut",
+        "games-19-ruck",
         "games-20-atalanta",
         "games-20-happy-star",
         "games-20-nasty-nancy",
@@ -3079,6 +3111,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-19-sprint-couplet",
         "games-20-sprint-sled-sprint",
         "games-21-event-2",
         "games-22-the-alpaca",
@@ -3095,6 +3128,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-19-the-standard",
         "games-21-event-12",
         "games-21-event-9",
         "games-23-olympic-total",
@@ -3198,7 +3232,8 @@
       ],
       "aliases": [],
       "workouts": [
-        "amanda"
+        "amanda",
+        "games-19-first-cut"
       ],
       "description": null
     },
@@ -3326,6 +3361,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-19-swim-paddle",
         "games-20-swim-n-stuff",
         "games-21-event-1",
         "games-22-rinse-n-repeat",
@@ -3438,6 +3474,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-19-ringer-1",
         "ledesma"
       ],
       "description": null

@@ -101,6 +101,7 @@ GROUPS = {
     "monostructural": [
         "run", "sprint", "run-backward", "shuttle-sprint", "shuttle-run", "row",
         "ski-erg", "bike", "assault-bike", "echo-bike", "bike-erg", "swim", "kayak",
+        "paddleboard",
         "stair-climb",
     ],
     "odd-object": [

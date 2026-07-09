@@ -1,6 +1,500 @@
 {
-  "count": 358,
+  "count": 369,
   "wods": [
+    {
+      "id": "games-19-clean",
+      "name": "Clean (2019 Games)",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "315lb",
+            "rx_female": "215lb"
+          },
+          "notes": "starting weight; athletes lift in reverse order of current placement, weight increasing each round; possible weights up to 385 lb (men) / 260 lb (women)"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2019",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2019/8 (official CrossFit Games event), retrieved 2026-07-09; tiebreak was 5 reps at 295 lb (men) / 195 lb (women) for athletes who failed their attempt",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-19-first-cut",
+      "name": "First Cut",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 4,
+        "time_cap_minutes": 20,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "legless-rope-climb",
+          "reps": 3
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": 7,
+          "load": {
+            "rx_male": "185lb",
+            "rx_female": "130lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2019",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2019/1 (official CrossFit Games event), retrieved 2026-07-09; top 75 athletes score points, the rest are ranked with 0",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-19-mary",
+      "name": "Mary (2019 Games)",
+      "category": "games",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 20,
+        "scoring": "rounds_reps"
+      },
+      "movements": [
+        {
+          "exercise": "handstand-push-up",
+          "reps": 5
+        },
+        {
+          "exercise": "pistol",
+          "reps": 10,
+          "notes": "alternating legs"
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 15
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2019",
+        "gymnastics",
+        "bodyweight"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2019/5 (official CrossFit Games event), retrieved 2026-07-09; the classic Girl WOD Mary, reused as a Games event",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-19-ringer-1",
+      "name": "Ringer 1",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "bike",
+          "reps": 30,
+          "notes": "calories; air bike"
+        },
+        {
+          "exercise": "toes-to-ring",
+          "reps": 30
+        },
+        {
+          "exercise": "bike",
+          "reps": 20,
+          "notes": "calories; air bike"
+        },
+        {
+          "exercise": "toes-to-ring",
+          "reps": 20
+        },
+        {
+          "exercise": "bike",
+          "reps": 10,
+          "notes": "calories; air bike"
+        },
+        {
+          "exercise": "toes-to-ring",
+          "reps": 10
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2019",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2019/10 (official CrossFit Games event), retrieved 2026-07-09; time cap 6 minutes (men) / 7 minutes (women); scored separately from Ringer 2, which begins 1 minute after this event's cap",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-19-ringer-2",
+      "name": "Ringer 2",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "burpee",
+          "reps": 15,
+          "notes": "with a jump to touch the rings"
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 15,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": 10,
+          "notes": "with a jump to touch the rings"
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 10,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": 5,
+          "notes": "with a jump to touch the rings"
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 5,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2019",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2019/11 (official CrossFit Games event), retrieved 2026-07-09; scored separately from Ringer 1, starting 7 minutes after Ringer 1 begins",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-19-ruck",
+      "name": "Ruck",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 40,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 1500,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "20lb"
+          },
+          "notes": "weighted ruck run"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1500,
+          "load": {
+            "rx_male": "30lb",
+            "rx_female": "30lb"
+          },
+          "notes": "weighted ruck run"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1500,
+          "load": {
+            "rx_male": "40lb",
+            "rx_female": "40lb"
+          },
+          "notes": "weighted ruck run"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1500,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "50lb"
+          },
+          "notes": "weighted ruck run"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2019",
+        "running",
+        "weighted",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2019/3 (official CrossFit Games event), retrieved 2026-07-09; 4 laps of the same 1,500 m course, adding weight each lap (same for both divisions); top 40 athletes advance",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-19-second-cut",
+      "name": "Second Cut",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 800
+        },
+        {
+          "exercise": "kettlebell-press",
+          "reps": 66,
+          "load": {
+            "rx_male": "35lb",
+            "rx_female": "26lb"
+          },
+          "notes": "shoulder-to-overhead; 2 kettlebells (16 kg men / 12 kg women)"
+        },
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 40,
+          "notes": "132 ft"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2019",
+        "rowing",
+        "kettlebell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2019/2 (official CrossFit Games event), retrieved 2026-07-09; top 50 athletes advance",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-19-split-triplet",
+      "name": "Split Triplet",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "time_cap_minutes": 20,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "pegboard",
+          "reps": 1
+        },
+        {
+          "exercise": "double-under",
+          "reps": 100
+        },
+        {
+          "exercise": "dumbbell-hang-split-snatch",
+          "reps": 10,
+          "load": {
+            "rx_male": "80lb",
+            "rx_female": "55lb"
+          },
+          "notes": "alternating arms each rep"
+        },
+        {
+          "exercise": "dumbbell-hang-clean-and-jerk",
+          "reps": 10,
+          "load": {
+            "rx_male": "80lb",
+            "rx_female": "55lb"
+          },
+          "notes": "split jerk variant; opposite arm from lead leg"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2019",
+        "gymnastics",
+        "dumbbell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2019/7 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-19-sprint-couplet",
+      "name": "Sprint Couplet",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "sled-push",
+          "distance_m": 52,
+          "notes": "172 ft"
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 18,
+          "notes": "18 reps (men) / 15 reps (women)"
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 52,
+          "notes": "172 ft"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2019",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2019/4 (official CrossFit Games event), retrieved 2026-07-09; top 30 athletes advance",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-19-swim-paddle",
+      "name": "Swim Paddle",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 50,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 1000
+        },
+        {
+          "exercise": "paddleboard",
+          "distance_m": 1000
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2019",
+        "swim",
+        "open-water",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2019/9 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-19-the-standard",
+      "name": "The Standard",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 12,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 30,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 30
+        },
+        {
+          "exercise": "snatch",
+          "reps": 30,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2019",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2019/12 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
     {
       "id": "games-20-1000m-row",
       "name": "1,000-M Row",

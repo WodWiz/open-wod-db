@@ -1,0 +1,33 @@
+{
+  "id": "games-19-swim-paddle",
+  "name": "Swim Paddle",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 50,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "paddleboard",
+      "distance_m": 1000
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2019",
+    "swim",
+    "open-water",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2019/9 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
