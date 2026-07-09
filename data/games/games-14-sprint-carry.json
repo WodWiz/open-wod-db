@@ -1,0 +1,62 @@
+{
+  "id": "games-14-sprint-carry",
+  "name": "Sprint Carry",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "sprint",
+      "distance_m": 91,
+      "notes": "100 yd"
+    },
+    {
+      "exercise": "sandbag-carry",
+      "distance_m": 91,
+      "load": {
+        "rx_male": "100lb",
+        "rx_female": "60lb"
+      },
+      "notes": "100 yd; metal cylinder"
+    },
+    {
+      "exercise": "sprint",
+      "distance_m": 91,
+      "notes": "100 yd"
+    },
+    {
+      "exercise": "sandbag-carry",
+      "distance_m": 91,
+      "load": {
+        "rx_male": "120lb",
+        "rx_female": "80lb"
+      },
+      "notes": "100 yd"
+    },
+    {
+      "exercise": "sprint",
+      "distance_m": 91,
+      "notes": "100 yd"
+    },
+    {
+      "exercise": "sandbag-carry",
+      "distance_m": 91,
+      "load": {
+        "rx_male": "150lb",
+        "rx_female": "100lb"
+      },
+      "notes": "100 yd; metal cylinder"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2014",
+    "venue-equipment"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2014/8 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

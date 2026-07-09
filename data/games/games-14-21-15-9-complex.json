@@ -1,0 +1,132 @@
+{
+  "id": "games-14-21-15-9-complex",
+  "name": "21-15-9 Complex",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 8,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "clean",
+      "reps": 7,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "snatch",
+      "reps": 6,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 8
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 7
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 6
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 6,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "clean",
+      "reps": 5,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "snatch",
+      "reps": 4,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 6
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 5
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 4
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 4,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "clean",
+      "reps": 3,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "snatch",
+      "reps": 2,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 4
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 3
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 2
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2014",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2014/6 (official CrossFit Games event), retrieved 2026-07-09; named for its three descending stages, though the actual rep scheme is 8-7-6, 6-5-4, 4-3-2 rather than literal 21-15-9",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

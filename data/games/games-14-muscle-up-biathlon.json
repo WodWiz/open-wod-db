@@ -1,0 +1,48 @@
+{
+  "id": "games-14-muscle-up-biathlon",
+  "name": "Muscle-Up Biathlon",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 18,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 18
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 15
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 12
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2014",
+    "running",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2014/7 (official CrossFit Games event), retrieved 2026-07-09; each time an athlete breaks a set of muscle-ups, they must run an additional 200 m penalty lap",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

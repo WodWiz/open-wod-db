@@ -1,0 +1,43 @@
+{
+  "id": "games-14-midline-march",
+  "name": "Midline March",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 25
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 15,
+      "notes": "50 ft"
+    },
+    {
+      "exercise": "overhead-walking-lunge",
+      "distance_m": 15,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "115lb"
+      },
+      "notes": "50 ft"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2014",
+    "barbell",
+    "gymnastics",
+    "3-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2014/11 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -216,6 +216,7 @@
         "bmu"
       ],
       "workouts": [
+        "games-14-21-15-9-complex",
         "games-15-triangle-couplet",
         "games-17-muscle-up-clean-ladder",
         "games-18-bicouplet-2",
@@ -451,6 +452,7 @@
         "ellen",
         "forrest",
         "fournier",
+        "games-14-the-beach",
         "games-16-the-separator",
         "games-17-madison-triplet",
         "games-18-chaos",
@@ -612,6 +614,7 @@
         "bulger",
         "cameron",
         "del",
+        "games-14-21-15-9-complex",
         "games-18-bicouplet-1",
         "games-20-friendly-fran",
         "games-21-event-15",
@@ -662,6 +665,7 @@
         "adambrown",
         "big-sexy",
         "elizabeth",
+        "games-14-21-15-9-complex",
         "games-17-muscle-up-clean-ladder",
         "games-19-clean",
         "games-20-awful-annie",
@@ -692,6 +696,7 @@
         "abbate",
         "crain",
         "desforges",
+        "games-14-double-grace",
         "games-15-clean-and-jerk",
         "games-19-the-standard",
         "games-23-olympic-total",
@@ -785,6 +790,7 @@
         "diane",
         "donny",
         "dt",
+        "games-14-21-15-9-complex",
         "games-15-heavy-dt",
         "games-16-double-dt",
         "games-16-ranch-deadlift-ladder",
@@ -851,6 +857,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-14-push-pull",
         "games-22-echo-press",
         "games-25-going-dark",
         "ozzy",
@@ -938,6 +945,7 @@
         "bradshaw",
         "bull",
         "dork",
+        "games-14-triple-3",
         "games-16-rope-chipper",
         "games-17-heavy-17-5",
         "games-18-handstand-walk",
@@ -1561,6 +1569,7 @@
         "ghd sit-up"
       ],
       "workouts": [
+        "games-14-midline-march",
         "games-17-triple-g-chipper",
         "games-20-awful-annie",
         "games-20-swim-n-stuff",
@@ -1701,6 +1710,7 @@
         "hs walk"
       ],
       "workouts": [
+        "games-14-midline-march",
         "games-15-soccer-chipper",
         "games-16-handstand-walk",
         "games-17-strongmans-fear",
@@ -2089,6 +2099,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-14-the-beach",
         "strange"
       ],
       "description": null
@@ -2294,6 +2305,7 @@
         "coffey",
         "dobogai",
         "dunn",
+        "games-14-muscle-up-biathlon",
         "games-17-amanda-45",
         "games-18-30-muscle-ups",
         "games-19-the-standard",
@@ -2361,6 +2373,8 @@
       "workouts": [
         "arnie",
         "bull",
+        "games-14-overhead-squat",
+        "games-14-thick-n-quick",
         "games-16-the-separator",
         "games-17-2223-intervals",
         "games-19-ringer-2",
@@ -2400,6 +2414,7 @@
       "aliases": [],
       "workouts": [
         "blake",
+        "games-14-midline-march",
         "games-21-event-15",
         "games-23-echo-thruster-final",
         "games-25-atlas",
@@ -2597,6 +2612,7 @@
         "erin",
         "eva",
         "fran",
+        "games-14-21-15-9-complex",
         "games-15-murph",
         "games-16-murph",
         "games-17-triple-g-chipper",
@@ -2831,6 +2847,7 @@
         "cameron",
         "dae-han",
         "falkel",
+        "games-14-thick-n-quick",
         "games-16-climbing-snail",
         "games-17-2223-intervals",
         "games-21-event-5",
@@ -2864,6 +2881,7 @@
       "aliases": [],
       "workouts": [
         "brehm",
+        "games-14-triple-3",
         "games-15-pedal-to-the-metal-1",
         "games-15-pedal-to-the-metal-2",
         "games-16-rope-chipper",
@@ -2930,6 +2948,8 @@
         "eva",
         "forrest",
         "gallant",
+        "games-14-muscle-up-biathlon",
+        "games-14-triple-3",
         "games-15-midline-madness",
         "games-15-murph",
         "games-16-climbing-snail",
@@ -3048,6 +3068,7 @@
       "aliases": [],
       "workouts": [
         "collin",
+        "games-14-sprint-carry",
         "games-15-sandbag-2015",
         "games-20-corn-sack-sprint"
       ],
@@ -3227,6 +3248,7 @@
       "aliases": [],
       "workouts": [
         "fournier",
+        "games-14-push-pull",
         "games-16-rope-chipper",
         "games-16-the-plow",
         "games-17-strongmans-fear",
@@ -3244,6 +3266,8 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-14-sprint-sled-1",
+        "games-14-sprint-sled-2",
         "games-16-climbing-snail",
         "games-19-sprint-couplet",
         "games-20-sprint-sled-sprint",
@@ -3273,6 +3297,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-14-21-15-9-complex",
         "games-17-1rm-snatch",
         "games-18-bicouplet-1",
         "games-18-bicouplet-2",
@@ -3345,6 +3370,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-14-sprint-carry",
         "games-16-ranch-mini-chipper",
         "games-20-sprint-sled-sprint",
         "games-21-event-3",
@@ -3514,6 +3540,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-14-the-beach",
         "games-15-pier-paddle",
         "games-16-ocean-swim",
         "games-17-run-swim-run",
