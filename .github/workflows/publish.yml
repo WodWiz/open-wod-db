@@ -1,8 +1,10 @@
 name: publish
 
-# On merge to main: re-derive the compiled index + .md twins, commit any drift,
-# and cut an auto-incremented semver tag + release so consumers can pin a version
-# (and the jsdelivr @<tag> / @latest URLs resolve to a real release).
+# On merge to main: cut an auto-incremented semver tag + release so consumers can
+# pin a version (and the jsdelivr @<tag> / @latest URLs resolve to a real release).
+# It does NOT commit to main: validate.yml already guarantees the committed
+# index.json/.md twins are current, so publish only validates, tags, and releases.
+# (Tag refs aren't covered by branch protection, so the bot can still push them.)
 on:
   push:
     branches: [main]
@@ -15,16 +17,13 @@ permissions:
   contents: write
 
 concurrency:
-  # Never let two publishes race on the tag counter or the main branch.
+  # Never let two publishes race on the tag counter.
   group: publish
   cancel-in-progress: false
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-    # Skip the bot's own regeneration commit (belt-and-suspenders; GITHUB_TOKEN
-    # pushes don't retrigger workflows, but a human could push "[skip ci]" too).
-    if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - uses: actions/checkout@v4
         with:
@@ -40,20 +39,19 @@ jobs:
       - name: Validate before publishing
         run: python scripts/validate.py
 
-      - name: Rebuild index and markdown twins
-        run: python scripts/build_index.py
-
-      - name: Commit regenerated artifacts
+      - name: Sync Supabase mirror
+        # Push the freshly-merged dataset into the queryable Supabase mirror.
+        # Skips gracefully if the secrets aren't configured, so it never blocks a
+        # release; the repo remains the source of truth regardless.
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain data/)" ]; then
-            git add data/
-            git commit -m "chore: rebuild index.json and .md twins [skip ci]"
-            git push
-          else
-            echo "No regeneration needed — index and .md twins already current."
+          if [ -z "$SUPABASE_URL" ] || [ -z "$SUPABASE_SERVICE_ROLE_KEY" ]; then
+            echo "Supabase secrets not set — skipping mirror sync."
+            exit 0
           fi
+          python sync/sync_supabase.py
 
       - name: Compute next semver tag
         id: version
