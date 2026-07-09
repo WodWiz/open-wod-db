@@ -1,0 +1,149 @@
+{
+  "id": "games-24-clean-ladder",
+  "name": "Clean Ladder",
+  "category": "games",
+  "format": "multi_part",
+  "format_meta": {},
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2024",
+    "barbell",
+    "max-load",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2024/6 (official CrossFit Games event), retrieved 2026-07-09; make-or-miss ladder across 3 rounds (each with its own 2-minute window), each attempt at a heavier weight; score is the heaviest successful clean",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "Round 1",
+      "format": "max_load",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "255lb",
+            "rx_female": "165lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "265lb",
+            "rx_female": "175lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "275lb",
+            "rx_female": "185lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "285lb",
+            "rx_female": "195lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "295lb",
+            "rx_female": "205lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Round 2",
+      "format": "max_load",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "295lb",
+            "rx_female": "205lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "305lb",
+            "rx_female": "215lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "315lb",
+            "rx_female": "225lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "325lb",
+            "rx_female": "230lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Round 3",
+      "format": "max_load",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "325lb",
+            "rx_female": "230lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "345lb",
+            "rx_female": "240lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "365lb",
+            "rx_female": "250lb"
+          }
+        }
+      ]
+    }
+  ]
+}

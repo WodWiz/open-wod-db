@@ -1,6 +1,614 @@
 {
-  "count": 293,
+  "count": 303,
   "wods": [
+    {
+      "id": "games-24-chad",
+      "name": "Chad",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 67,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "box-step-up",
+          "reps": 1000,
+          "load": {
+            "rx_male": "45lb",
+            "rx_female": "35lb"
+          },
+          "notes": "weight vest; completed as 250 trips"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2024",
+        "weighted",
+        "high-volume"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2024/5 (official CrossFit Games event), retrieved 2026-07-09; same core movement as the Hero WOD Chad1000x, but this is the official 2024 Games version with a 67-minute cap and vest load",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-24-clean-ladder",
+      "name": "Clean Ladder",
+      "category": "games",
+      "format": "multi_part",
+      "format_meta": {},
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2024",
+        "barbell",
+        "max-load",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2024/6 (official CrossFit Games event), retrieved 2026-07-09; make-or-miss ladder across 3 rounds (each with its own 2-minute window), each attempt at a heavier weight; score is the heaviest successful clean",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09",
+      "segments": [
+        {
+          "label": "Round 1",
+          "format": "max_load",
+          "format_meta": {
+            "time_cap_minutes": 2,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "255lb",
+                "rx_female": "165lb"
+              }
+            },
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "265lb",
+                "rx_female": "175lb"
+              }
+            },
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "275lb",
+                "rx_female": "185lb"
+              }
+            },
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "285lb",
+                "rx_female": "195lb"
+              }
+            },
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "295lb",
+                "rx_female": "205lb"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Round 2",
+          "format": "max_load",
+          "format_meta": {
+            "time_cap_minutes": 2,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "295lb",
+                "rx_female": "205lb"
+              }
+            },
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "305lb",
+                "rx_female": "215lb"
+              }
+            },
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "315lb",
+                "rx_female": "225lb"
+              }
+            },
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "325lb",
+                "rx_female": "230lb"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Round 3",
+          "format": "max_load",
+          "format_meta": {
+            "time_cap_minutes": 2,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "325lb",
+                "rx_female": "230lb"
+              }
+            },
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "345lb",
+                "rx_female": "240lb"
+              }
+            },
+            {
+              "exercise": "clean",
+              "reps": 1,
+              "load": {
+                "rx_male": "365lb",
+                "rx_female": "250lb"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "games-24-dickies-triplet",
+      "name": "Dickies Triplet",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "time_cap_minutes": 11,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 175
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 12
+        },
+        {
+          "exercise": "alternating-dumbbell-snatch",
+          "reps": 8,
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "70lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2024",
+        "dumbbell",
+        "running"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2024/8 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-24-final-1815",
+      "name": "Final 1815",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": 18,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 18
+        },
+        {
+          "exercise": "yoke-carry",
+          "distance_m": 24,
+          "load": {
+            "rx_male": "525lb",
+            "rx_female": "345lb"
+          },
+          "notes": "80 ft"
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 15
+        },
+        {
+          "exercise": "thruster",
+          "reps": 15,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2024",
+        "venue-equipment",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2024/10 (official CrossFit Games event), retrieved 2026-07-09; contested immediately after Final 2421 with only 2 minutes of rest between",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-24-final-2421",
+      "name": "Final 2421",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": 24,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 24
+        },
+        {
+          "exercise": "yoke-carry",
+          "distance_m": 24,
+          "load": {
+            "rx_male": "425lb",
+            "rx_female": "245lb"
+          },
+          "notes": "80 ft"
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 21
+        },
+        {
+          "exercise": "thruster",
+          "reps": 21,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2024",
+        "venue-equipment",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2024/9 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-24-firestorm",
+      "name": "Firestorm",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "time_cap_minutes": 4,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "echo-bike",
+          "reps": 15,
+          "notes": "calories (women use 11)"
+        },
+        {
+          "exercise": "burpee",
+          "reps": 11,
+          "notes": "over a barricade/obstacle"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2024",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2024/3 (official CrossFit Games event), retrieved 2026-07-09; men's time cap 4 minutes, women's 5 minutes",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-24-lake-day",
+      "name": "Lake Day",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 5633,
+          "notes": "3.5 miles"
+        },
+        {
+          "exercise": "swim",
+          "distance_m": 800
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2024",
+        "swim",
+        "open-water",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2024/1 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-24-midline-climb",
+      "name": "Midline Climb",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 20,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 50,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 3
+        },
+        {
+          "exercise": "ski-erg",
+          "reps": 50,
+          "notes": "calories (women use 30)"
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 3
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 50
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 3
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 50
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 3
+        },
+        {
+          "exercise": "ski-erg",
+          "reps": 50,
+          "notes": "calories (women use 30)"
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 3
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 50,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2024",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2024/2 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-24-push-pull-2",
+      "name": "Push Pull 2.0",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "handstand-push-up",
+          "reps": 45
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 24,
+          "load": {
+            "rx_male": "180lb",
+            "rx_female": "110lb"
+          },
+          "notes": "80 ft, from standing"
+        },
+        {
+          "exercise": "strict-handstand-push-up",
+          "reps": 30
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 24,
+          "load": {
+            "rx_male": "180lb",
+            "rx_female": "110lb"
+          },
+          "notes": "80 ft, seated from a platform"
+        },
+        {
+          "exercise": "freestanding-handstand-push-up",
+          "reps": 15
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2024",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2024/7 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-24-track-and-field",
+      "name": "Track and Field",
+      "category": "games",
+      "format": "multi_part",
+      "format_meta": {},
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2024",
+        "outdoor",
+        "hill"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2024/4 (official CrossFit Games event), retrieved 2026-07-09; Phase 2 begins at a fixed clock time (12:00) regardless of when Phase 1 finishes",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09",
+      "segments": [
+        {
+          "label": "Phase 1",
+          "format": "for_time",
+          "movements": [
+            {
+              "exercise": "run",
+              "distance_m": 1600
+            }
+          ]
+        },
+        {
+          "label": "Phase 2 (begins at the 12:00 mark regardless of Phase 1 completion)",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 3,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "sprint",
+              "distance_m": 46,
+              "notes": "50 yd"
+            },
+            {
+              "exercise": "sandbag-carry",
+              "distance_m": 46,
+              "load": {
+                "rx_male": "100lb",
+                "rx_female": "70lb"
+              },
+              "notes": "50 yd"
+            },
+            {
+              "exercise": "sprint",
+              "distance_m": 69,
+              "notes": "75 yd"
+            },
+            {
+              "exercise": "sandbag-carry",
+              "distance_m": 69,
+              "load": {
+                "rx_male": "100lb",
+                "rx_female": "70lb"
+              },
+              "notes": "75 yd"
+            },
+            {
+              "exercise": "sprint",
+              "distance_m": 91,
+              "notes": "100 yd"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "amanda",
       "name": "Amanda",

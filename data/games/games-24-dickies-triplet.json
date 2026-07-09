@@ -1,0 +1,41 @@
+{
+  "id": "games-24-dickies-triplet",
+  "name": "Dickies Triplet",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "time_cap_minutes": 11,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 175
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 12
+    },
+    {
+      "exercise": "alternating-dumbbell-snatch",
+      "reps": 8,
+      "load": {
+        "rx_male": "100lb",
+        "rx_female": "70lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2024",
+    "dumbbell",
+    "running"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2024/8 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

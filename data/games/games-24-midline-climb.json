@@ -1,0 +1,78 @@
+{
+  "id": "games-24-midline-climb",
+  "name": "Midline Climb",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 50,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 3
+    },
+    {
+      "exercise": "ski-erg",
+      "reps": 50,
+      "notes": "calories (women use 30)"
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 3
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 50
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 3
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 50
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 3
+    },
+    {
+      "exercise": "ski-erg",
+      "reps": 50,
+      "notes": "calories (women use 30)"
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 3
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 50,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2024",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2024/2 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

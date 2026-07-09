@@ -1,0 +1,55 @@
+{
+  "id": "games-24-final-1815",
+  "name": "Final 1815",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": 18,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 18
+    },
+    {
+      "exercise": "yoke-carry",
+      "distance_m": 24,
+      "load": {
+        "rx_male": "525lb",
+        "rx_female": "345lb"
+      },
+      "notes": "80 ft"
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 15
+    },
+    {
+      "exercise": "thruster",
+      "reps": 15,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2024",
+    "venue-equipment",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2024/10 (official CrossFit Games event), retrieved 2026-07-09; contested immediately after Final 2421 with only 2 minutes of rest between",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

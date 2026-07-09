@@ -1,0 +1,33 @@
+{
+  "id": "games-24-chad",
+  "name": "Chad",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 67,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "box-step-up",
+      "reps": 1000,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "35lb"
+      },
+      "notes": "weight vest; completed as 250 trips"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2024",
+    "weighted",
+    "high-volume"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2024/5 (official CrossFit Games event), retrieved 2026-07-09; same core movement as the Hero WOD Chad1000x, but this is the official 2024 Games version with a 67-minute cap and vest load",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
