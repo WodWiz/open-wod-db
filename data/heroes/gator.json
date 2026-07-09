@@ -1,0 +1,35 @@
+{
+  "id": "gator",
+  "name": "Gator",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 8,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "front-squat",
+      "reps": 5,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "125lb"
+      }
+    },
+    {
+      "exercise": "ring-push-up",
+      "reps": 26
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "8-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/gator (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

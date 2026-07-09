@@ -1,0 +1,32 @@
+{
+  "id": "ned",
+  "name": "Ned",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "back-squat",
+      "reps": 11,
+      "notes": "bodyweight"
+    },
+    {
+      "exercise": "row",
+      "distance_m": 1000
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "rowing",
+    "7-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/ned (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

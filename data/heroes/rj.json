@@ -1,0 +1,37 @@
+{
+  "id": "rj",
+  "name": "RJ",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 5,
+      "notes": "to 15 feet"
+    },
+    {
+      "exercise": "push-up",
+      "reps": 50
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "gymnastics",
+    "bodyweight",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/rj (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

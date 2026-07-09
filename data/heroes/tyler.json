@@ -1,0 +1,35 @@
+{
+  "id": "tyler",
+  "name": "Tyler",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 7
+    },
+    {
+      "exercise": "sumo-deadlift-high-pull",
+      "reps": 21,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "barbell",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/tyler (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

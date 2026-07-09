@@ -1,0 +1,44 @@
+{
+  "id": "justin",
+  "name": "Justin",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "back-squat",
+      "reps": [
+        30,
+        20,
+        10
+      ]
+    },
+    {
+      "exercise": "bench-press",
+      "reps": [
+        30,
+        20,
+        10
+      ]
+    },
+    {
+      "exercise": "strict-pull-up",
+      "reps": [
+        30,
+        20,
+        10
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "crossfit.com/benchmark/justin (official CrossFit Hero WOD page), retrieved 2026-07-09; official page lists no barbell load for back squat/bench press (conventionally performed at bodyweight)",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

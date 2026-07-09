@@ -1,0 +1,39 @@
+{
+  "id": "adrian",
+  "name": "Adrian",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "forward-roll",
+      "reps": 3
+    },
+    {
+      "exercise": "wall-climb",
+      "reps": 5
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 7
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 9
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "bodyweight",
+    "7-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/adrian (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

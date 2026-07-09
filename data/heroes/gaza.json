@@ -1,0 +1,48 @@
+{
+  "id": "gaza",
+  "name": "Gaza",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 35,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "push-up",
+      "reps": 30
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 25
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 20
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1609
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "kettlebell",
+    "bodyweight",
+    "running",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/gaza (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

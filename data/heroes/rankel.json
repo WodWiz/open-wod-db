@@ -1,0 +1,46 @@
+{
+  "id": "rankel",
+  "name": "Rankel",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 6,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "burpee-pull-up",
+      "reps": 7
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 10,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 200
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell",
+    "kettlebell"
+  ],
+  "source_notes": "crossfit.com/benchmark/rankel (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

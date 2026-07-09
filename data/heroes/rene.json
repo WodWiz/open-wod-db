@@ -1,0 +1,41 @@
+{
+  "id": "rene",
+  "name": "Ren\u00e9",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "walking-lunge",
+      "reps": 21,
+      "notes": "steps"
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 15
+    },
+    {
+      "exercise": "burpee",
+      "reps": 9
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "bodyweight",
+    "weight-vest",
+    "7-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/rene (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx includes a 20 lb (men) / 14 lb (women) weight vest",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

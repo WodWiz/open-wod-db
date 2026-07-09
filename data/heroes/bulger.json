@@ -1,0 +1,44 @@
+{
+  "id": "bulger",
+  "name": "Bulger",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 150
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 7
+    },
+    {
+      "exercise": "front-squat",
+      "reps": 7,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 7
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "barbell",
+    "gymnastics",
+    "10-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/bulger (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}
