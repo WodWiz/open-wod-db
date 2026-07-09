@@ -1,0 +1,53 @@
+{
+  "id": "games-13-the-cinco-1",
+  "name": "The Cinco 1",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "time_cap_minutes": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 5,
+      "load": {
+        "rx_male": "405lb",
+        "rx_female": "265lb"
+      }
+    },
+    {
+      "exercise": "pistol",
+      "reps": 5,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      },
+      "notes": "left leg, holding a kettlebell"
+    },
+    {
+      "exercise": "pistol",
+      "reps": 5,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      },
+      "notes": "right leg, holding a kettlebell"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2013",
+    "barbell",
+    "kettlebell",
+    "gymnastics",
+    "3-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2013/9 (official CrossFit Games event), retrieved 2026-07-09; finishes with an 80 ft handstand walk; The Cinco 2 begins exactly 1 minute after this event's cap",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

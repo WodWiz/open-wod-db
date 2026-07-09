@@ -1,0 +1,40 @@
+{
+  "id": "games-13-naughty-nancy",
+  "name": "Naughty Nancy",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 600,
+      "notes": "up and over a berm"
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 25,
+      "load": {
+        "rx_male": "140lb",
+        "rx_female": "95lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2013",
+    "barbell",
+    "running",
+    "outdoor",
+    "4-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2013/5 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

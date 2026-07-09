@@ -1,0 +1,33 @@
+{
+  "id": "games-13-the-cinco-2",
+  "name": "The Cinco 2",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "time_cap_minutes": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 5
+    },
+    {
+      "exercise": "deficit-handstand-push-up",
+      "reps": 5
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2013",
+    "gymnastics",
+    "3-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2013/10 (official CrossFit Games event), retrieved 2026-07-09; finishes with a 90 ft overhead walking lunge holding a 160/100 lb axle bar; begins 1 minute after The Cinco 1's cap",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "games-13-2007",
+  "name": "2007 (2013 Games)",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 15,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 25
+    },
+    {
+      "exercise": "push-jerk",
+      "reps": 7,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "85lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 25
+    },
+    {
+      "exercise": "push-jerk",
+      "reps": 7,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "85lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 25
+    },
+    {
+      "exercise": "push-jerk",
+      "reps": 7,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "85lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 25
+    },
+    {
+      "exercise": "push-jerk",
+      "reps": 7,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "85lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 25
+    },
+    {
+      "exercise": "push-jerk",
+      "reps": 7,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "85lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2013",
+    "rowing",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2013/1 (official CrossFit Games event), retrieved 2026-07-09; the original event this workout is named for; later revisited as \"2007 Reload\" at the 2020 Games",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
