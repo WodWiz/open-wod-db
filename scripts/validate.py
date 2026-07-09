@@ -6,6 +6,8 @@ Checks, per entry:
   - source_notes is present and non-empty (the defensibility record)
   - id matches the filename stem (keeps ids and files in sync)
   - id is unique across the whole dataset
+  - every movement's `exercise` exists in data/movements.json (referential
+    integrity — catches typos and keeps the movement vocabulary consistent)
 
 Run locally before opening a PR:  python3 scripts/validate.py
 Exits non-zero (and prints every problem it found) if anything fails.
@@ -23,6 +25,7 @@ except ImportError:
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 DATA = os.path.join(ROOT, "data")
 SCHEMA_PATH = os.path.join(ROOT, "schema", "wod.schema.json")
+MOVEMENTS_PATH = os.path.join(DATA, "movements.json")
 
 
 def entry_paths():
@@ -33,13 +36,38 @@ def entry_paths():
         yield path
 
 
+def entry_errors(rel, wod, validator, movement_ids):
+    """All content problems for one entry (schema, source_notes, movement refs)."""
+    errs = []
+    for err in sorted(validator.iter_errors(wod), key=lambda e: e.path):
+        loc = "/".join(str(p) for p in err.path) or "(root)"
+        errs.append(f"{rel}: schema error at {loc} — {err.message}")
+    if not str(wod.get("source_notes", "")).strip():
+        errs.append(f"{rel}: source_notes is missing or empty — required")
+    if movement_ids is not None:
+        for m in wod.get("movements", []):
+            ex = m.get("exercise")
+            if ex and ex not in movement_ids:
+                errs.append(f"{rel}: movement '{ex}' is not in data/movements.json "
+                            f"(add it via scripts/build_movements.py or fix the slug)")
+    return errs
+
+
 def main():
-    with open(SCHEMA_PATH) as f:
+    with open(SCHEMA_PATH, encoding="utf-8") as f:
         validator = Draft7Validator(json.load(f))
+
+    try:
+        with open(MOVEMENTS_PATH, encoding="utf-8") as f:
+            movement_ids = {m["id"] for m in json.load(f)["movements"]}
+    except FileNotFoundError:
+        movement_ids = None
 
     errors = []
     seen_ids = {}
     count = 0
+    if movement_ids is None:
+        errors.append("data/movements.json is missing — run scripts/build_movements.py")
 
     for path in entry_paths():
         rel = os.path.relpath(path, ROOT)
@@ -51,13 +79,7 @@ def main():
             continue
 
         count += 1
-
-        for err in sorted(validator.iter_errors(wod), key=lambda e: e.path):
-            loc = "/".join(str(p) for p in err.path) or "(root)"
-            errors.append(f"{rel}: schema error at {loc} — {err.message}")
-
-        if not str(wod.get("source_notes", "")).strip():
-            errors.append(f"{rel}: source_notes is missing or empty — required")
+        errors.extend(entry_errors(rel, wod, validator, movement_ids))
 
         stem = os.path.splitext(os.path.basename(path))[0]
         wod_id = wod.get("id")

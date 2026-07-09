@@ -1,0 +1,2284 @@
+{
+  "count": 225,
+  "movements": [
+    {
+      "id": "ab-mat-sit-up",
+      "name": "Ab Mat Sit Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [
+        "abmat sit-up"
+      ],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "air-squat",
+      "name": "Air Squat",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "alternating-dumbbell-power-snatch",
+      "name": "Alternating Dumbbell Power Snatch",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "alternating-dumbbell-snatch",
+      "name": "Alternating Dumbbell Snatch",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "american-kettlebell-swing",
+      "name": "American Kettlebell Swing",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [
+        "kettlebell swing (american)"
+      ],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "assault-bike",
+      "name": "Assault Bike",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "atlas-stone-over-shoulder",
+      "name": "Atlas Stone Over Shoulder",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "back-extension",
+      "name": "Back Extension",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "back-rack-lunge",
+      "name": "Back Rack Lunge",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "back-squat",
+      "name": "Back Squat",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "ball-slam",
+      "name": "Ball Slam",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "bar-dip",
+      "name": "Bar Dip",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "bar-facing-burpee",
+      "name": "Bar Facing Burpee",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "bar-muscle-up",
+      "name": "Bar Muscle Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [
+        "bmu"
+      ],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "barbell-overhead-lunge",
+      "name": "Barbell Overhead Lunge",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "barbell-step-up",
+      "name": "Barbell Step Up",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "bear-crawl",
+      "name": "Bear Crawl",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "bench-press",
+      "name": "Bench Press",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "bent-over-row",
+      "name": "Bent Over Row",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "bike",
+      "name": "Bike",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "bike-erg",
+      "name": "Bike Erg",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "bodyweight-clean-and-jerk",
+      "name": "Bodyweight Clean And Jerk",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "box-jump",
+      "name": "Box Jump",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "box-jump-over",
+      "name": "Box Jump Over",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "box-squat",
+      "name": "Box Squat",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "box-step-up",
+      "name": "Box Step Up",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "broad-jump",
+      "name": "Broad Jump",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "burpee",
+      "name": "Burpee",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "burpee-bar-muscle-up",
+      "name": "Burpee Bar Muscle Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "burpee-box-jump",
+      "name": "Burpee Box Jump",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "burpee-box-jump-over",
+      "name": "Burpee Box Jump Over",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "burpee-broad-jump",
+      "name": "Burpee Broad Jump",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "burpee-muscle-up",
+      "name": "Burpee Muscle Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "burpee-over-dumbbell",
+      "name": "Burpee Over Dumbbell",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "burpee-over-the-bar",
+      "name": "Burpee Over The Bar",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [
+        "lateral burpee over the bar"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "burpee-pull-up",
+      "name": "Burpee Pull Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "butterfly-pull-up",
+      "name": "Butterfly Pull Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "chest-to-bar-pull-up",
+      "name": "Chest To Bar Pull Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [
+        "chest-to-bar",
+        "c2b"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "chin-up",
+      "name": "Chin Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "clean",
+      "name": "Clean",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "clean-and-jerk",
+      "name": "Clean And Jerk",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [
+        "c&j"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "clean-pull",
+      "name": "Clean Pull",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "cossack-squat",
+      "name": "Cossack Squat",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "crossover-single-under",
+      "name": "Crossover Single Under",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "d-ball-clean",
+      "name": "D Ball Clean",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "d-ball-over-shoulder",
+      "name": "D Ball Over Shoulder",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "deadlift",
+      "name": "Deadlift",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "deficit-deadlift",
+      "name": "Deficit Deadlift",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "deficit-handstand-push-up",
+      "name": "Deficit Handstand Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "devils-press",
+      "name": "Devils Press",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [
+        "devil's press"
+      ],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "double-kettlebell-farmers-carry",
+      "name": "Double Kettlebell Farmers Carry",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "double-kettlebell-front-rack-carry",
+      "name": "Double Kettlebell Front Rack Carry",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "double-kettlebell-front-rack-lunge",
+      "name": "Double Kettlebell Front Rack Lunge",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "double-kettlebell-overhead-carry",
+      "name": "Double Kettlebell Overhead Carry",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "double-under",
+      "name": "Double Under",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [
+        "du",
+        "dubs"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-bench-press",
+      "name": "Dumbbell Bench Press",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-box-step-up",
+      "name": "Dumbbell Box Step Up",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-burpee-deadlift",
+      "name": "Dumbbell Burpee Deadlift",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-carry",
+      "name": "Dumbbell Carry",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-clean",
+      "name": "Dumbbell Clean",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-clean-and-jerk",
+      "name": "Dumbbell Clean And Jerk",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-deadlift",
+      "name": "Dumbbell Deadlift",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-floor-press",
+      "name": "Dumbbell Floor Press",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-front-rack-lunge",
+      "name": "Dumbbell Front Rack Lunge",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-front-squat",
+      "name": "Dumbbell Front Squat",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-goblet-squat",
+      "name": "Dumbbell Goblet Squat",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-hang-split-snatch",
+      "name": "Dumbbell Hang Split Snatch",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-hang-squat-clean",
+      "name": "Dumbbell Hang Squat Clean",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-overhead-carry",
+      "name": "Dumbbell Overhead Carry",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-overhead-lunge",
+      "name": "Dumbbell Overhead Lunge",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-overhead-squat",
+      "name": "Dumbbell Overhead Squat",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-power-clean",
+      "name": "Dumbbell Power Clean",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-power-snatch",
+      "name": "Dumbbell Power Snatch",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-push-jerk",
+      "name": "Dumbbell Push Jerk",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-push-press",
+      "name": "Dumbbell Push Press",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-romanian-deadlift",
+      "name": "Dumbbell Romanian Deadlift",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-row",
+      "name": "Dumbbell Row",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-shoulder-press",
+      "name": "Dumbbell Shoulder Press",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-snatch",
+      "name": "Dumbbell Snatch",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-split-clean",
+      "name": "Dumbbell Split Clean",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-squat-clean",
+      "name": "Dumbbell Squat Clean",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-squat-clean-thruster",
+      "name": "Dumbbell Squat Clean Thruster",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-strict-press",
+      "name": "Dumbbell Strict Press",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "dumbbell-thruster",
+      "name": "Dumbbell Thruster",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-waiters-walk",
+      "name": "Dumbbell Waiters Walk",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "dumbbell-walking-lunge",
+      "name": "Dumbbell Walking Lunge",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "echo-bike",
+      "name": "Echo Bike",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "farmers-carry",
+      "name": "Farmers Carry",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "floor-press",
+      "name": "Floor Press",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "flutter-kick",
+      "name": "Flutter Kick",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "forward-roll",
+      "name": "Forward Roll",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "freestanding-handstand-push-up",
+      "name": "Freestanding Handstand Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "front-rack-lunge",
+      "name": "Front Rack Lunge",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "front-squat",
+      "name": "Front Squat",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "ghd-hip-extension",
+      "name": "Ghd Hip Extension",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "ghd-sit-up",
+      "name": "Ghd Sit Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [
+        "ghd sit-up"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "goblet-squat",
+      "name": "Goblet Squat",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [
+        "kettlebell goblet squat"
+      ],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "good-morning",
+      "name": "Good Morning",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "hand-release-push-up",
+      "name": "Hand Release Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "handstand",
+      "name": "Handstand",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "handstand-hold",
+      "name": "Handstand Hold",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "handstand-push-up",
+      "name": "Handstand Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [
+        "hspu"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "handstand-walk",
+      "name": "Handstand Walk",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [
+        "hs walk"
+      ],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "hang-clean",
+      "name": "Hang Clean",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "hang-power-clean",
+      "name": "Hang Power Clean",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "hang-power-snatch",
+      "name": "Hang Power Snatch",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "hang-snatch",
+      "name": "Hang Snatch",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "hang-squat-clean",
+      "name": "Hang Squat Clean",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "hanging-hip-touch",
+      "name": "Hanging Hip Touch",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "hanging-knee-raise",
+      "name": "Hanging Knee Raise",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "high-knees",
+      "name": "High Knees",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "hip-extension",
+      "name": "Hip Extension",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "hollow-hold",
+      "name": "Hollow Hold",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "hollow-rock",
+      "name": "Hollow Rock",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "inchworm",
+      "name": "Inchworm",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "jerk",
+      "name": "Jerk",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "jumping-jack",
+      "name": "Jumping Jack",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "jumping-lunge",
+      "name": "Jumping Lunge",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "jumping-pull-up",
+      "name": "Jumping Pull Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kettlebell-clean",
+      "name": "Kettlebell Clean",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kettlebell-clean-and-jerk",
+      "name": "Kettlebell Clean And Jerk",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kettlebell-deadlift",
+      "name": "Kettlebell Deadlift",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kettlebell-front-rack-lunge",
+      "name": "Kettlebell Front Rack Lunge",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kettlebell-halo",
+      "name": "Kettlebell Halo",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kettlebell-overhead-lunge",
+      "name": "Kettlebell Overhead Lunge",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kettlebell-press",
+      "name": "Kettlebell Press",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kettlebell-push-press",
+      "name": "Kettlebell Push Press",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kettlebell-snatch",
+      "name": "Kettlebell Snatch",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kettlebell-sumo-deadlift-high-pull",
+      "name": "Kettlebell Sumo Deadlift High Pull",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kettlebell-swing",
+      "name": "Kettlebell Swing",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "kettlebell-thruster",
+      "name": "Kettlebell Thruster",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "kettlebell-windmill",
+      "name": "Kettlebell Windmill",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kipping-handstand-push-up",
+      "name": "Kipping Handstand Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "kipping-pull-up",
+      "name": "Kipping Pull Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "knees-to-elbows",
+      "name": "Knees To Elbows",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [
+        "knees to elbows",
+        "k2e"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "l-pull-up",
+      "name": "L Pull Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "l-sit",
+      "name": "L Sit",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "lateral-burpee",
+      "name": "Lateral Burpee",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "legless-rope-climb",
+      "name": "Legless Rope Climb",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "log-clean-and-jerk",
+      "name": "Log Clean And Jerk",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "log-press",
+      "name": "Log Press",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "medicine-ball-clean",
+      "name": "Medicine Ball Clean",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "medicine-ball-sit-up",
+      "name": "Medicine Ball Sit Up",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "mountain-climber",
+      "name": "Mountain Climber",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "muscle-clean",
+      "name": "Muscle Clean",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "muscle-snatch",
+      "name": "Muscle Snatch",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "muscle-up",
+      "name": "Muscle Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "negative-pull-up",
+      "name": "Negative Pull Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "overhead-squat",
+      "name": "Overhead Squat",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [
+        "ohs"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "overhead-walk",
+      "name": "Overhead Walk",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "overhead-walking-lunge",
+      "name": "Overhead Walking Lunge",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "parallette-handstand-push-up",
+      "name": "Parallette Handstand Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "pegboard",
+      "name": "Pegboard",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "pendlay-row",
+      "name": "Pendlay Row",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "pistol",
+      "name": "Pistol",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "plank",
+      "name": "Plank",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "plate-carry",
+      "name": "Plate Carry",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "plate-ground-to-overhead",
+      "name": "Plate Ground To Overhead",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "power-clean",
+      "name": "Power Clean",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "power-snatch",
+      "name": "Power Snatch",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "pull-up",
+      "name": "Pull Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "push-jerk",
+      "name": "Push Jerk",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "push-press",
+      "name": "Push Press",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "push-up",
+      "name": "Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "renegade-row",
+      "name": "Renegade Row",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "reverse-lunge",
+      "name": "Reverse Lunge",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "ring-dip",
+      "name": "Ring Dip",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "ring-handstand-push-up",
+      "name": "Ring Handstand Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "ring-lower",
+      "name": "Ring Lower",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "ring-muscle-up",
+      "name": "Ring Muscle Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [
+        "rmu"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "ring-push-up",
+      "name": "Ring Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "ring-row",
+      "name": "Ring Row",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "romanian-deadlift",
+      "name": "Romanian Deadlift",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "rope-climb",
+      "name": "Rope Climb",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "row",
+      "name": "Row",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "run",
+      "name": "Run",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "run-backward",
+      "name": "Run Backward",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "russian-kettlebell-swing",
+      "name": "Russian Kettlebell Swing",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [
+        "kettlebell swing (russian)"
+      ],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "sandbag-carry",
+      "name": "Sandbag Carry",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "sandbag-clean",
+      "name": "Sandbag Clean",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "sandbag-ground-to-shoulder",
+      "name": "Sandbag Ground To Shoulder",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "shoulder-to-overhead",
+      "name": "Shoulder To Overhead",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "shuttle-run",
+      "name": "Shuttle Run",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "shuttle-sprint",
+      "name": "Shuttle Sprint",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "single-arm-dumbbell-thruster",
+      "name": "Single Arm Dumbbell Thruster",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "single-arm-kettlebell-swing",
+      "name": "Single Arm Kettlebell Swing",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "single-arm-kettlebell-thruster",
+      "name": "Single Arm Kettlebell Thruster",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "single-under",
+      "name": "Single Under",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "sit-up",
+      "name": "Sit Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "ski-erg",
+      "name": "Ski Erg",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "sled-pull",
+      "name": "Sled Pull",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "sled-push",
+      "name": "Sled Push",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "snatch",
+      "name": "Snatch",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "snatch-balance",
+      "name": "Snatch Balance",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "snatch-pull",
+      "name": "Snatch Pull",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "sots-press",
+      "name": "Sots Press",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "split-jerk",
+      "name": "Split Jerk",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "sprint",
+      "name": "Sprint",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "squat-clean",
+      "name": "Squat Clean",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "squat-snatch",
+      "name": "Squat Snatch",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "stair-climb",
+      "name": "Stair Climb",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "stiff-legged-deadlift",
+      "name": "Stiff Legged Deadlift",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "strict-dip",
+      "name": "Strict Dip",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "strict-handstand-push-up",
+      "name": "Strict Handstand Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "strict-muscle-up",
+      "name": "Strict Muscle Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "strict-press",
+      "name": "Strict Press",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "strict-pull-up",
+      "name": "Strict Pull Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "sumo-deadlift",
+      "name": "Sumo Deadlift",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "sumo-deadlift-high-pull",
+      "name": "Sumo Deadlift High Pull",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [
+        "sdhp"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "swim",
+      "name": "Swim",
+      "category": "monostructural",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "thruster",
+      "name": "Thruster",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "tire-flip",
+      "name": "Tire Flip",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "toes-to-bar",
+      "name": "Toes To Bar",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [
+        "toes to bar",
+        "t2b"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "toes-to-ring",
+      "name": "Toes To Ring",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "triple-under",
+      "name": "Triple Under",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "tuck-jump",
+      "name": "Tuck Jump",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "turkish-get-up",
+      "name": "Turkish Get Up",
+      "category": "kettlebell",
+      "equipment": [
+        "kettlebell"
+      ],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "v-up",
+      "name": "V Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "walking-lunge",
+      "name": "Walking Lunge",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "wall-ball-shot",
+      "name": "Wall Ball Shot",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "wall-climb",
+      "name": "Wall Climb",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [
+        "wall walk"
+      ],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "wall-facing-handstand-push-up",
+      "name": "Wall Facing Handstand Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "wall-sit",
+      "name": "Wall Sit",
+      "category": "bodyweight",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    },
+    {
+      "id": "weighted-pull-up",
+      "name": "Weighted Pull Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": true,
+      "description": null
+    },
+    {
+      "id": "yoke-carry",
+      "name": "Yoke Carry",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "in_dataset": false,
+      "description": null
+    }
+  ]
+}

@@ -33,10 +33,12 @@ data/
   heroes/*.json + *.md     fully structured, schema-validated
   staging/heroes_raw.csv   verified raw text, not yet converted to schema
   index.json               compiled bundle of all structured entries
+  movements.json           movement library (dataset + common CrossFit movements)
 schema/wod.schema.json     the contract every entry must satisfy
 scripts/
   build_girls.py           source script for the Girls dataset
   build_heroes_core.py     source script for structured Hero entries
+  build_movements.py       compiles movements.json (source of truth for movements)
   build_index.py           compiles index.json + renders .md twins from .json
 ```
 
@@ -53,6 +55,15 @@ Or clone and read `/data` directly — each WOD is one JSON file, human-browsabl
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md). The fastest way to help right now: pick a row from `data/staging/heroes_raw.csv`, structure it against `schema/wod.schema.json`, and open a PR moving it into `data/heroes/`.
+
+## Disclaimer
+
+This is an independent, community-maintained dataset. It is **not affiliated with,
+endorsed by, or sponsored by CrossFit, LLC**. "CrossFit" and "CrossFit Games" are
+registered trademarks of CrossFit, LLC, used here nominatively only to accurately
+identify the workouts described. Workout names and prescriptions are facts, not
+claimed as anyone's intellectual property; all original structuring and
+descriptions in this repository are licensed as noted above.
 
 ## Why this exists
 
