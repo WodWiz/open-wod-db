@@ -1,0 +1,50 @@
+{
+  "id": "open-16-5",
+  "name": "16.5",
+  "category": "open",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": [
+        21,
+        18,
+        15,
+        12,
+        9,
+        6,
+        3
+      ],
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": [
+        21,
+        18,
+        15,
+        12,
+        9,
+        6,
+        3
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2016",
+    "barbell",
+    "bodyweight",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2016/5 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

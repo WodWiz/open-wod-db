@@ -43,6 +43,7 @@ GROUPS = {
         "dumbbell-squat-clean", "dumbbell-hang-squat-clean", "dumbbell-split-clean",
         "dumbbell-hang-split-snatch", "dumbbell-clean-and-jerk",
         "dumbbell-squat-clean-thruster", "dumbbell-hang-clean-to-overhead",
+        "dumbbell-hang-clean-and-jerk", "dumbbell-front-rack-squat",
         "dumbbell-push-press", "dumbbell-push-jerk",
         "dumbbell-shoulder-press", "dumbbell-strict-press", "dumbbell-front-squat",
         "dumbbell-overhead-squat", "dumbbell-goblet-squat", "dumbbell-bench-press",

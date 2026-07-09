@@ -1,0 +1,96 @@
+{
+  "id": "open-18-4",
+  "name": "18.4",
+  "category": "open",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 9,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 21,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 21
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 15,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 15
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 9,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 9
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 21,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "205lb"
+      }
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 15
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 15,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "205lb"
+      }
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 15
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 9,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "205lb"
+      }
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2018",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2018/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

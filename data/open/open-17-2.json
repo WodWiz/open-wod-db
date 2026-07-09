@@ -1,0 +1,59 @@
+{
+  "id": "open-17-2",
+  "name": "17.2",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-walking-lunge",
+      "distance_m": 15,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "50 ft"
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 16
+    },
+    {
+      "exercise": "power-clean",
+      "reps": 8
+    },
+    {
+      "exercise": "dumbbell-walking-lunge",
+      "distance_m": 15,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "50 ft"
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 16
+    },
+    {
+      "exercise": "power-clean",
+      "reps": 8
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2017",
+    "dumbbell",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2017/2 (official CrossFit Games Open workout), retrieved 2026-07-09; alternates toes-to-bar and bar-muscle-ups every other round; power clean load increases with each pass (per official movement standards)",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

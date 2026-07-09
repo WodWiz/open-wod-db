@@ -1,0 +1,50 @@
+{
+  "id": "open-16-4",
+  "name": "16.4",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 13,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 55,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 55,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "row",
+      "reps": 55,
+      "notes": "calories"
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 55
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2016",
+    "barbell",
+    "rowing",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2016/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
