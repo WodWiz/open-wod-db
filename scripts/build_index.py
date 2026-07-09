@@ -15,7 +15,12 @@ def format_movement_line(m):
     load = f" ({m['load']['rx_male']}/{m['load']['rx_female']})" if m.get("load") else ""
     dist = f" {m['distance_m']}m" if m.get("distance_m") else ""
     reps = m.get("reps")
-    reps_str = f"{reps} " if isinstance(reps, (int, str)) and not isinstance(m.get("reps"), list) else ""
+    if isinstance(reps, list):
+        reps_str = "-".join(str(r) for r in reps) + " "
+    elif isinstance(reps, (int, str)):
+        reps_str = f"{reps} "
+    else:
+        reps_str = ""
     return f"  {reps_str}{name}{dist}{load}".rstrip()
 
 def render_markdown(wod):
