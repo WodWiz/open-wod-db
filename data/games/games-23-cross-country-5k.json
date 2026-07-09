@@ -1,0 +1,29 @@
+{
+  "id": "games-23-cross-country-5k",
+  "name": "Cross-Country 5K",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 30,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 5000
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2023",
+    "running",
+    "outdoor",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2023/7 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,6 +1,659 @@
 {
-  "count": 303,
+  "count": 314,
   "wods": [
+    {
+      "id": "games-23-alpaca-redux",
+      "name": "The Alpaca Redux",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 18,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "sled-push",
+          "distance_m": 38,
+          "load": {
+            "rx_male": "443lb",
+            "rx_female": "546lb"
+          },
+          "notes": "126 ft, starting with all six kettlebells"
+        },
+        {
+          "exercise": "legless-rope-climb",
+          "reps": 2
+        },
+        {
+          "exercise": "kettlebell-clean-and-jerk",
+          "reps": 12,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "70lb"
+          }
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 13,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "70lb"
+          },
+          "notes": "42 ft, starting with two kettlebells; add two kettlebells to the sled after each round"
+        },
+        {
+          "exercise": "legless-rope-climb",
+          "reps": 2
+        },
+        {
+          "exercise": "kettlebell-clean-and-jerk",
+          "reps": 12,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "70lb"
+          }
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 13,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "70lb"
+          },
+          "notes": "42 ft, add two kettlebells to the sled after each round"
+        },
+        {
+          "exercise": "legless-rope-climb",
+          "reps": 2
+        },
+        {
+          "exercise": "kettlebell-clean-and-jerk",
+          "reps": 12,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "70lb"
+          }
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 13,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "70lb"
+          },
+          "notes": "42 ft, add two kettlebells to the sled after each round"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2023",
+        "venue-equipment",
+        "kettlebell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2023/4 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-23-cross-country-5k",
+      "name": "Cross-Country 5K",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 30,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 5000
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2023",
+        "running",
+        "outdoor",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2023/7 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-23-echo-thruster-final",
+      "name": "Echo Thruster Final",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "echo-bike",
+          "reps": 21,
+          "notes": "calories"
+        },
+        {
+          "exercise": "thruster",
+          "reps": 21,
+          "load": {
+            "rx_male": "115lb",
+            "rx_female": "85lb"
+          }
+        },
+        {
+          "exercise": "echo-bike",
+          "reps": 18,
+          "notes": "calories"
+        },
+        {
+          "exercise": "thruster",
+          "reps": 18,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "echo-bike",
+          "reps": 15,
+          "notes": "calories"
+        },
+        {
+          "exercise": "thruster",
+          "reps": 15,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "105lb"
+          }
+        },
+        {
+          "exercise": "overhead-walking-lunge",
+          "distance_m": 20,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "105lb"
+          },
+          "notes": "66 ft"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2023",
+        "venue-equipment",
+        "barbell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2023/12 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-23-helena",
+      "name": "Helena",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "time_cap_minutes": 11,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 12
+        },
+        {
+          "exercise": "dumbbell-snatch",
+          "reps": 21,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2023",
+        "dumbbell",
+        "running",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2023/6 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-23-intervals",
+      "name": "Intervals",
+      "category": "games",
+      "format": "multi_part",
+      "format_meta": {
+        "time_cap_minutes": 12,
+        "scoring": "time"
+      },
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2023",
+        "rowing",
+        "bodyweight"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2023/8 (official CrossFit Games event), retrieved 2026-07-09; Interval 2 begins at a fixed clock time (6:00) regardless of when Interval 1 finishes, movements reversed",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09",
+      "segments": [
+        {
+          "label": "Interval 1",
+          "format": "for_time",
+          "movements": [
+            {
+              "exercise": "box-jump-over",
+              "reps": 21,
+              "notes": "24 in (men) / 20 in (women)"
+            },
+            {
+              "exercise": "row",
+              "reps": 15,
+              "notes": "calories"
+            },
+            {
+              "exercise": "burpee-box-jump-over",
+              "reps": 9,
+              "notes": "48 in (men) / 36 in (women)"
+            },
+            {
+              "exercise": "box-jump-over",
+              "reps": 21,
+              "notes": "24 in (men) / 20 in (women)"
+            },
+            {
+              "exercise": "row",
+              "reps": 15,
+              "notes": "calories"
+            },
+            {
+              "exercise": "burpee-box-jump-over",
+              "reps": 9,
+              "notes": "48 in (men) / 36 in (women)"
+            }
+          ]
+        },
+        {
+          "label": "Interval 2 (starts at the 6:00 mark)",
+          "format": "for_time",
+          "movements": [
+            {
+              "exercise": "burpee-box-jump-over",
+              "reps": 9,
+              "notes": "48 in (men) / 36 in (women)"
+            },
+            {
+              "exercise": "row",
+              "reps": 15,
+              "notes": "calories"
+            },
+            {
+              "exercise": "box-jump-over",
+              "reps": 21,
+              "notes": "24 in (men) / 20 in (women)"
+            },
+            {
+              "exercise": "burpee-box-jump-over",
+              "reps": 9,
+              "notes": "48 in (men) / 36 in (women)"
+            },
+            {
+              "exercise": "row",
+              "reps": 15,
+              "notes": "calories"
+            },
+            {
+              "exercise": "box-jump-over",
+              "reps": 21,
+              "notes": "24 in (men) / 20 in (women)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "games-23-inverted-medley",
+      "name": "Inverted Medley",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 9,
+          "notes": "30 ft, unbroken, over a ramp"
+        },
+        {
+          "exercise": "freestanding-handstand-push-up",
+          "reps": 8
+        },
+        {
+          "exercise": "obstacle-pirouette",
+          "notes": "unbroken obstacle steps to a 180-degree pirouette"
+        },
+        {
+          "exercise": "pull-over",
+          "reps": 16
+        },
+        {
+          "exercise": "obstacle-pirouette",
+          "notes": "unbroken obstacle steps to a 360-degree pirouette"
+        },
+        {
+          "exercise": "freestanding-handstand-push-up",
+          "reps": 8
+        },
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 9,
+          "notes": "30 ft, unbroken, over a ramp"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2023",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2023/3 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-23-muscle-up-logs",
+      "name": "Muscle-up Logs",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "muscle-up",
+          "reps": 7
+        },
+        {
+          "exercise": "sandbag-over-log",
+          "reps": 3,
+          "load": {
+            "rx_male": "150lb",
+            "rx_female": "100lb"
+          }
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 7
+        },
+        {
+          "exercise": "sandbag-over-log",
+          "reps": 3,
+          "load": {
+            "rx_male": "150lb",
+            "rx_female": "100lb"
+          }
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 7
+        },
+        {
+          "exercise": "sandbag-over-log",
+          "reps": 3,
+          "load": {
+            "rx_male": "150lb",
+            "rx_female": "100lb"
+          }
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 7
+        },
+        {
+          "exercise": "sandbag-over-log",
+          "reps": 3,
+          "load": {
+            "rx_male": "150lb",
+            "rx_female": "100lb"
+          }
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 7
+        },
+        {
+          "exercise": "sandbag-over-log",
+          "reps": 3,
+          "load": {
+            "rx_male": "200lb",
+            "rx_female": "125lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2023",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2023/10 (official CrossFit Games event), retrieved 2026-07-09; sandbag carried and tossed over 3 logs each round; weight increases in the final (5th) round",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-23-olympic-total",
+      "name": "Olympic Total",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "snatch",
+          "reps": 1,
+          "notes": "athlete's own 1-rep-max; no fixed Rx weight; 2 attempts, 20 seconds per lift"
+        },
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 1,
+          "notes": "athlete's own 1-rep-max; no fixed Rx weight; 2 attempts, 20 seconds per lift"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2023",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2023/9 (official CrossFit Games event), retrieved 2026-07-09; score is the combined total of best snatch + best clean and jerk",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-23-parallel-bar-pull",
+      "name": "Parallel-bar Pull",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 8,
+        "time_cap_minutes": 15,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "parallel-bar-traverse",
+          "notes": "down and back"
+        },
+        {
+          "exercise": "double-under",
+          "reps": 30,
+          "notes": "heavy rope"
+        },
+        {
+          "exercise": "sled-pull",
+          "load": {
+            "rx_male": "345lb",
+            "rx_female": "290lb"
+          },
+          "notes": "one section, hand-over-hand"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2023",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2023/11 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-23-pig-chipper",
+      "name": "Pig Chipper",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 18,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "d-ball-over-shoulder",
+          "reps": 10,
+          "notes": "\"pig flips\""
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 25
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 50
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 100,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 50
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 25
+        },
+        {
+          "exercise": "d-ball-over-shoulder",
+          "reps": 10,
+          "notes": "\"pig flips\""
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2023",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2023/1 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-23-ski-bag",
+      "name": "Ski-Bag",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "ski-erg",
+          "reps": 30,
+          "notes": "calories"
+        },
+        {
+          "exercise": "sandbag-squat",
+          "reps": 30,
+          "load": {
+            "rx_male": "200lb",
+            "rx_female": "125lb"
+          }
+        },
+        {
+          "exercise": "ski-erg",
+          "reps": 20,
+          "notes": "calories"
+        },
+        {
+          "exercise": "sandbag-squat",
+          "reps": 20,
+          "load": {
+            "rx_male": "200lb",
+            "rx_female": "125lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2023",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2023/5 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
     {
       "id": "games-24-chad",
       "name": "Chad",

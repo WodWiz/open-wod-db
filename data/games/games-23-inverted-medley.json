@@ -1,0 +1,54 @@
+{
+  "id": "games-23-inverted-medley",
+  "name": "Inverted Medley",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 9,
+      "notes": "30 ft, unbroken, over a ramp"
+    },
+    {
+      "exercise": "freestanding-handstand-push-up",
+      "reps": 8
+    },
+    {
+      "exercise": "obstacle-pirouette",
+      "notes": "unbroken obstacle steps to a 180-degree pirouette"
+    },
+    {
+      "exercise": "pull-over",
+      "reps": 16
+    },
+    {
+      "exercise": "obstacle-pirouette",
+      "notes": "unbroken obstacle steps to a 360-degree pirouette"
+    },
+    {
+      "exercise": "freestanding-handstand-push-up",
+      "reps": 8
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 9,
+      "notes": "30 ft, unbroken, over a ramp"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2023",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2023/3 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

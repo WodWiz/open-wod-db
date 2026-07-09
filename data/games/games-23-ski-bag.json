@@ -1,0 +1,49 @@
+{
+  "id": "games-23-ski-bag",
+  "name": "Ski-Bag",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 6,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "ski-erg",
+      "reps": 30,
+      "notes": "calories"
+    },
+    {
+      "exercise": "sandbag-squat",
+      "reps": 30,
+      "load": {
+        "rx_male": "200lb",
+        "rx_female": "125lb"
+      }
+    },
+    {
+      "exercise": "ski-erg",
+      "reps": 20,
+      "notes": "calories"
+    },
+    {
+      "exercise": "sandbag-squat",
+      "reps": 20,
+      "load": {
+        "rx_male": "200lb",
+        "rx_female": "125lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2023",
+    "venue-equipment"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2023/5 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

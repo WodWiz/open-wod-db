@@ -1,0 +1,96 @@
+{
+  "id": "games-23-alpaca-redux",
+  "name": "The Alpaca Redux",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 18,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "sled-push",
+      "distance_m": 38,
+      "load": {
+        "rx_male": "443lb",
+        "rx_female": "546lb"
+      },
+      "notes": "126 ft, starting with all six kettlebells"
+    },
+    {
+      "exercise": "legless-rope-climb",
+      "reps": 2
+    },
+    {
+      "exercise": "kettlebell-clean-and-jerk",
+      "reps": 12,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "70lb"
+      }
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 13,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "70lb"
+      },
+      "notes": "42 ft, starting with two kettlebells; add two kettlebells to the sled after each round"
+    },
+    {
+      "exercise": "legless-rope-climb",
+      "reps": 2
+    },
+    {
+      "exercise": "kettlebell-clean-and-jerk",
+      "reps": 12,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "70lb"
+      }
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 13,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "70lb"
+      },
+      "notes": "42 ft, add two kettlebells to the sled after each round"
+    },
+    {
+      "exercise": "legless-rope-climb",
+      "reps": 2
+    },
+    {
+      "exercise": "kettlebell-clean-and-jerk",
+      "reps": 12,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "70lb"
+      }
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 13,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "70lb"
+      },
+      "notes": "42 ft, add two kettlebells to the sled after each round"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2023",
+    "venue-equipment",
+    "kettlebell"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2023/4 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
