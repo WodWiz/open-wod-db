@@ -98,10 +98,10 @@ prescription** (pure obstacle-course races, bracket/heat tournaments) are
 intentionally left out rather than fabricated — same principle as the staged
 Hero WODs.
 
-**Progress:** 2015–2026 fully done (the entire catalogued range). Per-year
-counts (structured / total, skipped events in parentheses):
-- 2026: 4/4 · 2025: not yet fetched (games events; only Quarterfinals were
-  confirmed absent that year, not the main Games) · 2024: 10/10
+**Progress:** 2015–2026 fully done — every year in the catalogued range,
+structured. Per-year counts (structured / total, skipped events in
+parentheses):
+- 2026: 4/4 · 2025: 10/10 · 2024: 10/10
 - 2023: 11/12 (Ride — pure lap-count bike race)
 - 2022: 12/13 (Skill Speed Medley — elimination bracket)
 - 2021: 14/15 (Event 8 — obstacle course, no fixed reps)
@@ -121,9 +121,8 @@ of entries (2016 The Separator, 2015 Sandbag 2015, 2017 Fibonacci Final) have a
 minor detail that couldn't be corroborated across sources — each is flagged
 explicitly in its own `source_notes` per CONTRIBUTING rather than guessed.
 
-**Remaining:** 2025 Games events not yet fetched/structured. 2007–2014
-(early Games years, smaller field sizes, likely simpler formats) not yet
-catalogued — lower priority, do last.
+**Remaining:** 2007–2014 (early Games years, smaller field sizes, likely
+simpler formats) not yet catalogued — lower priority, do last.
 
 - **Community / affiliate-invented WODs** — intentionally grown organically via
   the PR-based contribution model rather than seeded by one contributor.
