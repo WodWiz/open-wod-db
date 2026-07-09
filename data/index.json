@@ -1,6 +1,760 @@
 {
-  "count": 326,
+  "count": 340,
   "wods": [
+    {
+      "id": "games-21-event-1",
+      "name": "2021 Games Event 1",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 1609,
+          "notes": "1 mile, with fins"
+        },
+        {
+          "exercise": "kayak",
+          "distance_m": 4828,
+          "notes": "3 miles"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "swim",
+        "open-water",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/1 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-10",
+      "name": "2021 Games Event 10",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 27,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "toes-to-bar",
+          "reps": 30
+        },
+        {
+          "exercise": "run",
+          "distance_m": 2414,
+          "notes": "1.5 miles"
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 30
+        },
+        {
+          "exercise": "run",
+          "distance_m": 2414,
+          "notes": "1.5 miles"
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 30
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "running",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/10 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-11",
+      "name": "2021 Games Event 11",
+      "category": "games",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 11,
+        "scoring": "rounds_reps"
+      },
+      "movements": [
+        {
+          "exercise": "pegboard",
+          "reps": 1
+        },
+        {
+          "exercise": "dumbbell-overhead-squat",
+          "reps": 7,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "50lb"
+          },
+          "notes": "single-arm"
+        },
+        {
+          "exercise": "double-under",
+          "reps": 15,
+          "notes": "heavy rope, loaded to roughly 2x bodyweight"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "venue-equipment",
+        "dumbbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/11 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-12",
+      "name": "2021 Games Event 12",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "snatch",
+          "reps": 1,
+          "load": {
+            "rx_male": "260lb",
+            "rx_female": "160lb"
+          },
+          "notes": "starting weight; athlete's own progressive attempts thereafter, 20 seconds per lift (30 seconds in the final single-platform round)"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/12 (official CrossFit Games event), retrieved 2026-07-09; tiebreak (for athletes who fail their opening lift) was 3 squat snatches for time at 225 lb (men) / 145 lb (women)",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-13",
+      "name": "2021 Games Event 13",
+      "category": "games",
+      "format": "multi_part",
+      "format_meta": {},
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/13 (official CrossFit Games event), retrieved 2026-07-09; 1 minute to return to the GHD rig before each next round begins",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09",
+      "segments": [
+        {
+          "label": "Round 1",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 2,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "ghd-sit-up",
+              "reps": 20
+            },
+            {
+              "exercise": "burpee",
+              "reps": 8,
+              "load": {
+                "rx_male": "100lb",
+                "rx_female": "70lb"
+              },
+              "notes": "over a hay bale, carrying a weighted \"cheese curd\" bag"
+            },
+            {
+              "exercise": "yoke-carry",
+              "distance_m": 51,
+              "load": {
+                "rx_male": "605lb",
+                "rx_female": "425lb"
+              },
+              "notes": "168 ft"
+            }
+          ],
+          "rest_after_seconds": 60
+        },
+        {
+          "label": "Round 2",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 2,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "ghd-sit-up",
+              "reps": 20
+            },
+            {
+              "exercise": "burpee",
+              "reps": 8,
+              "load": {
+                "rx_male": "100lb",
+                "rx_female": "70lb"
+              },
+              "notes": "over a hay bale, carrying a weighted \"cheese curd\" bag"
+            },
+            {
+              "exercise": "yoke-carry",
+              "distance_m": 51,
+              "load": {
+                "rx_male": "605lb",
+                "rx_female": "425lb"
+              },
+              "notes": "168 ft"
+            }
+          ],
+          "rest_after_seconds": 60
+        },
+        {
+          "label": "Round 3",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 2,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "ghd-sit-up",
+              "reps": 20
+            },
+            {
+              "exercise": "burpee",
+              "reps": 8,
+              "load": {
+                "rx_male": "100lb",
+                "rx_female": "70lb"
+              },
+              "notes": "over a hay bale, carrying a weighted \"cheese curd\" bag"
+            },
+            {
+              "exercise": "yoke-carry",
+              "distance_m": 51,
+              "load": {
+                "rx_male": "605lb",
+                "rx_female": "425lb"
+              },
+              "notes": "168 ft"
+            }
+          ],
+          "rest_after_seconds": 60
+        },
+        {
+          "label": "Round 4",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 3,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "ghd-sit-up",
+              "reps": 20
+            },
+            {
+              "exercise": "burpee",
+              "reps": 8,
+              "load": {
+                "rx_male": "100lb",
+                "rx_female": "70lb"
+              },
+              "notes": "over a hay bale, carrying a weighted \"cheese curd\" bag"
+            },
+            {
+              "exercise": "yoke-carry",
+              "distance_m": 51,
+              "load": {
+                "rx_male": "605lb",
+                "rx_female": "425lb"
+              },
+              "notes": "168 ft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "games-21-event-14",
+      "name": "2021 Games Event 14",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": [
+            6,
+            10,
+            14
+          ],
+          "load": {
+            "rx_male": "405lb",
+            "rx_female": "275lb"
+          }
+        },
+        {
+          "exercise": "freestanding-handstand-push-up",
+          "reps": [
+            6,
+            10,
+            14
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/14 (official CrossFit Games event), retrieved 2026-07-09; introduced freestanding handstand push-ups to the Games for the first time",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-15",
+      "name": "2021 Games Event 15",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 600,
+          "notes": "600 m for men, 500 m for women"
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 90
+        },
+        {
+          "exercise": "back-rack-lunge",
+          "distance_m": 11,
+          "load": {
+            "rx_male": "185lb",
+            "rx_female": "135lb"
+          },
+          "notes": "36 ft, walking"
+        },
+        {
+          "exercise": "front-rack-lunge",
+          "distance_m": 11,
+          "load": {
+            "rx_male": "185lb",
+            "rx_female": "135lb"
+          },
+          "notes": "36 ft, walking"
+        },
+        {
+          "exercise": "overhead-walking-lunge",
+          "distance_m": 11,
+          "load": {
+            "rx_male": "185lb",
+            "rx_female": "135lb"
+          },
+          "notes": "36 ft"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "rowing",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/15 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-2",
+      "name": "2021 Games Event 2",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 12,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "sled-push",
+          "distance_m": 38,
+          "load": {
+            "rx_male": "220lb",
+            "rx_female": "180lb"
+          },
+          "notes": "126 ft, sled drag"
+        },
+        {
+          "exercise": "d-ball-over-shoulder",
+          "reps": 5,
+          "load": {
+            "rx_male": "510lb",
+            "rx_female": "350lb"
+          },
+          "notes": "\"pig flips\""
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 12
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 12
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 12
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 12
+        },
+        {
+          "exercise": "d-ball-over-shoulder",
+          "reps": 5,
+          "load": {
+            "rx_male": "510lb",
+            "rx_female": "350lb"
+          },
+          "notes": "\"pig flips\""
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 38,
+          "load": {
+            "rx_male": "220lb",
+            "rx_female": "180lb"
+          },
+          "notes": "126 ft, sled drag"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/2 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-3",
+      "name": "2021 Games Event 3",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 4,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "sprint",
+          "distance_m": 503,
+          "notes": "550 yd"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "outdoor"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/3 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-4",
+      "name": "2021 Games Event 4",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 20,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "wall-climb",
+          "reps": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+          ]
+        },
+        {
+          "exercise": "thruster",
+          "reps": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "load": {
+            "rx_male": "185lb",
+            "rx_female": "135lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/4 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-5",
+      "name": "2021 Games Event 5",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 4,
+        "time_cap_minutes": 15,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "rope-climb",
+          "reps": 4
+        },
+        {
+          "exercise": "ski-erg",
+          "reps": 500,
+          "notes": "meters (women use 400)"
+        },
+        {
+          "exercise": "husafell-carry",
+          "distance_m": 13,
+          "load": {
+            "rx_male": "200lb",
+            "rx_female": "150lb"
+          },
+          "notes": "42 ft"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/5 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-6",
+      "name": "2021 Games Event 6",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "time_cap_minutes": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 250
+        },
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "245lb",
+            "rx_female": "165lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "barbell",
+        "running",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/6 (official CrossFit Games event), retrieved 2026-07-09; clean load increases each round: 245-265-285-305-315 lb (men), 165-175-185-195-205 lb (women)",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-7",
+      "name": "2021 Games Event 7",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "time_cap_minutes": 8,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 200
+        },
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "325lb",
+            "rx_female": "210lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "barbell",
+        "running",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/7 (official CrossFit Games event), retrieved 2026-07-09; clean load increases each round: 325-335-340-345-350 lb (men), 210-215-220-225-230 lb (women); paired with Event 6 as a two-part 100-point couplet",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-21-event-9",
+      "name": "2021 Games Event 9",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 8,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "echo-bike",
+          "reps": 21,
+          "notes": "calories"
+        },
+        {
+          "exercise": "snatch",
+          "reps": 21,
+          "load": {
+            "rx_male": "75lb",
+            "rx_female": "75lb"
+          }
+        },
+        {
+          "exercise": "echo-bike",
+          "reps": 15,
+          "notes": "calories"
+        },
+        {
+          "exercise": "snatch",
+          "reps": 15,
+          "load": {
+            "rx_male": "105lb",
+            "rx_female": "105lb"
+          }
+        },
+        {
+          "exercise": "echo-bike",
+          "reps": 9,
+          "notes": "calories"
+        },
+        {
+          "exercise": "snatch",
+          "reps": 9,
+          "load": {
+            "rx_male": "105lb",
+            "rx_female": "105lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2021",
+        "barbell",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2021/9 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
     {
       "id": "games-22-back-nine",
       "name": "Back Nine",

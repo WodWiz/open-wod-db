@@ -1,0 +1,46 @@
+{
+  "id": "games-21-event-10",
+  "name": "2021 Games Event 10",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 27,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "toes-to-bar",
+      "reps": 30
+    },
+    {
+      "exercise": "run",
+      "distance_m": 2414,
+      "notes": "1.5 miles"
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 30
+    },
+    {
+      "exercise": "run",
+      "distance_m": 2414,
+      "notes": "1.5 miles"
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 30
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "running",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/10 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

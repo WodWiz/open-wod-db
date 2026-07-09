@@ -1,0 +1,43 @@
+{
+  "id": "games-21-event-5",
+  "name": "2021 Games Event 5",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "time_cap_minutes": 15,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "rope-climb",
+      "reps": 4
+    },
+    {
+      "exercise": "ski-erg",
+      "reps": 500,
+      "notes": "meters (women use 400)"
+    },
+    {
+      "exercise": "husafell-carry",
+      "distance_m": 13,
+      "load": {
+        "rx_male": "200lb",
+        "rx_female": "150lb"
+      },
+      "notes": "42 ft"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/5 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

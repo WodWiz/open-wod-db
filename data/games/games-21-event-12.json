@@ -1,0 +1,32 @@
+{
+  "id": "games-21-event-12",
+  "name": "2021 Games Event 12",
+  "category": "games",
+  "format": "max_load",
+  "format_meta": {
+    "scoring": "load"
+  },
+  "movements": [
+    {
+      "exercise": "snatch",
+      "reps": 1,
+      "load": {
+        "rx_male": "260lb",
+        "rx_female": "160lb"
+      },
+      "notes": "starting weight; athlete's own progressive attempts thereafter, 20 seconds per lift (30 seconds in the final single-platform round)"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "barbell",
+    "max-load"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/12 (official CrossFit Games event), retrieved 2026-07-09; tiebreak (for athletes who fail their opening lift) was 3 squat snatches for time at 225 lb (men) / 145 lb (women)",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "games-21-event-14",
+  "name": "2021 Games Event 14",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": [
+        6,
+        10,
+        14
+      ],
+      "load": {
+        "rx_male": "405lb",
+        "rx_female": "275lb"
+      }
+    },
+    {
+      "exercise": "freestanding-handstand-push-up",
+      "reps": [
+        6,
+        10,
+        14
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/14 (official CrossFit Games event), retrieved 2026-07-09; introduced freestanding handstand push-ups to the Games for the first time",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

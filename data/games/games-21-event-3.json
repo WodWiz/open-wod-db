@@ -1,0 +1,28 @@
+{
+  "id": "games-21-event-3",
+  "name": "2021 Games Event 3",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "sprint",
+      "distance_m": 503,
+      "notes": "550 yd"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "outdoor"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/3 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "games-21-event-9",
+  "name": "2021 Games Event 9",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 8,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "echo-bike",
+      "reps": 21,
+      "notes": "calories"
+    },
+    {
+      "exercise": "snatch",
+      "reps": 21,
+      "load": {
+        "rx_male": "75lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "echo-bike",
+      "reps": 15,
+      "notes": "calories"
+    },
+    {
+      "exercise": "snatch",
+      "reps": 15,
+      "load": {
+        "rx_male": "105lb",
+        "rx_female": "105lb"
+      }
+    },
+    {
+      "exercise": "echo-bike",
+      "reps": 9,
+      "notes": "calories"
+    },
+    {
+      "exercise": "snatch",
+      "reps": 9,
+      "load": {
+        "rx_male": "105lb",
+        "rx_female": "105lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "barbell",
+    "venue-equipment"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/9 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

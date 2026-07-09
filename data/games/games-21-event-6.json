@@ -1,0 +1,38 @@
+{
+  "id": "games-21-event-6",
+  "name": "2021 Games Event 6",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "time_cap_minutes": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 250
+    },
+    {
+      "exercise": "clean",
+      "reps": 1,
+      "load": {
+        "rx_male": "245lb",
+        "rx_female": "165lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "barbell",
+    "running",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/6 (official CrossFit Games event), retrieved 2026-07-09; clean load increases each round: 245-265-285-305-315 lb (men), 165-175-185-195-205 lb (women)",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
