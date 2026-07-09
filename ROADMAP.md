@@ -69,12 +69,40 @@ schema. They fall into three groups:
   time. Each needs either a schema extension (chained segments) or a judgment
   call, so they're intentionally left for manual/PR structuring.
 
-## Other datasets not yet started
+## Open and Quarterfinals — done
 
-- **Games / Open / Quarterfinal** history — primary source is the
-  `games.crossfit.com` results archive (official, dated, itemized by year).
-  Cross-reference at least two independent sources before merging when the
-  official data is ambiguous. Note: some names are generic/numeric ("24.1",
-  "Event 3"); a separate `display_name` field may be worth adding then.
+Full CrossFit Open history is structured: all 70 workouts, every year 2011–2026
+(category `open`, ids `open-YY-N`, names `YY.N`). Individual Quarterfinals are
+structured for every year they existed, 2021–2026 (no Quarterfinals were held in
+2025 — that season went directly from the Open to Semifinals); category
+`quarterfinal`, ids `qf-YY-N`, names `YY.QFN`, stored alongside Open under
+`data/open/`. Both sourced from `games.crossfit.com`, cross-referenced against a
+second independent source whenever the primary page returned only one division's
+Rx loads.
+
+## Games events — in progress
+
+Category `games`, stored under `data/games/`, ids `games-YY-<slug>` using the
+event's real name (Games events are named, e.g. "Lake Day", not numbered like
+Open). Source: `games.crossfit.com/workouts/games/<year>/<n>`.
+
+**Scoping decision:** unlike Girls/Heroes/Open/Quarterfinals, Games events are
+competition-specific tests, not all repeatable in a standard gym — some need
+Games-venue equipment (yoke, sled, echo bike) or open water/hills, and some are
+pure heat-based obstacle-course races or bracket sprints with no fixed
+movement/rep prescription at all. Decision: **structure every event that has a
+genuine published prescription** (even if it needs uncommon equipment), tagging
+what limits repeatability (`venue-equipment`, `swim`/`open-water`,
+`outdoor`/`hill`, etc.) so the app can filter later. Events with **no fixed
+prescription** (pure obstacle-course races, bracket/heat tournaments) are
+intentionally left out rather than fabricated — same principle as the staged
+Hero WODs.
+
+**Progress:** 2024 done (10/10 events, all structurable). Catalogued but not
+yet structured: 2015–2023, 2025 (11 more years, ~120 events, mostly clean per
+the catalog scan — a meaningful minority are true obstacle-course/heat races to
+skip). Not yet catalogued: 2007–2014 (early Games years, smaller field sizes,
+likely simpler formats — lower priority, do last).
+
 - **Community / affiliate-invented WODs** — intentionally grown organically via
   the PR-based contribution model rather than seeded by one contributor.

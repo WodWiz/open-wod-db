@@ -62,6 +62,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-24-dickies-triplet",
         "hoover",
         "open-26-2",
         "restrepo"
@@ -198,6 +199,7 @@
         "bmu"
       ],
       "workouts": [
+        "games-24-final-1815",
         "open-16-3",
         "open-17-2",
         "open-18-3",
@@ -383,6 +385,7 @@
       "aliases": [],
       "workouts": [
         "chad1000x",
+        "games-24-chad",
         "maxton"
       ],
       "description": null
@@ -412,6 +415,7 @@
         "ellen",
         "forrest",
         "fournier",
+        "games-24-firestorm",
         "glen",
         "hansen",
         "hope",
@@ -565,6 +569,7 @@
         "bulger",
         "cameron",
         "del",
+        "games-24-final-2421",
         "hope",
         "lumberjack-20",
         "open-11-6",
@@ -715,6 +720,7 @@
         "diane",
         "donny",
         "dt",
+        "games-24-midline-climb",
         "johnson",
         "kelly-brown",
         "kevin",
@@ -1331,7 +1337,9 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-24-firestorm"
+      ],
       "description": null
     },
     {
@@ -1389,6 +1397,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-24-push-pull-2",
         "robbie"
       ],
       "description": null
@@ -1447,6 +1456,7 @@
         "ghd sit-up"
       ],
       "workouts": [
+        "games-24-midline-climb",
         "hansen",
         "jorge",
         "mr-joshua",
@@ -1544,6 +1554,7 @@
         "del",
         "diane",
         "falkel",
+        "games-24-push-pull-2",
         "holleyman",
         "jt",
         "lane",
@@ -2548,6 +2559,7 @@
         "cameron",
         "dae-han",
         "falkel",
+        "games-24-midline-climb",
         "glen",
         "lee",
         "liam",
@@ -2631,6 +2643,8 @@
         "eva",
         "forrest",
         "gallant",
+        "games-24-dickies-triplet",
+        "games-24-lake-day",
         "gaza",
         "glen",
         "griff",
@@ -2854,7 +2868,9 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-24-midline-climb"
+      ],
       "description": null
     },
     {
@@ -2864,7 +2880,8 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
-        "fournier"
+        "fournier",
+        "games-24-push-pull-2"
       ],
       "description": null
     },
@@ -3023,6 +3040,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-24-push-pull-2",
         "open-19-3",
         "qf-22-1",
         "qf-24-3",
@@ -3105,6 +3123,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-24-lake-day",
         "rocket",
         "tully"
       ],
@@ -3126,6 +3145,8 @@
         "dae-han",
         "daniel",
         "fran",
+        "games-24-final-1815",
+        "games-24-final-2421",
         "hope",
         "jackie",
         "marco",
@@ -3175,6 +3196,7 @@
         "adrian",
         "dg",
         "forrest",
+        "games-24-dickies-triplet",
         "liam",
         "marston",
         "open-11-5",
@@ -3363,7 +3385,10 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-24-final-1815",
+        "games-24-final-2421"
+      ],
       "description": null
     }
   ]
