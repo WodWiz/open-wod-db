@@ -1,0 +1,51 @@
+{
+  "id": "gunny",
+  "name": "Gunny",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 1609,
+      "notes": "weighted"
+    },
+    {
+      "exercise": "push-up",
+      "reps": 50
+    },
+    {
+      "exercise": "sit-up",
+      "reps": 50
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1609,
+      "notes": "weighted"
+    },
+    {
+      "exercise": "push-up",
+      "reps": 50
+    },
+    {
+      "exercise": "sit-up",
+      "reps": 50
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1609,
+      "notes": "weighted"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "bodyweight",
+    "weight-vest"
+  ],
+  "source_notes": "crossfit.com/benchmark/gunny (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx: wear a weight vest / body armor / loaded pack totaling 50 lb for the runs",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

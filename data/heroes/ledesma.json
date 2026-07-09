@@ -1,0 +1,37 @@
+{
+  "id": "ledesma",
+  "name": "Ledesma",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "parallette-handstand-push-up",
+      "reps": 5
+    },
+    {
+      "exercise": "toes-to-ring",
+      "reps": 10
+    },
+    {
+      "exercise": "medicine-ball-clean",
+      "reps": 15,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/ledesma (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

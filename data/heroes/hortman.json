@@ -1,0 +1,34 @@
+{
+  "id": "hortman",
+  "name": "Hortman",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 45
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 80
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 8
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "running",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/hortman (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

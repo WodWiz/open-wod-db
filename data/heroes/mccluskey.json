@@ -1,0 +1,40 @@
+{
+  "id": "mccluskey",
+  "name": "McCluskey",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 9
+    },
+    {
+      "exercise": "burpee-pull-up",
+      "reps": 15
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 21
+    },
+    {
+      "exercise": "run",
+      "distance_m": 800
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "running",
+    "weight-vest-optional",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/mccluskey (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx adds an optional 20 lb vest or body armor if available",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

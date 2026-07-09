@@ -1,0 +1,44 @@
+{
+  "id": "jorge",
+  "name": "Jorge",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "ghd-sit-up",
+      "reps": [
+        30,
+        24,
+        18,
+        12,
+        6
+      ]
+    },
+    {
+      "exercise": "squat-clean",
+      "reps": [
+        15,
+        12,
+        9,
+        6,
+        3
+      ],
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "crossfit.com/benchmark/jorge (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

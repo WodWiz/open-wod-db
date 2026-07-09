@@ -1,0 +1,39 @@
+{
+  "id": "klepto",
+  "name": "Klepto",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "box-jump",
+      "reps": 27
+    },
+    {
+      "exercise": "burpee",
+      "reps": 20
+    },
+    {
+      "exercise": "squat-clean",
+      "reps": 11,
+      "load": {
+        "rx_male": "145lb",
+        "rx_female": "95lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "4-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/klepto (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "garrett",
+  "name": "Garrett",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "air-squat",
+      "reps": 75
+    },
+    {
+      "exercise": "ring-handstand-push-up",
+      "reps": 25
+    },
+    {
+      "exercise": "l-pull-up",
+      "reps": 25
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "bodyweight",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/garrett (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

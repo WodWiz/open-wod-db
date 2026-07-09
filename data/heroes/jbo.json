@@ -1,0 +1,37 @@
+{
+  "id": "jbo",
+  "name": "JBo",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 28
+  },
+  "movements": [
+    {
+      "exercise": "overhead-squat",
+      "reps": 9,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "bench-press",
+      "reps": 12,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell"
+  ],
+  "source_notes": "crossfit.com/benchmark/jbo (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}
