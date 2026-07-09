@@ -1,0 +1,40 @@
+{
+  "id": "zembiec",
+  "name": "Zembiec",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "back-squat",
+      "reps": 11,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "125lb"
+      }
+    },
+    {
+      "exercise": "burpee-pull-up",
+      "reps": 7,
+      "notes": "strict: strict push-up, then strict pull-up on a bar ~12 in above max standing reach"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/zembiec (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}
