@@ -27,6 +27,7 @@
         "chelsea",
         "cindy",
         "daniel-ray",
+        "games-15-murph",
         "games-16-murph",
         "garrett",
         "hortman",
@@ -214,6 +215,7 @@
         "bmu"
       ],
       "workouts": [
+        "games-15-triangle-couplet",
         "games-17-muscle-up-clean-ladder",
         "games-18-bicouplet-2",
         "games-19-sprint-couplet",
@@ -306,6 +308,8 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-15-pedal-to-the-metal-1",
+        "games-15-pedal-to-the-metal-2",
         "games-19-ringer-1",
         "games-20-bike-repeater",
         "games-20-swim-n-stuff",
@@ -682,6 +686,7 @@
         "abbate",
         "crain",
         "desforges",
+        "games-15-clean-and-jerk",
         "games-19-the-standard",
         "games-23-olympic-total",
         "glen",
@@ -744,6 +749,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-15-soccer-chipper",
         "games-21-event-2",
         "games-22-the-capitol",
         "games-23-pig-chipper"
@@ -772,6 +778,7 @@
         "diane",
         "donny",
         "dt",
+        "games-15-heavy-dt",
         "games-16-double-dt",
         "games-16-ranch-deadlift-ladder",
         "games-18-crossfit-total",
@@ -1300,6 +1307,7 @@
       "aliases": [],
       "workouts": [
         "ellen",
+        "games-15-pedal-to-the-metal-1",
         "games-23-helena",
         "joshie",
         "open-17-1",
@@ -1681,6 +1689,7 @@
         "hs walk"
       ],
       "workouts": [
+        "games-15-soccer-chipper",
         "games-16-handstand-walk",
         "games-17-strongmans-fear",
         "games-18-handstand-walk",
@@ -1717,6 +1726,7 @@
       "aliases": [],
       "workouts": [
         "dt",
+        "games-15-heavy-dt",
         "games-16-double-dt",
         "k27",
         "matt-16"
@@ -1937,6 +1947,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-15-pedal-to-the-metal-2",
         "games-17-fibonacci-final",
         "games-18-fibonacci"
       ],
@@ -2158,6 +2169,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-15-soccer-chipper",
         "games-19-first-cut",
         "games-20-bike-repeater",
         "games-23-alpaca-redux"
@@ -2389,6 +2401,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-15-pier-paddle",
         "games-18-madison-triplus",
         "games-19-swim-paddle"
       ],
@@ -2412,6 +2425,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-15-pedal-to-the-metal-2",
         "games-17-fibonacci-final",
         "games-18-fibonacci",
         "ledesma"
@@ -2425,6 +2439,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-15-pedal-to-the-metal-1",
         "games-16-redemption",
         "games-18-aeneas",
         "games-19-split-triplet",
@@ -2567,6 +2582,7 @@
         "erin",
         "eva",
         "fran",
+        "games-15-murph",
         "games-16-murph",
         "games-17-triple-g-chipper",
         "games-19-mary",
@@ -2614,6 +2630,7 @@
       "aliases": [],
       "workouts": [
         "dt",
+        "games-15-heavy-dt",
         "games-16-double-dt",
         "lee",
         "pheezy"
@@ -2657,6 +2674,7 @@
         "chelsea",
         "cindy",
         "crain",
+        "games-15-murph",
         "games-16-murph",
         "gaza",
         "gunny",
@@ -2830,6 +2848,8 @@
       "aliases": [],
       "workouts": [
         "brehm",
+        "games-15-pedal-to-the-metal-1",
+        "games-15-pedal-to-the-metal-2",
         "games-16-rope-chipper",
         "games-17-triple-g-chipper",
         "games-18-marathon-row",
@@ -2893,6 +2913,8 @@
         "eva",
         "forrest",
         "gallant",
+        "games-15-midline-madness",
+        "games-15-murph",
         "games-16-climbing-snail",
         "games-16-murph",
         "games-16-ranch-trail-run",
@@ -3006,6 +3028,7 @@
       "aliases": [],
       "workouts": [
         "collin",
+        "games-15-sandbag-2015",
         "games-20-corn-sack-sprint"
       ],
       "description": null
@@ -3468,6 +3491,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-15-pier-paddle",
         "games-16-ocean-swim",
         "games-17-run-swim-run",
         "games-18-madison-triplus",
@@ -3497,6 +3521,7 @@
         "dae-han",
         "daniel",
         "fran",
+        "games-15-triangle-couplet",
         "games-16-redemption",
         "games-17-heavy-17-5",
         "games-18-aeneas",
@@ -3755,6 +3780,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-15-midline-madness",
         "games-17-strongmans-fear",
         "games-18-aeneas",
         "games-22-back-nine",

@@ -1,0 +1,45 @@
+{
+  "id": "games-15-triangle-couplet",
+  "name": "Triangle Couplet",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": [
+        15,
+        10,
+        6
+      ],
+      "load": {
+        "rx_male": "165lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": [
+        15,
+        10,
+        6
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2015",
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2015/10 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

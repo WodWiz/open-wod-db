@@ -1,0 +1,44 @@
+{
+  "id": "games-15-pedal-to-the-metal-2",
+  "name": "Pedal to the Metal 2",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "parallette-handstand-push-up",
+      "reps": 12
+    },
+    {
+      "exercise": "row",
+      "reps": 24,
+      "notes": "calories"
+    },
+    {
+      "exercise": "bike",
+      "reps": 16,
+      "notes": "calories; assault bike"
+    },
+    {
+      "exercise": "kettlebell-deadlift",
+      "reps": 8,
+      "load": {
+        "rx_male": "203lb",
+        "rx_female": "124lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2015",
+    "rowing",
+    "kettlebell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2015/13 (official CrossFit Games event), retrieved 2026-07-09; the final individual event of the 2015 Games, contested immediately after Pedal to the Metal 1",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

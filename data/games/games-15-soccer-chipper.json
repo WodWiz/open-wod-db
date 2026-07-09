@@ -1,0 +1,42 @@
+{
+  "id": "games-15-soccer-chipper",
+  "name": "Soccer Chipper",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "d-ball-over-shoulder",
+      "distance_m": 30,
+      "load": {
+        "rx_male": "560lb",
+        "rx_female": "395lb"
+      },
+      "notes": "100 ft, \"pig flip\""
+    },
+    {
+      "exercise": "legless-rope-climb",
+      "reps": 4
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 30,
+      "notes": "100 ft, in unbroken 50 ft sections"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2015",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2015/8 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

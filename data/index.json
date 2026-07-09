@@ -1,6 +1,416 @@
 {
-  "count": 406,
+  "count": 416,
   "wods": [
+    {
+      "id": "games-15-clean-and-jerk",
+      "name": "Clean and Jerk (2015 Games)",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 1,
+          "notes": "athlete's own 1-rep-max; no fixed Rx weight; two 20-second lifting windows, one athlete lifting at a time"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2015",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2015/9 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-15-heavy-dt",
+      "name": "Heavy DT",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "time_cap_minutes": 12,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 12,
+          "load": {
+            "rx_male": "205lb",
+            "rx_female": "145lb"
+          }
+        },
+        {
+          "exercise": "hang-power-clean",
+          "reps": 9,
+          "load": {
+            "rx_male": "205lb",
+            "rx_female": "145lb"
+          }
+        },
+        {
+          "exercise": "push-jerk",
+          "reps": 6,
+          "load": {
+            "rx_male": "205lb",
+            "rx_female": "145lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2015",
+        "barbell",
+        "5-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2015/5 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-15-midline-madness",
+      "name": "Midline Madness",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 6,
+        "time_cap_minutes": 25,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "yoke-carry",
+          "distance_m": 15,
+          "load": {
+            "rx_male": "380lb",
+            "rx_female": "300lb"
+          },
+          "notes": "50 ft"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2015",
+        "venue-equipment",
+        "running"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2015/11 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-15-murph",
+      "name": "Murph (2015 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 55,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 1609
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 100
+        },
+        {
+          "exercise": "push-up",
+          "reps": 200
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 300
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1609
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2015",
+        "running",
+        "gymnastics",
+        "weighted",
+        "high-volume"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2015/3 (official CrossFit Games event), retrieved 2026-07-09; the Hero WOD Murph with 20 lb (men) / 14 lb (women) body armor and a 55-minute cap; athletes advance to the next bar/rig every 25 pull-ups, 50 push-ups, and 75 squats",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-15-pedal-to-the-metal-1",
+      "name": "Pedal to the Metal 1",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "pegboard",
+          "reps": 3
+        },
+        {
+          "exercise": "row",
+          "reps": 24,
+          "notes": "calories"
+        },
+        {
+          "exercise": "bike",
+          "reps": 16,
+          "notes": "calories; assault bike"
+        },
+        {
+          "exercise": "dumbbell-snatch",
+          "reps": 8,
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "70lb"
+          },
+          "notes": "squat snatch variant"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2015",
+        "venue-equipment",
+        "rowing",
+        "dumbbell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2015/12 (official CrossFit Games event), retrieved 2026-07-09; introduced the pegboard to Games competition for the first time",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-15-pedal-to-the-metal-2",
+      "name": "Pedal to the Metal 2",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "parallette-handstand-push-up",
+          "reps": 12
+        },
+        {
+          "exercise": "row",
+          "reps": 24,
+          "notes": "calories"
+        },
+        {
+          "exercise": "bike",
+          "reps": 16,
+          "notes": "calories; assault bike"
+        },
+        {
+          "exercise": "kettlebell-deadlift",
+          "reps": 8,
+          "load": {
+            "rx_male": "203lb",
+            "rx_female": "124lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2015",
+        "rowing",
+        "kettlebell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2015/13 (official CrossFit Games event), retrieved 2026-07-09; the final individual event of the 2015 Games, contested immediately after Pedal to the Metal 1",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-15-pier-paddle",
+      "name": "Pier Paddle",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 60,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 500
+        },
+        {
+          "exercise": "paddleboard",
+          "distance_m": 3219,
+          "notes": "2 miles"
+        },
+        {
+          "exercise": "swim",
+          "distance_m": 500
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2015",
+        "swim",
+        "open-water",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2015/1 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-15-sandbag-2015",
+      "name": "Sandbag 2015",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 15,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "sandbag-carry",
+          "reps": 8,
+          "load": {
+            "rx_male": "720lb total",
+            "rx_female": "480lb total"
+          },
+          "notes": "men move 4x100 lb + 4x80 lb bags (720 lb total); women's individual bag breakdown for the 480 lb total is not confirmed from available sources, flagged per CONTRIBUTING; up the north stairs, across the floor (wheelbarrow permitted), up a wall, to the top of the south stairs"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2015",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2015/2 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-15-soccer-chipper",
+      "name": "Soccer Chipper",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 12,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "d-ball-over-shoulder",
+          "distance_m": 30,
+          "load": {
+            "rx_male": "560lb",
+            "rx_female": "395lb"
+          },
+          "notes": "100 ft, \"pig flip\""
+        },
+        {
+          "exercise": "legless-rope-climb",
+          "reps": 4
+        },
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 30,
+          "notes": "100 ft, in unbroken 50 ft sections"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2015",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2015/8 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-15-triangle-couplet",
+      "name": "Triangle Couplet",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": [
+            15,
+            10,
+            6
+          ],
+          "load": {
+            "rx_male": "165lb",
+            "rx_female": "115lb"
+          }
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": [
+            15,
+            10,
+            6
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2015",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2015/10 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
     {
       "id": "games-16-100-percent",
       "name": "100%",

@@ -1,0 +1,48 @@
+{
+  "id": "games-15-pedal-to-the-metal-1",
+  "name": "Pedal to the Metal 1",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 6,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "pegboard",
+      "reps": 3
+    },
+    {
+      "exercise": "row",
+      "reps": 24,
+      "notes": "calories"
+    },
+    {
+      "exercise": "bike",
+      "reps": 16,
+      "notes": "calories; assault bike"
+    },
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": 8,
+      "load": {
+        "rx_male": "100lb",
+        "rx_female": "70lb"
+      },
+      "notes": "squat snatch variant"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2015",
+    "venue-equipment",
+    "rowing",
+    "dumbbell"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2015/12 (official CrossFit Games event), retrieved 2026-07-09; introduced the pegboard to Games competition for the first time",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
