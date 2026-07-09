@@ -1,0 +1,45 @@
+{
+  "id": "games-25-going-dark",
+  "name": "Going Dark",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "echo-bike",
+      "reps": 50,
+      "notes": "calories (women use 40)"
+    },
+    {
+      "exercise": "yoke-carry",
+      "distance_m": 30,
+      "notes": "100 ft"
+    },
+    {
+      "exercise": "deficit-handstand-push-up",
+      "reps": 30
+    },
+    {
+      "exercise": "yoke-carry",
+      "distance_m": 30,
+      "notes": "100 ft"
+    },
+    {
+      "exercise": "echo-bike",
+      "reps": 50,
+      "notes": "calories (women use 40)"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2025",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2025/8 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

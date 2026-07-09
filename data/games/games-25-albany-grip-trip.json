@@ -1,0 +1,42 @@
+{
+  "id": "games-25-albany-grip-trip",
+  "name": "Albany Grip Trip",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 12,
+      "load": {
+        "rx_male": "350lb",
+        "rx_female": "220lb"
+      }
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 30,
+      "notes": "100 ft (150 ft on the final round)"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2025",
+    "barbell",
+    "running",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2025/4 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

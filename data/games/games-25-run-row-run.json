@@ -1,0 +1,36 @@
+{
+  "id": "games-25-run-row-run",
+  "name": "Run/Row/Run",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 6437,
+      "notes": "4 miles"
+    },
+    {
+      "exercise": "row",
+      "distance_m": 3000
+    },
+    {
+      "exercise": "run",
+      "distance_m": 3219,
+      "notes": "2 miles"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2025",
+    "running",
+    "rowing",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2025/1 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
