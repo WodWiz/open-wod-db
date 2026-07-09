@@ -1,0 +1,44 @@
+{
+  "id": "open-11-5",
+  "name": "11.5",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "power-clean",
+      "reps": 5,
+      "load": {
+        "rx_male": "145lb",
+        "rx_female": "100lb"
+      }
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 10
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 15,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2011",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2011/5 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

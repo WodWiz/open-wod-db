@@ -1,0 +1,44 @@
+{
+  "id": "open-15-1",
+  "name": "15.1",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 9,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "toes-to-bar",
+      "reps": 15
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "snatch",
+      "reps": 5,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2015",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2015/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "open-13-3",
+  "name": "13.3",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 150,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 90
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 30
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2013",
+    "gymnastics",
+    "jump-rope"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2013/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

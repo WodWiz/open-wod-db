@@ -1,0 +1,37 @@
+{
+  "id": "open-13-5",
+  "name": "13.5",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 4,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": 15,
+      "load": {
+        "rx_male": "100lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2013",
+    "barbell",
+    "gymnastics",
+    "time-extension-ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2013/5 (official CrossFit Games Open workout), retrieved 2026-07-09; continuous 15/15 couplet; the 4-minute cap extends to 8 minutes if 90 total reps are completed, to 12 minutes at 180 reps, and to 16 minutes at 270 reps",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "open-12-3",
+  "name": "12.3",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 18,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "box-jump",
+      "reps": 15
+    },
+    {
+      "exercise": "push-press",
+      "reps": 12,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 9
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2012",
+    "barbell",
+    "bodyweight",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2012/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

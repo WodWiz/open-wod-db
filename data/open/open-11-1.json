@@ -1,0 +1,36 @@
+{
+  "id": "open-11-1",
+  "name": "11.1",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "double-under",
+      "reps": 30
+    },
+    {
+      "exercise": "power-snatch",
+      "reps": 15,
+      "load": {
+        "rx_male": "75lb",
+        "rx_female": "55lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2011",
+    "barbell",
+    "jump-rope"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2011/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

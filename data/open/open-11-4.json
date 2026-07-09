@@ -1,0 +1,41 @@
+{
+  "id": "open-11-4",
+  "name": "11.4",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "bar-facing-burpee",
+      "reps": 60
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 30,
+      "load": {
+        "rx_male": "120lb",
+        "rx_female": "90lb"
+      }
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 10
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2011",
+    "barbell",
+    "bodyweight",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2011/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
