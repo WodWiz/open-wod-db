@@ -1,0 +1,76 @@
+{
+  "id": "games-21-event-2",
+  "name": "2021 Games Event 2",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "sled-push",
+      "distance_m": 38,
+      "load": {
+        "rx_male": "220lb",
+        "rx_female": "180lb"
+      },
+      "notes": "126 ft, sled drag"
+    },
+    {
+      "exercise": "d-ball-over-shoulder",
+      "reps": 5,
+      "load": {
+        "rx_male": "510lb",
+        "rx_female": "350lb"
+      },
+      "notes": "\"pig flips\""
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 12
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 12
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 12
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 12
+    },
+    {
+      "exercise": "d-ball-over-shoulder",
+      "reps": 5,
+      "load": {
+        "rx_male": "510lb",
+        "rx_female": "350lb"
+      },
+      "notes": "\"pig flips\""
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 38,
+      "load": {
+        "rx_male": "220lb",
+        "rx_female": "180lb"
+      },
+      "notes": "126 ft, sled drag"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/2 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

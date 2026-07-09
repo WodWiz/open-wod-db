@@ -1,0 +1,47 @@
+{
+  "id": "games-20-atalanta",
+  "name": "Atalanta",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 1609,
+      "notes": "1 mile; weight vest 20 lb (men) / 14 lb (women)"
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 100,
+      "notes": "weight vest 20 lb (men) / 14 lb (women)"
+    },
+    {
+      "exercise": "pistol",
+      "reps": 200,
+      "notes": "weight vest 20 lb (men) / 14 lb (women); alternating legs"
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 300,
+      "notes": "weight vest 20 lb (men) / 14 lb (women)"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1609,
+      "notes": "1 mile; weight vest 20 lb (men) / 14 lb (women)"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "weighted",
+    "high-volume",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/19 (official CrossFit Games event), retrieved 2026-07-09; all reps must be unpartitioned (each movement fully completed before advancing); combines elements of Mary and the Hero WOD Murph",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

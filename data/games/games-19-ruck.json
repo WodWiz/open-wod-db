@@ -1,0 +1,61 @@
+{
+  "id": "games-19-ruck",
+  "name": "Ruck",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 40,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 1500,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "20lb"
+      },
+      "notes": "weighted ruck run"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1500,
+      "load": {
+        "rx_male": "30lb",
+        "rx_female": "30lb"
+      },
+      "notes": "weighted ruck run"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1500,
+      "load": {
+        "rx_male": "40lb",
+        "rx_female": "40lb"
+      },
+      "notes": "weighted ruck run"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1500,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "50lb"
+      },
+      "notes": "weighted ruck run"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2019",
+    "running",
+    "weighted",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2019/3 (official CrossFit Games event), retrieved 2026-07-09; 4 laps of the same 1,500 m course, adding weight each lap (same for both divisions); top 40 athletes advance",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

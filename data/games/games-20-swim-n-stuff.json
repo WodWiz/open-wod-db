@@ -1,0 +1,47 @@
+{
+  "id": "games-20-swim-n-stuff",
+  "name": "Swim 'N' Stuff",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "interval_seconds": 240,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "bike",
+      "reps": 15,
+      "notes": "calories (women use 10); air bike"
+    },
+    {
+      "exercise": "swim",
+      "distance_m": 46,
+      "notes": "50 m"
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 10
+    },
+    {
+      "exercise": "ball-slam",
+      "reps": 10,
+      "load": {
+        "rx_male": "60lb",
+        "rx_female": "40lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "swim",
+    "venue-equipment"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/17 (official CrossFit Games event), retrieved 2026-07-09; new round begins every 4 minutes; rounds 2 and 4 are performed with the movement order reversed",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

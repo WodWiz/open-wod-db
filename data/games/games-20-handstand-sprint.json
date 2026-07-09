@@ -1,0 +1,25 @@
+{
+  "id": "games-20-handstand-sprint",
+  "name": "Handstand Sprint",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 91,
+      "notes": "100 yd"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/11 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

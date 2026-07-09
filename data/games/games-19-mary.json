@@ -1,0 +1,37 @@
+{
+  "id": "games-19-mary",
+  "name": "Mary (2019 Games)",
+  "category": "games",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "handstand-push-up",
+      "reps": 5
+    },
+    {
+      "exercise": "pistol",
+      "reps": 10,
+      "notes": "alternating legs"
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2019",
+    "gymnastics",
+    "bodyweight"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2019/5 (official CrossFit Games event), retrieved 2026-07-09; the classic Girl WOD Mary, reused as a Games event",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

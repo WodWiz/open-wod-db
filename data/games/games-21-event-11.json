@@ -1,0 +1,43 @@
+{
+  "id": "games-21-event-11",
+  "name": "2021 Games Event 11",
+  "category": "games",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 11,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "pegboard",
+      "reps": 1
+    },
+    {
+      "exercise": "dumbbell-overhead-squat",
+      "reps": 7,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "50lb"
+      },
+      "notes": "single-arm"
+    },
+    {
+      "exercise": "double-under",
+      "reps": 15,
+      "notes": "heavy rope, loaded to roughly 2x bodyweight"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "venue-equipment",
+    "dumbbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/11 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

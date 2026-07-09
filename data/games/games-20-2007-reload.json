@@ -1,0 +1,86 @@
+{
+  "id": "games-20-2007-reload",
+  "name": "2007 Reload",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 1500
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 10
+    },
+    {
+      "exercise": "shoulder-to-overhead",
+      "reps": 7,
+      "load": {
+        "rx_male": "235lb",
+        "rx_female": "145lb"
+      }
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 10
+    },
+    {
+      "exercise": "shoulder-to-overhead",
+      "reps": 7,
+      "load": {
+        "rx_male": "235lb",
+        "rx_female": "145lb"
+      }
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 10
+    },
+    {
+      "exercise": "shoulder-to-overhead",
+      "reps": 7,
+      "load": {
+        "rx_male": "235lb",
+        "rx_female": "145lb"
+      }
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 10
+    },
+    {
+      "exercise": "shoulder-to-overhead",
+      "reps": 7,
+      "load": {
+        "rx_male": "235lb",
+        "rx_female": "145lb"
+      }
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 10
+    },
+    {
+      "exercise": "shoulder-to-overhead",
+      "reps": 7,
+      "load": {
+        "rx_male": "235lb",
+        "rx_female": "145lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "rowing",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/8 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

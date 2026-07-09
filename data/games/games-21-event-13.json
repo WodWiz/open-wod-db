@@ -1,0 +1,153 @@
+{
+  "id": "games-21-event-13",
+  "name": "2021 Games Event 13",
+  "category": "games",
+  "format": "multi_part",
+  "format_meta": {},
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/13 (official CrossFit Games event), retrieved 2026-07-09; 1 minute to return to the GHD rig before each next round begins",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "Round 1",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 20
+        },
+        {
+          "exercise": "burpee",
+          "reps": 8,
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "70lb"
+          },
+          "notes": "over a hay bale, carrying a weighted \"cheese curd\" bag"
+        },
+        {
+          "exercise": "yoke-carry",
+          "distance_m": 51,
+          "load": {
+            "rx_male": "605lb",
+            "rx_female": "425lb"
+          },
+          "notes": "168 ft"
+        }
+      ],
+      "rest_after_seconds": 60
+    },
+    {
+      "label": "Round 2",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 20
+        },
+        {
+          "exercise": "burpee",
+          "reps": 8,
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "70lb"
+          },
+          "notes": "over a hay bale, carrying a weighted \"cheese curd\" bag"
+        },
+        {
+          "exercise": "yoke-carry",
+          "distance_m": 51,
+          "load": {
+            "rx_male": "605lb",
+            "rx_female": "425lb"
+          },
+          "notes": "168 ft"
+        }
+      ],
+      "rest_after_seconds": 60
+    },
+    {
+      "label": "Round 3",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 20
+        },
+        {
+          "exercise": "burpee",
+          "reps": 8,
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "70lb"
+          },
+          "notes": "over a hay bale, carrying a weighted \"cheese curd\" bag"
+        },
+        {
+          "exercise": "yoke-carry",
+          "distance_m": 51,
+          "load": {
+            "rx_male": "605lb",
+            "rx_female": "425lb"
+          },
+          "notes": "168 ft"
+        }
+      ],
+      "rest_after_seconds": 60
+    },
+    {
+      "label": "Round 4",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 20
+        },
+        {
+          "exercise": "burpee",
+          "reps": 8,
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "70lb"
+          },
+          "notes": "over a hay bale, carrying a weighted \"cheese curd\" bag"
+        },
+        {
+          "exercise": "yoke-carry",
+          "distance_m": 51,
+          "load": {
+            "rx_male": "605lb",
+            "rx_female": "425lb"
+          },
+          "notes": "168 ft"
+        }
+      ]
+    }
+  ]
+}

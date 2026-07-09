@@ -1,0 +1,41 @@
+{
+  "id": "games-19-first-cut",
+  "name": "First Cut",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "legless-rope-climb",
+      "reps": 3
+    },
+    {
+      "exercise": "squat-snatch",
+      "reps": 7,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "130lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2019",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2019/1 (official CrossFit Games event), retrieved 2026-07-09; top 75 athletes score points, the rest are ranked with 0",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

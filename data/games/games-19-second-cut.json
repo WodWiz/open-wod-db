@@ -1,0 +1,43 @@
+{
+  "id": "games-19-second-cut",
+  "name": "Second Cut",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 800
+    },
+    {
+      "exercise": "kettlebell-press",
+      "reps": 66,
+      "load": {
+        "rx_male": "35lb",
+        "rx_female": "26lb"
+      },
+      "notes": "shoulder-to-overhead; 2 kettlebells (16 kg men / 12 kg women)"
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 40,
+      "notes": "132 ft"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2019",
+    "rowing",
+    "kettlebell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2019/2 (official CrossFit Games event), retrieved 2026-07-09; top 50 athletes advance",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

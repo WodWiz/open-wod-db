@@ -1,0 +1,32 @@
+{
+  "id": "games-21-event-1",
+  "name": "2021 Games Event 1",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 1609,
+      "notes": "1 mile, with fins"
+    },
+    {
+      "exercise": "kayak",
+      "distance_m": 4828,
+      "notes": "3 miles"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "swim",
+    "open-water",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/1 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

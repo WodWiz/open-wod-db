@@ -1,0 +1,91 @@
+{
+  "id": "games-20-happy-star",
+  "name": "Happy Star",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 300,
+      "notes": "hill run; course changes each round"
+    },
+    {
+      "exercise": "burpee",
+      "reps": 5
+    },
+    {
+      "exercise": "thruster",
+      "reps": 5,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 300,
+      "notes": "hill run; course changes each round"
+    },
+    {
+      "exercise": "burpee",
+      "reps": 7
+    },
+    {
+      "exercise": "thruster",
+      "reps": 7,
+      "load": {
+        "rx_male": "145lb",
+        "rx_female": "105lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 300,
+      "notes": "hill run; course changes each round"
+    },
+    {
+      "exercise": "burpee",
+      "reps": 9
+    },
+    {
+      "exercise": "thruster",
+      "reps": 9,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "110lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 300,
+      "notes": "hill run; course changes each round"
+    },
+    {
+      "exercise": "burpee",
+      "reps": 11
+    },
+    {
+      "exercise": "thruster",
+      "reps": 11,
+      "load": {
+        "rx_male": "165lb",
+        "rx_female": "115lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "outdoor",
+    "hill",
+    "barbell",
+    "ascending"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/16 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

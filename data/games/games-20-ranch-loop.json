@@ -1,0 +1,28 @@
+{
+  "id": "games-20-ranch-loop",
+  "name": "Ranch Loop",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 9656,
+      "notes": "approx. 6 miles: the ~3-mile varied-terrain loop run out, then reversed and run back"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "running",
+    "outdoor",
+    "hill",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/12 (official CrossFit Games event), retrieved 2026-07-09; originally announced as a single ~3-mile loop, but athletes were told on the day to turn around and run the course in reverse, doubling its length",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "games-21-event-4",
+  "name": "2021 Games Event 4",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "wall-climb",
+      "reps": [
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "exercise": "thruster",
+      "reps": [
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "135lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/4 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

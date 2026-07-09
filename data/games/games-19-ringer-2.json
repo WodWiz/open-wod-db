@@ -1,0 +1,63 @@
+{
+  "id": "games-19-ringer-2",
+  "name": "Ringer 2",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "burpee",
+      "reps": 15,
+      "notes": "with a jump to touch the rings"
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 15,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 10,
+      "notes": "with a jump to touch the rings"
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 10,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 5,
+      "notes": "with a jump to touch the rings"
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 5,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2019",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2019/11 (official CrossFit Games event), retrieved 2026-07-09; scored separately from Ringer 1, starting 7 minutes after Ringer 1 begins",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

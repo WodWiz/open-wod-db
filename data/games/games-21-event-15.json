@@ -1,0 +1,58 @@
+{
+  "id": "games-21-event-15",
+  "name": "2021 Games Event 15",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 600,
+      "notes": "600 m for men, 500 m for women"
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 90
+    },
+    {
+      "exercise": "back-rack-lunge",
+      "distance_m": 11,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "135lb"
+      },
+      "notes": "36 ft, walking"
+    },
+    {
+      "exercise": "front-rack-lunge",
+      "distance_m": 11,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "135lb"
+      },
+      "notes": "36 ft, walking"
+    },
+    {
+      "exercise": "overhead-walking-lunge",
+      "distance_m": 11,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "135lb"
+      },
+      "notes": "36 ft"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2021",
+    "rowing",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2021/15 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

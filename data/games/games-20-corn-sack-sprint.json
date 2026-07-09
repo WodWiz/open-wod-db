@@ -1,0 +1,30 @@
+{
+  "id": "games-20-corn-sack-sprint",
+  "name": "Corn Sack Sprint",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "sandbag-carry",
+      "distance_m": 293,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "30lb"
+      },
+      "notes": "320 m hill sprint, carrying a corn sack"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2020",
+    "outdoor",
+    "hill"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2020/9 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
