@@ -41,8 +41,6 @@ classified by functional category, each listing the `workouts` that use it.
   slug; the "bodyweight" load arguably belongs in a load/notes field with the
   movement as plain `clean-and-jerk`. Left as-is for now (workout data shouldn't be
   rewritten without sign-off); worth a deliberate pass later.
-- **Sync to Supabase** — `sync/sync_supabase.py` could also push `movements.json`
-  into a `movements` table for the app to consume.
 
 ## Structure the remaining staged Hero WODs
 
