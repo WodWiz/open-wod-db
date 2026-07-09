@@ -45,7 +45,8 @@ GROUPS = {
         "dumbbell-squat-clean-thruster", "dumbbell-hang-clean-to-overhead",
         "dumbbell-hang-clean-and-jerk", "dumbbell-front-rack-squat",
         "dumbbell-push-press", "dumbbell-push-jerk",
-        "dumbbell-shoulder-press", "dumbbell-strict-press", "dumbbell-front-squat",
+        "dumbbell-shoulder-press", "dumbbell-strict-press", "dumbbell-shoulder-to-overhead",
+        "dumbbell-hang-power-clean", "dumbbell-front-squat",
         "dumbbell-overhead-squat", "dumbbell-goblet-squat", "dumbbell-bench-press",
         "dumbbell-floor-press", "dumbbell-deadlift", "dumbbell-romanian-deadlift",
         "dumbbell-burpee-deadlift", "dumbbell-walking-lunge", "dumbbell-front-rack-lunge",
@@ -140,6 +141,7 @@ ALIASES = {
     "ring-muscle-up": ["rmu"],
     "handstand-walk": ["hs walk"],
     "pistol": ["single-leg squat", "pistol squat"],
+    "wall-facing-handstand-push-up": ["chest-to-wall handstand push-up"],
 }
 
 

@@ -1,0 +1,96 @@
+{
+  "id": "qf-26-3",
+  "name": "26.QF3",
+  "category": "quarterfinal",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "double-under",
+      "reps": 50
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 50
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 50
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 50
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 50
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 50
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "225lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2026",
+    "barbell",
+    "jump-rope"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2026/3 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

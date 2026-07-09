@@ -1,0 +1,51 @@
+{
+  "id": "qf-24-1",
+  "name": "24.QF1",
+  "category": "quarterfinal",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "work_seconds": 60,
+    "rest_seconds": 60,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "snatch",
+      "reps": "max",
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "85lb"
+      },
+      "notes": "1 minute, max reps"
+    },
+    {
+      "exercise": "row",
+      "reps": "max",
+      "notes": "1 minute, max reps (calories)"
+    },
+    {
+      "exercise": "dumbbell-box-step-up",
+      "reps": "max",
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "1 minute, max reps; 20 in box"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2024",
+    "barbell",
+    "dumbbell",
+    "rowing",
+    "interval"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2024/1 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09; 4 rounds of 1 minute each of snatch, row, dumbbell box step-up, with 1 minute of rest after each round, scored by total reps across all rounds",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

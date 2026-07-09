@@ -1,0 +1,90 @@
+{
+  "id": "qf-23-3",
+  "name": "23.QF3",
+  "category": "quarterfinal",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "burpee-box-jump-over",
+      "reps": 5,
+      "notes": "24 in (men) / 20 in (women) box"
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 1,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    },
+    {
+      "exercise": "burpee-box-jump-over",
+      "reps": 5,
+      "notes": "24 in (men) / 20 in (women) box"
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 2,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    },
+    {
+      "exercise": "burpee-box-jump-over",
+      "reps": 5,
+      "notes": "24 in (men) / 20 in (women) box"
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 3,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    },
+    {
+      "exercise": "burpee-box-jump-over",
+      "reps": 5,
+      "notes": "24 in (men) / 20 in (women) box"
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 4,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    },
+    {
+      "exercise": "burpee-box-jump-over",
+      "reps": 5,
+      "notes": "24 in (men) / 20 in (women) box"
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 5,
+      "load": {
+        "rx_male": "275lb",
+        "rx_female": "185lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2023",
+    "barbell",
+    "bodyweight",
+    "ascending"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2023/3 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

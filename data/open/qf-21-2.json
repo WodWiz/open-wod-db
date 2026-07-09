@@ -1,0 +1,54 @@
+{
+  "id": "qf-21-2",
+  "name": "21.QF2",
+  "category": "quarterfinal",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "ghd-sit-up",
+      "reps": [
+        60,
+        50,
+        40,
+        30
+      ]
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": [
+        6,
+        5,
+        4,
+        3
+      ],
+      "notes": "to 15 feet"
+    },
+    {
+      "exercise": "pistol",
+      "reps": [
+        60,
+        50,
+        40,
+        30
+      ],
+      "notes": "alternating legs"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2021",
+    "gymnastics",
+    "bodyweight",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2021/2 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

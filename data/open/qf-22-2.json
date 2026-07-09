@@ -1,0 +1,38 @@
+{
+  "id": "qf-22-2",
+  "name": "22.QF2",
+  "category": "quarterfinal",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "pistol",
+      "reps": 30,
+      "notes": "alternating legs"
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 30
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 10
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2022",
+    "gymnastics",
+    "bodyweight",
+    "3-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2022/2 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

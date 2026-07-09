@@ -1,0 +1,86 @@
+{
+  "id": "qf-24-4",
+  "name": "24.QF4",
+  "category": "quarterfinal",
+  "format": "multi_part",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "reps"
+  },
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2024",
+    "barbell"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2024/4 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09; continually running clock; scored by total reps in 10 minutes, ties broken by fastest 10th rep at the previous weight",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "Weight 1",
+      "format": "for_time",
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 10,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "85lb"
+          }
+        }
+      ],
+      "rest_after_seconds": 60
+    },
+    {
+      "label": "Weight 2",
+      "format": "for_time",
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 10,
+          "load": {
+            "rx_male": "185lb",
+            "rx_female": "125lb"
+          }
+        }
+      ],
+      "rest_after_seconds": 60
+    },
+    {
+      "label": "Weight 3",
+      "format": "for_time",
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 10,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        }
+      ],
+      "rest_after_seconds": 60
+    },
+    {
+      "label": "Weight 4 (AMRAP remainder)",
+      "format": "amrap",
+      "format_meta": {
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": "max",
+          "load": {
+            "rx_male": "245lb",
+            "rx_female": "165lb"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "qf-23-1",
+  "name": "23.QF1",
+  "category": "quarterfinal",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 15,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "front-squat",
+      "reps": 9,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "handstand-walk",
+      "reps": 9,
+      "distance_m": 7.6,
+      "notes": "each rep = one 25 ft traversal"
+    },
+    {
+      "exercise": "front-squat",
+      "reps": 15,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "125lb"
+      }
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 15
+    },
+    {
+      "exercise": "front-squat",
+      "reps": 21,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "wall-facing-handstand-push-up",
+      "reps": 21
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2023",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2023/1 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "qf-23-4",
+  "name": "23.QF4",
+  "category": "quarterfinal",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 50
+    },
+    {
+      "exercise": "row",
+      "distance_m": 500
+    },
+    {
+      "exercise": "v-up",
+      "reps": 25
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2023",
+    "rowing",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2023/4 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

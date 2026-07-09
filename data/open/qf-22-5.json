@@ -1,0 +1,42 @@
+{
+  "id": "qf-22-5",
+  "name": "22.QF5",
+  "category": "quarterfinal",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "reps": 30,
+      "notes": "calories"
+    },
+    {
+      "exercise": "burpee-box-jump-over",
+      "reps": 20,
+      "notes": "20 in box"
+    },
+    {
+      "exercise": "snatch",
+      "reps": 10,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "135lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "quarterfinal",
+    "2022",
+    "barbell",
+    "rowing"
+  ],
+  "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2022/5 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
