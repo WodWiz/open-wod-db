@@ -1,0 +1,49 @@
+{
+  "id": "games-22-the-capitol",
+  "name": "The Capitol",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "d-ball-over-shoulder",
+      "reps": 20,
+      "notes": "\"pig flips\""
+    },
+    {
+      "exercise": "run",
+      "distance_m": 5633,
+      "notes": "3.5 miles"
+    },
+    {
+      "exercise": "jerry-bag-carry",
+      "distance_m": 183,
+      "load": {
+        "rx_male": "100lb",
+        "rx_female": "70lb"
+      },
+      "notes": "200 m; two bags"
+    },
+    {
+      "exercise": "husafell-carry",
+      "distance_m": 183,
+      "load": {
+        "rx_male": "200lb",
+        "rx_female": "150lb"
+      },
+      "notes": "200 m"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2022",
+    "venue-equipment",
+    "outdoor"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2022/5 (official CrossFit Games event), retrieved 2026-07-09; course runs from Alliant Energy Center to the Wisconsin State Capitol; reps/distances/loads are fixed and standardized despite the location-specific route",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

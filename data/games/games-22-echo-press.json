@@ -1,0 +1,59 @@
+{
+  "id": "games-22-echo-press",
+  "name": "Echo Press",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "echo-bike",
+      "reps": 30,
+      "notes": "calories (women use 25)"
+    },
+    {
+      "exercise": "deficit-handstand-push-up",
+      "reps": 10,
+      "notes": "2 in deficit, performed from an elevated block"
+    },
+    {
+      "exercise": "echo-bike",
+      "reps": 20,
+      "notes": "calories (women use 15)"
+    },
+    {
+      "exercise": "deficit-handstand-push-up",
+      "reps": 10,
+      "notes": "2 in deficit, performed from an elevated block"
+    },
+    {
+      "exercise": "echo-bike",
+      "reps": 20,
+      "notes": "calories (women use 15)"
+    },
+    {
+      "exercise": "deficit-handstand-push-up",
+      "reps": 10,
+      "notes": "2 in deficit, performed from an elevated block"
+    },
+    {
+      "exercise": "echo-bike",
+      "reps": 30,
+      "notes": "calories (women use 25)"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2022",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2022/7 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,6 +1,635 @@
 {
-  "count": 314,
+  "count": 326,
   "wods": [
+    {
+      "id": "games-22-back-nine",
+      "name": "Back Nine",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 4,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "yoke-carry",
+          "distance_m": 16,
+          "load": {
+            "rx_male": "665lb",
+            "rx_female": "485lb"
+          },
+          "notes": "54 ft"
+        },
+        {
+          "exercise": "front-squat",
+          "reps": 2,
+          "load": {
+            "rx_male": "315lb",
+            "rx_female": "215lb"
+          }
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 3,
+          "load": {
+            "rx_male": "475lb",
+            "rx_female": "315lb"
+          }
+        },
+        {
+          "exercise": "front-squat",
+          "reps": 2,
+          "load": {
+            "rx_male": "315lb",
+            "rx_female": "215lb"
+          }
+        },
+        {
+          "exercise": "yoke-carry",
+          "distance_m": 16,
+          "load": {
+            "rx_male": "665lb",
+            "rx_female": "485lb"
+          },
+          "notes": "54 ft"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "venue-equipment",
+        "barbell",
+        "max-effort"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/12 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-22-bike-to-work",
+      "name": "Bike to Work",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 50,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "toes-to-bar",
+          "reps": 75
+        },
+        {
+          "exercise": "bike",
+          "distance_m": 8047,
+          "notes": "5 miles; 5 laps of a 1-mile course"
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 75
+        },
+        {
+          "exercise": "bike",
+          "distance_m": 8047,
+          "notes": "5 miles; 5 laps of a 1-mile course"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "outdoor",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/1 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-22-echo-press",
+      "name": "Echo Press",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 12,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "echo-bike",
+          "reps": 30,
+          "notes": "calories (women use 25)"
+        },
+        {
+          "exercise": "deficit-handstand-push-up",
+          "reps": 10,
+          "notes": "2 in deficit, performed from an elevated block"
+        },
+        {
+          "exercise": "echo-bike",
+          "reps": 20,
+          "notes": "calories (women use 15)"
+        },
+        {
+          "exercise": "deficit-handstand-push-up",
+          "reps": 10,
+          "notes": "2 in deficit, performed from an elevated block"
+        },
+        {
+          "exercise": "echo-bike",
+          "reps": 20,
+          "notes": "calories (women use 15)"
+        },
+        {
+          "exercise": "deficit-handstand-push-up",
+          "reps": 10,
+          "notes": "2 in deficit, performed from an elevated block"
+        },
+        {
+          "exercise": "echo-bike",
+          "reps": 30,
+          "notes": "calories (women use 25)"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/7 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-22-elizabeth-elevated",
+      "name": "Elizabeth Elevated",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "squat-clean",
+          "reps": [
+            21,
+            15,
+            9,
+            9,
+            9
+          ],
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "bar-dip",
+          "reps": [
+            21,
+            15,
+            9,
+            9,
+            9
+          ],
+          "notes": "split into 3 unbroken sets per round, each set beginning with a parallel bar traverse"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/3 (official CrossFit Games event), retrieved 2026-07-09; time cap 10 minutes (men) / 12 minutes (women)",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-22-hat-trick",
+      "name": "Hat Trick",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "interval_seconds": 120,
+        "rest_seconds": 240,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "sprint"
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 20,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          },
+          "notes": "12 ft (men) / 11 ft (women) target"
+        },
+        {
+          "exercise": "alternating-dumbbell-snatch",
+          "reps": 6,
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "70lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "dumbbell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/9 (official CrossFit Games event), retrieved 2026-07-09; 2 minutes per round then 4 minutes rest; performed in two overlapping heats",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-22-jackie-pro",
+      "name": "Jackie Pro",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 1000,
+          "notes": "must be completed within 3:15 (men) / 3:40 (women) to continue"
+        },
+        {
+          "exercise": "thruster",
+          "reps": 50,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 30
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "rowing",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/13 (official CrossFit Games event), retrieved 2026-07-09; a heavier-loaded, bar-muscle-up variant of the Girl WOD Jackie, with a qualifying row-time standard to continue to the thrusters/muscle-ups",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-22-rinse-n-repeat",
+      "name": "Rinse 'N' Repeat",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 8,
+        "interval_seconds": 120,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 46,
+          "notes": "50 yd; 25 yd down, 25 yd back"
+        },
+        {
+          "exercise": "ski-erg",
+          "reps": 8,
+          "notes": "calories; add 2 calories each round for 6 rounds, then max calories for rounds 7-8"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "swim",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/8 (official CrossFit Games event), retrieved 2026-07-09; every 2 minutes for up to 8 rounds",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-22-sandbag-ladder",
+      "name": "Sandbag Ladder",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "sandbag-clean",
+          "reps": 1,
+          "load": {
+            "rx_male": "240-340lb (ladder)",
+            "rx_female": "160-250lb (ladder)"
+          },
+          "notes": "to one shoulder, may release one hand to show control; progressively heavier sandbags until failure to lift"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "max-load",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/10 (official CrossFit Games event), retrieved 2026-07-09; exact intermediate ladder increments between the confirmed endpoints (240-340 lb men, 160-250 lb women) are not confirmed from available sources -- flagged per CONTRIBUTING rather than guessed; tiebreak was a 3-sandbag toss over a yoke (100/150/200 lb men, 50/100/150 lb women)",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-22-shuttle-to-overhead",
+      "name": "Shuttle to Overhead",
+      "category": "games",
+      "format": "multi_part",
+      "format_meta": {},
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "barbell",
+        "running"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/4 (official CrossFit Games event), retrieved 2026-07-09; scored as two separate events: total time to complete the three runs, and cumulative jerks across all rounds",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09",
+      "segments": [
+        {
+          "label": "0:00-2:00",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 2,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "run",
+              "distance_m": 400
+            },
+            {
+              "exercise": "jerk",
+              "reps": "max",
+              "load": {
+                "rx_male": "200lb",
+                "rx_female": "155lb"
+              },
+              "notes": "max reps in time remaining"
+            }
+          ],
+          "rest_after_seconds": 60
+        },
+        {
+          "label": "3:00-6:00",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 3,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "run",
+              "distance_m": 600
+            },
+            {
+              "exercise": "jerk",
+              "reps": "max",
+              "load": {
+                "rx_male": "200lb",
+                "rx_female": "155lb"
+              },
+              "notes": "max reps in time remaining"
+            }
+          ],
+          "rest_after_seconds": 120
+        },
+        {
+          "label": "8:00-12:00",
+          "format": "for_time",
+          "format_meta": {
+            "time_cap_minutes": 4,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "run",
+              "distance_m": 800
+            },
+            {
+              "exercise": "jerk",
+              "reps": "max",
+              "load": {
+                "rx_male": "200lb",
+                "rx_female": "155lb"
+              },
+              "notes": "max reps in time remaining"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "games-22-the-alpaca",
+      "name": "The Alpaca",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 18,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "sled-push",
+          "distance_m": 38,
+          "notes": "126 ft; starts loaded with all six kettlebells, removed progressively during the push"
+        },
+        {
+          "exercise": "kettlebell-clean-and-jerk",
+          "reps": 20,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          },
+          "notes": "32 kg (men) / 24 kg (women)"
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 13,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          },
+          "notes": "42 ft; 2 kettlebells"
+        },
+        {
+          "exercise": "kettlebell-clean-and-jerk",
+          "reps": 15,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          }
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 13,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          },
+          "notes": "42 ft; 4 kettlebells"
+        },
+        {
+          "exercise": "kettlebell-clean-and-jerk",
+          "reps": 10,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          }
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 13,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          },
+          "notes": "42 ft; 6 kettlebells"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "venue-equipment",
+        "kettlebell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/11 (official CrossFit Games event), retrieved 2026-07-09; originally included legless rope climbs between each sled push/kettlebell station, but these were removed for weather/safety reasons in the version actually contested -- this entry reflects the as-performed version; the exact load-removal mechanic during the initial 126 ft push is not precisely confirmed from available sources, flagged per CONTRIBUTING",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-22-the-capitol",
+      "name": "The Capitol",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "d-ball-over-shoulder",
+          "reps": 20,
+          "notes": "\"pig flips\""
+        },
+        {
+          "exercise": "run",
+          "distance_m": 5633,
+          "notes": "3.5 miles"
+        },
+        {
+          "exercise": "jerry-bag-carry",
+          "distance_m": 183,
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "70lb"
+          },
+          "notes": "200 m; two bags"
+        },
+        {
+          "exercise": "husafell-carry",
+          "distance_m": 183,
+          "load": {
+            "rx_male": "200lb",
+            "rx_female": "150lb"
+          },
+          "notes": "200 m"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "venue-equipment",
+        "outdoor"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/5 (official CrossFit Games event), retrieved 2026-07-09; course runs from Alliant Energy Center to the Wisconsin State Capitol; reps/distances/loads are fixed and standardized despite the location-specific route",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-22-up-and-over",
+      "name": "Up and Over",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "time_cap_minutes": 18,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "muscle-up",
+          "reps": 12
+        },
+        {
+          "exercise": "box-jump-over",
+          "reps": 25,
+          "notes": "over a 50 in log, 30 in box, and 20 in \"Pig\" in sequence"
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 30
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2022",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2022/6 (official CrossFit Games event), retrieved 2026-07-09; followed by an 84 ft weighted lunge with a 125 lb (women) axle bar to finish",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
     {
       "id": "games-23-alpaca-redux",
       "name": "The Alpaca Redux",

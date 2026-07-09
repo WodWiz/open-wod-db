@@ -1,0 +1,38 @@
+{
+  "id": "games-22-up-and-over",
+  "name": "Up and Over",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "time_cap_minutes": 18,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 12
+    },
+    {
+      "exercise": "box-jump-over",
+      "reps": 25,
+      "notes": "over a 50 in log, 30 in box, and 20 in \"Pig\" in sequence"
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 30
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2022",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2022/6 (official CrossFit Games event), retrieved 2026-07-09; followed by an 84 ft weighted lunge with a 125 lb (women) axle bar to finish",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

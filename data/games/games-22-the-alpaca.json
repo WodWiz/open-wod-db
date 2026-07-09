@@ -1,0 +1,81 @@
+{
+  "id": "games-22-the-alpaca",
+  "name": "The Alpaca",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 18,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "sled-push",
+      "distance_m": 38,
+      "notes": "126 ft; starts loaded with all six kettlebells, removed progressively during the push"
+    },
+    {
+      "exercise": "kettlebell-clean-and-jerk",
+      "reps": 20,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      },
+      "notes": "32 kg (men) / 24 kg (women)"
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 13,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      },
+      "notes": "42 ft; 2 kettlebells"
+    },
+    {
+      "exercise": "kettlebell-clean-and-jerk",
+      "reps": 15,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      }
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 13,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      },
+      "notes": "42 ft; 4 kettlebells"
+    },
+    {
+      "exercise": "kettlebell-clean-and-jerk",
+      "reps": 10,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      }
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 13,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      },
+      "notes": "42 ft; 6 kettlebells"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2022",
+    "venue-equipment",
+    "kettlebell"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2022/11 (official CrossFit Games event), retrieved 2026-07-09; originally included legless rope climbs between each sled push/kettlebell station, but these were removed for weather/safety reasons in the version actually contested -- this entry reflects the as-performed version; the exact load-removal mechanic during the initial 126 ft push is not precisely confirmed from available sources, flagged per CONTRIBUTING",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

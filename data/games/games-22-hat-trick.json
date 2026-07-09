@@ -1,0 +1,45 @@
+{
+  "id": "games-22-hat-trick",
+  "name": "Hat Trick",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "interval_seconds": 120,
+    "rest_seconds": 240,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "sprint"
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 20,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      },
+      "notes": "12 ft (men) / 11 ft (women) target"
+    },
+    {
+      "exercise": "alternating-dumbbell-snatch",
+      "reps": 6,
+      "load": {
+        "rx_male": "100lb",
+        "rx_female": "70lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2022",
+    "dumbbell"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2022/9 (official CrossFit Games event), retrieved 2026-07-09; 2 minutes per round then 4 minutes rest; performed in two overlapping heats",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

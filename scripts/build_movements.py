@@ -107,7 +107,7 @@ GROUPS = {
         "wall-ball-shot", "medicine-ball-clean", "medicine-ball-sit-up",
         "medicine-ball-box-step-over", "ball-slam",
         "sandbag-carry", "sandbag-clean", "sandbag-ground-to-shoulder", "sandbag-squat",
-        "sandbag-over-log", "sled-push",
+        "sandbag-over-log", "jerry-bag-carry", "husafell-carry", "sled-push",
         "sled-pull", "yoke-carry", "atlas-stone-over-shoulder", "d-ball-clean",
         "d-ball-over-shoulder", "tire-flip", "log-clean-and-jerk", "log-press",
         "plate-ground-to-overhead", "plate-carry",
