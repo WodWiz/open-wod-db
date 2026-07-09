@@ -1,0 +1,93 @@
+{
+  "id": "games-22-shuttle-to-overhead",
+  "name": "Shuttle to Overhead",
+  "category": "games",
+  "format": "multi_part",
+  "format_meta": {},
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2022",
+    "barbell",
+    "running"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2022/4 (official CrossFit Games event), retrieved 2026-07-09; scored as two separate events: total time to complete the three runs, and cumulative jerks across all rounds",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "0:00-2:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "jerk",
+          "reps": "max",
+          "load": {
+            "rx_male": "200lb",
+            "rx_female": "155lb"
+          },
+          "notes": "max reps in time remaining"
+        }
+      ],
+      "rest_after_seconds": 60
+    },
+    {
+      "label": "3:00-6:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 600
+        },
+        {
+          "exercise": "jerk",
+          "reps": "max",
+          "load": {
+            "rx_male": "200lb",
+            "rx_female": "155lb"
+          },
+          "notes": "max reps in time remaining"
+        }
+      ],
+      "rest_after_seconds": 120
+    },
+    {
+      "label": "8:00-12:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 4,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "jerk",
+          "reps": "max",
+          "load": {
+            "rx_male": "200lb",
+            "rx_female": "155lb"
+          },
+          "notes": "max reps in time remaining"
+        }
+      ]
+    }
+  ]
+}

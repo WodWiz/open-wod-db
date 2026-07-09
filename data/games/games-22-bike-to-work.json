@@ -1,0 +1,42 @@
+{
+  "id": "games-22-bike-to-work",
+  "name": "Bike to Work",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 50,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "toes-to-bar",
+      "reps": 75
+    },
+    {
+      "exercise": "bike",
+      "distance_m": 8047,
+      "notes": "5 miles; 5 laps of a 1-mile course"
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 75
+    },
+    {
+      "exercise": "bike",
+      "distance_m": 8047,
+      "notes": "5 miles; 5 laps of a 1-mile course"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2022",
+    "outdoor",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2022/1 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

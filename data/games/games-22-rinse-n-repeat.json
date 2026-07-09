@@ -1,0 +1,35 @@
+{
+  "id": "games-22-rinse-n-repeat",
+  "name": "Rinse 'N' Repeat",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 8,
+    "interval_seconds": 120,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 46,
+      "notes": "50 yd; 25 yd down, 25 yd back"
+    },
+    {
+      "exercise": "ski-erg",
+      "reps": 8,
+      "notes": "calories; add 2 calories each round for 6 rounds, then max calories for rounds 7-8"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2022",
+    "swim",
+    "venue-equipment"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2022/8 (official CrossFit Games event), retrieved 2026-07-09; every 2 minutes for up to 8 rounds",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

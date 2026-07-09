@@ -1,0 +1,39 @@
+{
+  "id": "games-22-jackie-pro",
+  "name": "Jackie Pro",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 1000,
+      "notes": "must be completed within 3:15 (men) / 3:40 (women) to continue"
+    },
+    {
+      "exercise": "thruster",
+      "reps": 50,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 30
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2022",
+    "rowing",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2022/13 (official CrossFit Games event), retrieved 2026-07-09; a heavier-loaded, bar-muscle-up variant of the Girl WOD Jackie, with a qualifying row-time standard to continue to the thrusters/muscle-ups",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

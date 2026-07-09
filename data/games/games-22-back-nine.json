@@ -1,0 +1,67 @@
+{
+  "id": "games-22-back-nine",
+  "name": "Back Nine",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "yoke-carry",
+      "distance_m": 16,
+      "load": {
+        "rx_male": "665lb",
+        "rx_female": "485lb"
+      },
+      "notes": "54 ft"
+    },
+    {
+      "exercise": "front-squat",
+      "reps": 2,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "215lb"
+      }
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 3,
+      "load": {
+        "rx_male": "475lb",
+        "rx_female": "315lb"
+      }
+    },
+    {
+      "exercise": "front-squat",
+      "reps": 2,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "215lb"
+      }
+    },
+    {
+      "exercise": "yoke-carry",
+      "distance_m": 16,
+      "load": {
+        "rx_male": "665lb",
+        "rx_female": "485lb"
+      },
+      "notes": "54 ft"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2022",
+    "venue-equipment",
+    "barbell",
+    "max-effort"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2022/12 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
