@@ -1,0 +1,43 @@
+{
+  "id": "bradshaw",
+  "name": "Bradshaw",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "handstand-push-up",
+      "reps": 3
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 6,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 12
+    },
+    {
+      "exercise": "double-under",
+      "reps": 24
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "10-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/bradshaw (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

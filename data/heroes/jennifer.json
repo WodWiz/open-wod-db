@@ -1,0 +1,38 @@
+{
+  "id": "jennifer",
+  "name": "Jennifer",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 26
+  },
+  "movements": [
+    {
+      "exercise": "pull-up",
+      "reps": 10
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 15,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 20
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "kettlebell",
+    "gymnastics"
+  ],
+  "source_notes": "crossfit.com/benchmark/jennifer (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

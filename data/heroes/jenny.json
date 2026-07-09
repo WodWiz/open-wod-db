@@ -1,0 +1,42 @@
+{
+  "id": "jenny",
+  "name": "Jenny",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "overhead-squat",
+      "reps": 20,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "back-squat",
+      "reps": 20,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell",
+    "running"
+  ],
+  "source_notes": "crossfit.com/benchmark/jenny (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

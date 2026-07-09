@@ -1,0 +1,35 @@
+{
+  "id": "coe",
+  "name": "Coe",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": 10,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "ring-push-up",
+      "reps": 10
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "10-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/coe (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

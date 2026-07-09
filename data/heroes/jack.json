@@ -1,0 +1,42 @@
+{
+  "id": "jack",
+  "name": "Jack",
+  "category": "hero",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20
+  },
+  "movements": [
+    {
+      "exercise": "push-press",
+      "reps": 10,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 10,
+      "load": {
+        "rx_male": "1.5 pood",
+        "rx_female": "1 pood"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 10
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "amrap",
+    "barbell",
+    "kettlebell"
+  ],
+  "source_notes": "crossfit.com/benchmark/jack (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}
