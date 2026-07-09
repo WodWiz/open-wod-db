@@ -17,7 +17,9 @@ CI runs these on every PR (`.github/workflows/validate.yml`) — a PR that fails
 
 ## Format reference
 
-See the `format` enum in `schema/wod.schema.json`: `for_time`, `amrap`, `emom`, `tabata`, `death_by`, `max_effort`, `interval`, `complex`, `max_load`. If a WOD doesn't fit cleanly, open an issue before adding a new format — we'd rather extend the schema deliberately than have inconsistent one-off shapes.
+See the `format` enum in `schema/wod.schema.json`: `for_time`, `amrap`, `emom`, `tabata`, `death_by`, `max_effort`, `interval`, `complex`, `max_load`, `multi_part`. If a WOD doesn't fit cleanly, open an issue before adding a new format — we'd rather extend the schema deliberately than have inconsistent one-off shapes.
+
+**Multi-part workouts** (e.g. an AMRAP then a 1-rep-max, or two round-blocks with a rest) use `format: "multi_part"` with an empty top-level `movements` array and a `segments` array. Each segment is a mini-workout with its own `format`, `movements`, optional `format_meta`/`scoring`, and an optional `rest_after_seconds` before the next segment.
 
 ## Disputed or uncertain entries
 
