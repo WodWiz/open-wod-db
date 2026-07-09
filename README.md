@@ -18,8 +18,10 @@ The underlying workout prescriptions (movements + reps/time schemes) aren't inde
 | Set | Structured | Staged (raw, awaiting structure) |
 |---|---|---|
 | Girls | 33 / 33 ✅ | — |
-| Heroes | 19 / 249 | 230 in `/data/staging/heroes_raw.csv` |
+| Heroes | 167 | 69 in `/data/staging/heroes_raw.csv` |
 | Games / Open | 0 | Not started |
+
+See [ROADMAP.md](./ROADMAP.md) for what's left: a proposed `weight_vest` schema field, the 69 staged Heroes (partner/rest-scored/multi-stage) awaiting schema conventions, and Games/Open sourcing.
 
 All entries are sourced directly from crossfit.com — the primary source, not a secondary aggregator. See each entry's `source_notes` field.
 
