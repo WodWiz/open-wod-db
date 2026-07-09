@@ -1,5 +1,5 @@
 {
-  "count": 241,
+  "count": 243,
   "movements": [
     {
       "id": "ab-mat-sit-up",
@@ -90,6 +90,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-17-assault-banger",
         "games-18-two-stroke-pull"
       ],
       "description": null
@@ -210,6 +211,7 @@
         "bmu"
       ],
       "workouts": [
+        "games-17-muscle-up-clean-ladder",
         "games-18-bicouplet-2",
         "games-19-sprint-couplet",
         "games-20-2007-reload",
@@ -438,6 +440,7 @@
         "ellen",
         "forrest",
         "fournier",
+        "games-17-madison-triplet",
         "games-18-chaos",
         "games-19-ringer-2",
         "games-20-happy-star",
@@ -644,6 +647,7 @@
         "adambrown",
         "big-sexy",
         "elizabeth",
+        "games-17-muscle-up-clean-ladder",
         "games-19-clean",
         "games-20-awful-annie",
         "games-21-event-6",
@@ -909,6 +913,7 @@
         "bradshaw",
         "bull",
         "dork",
+        "games-17-heavy-17-5",
         "games-18-handstand-walk",
         "games-19-split-triplet",
         "games-20-awful-annie",
@@ -1226,7 +1231,9 @@
         "dumbbell"
       ],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-17-triple-g-chipper"
+      ],
       "description": null
     },
     {
@@ -1523,6 +1530,7 @@
         "ghd sit-up"
       ],
       "workouts": [
+        "games-17-triple-g-chipper",
         "games-20-awful-annie",
         "games-20-swim-n-stuff",
         "games-22-up-and-over",
@@ -1662,6 +1670,7 @@
         "hs walk"
       ],
       "workouts": [
+        "games-17-strongmans-fear",
         "games-18-handstand-walk",
         "games-19-second-cut",
         "games-20-handstand-sprint",
@@ -1915,6 +1924,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-17-fibonacci-final",
         "games-18-fibonacci"
       ],
       "description": null
@@ -1952,6 +1962,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-17-fibonacci-final",
         "games-18-fibonacci"
       ],
       "description": null
@@ -2141,6 +2152,17 @@
       "description": null
     },
     {
+      "id": "log-carry",
+      "name": "Log Carry",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "workouts": [
+        "games-17-strongmans-fear"
+      ],
+      "description": null
+    },
+    {
       "id": "log-clean-and-jerk",
       "name": "Log Clean And Jerk",
       "category": "odd-object",
@@ -2232,6 +2254,7 @@
         "coffey",
         "dobogai",
         "dunn",
+        "games-17-amanda-45",
         "games-18-30-muscle-ups",
         "games-19-the-standard",
         "games-21-event-2",
@@ -2298,6 +2321,7 @@
       "workouts": [
         "arnie",
         "bull",
+        "games-17-2223-intervals",
         "games-19-ringer-2",
         "games-20-nasty-nancy",
         "jbo",
@@ -2372,6 +2396,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-17-fibonacci-final",
         "games-18-fibonacci",
         "ledesma"
       ],
@@ -2411,6 +2436,7 @@
         "pistol squat"
       ],
       "workouts": [
+        "games-17-triple-g-chipper",
         "games-18-chaos",
         "games-19-mary",
         "games-20-atalanta",
@@ -2524,6 +2550,7 @@
         "erin",
         "eva",
         "fran",
+        "games-17-triple-g-chipper",
         "games-19-mary",
         "games-20-atalanta",
         "gaza",
@@ -2750,6 +2777,7 @@
         "cameron",
         "dae-han",
         "falkel",
+        "games-17-2223-intervals",
         "games-21-event-5",
         "games-24-midline-climb",
         "glen",
@@ -2780,6 +2808,7 @@
       "aliases": [],
       "workouts": [
         "brehm",
+        "games-17-triple-g-chipper",
         "games-18-marathon-row",
         "games-19-second-cut",
         "games-20-1000m-row",
@@ -2841,6 +2870,8 @@
         "eva",
         "forrest",
         "gallant",
+        "games-17-madison-triplet",
+        "games-17-run-swim-run",
         "games-18-madison-triplus",
         "games-18-two-stroke-pull",
         "games-19-first-cut",
@@ -3107,6 +3138,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-17-2223-intervals",
         "games-18-chaos",
         "games-21-event-5",
         "games-22-rinse-n-repeat",
@@ -3123,6 +3155,7 @@
       "aliases": [],
       "workouts": [
         "fournier",
+        "games-17-strongmans-fear",
         "games-18-chaos",
         "games-18-two-stroke-pull",
         "games-23-parallel-bar-pull",
@@ -3146,6 +3179,17 @@
       "description": null
     },
     {
+      "id": "sledgehammer-strike",
+      "name": "Sledgehammer Strike",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "workouts": [
+        "games-17-assault-banger"
+      ],
+      "description": null
+    },
+    {
       "id": "snatch",
       "name": "Snatch",
       "category": "barbell",
@@ -3154,6 +3198,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-17-1rm-snatch",
         "games-18-bicouplet-1",
         "games-18-bicouplet-2",
         "games-19-the-standard",
@@ -3261,6 +3306,7 @@
       "aliases": [],
       "workouts": [
         "amanda",
+        "games-17-amanda-45",
         "games-19-first-cut"
       ],
       "description": null
@@ -3390,6 +3436,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-17-run-swim-run",
         "games-18-madison-triplus",
         "games-19-swim-paddle",
         "games-20-swim-n-stuff",
@@ -3417,6 +3464,7 @@
         "dae-han",
         "daniel",
         "fran",
+        "games-17-heavy-17-5",
         "games-18-aeneas",
         "games-20-friendly-fran",
         "games-20-happy-star",
@@ -3672,6 +3720,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-17-strongmans-fear",
         "games-18-aeneas",
         "games-22-back-nine",
         "games-24-final-1815",

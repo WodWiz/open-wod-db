@@ -1,6 +1,514 @@
 {
-  "count": 380,
+  "count": 391,
   "wods": [
+    {
+      "id": "games-17-1rm-snatch",
+      "name": "1RM Snatch",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "snatch",
+          "reps": 1,
+          "notes": "athlete's own 1-rep-max; no fixed Rx weight; 2 attempts, plus 2 more for the top 10"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2017",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2017/5 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-17-2223-intervals",
+      "name": "2223 Intervals",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 4,
+        "work_seconds": 120,
+        "rest_seconds": 60,
+        "time_cap_minutes": 12,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "rope-climb",
+          "reps": 2
+        },
+        {
+          "exercise": "ski-erg",
+          "reps": 10,
+          "notes": "calories (women use 7)"
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": "max",
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "105lb"
+          },
+          "notes": "max reps in time remaining"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2017",
+        "venue-equipment",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2017/12 (official CrossFit Games event), retrieved 2026-07-09; the first 3 rounds are 2 minutes each, the 4th round extends to 3 minutes; 1 minute of rest after each round; scored by cumulative overhead squat reps across all rounds",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-17-amanda-45",
+      "name": "Amanda .45",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 13,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "muscle-up",
+          "reps": [
+            13,
+            11,
+            9,
+            7,
+            5
+          ]
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": [
+            13,
+            11,
+            9,
+            7,
+            5
+          ],
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2017",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2017/3 (official CrossFit Games event), retrieved 2026-07-09; time cap 13 minutes (men) / 15 minutes (women)",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-17-assault-banger",
+      "name": "Assault Banger",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "assault-bike",
+          "reps": 40,
+          "notes": "calories (women use 30)"
+        },
+        {
+          "exercise": "sledgehammer-strike",
+          "distance_m": 6,
+          "notes": "20 ft \"banger\" track"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2017",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2017/7 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-17-fibonacci-final",
+      "name": "Fibonacci Final",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "parallette-handstand-push-up",
+          "reps": [
+            5,
+            8,
+            13
+          ]
+        },
+        {
+          "exercise": "kettlebell-deadlift",
+          "reps": [
+            5,
+            8,
+            13
+          ],
+          "load": {
+            "rx_male": "203lb",
+            "rx_female": "124lb"
+          }
+        },
+        {
+          "exercise": "kettlebell-overhead-lunge",
+          "distance_m": 27,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "35lb"
+          },
+          "notes": "89 ft, 2 kettlebells overhead, finishing sequence"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2017",
+        "kettlebell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2017/13 (official CrossFit Games event), retrieved 2026-07-09; essentially the same event as 2018's Fibonacci, reused with the same rep scheme and loads; one secondary source suggested a different women's rep breakdown, but this could not be corroborated and is not used here, flagged per CONTRIBUTING",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-17-heavy-17-5",
+      "name": "Heavy 17.5",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 10,
+        "time_cap_minutes": 12,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": 9,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "double-under",
+          "reps": 35
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2017",
+        "barbell",
+        "jump-rope"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2017/10 (official CrossFit Games event), retrieved 2026-07-09; a heavier-loaded variant of Open workout 17.5",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-17-madison-triplet",
+      "name": "Madison Triplet",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "time_cap_minutes": 20,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 450
+        },
+        {
+          "exercise": "burpee",
+          "reps": 7,
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "70lb"
+          },
+          "notes": "clean a sandbag over a hay-bale wall as part of each burpee"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2017",
+        "venue-equipment",
+        "running"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2017/11 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-17-muscle-up-clean-ladder",
+      "name": "Muscle-Up Clean Ladder",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 8,
+        "time_cap_minutes": 11,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 4
+        },
+        {
+          "exercise": "clean",
+          "reps": 2,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "145lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2017",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2017/9 (official CrossFit Games event), retrieved 2026-07-09; clean load increases each round: 225-245-265-285-305-320-335-350 lb (men), 145-160-175-190-205-215-225-235 lb (women)",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-17-run-swim-run",
+      "name": "Run Swim Run",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 60,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 2414,
+          "notes": "1.5 miles"
+        },
+        {
+          "exercise": "swim",
+          "distance_m": 500
+        },
+        {
+          "exercise": "run",
+          "distance_m": 2414,
+          "notes": "1.5 miles"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2017",
+        "running",
+        "swim",
+        "open-water",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2017/1 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-17-strongmans-fear",
+      "name": "Strongman's Fear",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "yoke-carry",
+          "distance_m": 18,
+          "load": {
+            "rx_male": "500lb",
+            "rx_female": "340lb"
+          },
+          "notes": "60 ft"
+        },
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 18,
+          "notes": "60 ft"
+        },
+        {
+          "exercise": "log-carry",
+          "distance_m": 18,
+          "load": {
+            "rx_male": "200lb",
+            "rx_female": "120lb"
+          },
+          "notes": "60 ft; farmers-style, two logs"
+        },
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 18,
+          "notes": "60 ft"
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 18,
+          "load": {
+            "rx_male": "400lb",
+            "rx_female": "310lb"
+          },
+          "notes": "60 ft, sled drag"
+        },
+        {
+          "exercise": "yoke-carry",
+          "distance_m": 18,
+          "load": {
+            "rx_male": "500lb",
+            "rx_female": "340lb"
+          },
+          "notes": "60 ft"
+        },
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 18,
+          "notes": "60 ft"
+        },
+        {
+          "exercise": "log-carry",
+          "distance_m": 18,
+          "load": {
+            "rx_male": "200lb",
+            "rx_female": "120lb"
+          },
+          "notes": "60 ft; farmers-style, two logs"
+        },
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 18,
+          "notes": "60 ft"
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 18,
+          "load": {
+            "rx_male": "400lb",
+            "rx_female": "310lb"
+          },
+          "notes": "60 ft, sled drag"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2017",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2017/8 (official CrossFit Games event), retrieved 2026-07-09; movements may be completed in any order; each retrieval trip includes a handstand-walk section",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-17-triple-g-chipper",
+      "name": "Triple-G Chipper",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 15,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "pull-up",
+          "reps": 100
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 80
+        },
+        {
+          "exercise": "pistol",
+          "reps": 60,
+          "notes": "alternating legs"
+        },
+        {
+          "exercise": "row",
+          "reps": 40,
+          "notes": "calories"
+        },
+        {
+          "exercise": "dumbbell-push-press",
+          "reps": 20,
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "70lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2017",
+        "gymnastics",
+        "rowing",
+        "dumbbell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2017/6 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
     {
       "id": "games-18-30-muscle-ups",
       "name": "30 Muscle-Ups",

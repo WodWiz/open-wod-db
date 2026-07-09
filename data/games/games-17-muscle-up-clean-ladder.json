@@ -1,0 +1,38 @@
+{
+  "id": "games-17-muscle-up-clean-ladder",
+  "name": "Muscle-Up Clean Ladder",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 8,
+    "time_cap_minutes": 11,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 4
+    },
+    {
+      "exercise": "clean",
+      "reps": 2,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "145lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2017",
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2017/9 (official CrossFit Games event), retrieved 2026-07-09; clean load increases each round: 225-245-265-285-305-320-335-350 lb (men), 145-160-175-190-205-215-225-235 lb (women)",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

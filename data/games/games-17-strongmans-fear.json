@@ -1,0 +1,98 @@
+{
+  "id": "games-17-strongmans-fear",
+  "name": "Strongman's Fear",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "yoke-carry",
+      "distance_m": 18,
+      "load": {
+        "rx_male": "500lb",
+        "rx_female": "340lb"
+      },
+      "notes": "60 ft"
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 18,
+      "notes": "60 ft"
+    },
+    {
+      "exercise": "log-carry",
+      "distance_m": 18,
+      "load": {
+        "rx_male": "200lb",
+        "rx_female": "120lb"
+      },
+      "notes": "60 ft; farmers-style, two logs"
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 18,
+      "notes": "60 ft"
+    },
+    {
+      "exercise": "sled-pull",
+      "distance_m": 18,
+      "load": {
+        "rx_male": "400lb",
+        "rx_female": "310lb"
+      },
+      "notes": "60 ft, sled drag"
+    },
+    {
+      "exercise": "yoke-carry",
+      "distance_m": 18,
+      "load": {
+        "rx_male": "500lb",
+        "rx_female": "340lb"
+      },
+      "notes": "60 ft"
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 18,
+      "notes": "60 ft"
+    },
+    {
+      "exercise": "log-carry",
+      "distance_m": 18,
+      "load": {
+        "rx_male": "200lb",
+        "rx_female": "120lb"
+      },
+      "notes": "60 ft; farmers-style, two logs"
+    },
+    {
+      "exercise": "handstand-walk",
+      "distance_m": 18,
+      "notes": "60 ft"
+    },
+    {
+      "exercise": "sled-pull",
+      "distance_m": 18,
+      "load": {
+        "rx_male": "400lb",
+        "rx_female": "310lb"
+      },
+      "notes": "60 ft, sled drag"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2017",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2017/8 (official CrossFit Games event), retrieved 2026-07-09; movements may be completed in any order; each retrieval trip includes a handstand-walk section",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

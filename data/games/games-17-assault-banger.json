@@ -1,0 +1,33 @@
+{
+  "id": "games-17-assault-banger",
+  "name": "Assault Banger",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 6,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "assault-bike",
+      "reps": 40,
+      "notes": "calories (women use 30)"
+    },
+    {
+      "exercise": "sledgehammer-strike",
+      "distance_m": 6,
+      "notes": "20 ft \"banger\" track"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2017",
+    "venue-equipment"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2017/7 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

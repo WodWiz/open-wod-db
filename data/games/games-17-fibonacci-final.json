@@ -1,0 +1,50 @@
+{
+  "id": "games-17-fibonacci-final",
+  "name": "Fibonacci Final",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "parallette-handstand-push-up",
+      "reps": [
+        5,
+        8,
+        13
+      ]
+    },
+    {
+      "exercise": "kettlebell-deadlift",
+      "reps": [
+        5,
+        8,
+        13
+      ],
+      "load": {
+        "rx_male": "203lb",
+        "rx_female": "124lb"
+      }
+    },
+    {
+      "exercise": "kettlebell-overhead-lunge",
+      "distance_m": 27,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      },
+      "notes": "89 ft, 2 kettlebells overhead, finishing sequence"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2017",
+    "kettlebell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2017/13 (official CrossFit Games event), retrieved 2026-07-09; essentially the same event as 2018's Fibonacci, reused with the same rep scheme and loads; one secondary source suggested a different women's rep breakdown, but this could not be corroborated and is not used here, flagged per CONTRIBUTING",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

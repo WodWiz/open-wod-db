@@ -1,0 +1,51 @@
+{
+  "id": "games-17-triple-g-chipper",
+  "name": "Triple-G Chipper",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 15,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "pull-up",
+      "reps": 100
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 80
+    },
+    {
+      "exercise": "pistol",
+      "reps": 60,
+      "notes": "alternating legs"
+    },
+    {
+      "exercise": "row",
+      "reps": 40,
+      "notes": "calories"
+    },
+    {
+      "exercise": "dumbbell-push-press",
+      "reps": 20,
+      "load": {
+        "rx_male": "100lb",
+        "rx_female": "70lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2017",
+    "gymnastics",
+    "rowing",
+    "dumbbell"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2017/6 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

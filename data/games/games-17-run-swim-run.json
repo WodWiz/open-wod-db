@@ -1,0 +1,40 @@
+{
+  "id": "games-17-run-swim-run",
+  "name": "Run Swim Run",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 60,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 2414,
+      "notes": "1.5 miles"
+    },
+    {
+      "exercise": "swim",
+      "distance_m": 500
+    },
+    {
+      "exercise": "run",
+      "distance_m": 2414,
+      "notes": "1.5 miles"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2017",
+    "running",
+    "swim",
+    "open-water",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2017/1 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

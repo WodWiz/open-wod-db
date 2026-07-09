@@ -1,0 +1,37 @@
+{
+  "id": "games-17-heavy-17-5",
+  "name": "Heavy 17.5",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 10,
+    "time_cap_minutes": 12,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": 9,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 35
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2017",
+    "barbell",
+    "jump-rope"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2017/10 (official CrossFit Games event), retrieved 2026-07-09; a heavier-loaded variant of Open workout 17.5",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
