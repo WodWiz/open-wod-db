@@ -25,6 +25,25 @@ Luce, Maxton, Severin (prescribed); Riley, Smykowski, Daniel Ray, McCluskey
 
 This is an additive, backward-compatible change to `schema/wod.schema.json`.
 
+## Movement library
+
+`data/movements.json` (built by `scripts/build_movements.py`) is a curated library
+of CrossFit movements — both those a benchmark uses (`in_dataset: true`) and common
+library-only ones — classified by functional category. `validate.py` enforces that
+every WOD `exercise` exists here. Follow-ups:
+
+- **Original descriptions** — `description` is `null` for every movement; any text
+  added must be original, never copied from a glossary.
+- **Equipment refinement** — `equipment` is filled only for the loaded categories
+  (barbell / dumbbell / kettlebell); the rest are left empty pending per-movement
+  detail.
+- **Normalize `bodyweight-clean-and-jerk`** — Lyla's clean is stored under this
+  slug; the "bodyweight" load arguably belongs in a load/notes field with the
+  movement as plain `clean-and-jerk`. Left as-is for now (workout data shouldn't be
+  rewritten without sign-off); worth a deliberate pass later.
+- **Sync to Supabase** — `sync/sync_supabase.py` could also push `movements.json`
+  into a `movements` table for the app to consume.
+
 ## Structure the remaining staged Hero WODs
 
 `data/staging/heroes_raw.csv` still holds **69** Hero WODs that were deliberately

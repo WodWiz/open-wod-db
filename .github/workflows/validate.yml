@@ -32,15 +32,17 @@ jobs:
       - name: Validate entries against schema
         run: python scripts/validate.py
 
-      - name: Verify committed index.json and .md twins are current
-        # Re-derive the compiled artifacts and fail if they differ from what was
-        # committed. This keeps main self-consistent so publish.yml never has to
-        # push a fix-up commit back to the protected branch — the PR author must
-        # commit the regenerated output (as CONTRIBUTING already instructs).
+      - name: Verify committed data artifacts are current
+        # Re-derive the compiled artifacts (movements.json, index.json, .md twins)
+        # and fail if they differ from what was committed. Keeps main
+        # self-consistent so publish.yml never has to push a fix-up commit back to
+        # the protected branch. build_movements.py also errors if a WOD references
+        # a movement not registered in the library.
         run: |
+          python scripts/build_movements.py
           python scripts/build_index.py
           if [ -n "$(git status --porcelain data/)" ]; then
-            echo "::error::index.json and/or .md twins are out of date. Run 'python scripts/build_index.py' and commit the result."
+            echo "::error::data artifacts are out of date. Run scripts/build_movements.py and scripts/build_index.py and commit the result."
             git --no-pager diff -- data/
             exit 1
           fi
