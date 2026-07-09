@@ -1,0 +1,77 @@
+{
+  "id": "games-25-all-crossed-up",
+  "name": "All Crossed Up",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "wall-climb",
+      "reps": 20
+    },
+    {
+      "exercise": "dumbbell-shoulder-to-overhead",
+      "reps": 10,
+      "load": {
+        "rx_male": "100lb",
+        "rx_female": "70lb"
+      }
+    },
+    {
+      "exercise": "crossover-single-under",
+      "reps": 20
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 30
+    },
+    {
+      "exercise": "crossover-single-under",
+      "reps": 20
+    },
+    {
+      "exercise": "dumbbell-shoulder-to-overhead",
+      "reps": 10,
+      "load": {
+        "rx_male": "100lb",
+        "rx_female": "70lb"
+      }
+    },
+    {
+      "exercise": "crossover-single-under",
+      "reps": 20
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 30
+    },
+    {
+      "exercise": "crossover-single-under",
+      "reps": 20
+    },
+    {
+      "exercise": "dumbbell-shoulder-to-overhead",
+      "reps": 10,
+      "load": {
+        "rx_male": "100lb",
+        "rx_female": "70lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2025",
+    "dumbbell",
+    "gymnastics",
+    "jump-rope"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2025/2 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

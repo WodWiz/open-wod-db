@@ -1,0 +1,38 @@
+{
+  "id": "games-17-madison-triplet",
+  "name": "Madison Triplet",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 450
+    },
+    {
+      "exercise": "burpee",
+      "reps": 7,
+      "load": {
+        "rx_male": "100lb",
+        "rx_female": "70lb"
+      },
+      "notes": "clean a sandbag over a hay-bale wall as part of each burpee"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2017",
+    "venue-equipment",
+    "running"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2017/11 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

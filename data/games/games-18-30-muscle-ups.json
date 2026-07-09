@@ -1,0 +1,27 @@
+{
+  "id": "games-18-30-muscle-ups",
+  "name": "30 Muscle-Ups",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 30
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2018",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2018/2 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

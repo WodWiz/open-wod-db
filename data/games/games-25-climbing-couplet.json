@@ -1,0 +1,74 @@
+{
+  "id": "games-25-climbing-couplet",
+  "name": "Climbing Couplet",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "pegboard",
+      "reps": 4
+    },
+    {
+      "exercise": "squat-clean",
+      "reps": 4,
+      "load": {
+        "rx_male": "235lb",
+        "rx_female": "145lb"
+      },
+      "notes": "immediately followed by a front squat, counted together as 1 rep of the complex"
+    },
+    {
+      "exercise": "pegboard",
+      "reps": 3
+    },
+    {
+      "exercise": "squat-clean",
+      "reps": 3,
+      "load": {
+        "rx_male": "265lb",
+        "rx_female": "165lb"
+      },
+      "notes": "immediately followed by a front squat, counted together as 1 rep of the complex"
+    },
+    {
+      "exercise": "pegboard",
+      "reps": 2
+    },
+    {
+      "exercise": "squat-clean",
+      "reps": 2,
+      "load": {
+        "rx_male": "285lb",
+        "rx_female": "185lb"
+      },
+      "notes": "immediately followed by a front squat, counted together as 1 rep of the complex"
+    },
+    {
+      "exercise": "pegboard",
+      "reps": 1
+    },
+    {
+      "exercise": "squat-clean",
+      "reps": 1,
+      "load": {
+        "rx_male": "305lb",
+        "rx_female": "205lb"
+      },
+      "notes": "immediately followed by a front squat, counted together as 1 rep of the complex"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2025",
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2025/3 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

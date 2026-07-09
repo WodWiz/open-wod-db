@@ -1,0 +1,29 @@
+{
+  "id": "games-18-marathon-row",
+  "name": "Marathon Row",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 240,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 42195,
+      "notes": "marathon distance"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2018",
+    "rowing",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2018/4 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

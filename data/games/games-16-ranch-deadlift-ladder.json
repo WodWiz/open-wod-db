@@ -1,0 +1,29 @@
+{
+  "id": "games-16-ranch-deadlift-ladder",
+  "name": "Ranch Deadlift Ladder",
+  "category": "games",
+  "format": "max_load",
+  "format_meta": {
+    "scoring": "load"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 1,
+      "notes": "one lift every 30 seconds through a series of 20 barbells, each heavier than the last; men 425-615 lb, women 275-415 lb (full published ladder); athletes lift in reverse order of their Event 1 run finish"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2016",
+    "barbell",
+    "max-load",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2016/2 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

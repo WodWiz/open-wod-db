@@ -1,0 +1,49 @@
+{
+  "id": "games-16-double-dt",
+  "name": "Double DT",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 10,
+    "time_cap_minutes": 15,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 12,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      }
+    },
+    {
+      "exercise": "hang-power-clean",
+      "reps": 9,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      }
+    },
+    {
+      "exercise": "push-jerk",
+      "reps": 6,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2016",
+    "barbell",
+    "10-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2016/7 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

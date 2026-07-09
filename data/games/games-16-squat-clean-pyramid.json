@@ -1,0 +1,112 @@
+{
+  "id": "games-16-squat-clean-pyramid",
+  "name": "Squat Clean Pyramid",
+  "category": "games",
+  "format": "multi_part",
+  "format_meta": {},
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2016",
+    "barbell",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2016/6 (official CrossFit Games event), retrieved 2026-07-09; an athlete unable to complete all reps at a bar is credited with reps completed and ranked by their last fully-completed stage",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "By 2:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "squat-clean",
+          "reps": 10,
+          "load": {
+            "rx_male": "245lb",
+            "rx_female": "165lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "By 4:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "squat-clean",
+          "reps": 8,
+          "load": {
+            "rx_male": "265lb",
+            "rx_female": "180lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "By 6:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "squat-clean",
+          "reps": 6,
+          "load": {
+            "rx_male": "285lb",
+            "rx_female": "195lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "By 8:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "squat-clean",
+          "reps": 4,
+          "load": {
+            "rx_male": "305lb",
+            "rx_female": "205lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "By 11:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "squat-clean",
+          "reps": 2,
+          "load": {
+            "rx_male": "325lb",
+            "rx_female": "215lb"
+          }
+        }
+      ]
+    }
+  ]
+}

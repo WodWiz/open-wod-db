@@ -1,0 +1,46 @@
+{
+  "id": "games-17-2223-intervals",
+  "name": "2223 Intervals",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "work_seconds": 120,
+    "rest_seconds": 60,
+    "time_cap_minutes": 12,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "rope-climb",
+      "reps": 2
+    },
+    {
+      "exercise": "ski-erg",
+      "reps": 10,
+      "notes": "calories (women use 7)"
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": "max",
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      },
+      "notes": "max reps in time remaining"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2017",
+    "venue-equipment",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2017/12 (official CrossFit Games event), retrieved 2026-07-09; the first 3 rounds are 2 minutes each, the 4th round extends to 3 minutes; 1 minute of rest after each round; scored by cumulative overhead squat reps across all rounds",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

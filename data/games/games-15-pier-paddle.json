@@ -1,0 +1,38 @@
+{
+  "id": "games-15-pier-paddle",
+  "name": "Pier Paddle",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 60,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 500
+    },
+    {
+      "exercise": "paddleboard",
+      "distance_m": 3219,
+      "notes": "2 miles"
+    },
+    {
+      "exercise": "swim",
+      "distance_m": 500
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2015",
+    "swim",
+    "open-water",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2015/1 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

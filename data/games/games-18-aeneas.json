@@ -1,0 +1,65 @@
+{
+  "id": "games-18-aeneas",
+  "name": "Aeneas",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 8,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "pegboard",
+      "reps": 5,
+      "notes": "5 (men) / 4 (women) ascents"
+    },
+    {
+      "exercise": "thruster",
+      "reps": 40,
+      "load": {
+        "rx_male": "85lb",
+        "rx_female": "55lb"
+      }
+    },
+    {
+      "exercise": "yoke-carry",
+      "distance_m": 10,
+      "load": {
+        "rx_male": "425lb",
+        "rx_female": "345lb"
+      },
+      "notes": "33 ft"
+    },
+    {
+      "exercise": "yoke-carry",
+      "distance_m": 10,
+      "load": {
+        "rx_male": "565lb",
+        "rx_female": "405lb"
+      },
+      "notes": "33 ft"
+    },
+    {
+      "exercise": "yoke-carry",
+      "distance_m": 10,
+      "load": {
+        "rx_male": "665lb",
+        "rx_female": "445lb"
+      },
+      "notes": "33 ft"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2018",
+    "venue-equipment",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2018/14 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

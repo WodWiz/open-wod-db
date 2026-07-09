@@ -1,0 +1,36 @@
+{
+  "id": "games-25-throttle-up",
+  "name": "Throttle Up",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "ski-erg",
+      "reps": 35,
+      "notes": "calories"
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 28
+    },
+    {
+      "exercise": "burpee-box-jump-over",
+      "reps": 24,
+      "notes": "24 in (men) / 20 in (women) box"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2025",
+    "venue-equipment",
+    "gymnastics",
+    "weight-vest"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2025/6 (official CrossFit Games event), retrieved 2026-07-09; performed wearing a 22 lb (men) / 16 lb (women) weight vest throughout",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "games-18-handstand-walk",
+  "name": "Handstand Walk",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "double-under",
+      "reps": 50,
+      "notes": "heavy rope"
+    },
+    {
+      "exercise": "handstand-walk",
+      "notes": "pylon slalom"
+    },
+    {
+      "exercise": "handstand-walk",
+      "notes": "up and down a ramp"
+    },
+    {
+      "exercise": "handstand-walk",
+      "notes": "up and down stairs"
+    },
+    {
+      "exercise": "handstand-walk",
+      "notes": "across parallel bars to the finish"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2018",
+    "venue-equipment",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2018/13 (official CrossFit Games event), retrieved 2026-07-09; each obstacle must be completed without falling",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

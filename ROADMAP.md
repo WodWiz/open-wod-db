@@ -98,11 +98,31 @@ prescription** (pure obstacle-course races, bracket/heat tournaments) are
 intentionally left out rather than fabricated — same principle as the staged
 Hero WODs.
 
-**Progress:** 2024 done (10/10 events, all structurable). Catalogued but not
-yet structured: 2015–2023, 2025 (11 more years, ~120 events, mostly clean per
-the catalog scan — a meaningful minority are true obstacle-course/heat races to
-skip). Not yet catalogued: 2007–2014 (early Games years, smaller field sizes,
-likely simpler formats — lower priority, do last).
+**Progress:** 2015–2026 fully done — every year in the catalogued range,
+structured. Per-year counts (structured / total, skipped events in
+parentheses):
+- 2026: 4/4 · 2025: 10/10 · 2024: 10/10
+- 2023: 11/12 (Ride — pure lap-count bike race)
+- 2022: 12/13 (Skill Speed Medley — elimination bracket)
+- 2021: 14/15 (Event 8 — obstacle course, no fixed reps)
+- 2020: 18/19 (Snatch Speed Triple — elimination bracket)
+- 2019: 11/12 (Sprint — bracket heat race)
+- 2018: 11/14 (Crit — mass-start bike race; The Battleground — obstacles not
+  itemized; Clean and Jerk Speed Ladder — elimination bracket)
+- 2017: 11/13 (Cyclocross — bike race; Sprint O-Course — bracket race)
+- 2016: 15/15 (nothing skipped — every event had a genuine prescription)
+- 2015: 10/13 (Snatch Speed Ladder — elimination bracket; Sprint Course 1/2 —
+  obstacles not itemized)
+
+**Skip categories, for reference:** elimination/advancement brackets (top N
+advance each round), pure mass-start/lap-count races, and obstacle courses
+whose individual obstacles aren't itemized in any available source. A couple
+of entries (2016 The Separator, 2015 Sandbag 2015, 2017 Fibonacci Final) have a
+minor detail that couldn't be corroborated across sources — each is flagged
+explicitly in its own `source_notes` per CONTRIBUTING rather than guessed.
+
+**Remaining:** 2007–2014 (early Games years, smaller field sizes, likely
+simpler formats) not yet catalogued — lower priority, do last.
 
 - **Community / affiliate-invented WODs** — intentionally grown organically via
   the PR-based contribution model rather than seeded by one contributor.

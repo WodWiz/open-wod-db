@@ -1,0 +1,38 @@
+{
+  "id": "games-15-midline-madness",
+  "name": "Midline Madness",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 6,
+    "time_cap_minutes": 25,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "yoke-carry",
+      "distance_m": 15,
+      "load": {
+        "rx_male": "380lb",
+        "rx_female": "300lb"
+      },
+      "notes": "50 ft"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2015",
+    "venue-equipment",
+    "running"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2015/11 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

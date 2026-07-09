@@ -1,0 +1,26 @@
+{
+  "id": "games-16-ocean-swim",
+  "name": "Ocean Swim",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 500,
+      "notes": "starts and finishes on the beach, around 2 buoys"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2016",
+    "swim",
+    "open-water"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2016/4 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

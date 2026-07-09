@@ -1,0 +1,37 @@
+{
+  "id": "games-25-running-isabel",
+  "name": "Running Isabel",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 61,
+      "notes": "200 ft"
+    },
+    {
+      "exercise": "snatch",
+      "reps": 6,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2025",
+    "barbell",
+    "running"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2025/9 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "games-18-fibonacci",
+  "name": "Fibonacci",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 6,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "parallette-handstand-push-up",
+      "reps": [
+        5,
+        8,
+        13
+      ],
+      "notes": "14 in deficit (men) / 8 in deficit (women)"
+    },
+    {
+      "exercise": "kettlebell-deadlift",
+      "reps": [
+        5,
+        8,
+        13
+      ],
+      "load": {
+        "rx_male": "203lb",
+        "rx_female": "124lb"
+      },
+      "notes": "2 kettlebells"
+    },
+    {
+      "exercise": "kettlebell-overhead-lunge",
+      "distance_m": 27,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      },
+      "notes": "89 ft, 2 kettlebells overhead, finishing sequence"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2018",
+    "kettlebell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2018/7 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

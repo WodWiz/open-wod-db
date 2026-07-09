@@ -1,0 +1,36 @@
+{
+  "id": "games-16-100-percent",
+  "name": "100%",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "box-jump",
+      "reps": 40,
+      "notes": "30 in (men) / 24 in (women) box"
+    },
+    {
+      "exercise": "d-ball-clean",
+      "reps": 20,
+      "load": {
+        "rx_male": "150lb",
+        "rx_female": "100lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2016",
+    "venue-equipment"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2016/10 (official CrossFit Games event), retrieved 2026-07-09; a surprise final event -- athletes learned the prescription only an hour before competing",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

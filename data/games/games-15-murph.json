@@ -1,0 +1,46 @@
+{
+  "id": "games-15-murph",
+  "name": "Murph (2015 Games)",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 55,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 1609
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 100
+    },
+    {
+      "exercise": "push-up",
+      "reps": 200
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 300
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1609
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2015",
+    "running",
+    "gymnastics",
+    "weighted",
+    "high-volume"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2015/3 (official CrossFit Games event), retrieved 2026-07-09; the Hero WOD Murph with 20 lb (men) / 14 lb (women) body armor and a 55-minute cap; athletes advance to the next bar/rig every 25 pull-ups, 50 push-ups, and 75 squats",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

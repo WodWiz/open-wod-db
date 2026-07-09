@@ -1,0 +1,38 @@
+{
+  "id": "games-18-madison-triplus",
+  "name": "Madison Triplus",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 40,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 500
+    },
+    {
+      "exercise": "paddleboard",
+      "distance_m": 1000
+    },
+    {
+      "exercise": "run",
+      "distance_m": 2000
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2018",
+    "swim",
+    "open-water",
+    "running",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2018/8 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

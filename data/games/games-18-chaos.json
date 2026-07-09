@@ -1,0 +1,63 @@
+{
+  "id": "games-18-chaos",
+  "name": "Chaos",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "ski-erg",
+      "reps": 35,
+      "notes": "calories (women use 30)"
+    },
+    {
+      "exercise": "burpee",
+      "reps": 30,
+      "notes": "to touch an elevated target bar (women use 25)"
+    },
+    {
+      "exercise": "dumbbell-overhead-squat",
+      "reps": 45,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "single-arm (women perform 40)"
+    },
+    {
+      "exercise": "pistol",
+      "reps": 40,
+      "notes": "alternating legs (women perform 45)"
+    },
+    {
+      "exercise": "box-jump-over",
+      "reps": 25,
+      "notes": "42 in (men) / 36 in (women) box"
+    },
+    {
+      "exercise": "sled-pull",
+      "distance_m": 34,
+      "load": {
+        "rx_male": "400lb",
+        "rx_female": "300lb"
+      },
+      "notes": "110 ft, \"tumbler\" pull"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2018",
+    "venue-equipment",
+    "dumbbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2018/9 (official CrossFit Games event), retrieved 2026-07-09; a \"mystery\" event -- athletes were not told the movements or reps in advance, discovering each station on arrival",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

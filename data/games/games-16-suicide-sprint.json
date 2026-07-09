@@ -1,0 +1,25 @@
+{
+  "id": "games-16-suicide-sprint",
+  "name": "Suicide Sprint",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "shuttle-sprint",
+      "distance_m": 256,
+      "notes": "840 ft total on a 280 ft course: 1/3 down and back, 2/3 down and back, then a full sprint the length of the course"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2016",
+    "outdoor"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2016/12 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
