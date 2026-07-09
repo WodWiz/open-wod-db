@@ -1,0 +1,42 @@
+{
+  "id": "games-23-helena",
+  "name": "Helena",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "time_cap_minutes": 11,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 12
+    },
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": 21,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2023",
+    "dumbbell",
+    "running",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2023/6 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "games-23-echo-thruster-final",
+  "name": "Echo Thruster Final",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "echo-bike",
+      "reps": 21,
+      "notes": "calories"
+    },
+    {
+      "exercise": "thruster",
+      "reps": 21,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "85lb"
+      }
+    },
+    {
+      "exercise": "echo-bike",
+      "reps": 18,
+      "notes": "calories"
+    },
+    {
+      "exercise": "thruster",
+      "reps": 18,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "echo-bike",
+      "reps": 15,
+      "notes": "calories"
+    },
+    {
+      "exercise": "thruster",
+      "reps": 15,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      }
+    },
+    {
+      "exercise": "overhead-walking-lunge",
+      "distance_m": 20,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      },
+      "notes": "66 ft"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2023",
+    "venue-equipment",
+    "barbell"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2023/12 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

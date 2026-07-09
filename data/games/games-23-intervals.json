@@ -1,0 +1,97 @@
+{
+  "id": "games-23-intervals",
+  "name": "Intervals",
+  "category": "games",
+  "format": "multi_part",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "time"
+  },
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2023",
+    "rowing",
+    "bodyweight"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2023/8 (official CrossFit Games event), retrieved 2026-07-09; Interval 2 begins at a fixed clock time (6:00) regardless of when Interval 1 finishes, movements reversed",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "Interval 1",
+      "format": "for_time",
+      "movements": [
+        {
+          "exercise": "box-jump-over",
+          "reps": 21,
+          "notes": "24 in (men) / 20 in (women)"
+        },
+        {
+          "exercise": "row",
+          "reps": 15,
+          "notes": "calories"
+        },
+        {
+          "exercise": "burpee-box-jump-over",
+          "reps": 9,
+          "notes": "48 in (men) / 36 in (women)"
+        },
+        {
+          "exercise": "box-jump-over",
+          "reps": 21,
+          "notes": "24 in (men) / 20 in (women)"
+        },
+        {
+          "exercise": "row",
+          "reps": 15,
+          "notes": "calories"
+        },
+        {
+          "exercise": "burpee-box-jump-over",
+          "reps": 9,
+          "notes": "48 in (men) / 36 in (women)"
+        }
+      ]
+    },
+    {
+      "label": "Interval 2 (starts at the 6:00 mark)",
+      "format": "for_time",
+      "movements": [
+        {
+          "exercise": "burpee-box-jump-over",
+          "reps": 9,
+          "notes": "48 in (men) / 36 in (women)"
+        },
+        {
+          "exercise": "row",
+          "reps": 15,
+          "notes": "calories"
+        },
+        {
+          "exercise": "box-jump-over",
+          "reps": 21,
+          "notes": "24 in (men) / 20 in (women)"
+        },
+        {
+          "exercise": "burpee-box-jump-over",
+          "reps": 9,
+          "notes": "48 in (men) / 36 in (women)"
+        },
+        {
+          "exercise": "row",
+          "reps": 15,
+          "notes": "calories"
+        },
+        {
+          "exercise": "box-jump-over",
+          "reps": 21,
+          "notes": "24 in (men) / 20 in (women)"
+        }
+      ]
+    }
+  ]
+}
