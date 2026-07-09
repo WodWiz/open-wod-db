@@ -28,9 +28,9 @@ This is an additive, backward-compatible change to `schema/wod.schema.json`.
 ## Movement library
 
 `data/movements.json` (built by `scripts/build_movements.py`) is a curated library
-of CrossFit movements — both those a benchmark uses (`in_dataset: true`) and common
-library-only ones — classified by functional category. `validate.py` enforces that
-every WOD `exercise` exists here. Follow-ups:
+of CrossFit movements — both those a benchmark uses and common library-only ones —
+classified by functional category, each listing the `workouts` that use it.
+`validate.py` enforces that every WOD `exercise` exists here. Follow-ups:
 
 - **Original descriptions** — `description` is `null` for every movement; any text
   added must be original, never copied from a glossary.
