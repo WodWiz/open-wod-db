@@ -1,4 +1,4 @@
--- open-wod-db -> Supabase mirror: `wods` table + RLS
+-- open-wod-db -> Supabase mirror: `wods` + `movements` tables + RLS
 -- ---------------------------------------------------------------------------
 -- Run this ONCE, in the ISOLATED public-data Supabase project — NOT the main
 -- WodWiz app project that holds member data. This table is anonymously readable
@@ -49,3 +49,35 @@ create policy "Public read access"
   using (true);
 
 grant select on public.wods to anon, authenticated;
+
+-- ---------------------------------------------------------------------------
+-- `movements` — the movement library, mirrored from data/movements.json.
+-- `workouts` is the movement->workout mapping (WOD ids that use the movement),
+-- promoted to a text[] column so the app can query it (e.g. movements used in a
+-- given WOD via `workouts @> array['fran']`). Full entry (equipment, aliases,
+-- description, ...) lives in `data`.
+-- ---------------------------------------------------------------------------
+create table if not exists public.movements (
+  id       text primary key,
+  name     text not null,
+  category text not null,
+  workouts text[] not null default '{}',
+  data     jsonb  not null
+);
+
+create index if not exists movements_category_idx on public.movements (category);
+create index if not exists movements_workouts_idx  on public.movements using gin (workouts);
+create extension if not exists pg_trgm;
+create index if not exists movements_name_trgm_idx
+  on public.movements using gin (name gin_trgm_ops);
+
+alter table public.movements enable row level security;
+
+drop policy if exists "Public read access" on public.movements;
+create policy "Public read access"
+  on public.movements
+  for select
+  to anon, authenticated
+  using (true);
+
+grant select on public.movements to anon, authenticated;

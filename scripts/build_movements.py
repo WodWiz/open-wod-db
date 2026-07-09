@@ -14,9 +14,9 @@ DATA = os.path.join(ROOT, "data")
 # just the ones the current workouts use. There is no official closed list, so
 # this is a deliberate selection; extend it freely. A movement a WOD needs is
 # REQUIRED here (validate.py rejects a WOD that references an unknown movement).
-# Each movement is flagged `in_dataset` (true if some structured WOD uses it) so
-# consumers can distinguish movements with example benchmarks from library-only
-# entries. This script never modifies workout data.
+# Each movement lists the `workouts` (WOD ids) that use it — the movement->workout
+# mapping — so a library-only movement is simply one with an empty `workouts` list.
+# This script never modifies workout data.
 
 GROUPS = {
     "barbell": [
@@ -152,25 +152,26 @@ def build_category_map():
     return category
 
 
-def used_slugs():
-    seen = set()
+def movement_workouts():
+    # slug -> sorted list of WOD ids that use it (the movement->workout mapping)
+    mapping = {}
     for path in glob.glob(os.path.join(DATA, "*", "*.json")):
         if os.path.normpath(os.path.dirname(path)).endswith(os.sep + "staging"):
             continue
         wod = json.load(open(path, encoding="utf-8"))
         for m in wod.get("movements", []):
-            seen.add(m["exercise"])
-    return seen
+            mapping.setdefault(m["exercise"], set()).add(wod["id"])
+    return {slug: sorted(ids) for slug, ids in mapping.items()}
 
 
 def main():
     category = build_category_map()
-    used = used_slugs()
+    workouts = movement_workouts()
 
     # Superset invariant: every movement a WOD uses MUST be defined here (else the
     # dictionary and workouts drift and validate.py can't check integrity). Extra
     # library-only movements are allowed and expected.
-    missing = used - set(category)
+    missing = set(workouts) - set(category)
     if missing:
         raise SystemExit(
             "movements used in WODs but missing from the library: "
@@ -183,7 +184,7 @@ def main():
         "category": cat,
         "equipment": EQUIPMENT[cat],
         "aliases": ALIASES.get(slug, []),
-        "in_dataset": slug in used,
+        "workouts": workouts.get(slug, []),
         "description": None,
     } for slug, cat in category.items()]
     movements.sort(key=lambda m: m["id"])
@@ -196,7 +197,7 @@ def main():
     by_cat = {}
     for m in movements:
         by_cat[m["category"]] = by_cat.get(m["category"], 0) + 1
-    in_ds = sum(1 for m in movements if m["in_dataset"])
+    in_ds = sum(1 for m in movements if m["workouts"])
     print(f"Wrote {len(movements)} movements -> {out}")
     print(f"  {in_ds} used in a WOD, {len(movements) - in_ds} library-only")
     print("  " + ", ".join(f"{c}: {n}" for c, n in sorted(by_cat.items())))

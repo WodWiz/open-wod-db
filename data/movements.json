@@ -9,7 +9,7 @@
       "aliases": [
         "abmat sit-up"
       ],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -18,7 +18,26 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "angie",
+        "artie",
+        "barbara",
+        "bert",
+        "candy",
+        "chelsea",
+        "cindy",
+        "daniel-ray",
+        "garrett",
+        "hortman",
+        "jason",
+        "loredo",
+        "luce",
+        "maupin",
+        "murph",
+        "rocket",
+        "triple-deuce",
+        "wilmot"
+      ],
       "description": null
     },
     {
@@ -29,7 +48,9 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "nickman"
+      ],
       "description": null
     },
     {
@@ -40,7 +61,10 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "hoover",
+        "restrepo"
+      ],
       "description": null
     },
     {
@@ -53,7 +77,7 @@
       "aliases": [
         "kettlebell swing (american)"
       ],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -62,7 +86,7 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -71,7 +95,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -80,7 +104,11 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "cameron",
+        "michael",
+        "stephen"
+      ],
       "description": null
     },
     {
@@ -91,7 +119,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -102,7 +130,23 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "alexander",
+        "brehm",
+        "brian",
+        "bruck",
+        "coffey",
+        "jenny",
+        "justin",
+        "kutschbach",
+        "manion",
+        "miron",
+        "ned",
+        "thompson",
+        "walsh",
+        "zembiec",
+        "zeus"
+      ],
       "description": null
     },
     {
@@ -111,7 +155,9 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "whitt"
+      ],
       "description": null
     },
     {
@@ -120,7 +166,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -129,7 +175,14 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "buriak",
+        "larry",
+        "marston",
+        "omar",
+        "rahoi",
+        "scotty"
+      ],
       "description": null
     },
     {
@@ -140,7 +193,7 @@
       "aliases": [
         "bmu"
       ],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -151,7 +204,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -162,7 +215,9 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "monti"
+      ],
       "description": null
     },
     {
@@ -171,7 +226,10 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "pike",
+        "terry"
+      ],
       "description": null
     },
     {
@@ -182,7 +240,15 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "adambrown",
+        "coffey",
+        "jbo",
+        "justin",
+        "linda",
+        "lynne",
+        "roney"
+      ],
       "description": null
     },
     {
@@ -193,7 +259,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -202,7 +268,9 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "hoover"
+      ],
       "description": null
     },
     {
@@ -211,7 +279,7 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -222,7 +290,9 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "lyla"
+      ],
       "description": null
     },
     {
@@ -231,7 +301,37 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "adambrown",
+        "adrian",
+        "andy",
+        "blake",
+        "bowen",
+        "cameron",
+        "collin",
+        "crain",
+        "danny",
+        "falkel",
+        "gaza",
+        "hope",
+        "jack",
+        "jennifer",
+        "kelly",
+        "kelly-brown",
+        "klepto",
+        "lumberjack-20",
+        "mcghee",
+        "morrison",
+        "nutts",
+        "rahoi",
+        "roy",
+        "small",
+        "the-don",
+        "tk",
+        "whitten",
+        "wittman",
+        "zeus"
+      ],
       "description": null
     },
     {
@@ -240,7 +340,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -251,7 +351,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -260,7 +360,10 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "chad1000x",
+        "maxton"
+      ],
       "description": null
     },
     {
@@ -269,7 +372,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -278,7 +381,35 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "bert",
+        "big-sexy",
+        "crain",
+        "del",
+        "donny",
+        "dork",
+        "ellen",
+        "forrest",
+        "fournier",
+        "glen",
+        "hansen",
+        "hope",
+        "k27",
+        "klepto",
+        "lumberjack-20",
+        "marguerita",
+        "maxton",
+        "ralph",
+        "rene",
+        "riley",
+        "ryan",
+        "sisson",
+        "small",
+        "the-don",
+        "the-seven",
+        "triple-deuce",
+        "whitten"
+      ],
       "description": null
     },
     {
@@ -287,7 +418,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "barraza"
+      ],
       "description": null
     },
     {
@@ -296,7 +429,9 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "ship"
+      ],
       "description": null
     },
     {
@@ -305,7 +440,10 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "dunn",
+        "hoover"
+      ],
       "description": null
     },
     {
@@ -314,7 +452,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -323,7 +461,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "taylor"
+      ],
       "description": null
     },
     {
@@ -332,7 +472,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -343,7 +483,10 @@
       "aliases": [
         "lateral burpee over the bar"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "grettel",
+        "ingrid"
+      ],
       "description": null
     },
     {
@@ -352,7 +495,16 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "bowen",
+        "clovis",
+        "gallant",
+        "mccluskey",
+        "rankel",
+        "smykowski",
+        "walsh",
+        "zembiec"
+      ],
       "description": null
     },
     {
@@ -361,7 +513,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -373,7 +525,19 @@
         "chest-to-bar",
         "c2b"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "big-sexy",
+        "bulger",
+        "cameron",
+        "del",
+        "hope",
+        "lumberjack-20",
+        "sean",
+        "spehar",
+        "weaver",
+        "willy",
+        "zimmerman"
+      ],
       "description": null
     },
     {
@@ -382,7 +546,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -393,7 +557,13 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "adambrown",
+        "big-sexy",
+        "elizabeth",
+        "linda",
+        "monti"
+      ],
       "description": null
     },
     {
@@ -406,7 +576,15 @@
       "aliases": [
         "c&j"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "abbate",
+        "crain",
+        "desforges",
+        "glen",
+        "grace",
+        "grettel",
+        "gwen"
+      ],
       "description": null
     },
     {
@@ -417,7 +595,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -426,7 +604,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -435,7 +613,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -444,7 +622,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -453,7 +631,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -464,7 +642,42 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "adambrown",
+        "andy",
+        "barbara-ann",
+        "barraza",
+        "bell",
+        "big-sexy",
+        "bowen",
+        "bradshaw",
+        "crain",
+        "desforges",
+        "diane",
+        "donny",
+        "dt",
+        "johnson",
+        "kelly-brown",
+        "kevin",
+        "lee",
+        "linda",
+        "lumberjack-20",
+        "marston",
+        "matt-16",
+        "mcghee",
+        "miron",
+        "mr-joshua",
+        "nutts",
+        "pheezy",
+        "ralph",
+        "rankel",
+        "roy",
+        "scotty",
+        "sham",
+        "the-don",
+        "the-seven",
+        "zimmerman"
+      ],
       "description": null
     },
     {
@@ -475,7 +688,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -484,7 +697,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "ozzy"
+      ],
       "description": null
     },
     {
@@ -497,7 +712,7 @@
       "aliases": [
         "devil's press"
       ],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -508,7 +723,9 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "daniel-ray"
+      ],
       "description": null
     },
     {
@@ -519,7 +736,9 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "daniel-ray"
+      ],
       "description": null
     },
     {
@@ -530,7 +749,9 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "daniel-ray"
+      ],
       "description": null
     },
     {
@@ -541,7 +762,9 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "daniel-ray"
+      ],
       "description": null
     },
     {
@@ -553,7 +776,17 @@
         "du",
         "dubs"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "annie",
+        "barbara-ann",
+        "bradshaw",
+        "bull",
+        "dork",
+        "k27",
+        "nutts",
+        "paul",
+        "the-don"
+      ],
       "description": null
     },
     {
@@ -564,7 +797,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -575,7 +808,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -586,7 +819,9 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "tumilson"
+      ],
       "description": null
     },
     {
@@ -597,7 +832,9 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "restrepo"
+      ],
       "description": null
     },
     {
@@ -608,7 +845,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -619,7 +856,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -630,7 +867,9 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "ricky"
+      ],
       "description": null
     },
     {
@@ -641,7 +880,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -652,7 +891,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -663,7 +902,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -674,7 +913,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -685,7 +924,9 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "moon"
+      ],
       "description": null
     },
     {
@@ -696,7 +937,10 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "nick",
+        "santiago"
+      ],
       "description": null
     },
     {
@@ -707,7 +951,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -718,7 +962,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -729,7 +973,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -740,7 +984,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -751,7 +995,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -762,7 +1006,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -773,7 +1017,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -784,7 +1028,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -795,7 +1039,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -806,7 +1050,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -817,7 +1061,10 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "ellen",
+        "joshie"
+      ],
       "description": null
     },
     {
@@ -828,7 +1075,9 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "erin"
+      ],
       "description": null
     },
     {
@@ -839,7 +1088,10 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "lumberjack-20",
+        "tully"
+      ],
       "description": null
     },
     {
@@ -850,7 +1102,9 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "feeks"
+      ],
       "description": null
     },
     {
@@ -861,7 +1115,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -872,7 +1126,11 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "dg",
+        "ellen",
+        "oda-7313"
+      ],
       "description": null
     },
     {
@@ -883,7 +1141,9 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "weston"
+      ],
       "description": null
     },
     {
@@ -894,7 +1154,9 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "dg"
+      ],
       "description": null
     },
     {
@@ -903,7 +1165,7 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -914,7 +1176,13 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "dobogai",
+        "kevin",
+        "nickman",
+        "thompson",
+        "weston"
+      ],
       "description": null
     },
     {
@@ -925,7 +1193,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -934,7 +1202,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -943,7 +1211,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "adrian"
+      ],
       "description": null
     },
     {
@@ -952,7 +1222,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "robbie"
+      ],
       "description": null
     },
     {
@@ -963,7 +1235,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -974,7 +1246,19 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "andi",
+        "bell",
+        "bulger",
+        "gator",
+        "larry",
+        "liam",
+        "pheezy",
+        "sean",
+        "t-u-p",
+        "willy",
+        "wyk"
+      ],
       "description": null
     },
     {
@@ -983,7 +1267,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -994,7 +1278,12 @@
       "aliases": [
         "ghd sit-up"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "hansen",
+        "jorge",
+        "mr-joshua",
+        "stephen"
+      ],
       "description": null
     },
     {
@@ -1007,7 +1296,7 @@
       "aliases": [
         "kettlebell goblet squat"
       ],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1018,7 +1307,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1027,7 +1316,11 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "daniel-ray",
+        "pheezy",
+        "severin"
+      ],
       "description": null
     },
     {
@@ -1036,7 +1329,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "marguerita"
+      ],
       "description": null
     },
     {
@@ -1045,7 +1340,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1056,7 +1351,30 @@
       "aliases": [
         "hspu"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "barbara-ann",
+        "blake",
+        "bradshaw",
+        "brehm",
+        "bulger",
+        "del",
+        "diane",
+        "falkel",
+        "holleyman",
+        "jt",
+        "lane",
+        "maggie",
+        "marco",
+        "mary",
+        "moore",
+        "nate",
+        "nick",
+        "nutts",
+        "pike",
+        "santiago",
+        "the-seven",
+        "zimmerman"
+      ],
       "description": null
     },
     {
@@ -1067,7 +1385,7 @@
       "aliases": [
         "hs walk"
       ],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1078,7 +1396,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1089,7 +1407,11 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "dt",
+        "k27",
+        "matt-16"
+      ],
       "description": null
     },
     {
@@ -1100,7 +1422,10 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "andi",
+        "lane"
+      ],
       "description": null
     },
     {
@@ -1111,7 +1436,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1122,7 +1447,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1131,7 +1456,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "kevin"
+      ],
       "description": null
     },
     {
@@ -1140,7 +1467,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1149,7 +1476,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1158,7 +1485,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1167,7 +1494,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1176,7 +1503,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1185,7 +1512,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1196,7 +1523,10 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "bruck",
+        "kutschbach"
+      ],
       "description": null
     },
     {
@@ -1205,7 +1535,9 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "marguerita"
+      ],
       "description": null
     },
     {
@@ -1214,7 +1546,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1223,7 +1555,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1234,7 +1566,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1245,7 +1577,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1256,7 +1588,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1267,7 +1599,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1278,7 +1610,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1289,7 +1621,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1300,7 +1632,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1311,7 +1643,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1322,7 +1654,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1333,7 +1665,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1344,7 +1676,26 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "arnie",
+        "dork",
+        "eva",
+        "gaza",
+        "hansen",
+        "helen",
+        "jack",
+        "jennifer",
+        "lumberjack-20",
+        "morrison",
+        "nate",
+        "rankel",
+        "the-don",
+        "the-seven",
+        "tk",
+        "whitten",
+        "willy",
+        "wittman"
+      ],
       "description": null
     },
     {
@@ -1355,7 +1706,9 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "strange"
+      ],
       "description": null
     },
     {
@@ -1366,7 +1719,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1375,7 +1728,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1384,7 +1737,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1396,7 +1749,14 @@
         "knees to elbows",
         "k2e"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "cameron",
+        "desforges",
+        "paul",
+        "stephen",
+        "the-don",
+        "the-seven"
+      ],
       "description": null
     },
     {
@@ -1405,7 +1765,12 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "forrest",
+        "garrett",
+        "joshie",
+        "weaver"
+      ],
       "description": null
     },
     {
@@ -1414,7 +1779,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1423,7 +1788,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1432,7 +1797,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1441,7 +1806,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1450,7 +1815,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1459,7 +1824,9 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "ledesma"
+      ],
       "description": null
     },
     {
@@ -1468,7 +1835,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1477,7 +1844,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1488,7 +1855,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1499,7 +1866,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1508,7 +1875,27 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "amanda",
+        "big-sexy",
+        "coffey",
+        "dobogai",
+        "dunn",
+        "hollywood",
+        "hortman",
+        "jason",
+        "johnson",
+        "lee",
+        "luce",
+        "lyla",
+        "mccluskey",
+        "meadows",
+        "nate",
+        "ryan",
+        "tom",
+        "tyler",
+        "yeti"
+      ],
       "description": null
     },
     {
@@ -1517,7 +1904,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1530,7 +1917,15 @@
       "aliases": [
         "ohs"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "arnie",
+        "bull",
+        "jbo",
+        "jenny",
+        "josh",
+        "lumberjack-20",
+        "nancy"
+      ],
       "description": null
     },
     {
@@ -1541,7 +1936,9 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "paul"
+      ],
       "description": null
     },
     {
@@ -1550,7 +1947,10 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "blake",
+        "white"
+      ],
       "description": null
     },
     {
@@ -1559,7 +1959,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "ledesma"
+      ],
       "description": null
     },
     {
@@ -1568,7 +1970,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1579,7 +1981,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1588,7 +1990,10 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "maggie",
+        "mary"
+      ],
       "description": null
     },
     {
@@ -1597,7 +2002,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1606,7 +2011,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1615,7 +2020,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1626,7 +2031,15 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "alexander",
+        "holleyman",
+        "hollywood",
+        "santiago",
+        "t-u-p",
+        "viola",
+        "wittman"
+      ],
       "description": null
     },
     {
@@ -1637,7 +2050,11 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "hope",
+        "randy",
+        "viola"
+      ],
       "description": null
     },
     {
@@ -1646,7 +2063,53 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "angie",
+        "artie",
+        "badger",
+        "barbara",
+        "bell",
+        "bradshaw",
+        "bull",
+        "buriak",
+        "candy",
+        "chelsea",
+        "cindy",
+        "crain",
+        "daniel",
+        "danny",
+        "desforges",
+        "erin",
+        "eva",
+        "fran",
+        "gaza",
+        "hamilton",
+        "helen",
+        "jackie",
+        "jared",
+        "jennifer",
+        "josh",
+        "lynne",
+        "maggie",
+        "marco",
+        "mary",
+        "mccluskey",
+        "murph",
+        "nicole",
+        "nutts",
+        "pheezy",
+        "rene",
+        "ricky",
+        "roy",
+        "santiago",
+        "t-u-p",
+        "the-don",
+        "the-seven",
+        "triple-deuce",
+        "viola",
+        "weaver",
+        "yeti"
+      ],
       "description": null
     },
     {
@@ -1657,7 +2120,11 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "dt",
+        "lee",
+        "pheezy"
+      ],
       "description": null
     },
     {
@@ -1668,7 +2135,16 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "andi",
+        "collin",
+        "danny",
+        "jack",
+        "matt-16",
+        "ricky",
+        "roney",
+        "zeus"
+      ],
       "description": null
     },
     {
@@ -1677,7 +2153,33 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "angie",
+        "artie",
+        "barbara",
+        "bert",
+        "candy",
+        "capoot",
+        "chelsea",
+        "cindy",
+        "crain",
+        "gaza",
+        "gunny",
+        "hamilton",
+        "jared",
+        "jt",
+        "loredo",
+        "marguerita",
+        "maupin",
+        "mcghee",
+        "murph",
+        "pike",
+        "rj",
+        "rocket",
+        "terry",
+        "weaver",
+        "zeus"
+      ],
       "description": null
     },
     {
@@ -1688,7 +2190,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1697,7 +2199,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1706,7 +2208,13 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "cameron",
+        "elizabeth",
+        "jt",
+        "pike",
+        "wilmot"
+      ],
       "description": null
     },
     {
@@ -1715,7 +2223,10 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "garrett",
+        "meadows"
+      ],
       "description": null
     },
     {
@@ -1724,7 +2235,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "meadows"
+      ],
       "description": null
     },
     {
@@ -1735,7 +2248,9 @@
       "aliases": [
         "rmu"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "topsy"
+      ],
       "description": null
     },
     {
@@ -1744,7 +2259,11 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "coe",
+        "gator",
+        "meadows"
+      ],
       "description": null
     },
     {
@@ -1753,7 +2272,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "meadows"
+      ],
       "description": null
     },
     {
@@ -1764,7 +2285,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1773,7 +2294,26 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "brehm",
+        "brian",
+        "cameron",
+        "dae-han",
+        "falkel",
+        "glen",
+        "lee",
+        "liam",
+        "moon",
+        "moore",
+        "ralph",
+        "rj",
+        "robbie",
+        "sisson",
+        "thompson",
+        "tommy-v",
+        "white",
+        "wyk"
+      ],
       "description": null
     },
     {
@@ -1782,7 +2322,18 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "brehm",
+        "hamilton",
+        "jackie",
+        "jerry",
+        "kelly-brown",
+        "ned",
+        "small",
+        "topsy",
+        "weston",
+        "zeus"
+      ],
       "description": null
     },
     {
@@ -1791,7 +2342,88 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "abbate",
+        "andy",
+        "badger",
+        "barraza",
+        "bert",
+        "bowen",
+        "bruck",
+        "bulger",
+        "bull",
+        "buriak",
+        "capoot",
+        "clovis",
+        "coffey",
+        "crain",
+        "dae-han",
+        "daniel",
+        "daniel-ray",
+        "del",
+        "eva",
+        "forrest",
+        "gallant",
+        "gaza",
+        "glen",
+        "griff",
+        "gunny",
+        "hamilton",
+        "helen",
+        "hollywood",
+        "hoover",
+        "hortman",
+        "jared",
+        "jenny",
+        "jerry",
+        "kelly",
+        "lee",
+        "liam",
+        "loredo",
+        "luce",
+        "lumberjack-20",
+        "manion",
+        "matt-16",
+        "maupin",
+        "mccluskey",
+        "michael",
+        "miron",
+        "moore",
+        "mr-joshua",
+        "murph",
+        "nancy",
+        "nicole",
+        "nutts",
+        "oda-7313",
+        "ozzy",
+        "ralph",
+        "rankel",
+        "rene",
+        "restrepo",
+        "riley",
+        "rj",
+        "roney",
+        "severin",
+        "sham",
+        "sisson",
+        "small",
+        "smykowski",
+        "spehar",
+        "strange",
+        "taylor",
+        "terry",
+        "triple-deuce",
+        "tumilson",
+        "viola",
+        "walsh",
+        "white",
+        "whitt",
+        "whitten",
+        "willy",
+        "wyk",
+        "yeti",
+        "zembiec"
+      ],
       "description": null
     },
     {
@@ -1800,7 +2432,7 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1813,7 +2445,7 @@
       "aliases": [
         "kettlebell swing (russian)"
       ],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1822,7 +2454,9 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "collin"
+      ],
       "description": null
     },
     {
@@ -1831,7 +2465,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1840,7 +2474,9 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "triple-deuce"
+      ],
       "description": null
     },
     {
@@ -1851,7 +2487,9 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "fournier"
+      ],
       "description": null
     },
     {
@@ -1860,7 +2498,7 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1869,7 +2507,10 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "dunn",
+        "feeks"
+      ],
       "description": null
     },
     {
@@ -1880,7 +2521,7 @@
         "dumbbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1891,7 +2532,7 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1902,7 +2543,9 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "bowen"
+      ],
       "description": null
     },
     {
@@ -1911,7 +2554,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1920,7 +2563,18 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "angie",
+        "annie",
+        "barbara",
+        "barbara-ann",
+        "cameron",
+        "gunny",
+        "marguerita",
+        "maupin",
+        "michael",
+        "the-don"
+      ],
       "description": null
     },
     {
@@ -1929,7 +2583,7 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1938,7 +2592,9 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "fournier"
+      ],
       "description": null
     },
     {
@@ -1947,7 +2603,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1958,7 +2614,11 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "ingrid",
+        "isabel",
+        "monti"
+      ],
       "description": null
     },
     {
@@ -1969,7 +2629,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1980,7 +2640,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -1991,7 +2651,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2002,7 +2662,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2011,7 +2671,7 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2022,7 +2682,15 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "badger",
+        "buriak",
+        "johnson",
+        "jorge",
+        "klepto",
+        "lee",
+        "ship"
+      ],
       "description": null
     },
     {
@@ -2033,7 +2701,9 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "amanda"
+      ],
       "description": null
     },
     {
@@ -2042,7 +2712,7 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2053,7 +2723,9 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "stephen"
+      ],
       "description": null
     },
     {
@@ -2062,7 +2734,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2071,7 +2743,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "restrepo"
+      ],
       "description": null
     },
     {
@@ -2080,7 +2754,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2091,7 +2765,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2100,7 +2774,15 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "daniel-ray",
+        "justin",
+        "maxton",
+        "oda-7313",
+        "restrepo",
+        "severin",
+        "tk"
+      ],
       "description": null
     },
     {
@@ -2111,7 +2793,7 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2124,7 +2806,13 @@
       "aliases": [
         "sdhp"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "andi",
+        "collin",
+        "fournier",
+        "tyler",
+        "zeus"
+      ],
       "description": null
     },
     {
@@ -2133,7 +2821,10 @@
       "category": "monostructural",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "rocket",
+        "tully"
+      ],
       "description": null
     },
     {
@@ -2144,7 +2835,28 @@
         "barbell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "andy",
+        "artie",
+        "big-sexy",
+        "coe",
+        "dae-han",
+        "daniel",
+        "fran",
+        "hope",
+        "jackie",
+        "marco",
+        "omar",
+        "pike",
+        "rahoi",
+        "roney",
+        "spehar",
+        "the-don",
+        "the-seven",
+        "tom",
+        "tommy-v",
+        "topsy"
+      ],
       "description": null
     },
     {
@@ -2153,7 +2865,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2165,7 +2877,17 @@
         "toes to bar",
         "t2b"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "adrian",
+        "dg",
+        "forrest",
+        "liam",
+        "marston",
+        "pheezy",
+        "restrepo",
+        "tom",
+        "white"
+      ],
       "description": null
     },
     {
@@ -2174,7 +2896,9 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "ledesma"
+      ],
       "description": null
     },
     {
@@ -2183,7 +2907,9 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "cameron"
+      ],
       "description": null
     },
     {
@@ -2192,7 +2918,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2203,7 +2929,9 @@
         "kettlebell"
       ],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "arnie"
+      ],
       "description": null
     },
     {
@@ -2212,7 +2940,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2221,7 +2949,13 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "bert",
+        "cameron",
+        "loredo",
+        "rene",
+        "strange"
+      ],
       "description": null
     },
     {
@@ -2230,7 +2964,24 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "adambrown",
+        "blake",
+        "cameron",
+        "crain",
+        "holleyman",
+        "hollywood",
+        "karen",
+        "kelly",
+        "kelly-brown",
+        "morrison",
+        "nutts",
+        "scotty",
+        "the-don",
+        "whitt",
+        "whitten",
+        "zeus"
+      ],
       "description": null
     },
     {
@@ -2241,7 +2992,9 @@
       "aliases": [
         "wall walk"
       ],
-      "in_dataset": true,
+      "workouts": [
+        "adrian"
+      ],
       "description": null
     },
     {
@@ -2250,7 +3003,7 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2259,7 +3012,7 @@
       "category": "bodyweight",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     },
     {
@@ -2268,7 +3021,11 @@
       "category": "gymnastics",
       "equipment": [],
       "aliases": [],
-      "in_dataset": true,
+      "workouts": [
+        "del",
+        "nickman",
+        "strange"
+      ],
       "description": null
     },
     {
@@ -2277,7 +3034,7 @@
       "category": "odd-object",
       "equipment": [],
       "aliases": [],
-      "in_dataset": false,
+      "workouts": [],
       "description": null
     }
   ]
