@@ -2,19 +2,16 @@ name: validate
 
 # Gate every change to the dataset against the schema contract so community
 # PRs can be accepted without hand-reviewing each entry.
+#
+# Runs on EVERY pull request with no `paths:` filter — deliberately. This job is a
+# required status check in branch protection, and a required check that gets
+# skipped by a path filter never reports a status, which blocks the PR from
+# merging forever. The job takes seconds, so always running it keeps it safe to
+# require.
 on:
   pull_request:
-    paths:
-      - "data/**"
-      - "schema/**"
-      - "scripts/**"
-      - ".github/workflows/validate.yml"
   push:
     branches: [main]
-    paths:
-      - "data/**"
-      - "schema/**"
-      - "scripts/**"
 
 permissions:
   contents: read
@@ -35,7 +32,16 @@ jobs:
       - name: Validate entries against schema
         run: python scripts/validate.py
 
-      - name: Confirm the index compiles
-        # build_index.py both re-derives index.json and renders each .md twin;
-        # running it here proves every entry compiles cleanly.
-        run: python scripts/build_index.py
+      - name: Verify committed index.json and .md twins are current
+        # Re-derive the compiled artifacts and fail if they differ from what was
+        # committed. This keeps main self-consistent so publish.yml never has to
+        # push a fix-up commit back to the protected branch — the PR author must
+        # commit the regenerated output (as CONTRIBUTING already instructs).
+        run: |
+          python scripts/build_index.py
+          if [ -n "$(git status --porcelain data/)" ]; then
+            echo "::error::index.json and/or .md twins are out of date. Run 'python scripts/build_index.py' and commit the result."
+            git --no-pager diff -- data/
+            exit 1
+          fi
+          echo "Compiled artifacts are up to date."
