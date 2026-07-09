@@ -1,0 +1,72 @@
+{
+  "id": "open-22-3",
+  "name": "22.3",
+  "category": "open",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "pull-up",
+      "reps": 21
+    },
+    {
+      "exercise": "double-under",
+      "reps": 42
+    },
+    {
+      "exercise": "thruster",
+      "reps": 21,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 18
+    },
+    {
+      "exercise": "double-under",
+      "reps": 36
+    },
+    {
+      "exercise": "thruster",
+      "reps": 18,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 15
+    },
+    {
+      "exercise": "double-under",
+      "reps": 30
+    },
+    {
+      "exercise": "thruster",
+      "reps": 15,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "85lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2022",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2022/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "open-24-1",
+  "name": "24.1",
+  "category": "open",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 15,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": [
+        21,
+        15,
+        9
+      ],
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "arm 1"
+    },
+    {
+      "exercise": "burpee-over-dumbbell",
+      "reps": [
+        21,
+        15,
+        9
+      ],
+      "notes": "lateral"
+    },
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": [
+        21,
+        15,
+        9
+      ],
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "arm 2"
+    },
+    {
+      "exercise": "burpee-over-dumbbell",
+      "reps": [
+        21,
+        15,
+        9
+      ],
+      "notes": "lateral"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2024",
+    "dumbbell",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2024/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

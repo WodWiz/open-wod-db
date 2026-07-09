@@ -1,0 +1,59 @@
+{
+  "id": "open-23-2",
+  "name": "23.2",
+  "category": "open",
+  "format": "multi_part",
+  "format_meta": {},
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2023",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2023/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "23.2A",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 15,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "burpee-pull-up",
+          "reps": 5,
+          "notes": "ascending +5 reps each round"
+        },
+        {
+          "exercise": "shuttle-run",
+          "reps": 10,
+          "notes": "1 rep = 25 ft down + 25 ft back"
+        }
+      ],
+      "scoring": "reps"
+    },
+    {
+      "label": "23.2B",
+      "format": "max_load",
+      "format_meta": {
+        "time_cap_minutes": 5,
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": 1,
+          "notes": "1-rep-max from the floor"
+        }
+      ],
+      "scoring": "load"
+    }
+  ]
+}

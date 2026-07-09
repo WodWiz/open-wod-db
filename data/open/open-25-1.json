@@ -1,0 +1,43 @@
+{
+  "id": "open-25-1",
+  "name": "25.1",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 15,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "burpee-over-dumbbell",
+      "reps": 3,
+      "notes": "lateral; ascending +3 reps each round"
+    },
+    {
+      "exercise": "dumbbell-hang-clean-to-overhead",
+      "reps": 3,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "ascending +3 reps each round"
+    },
+    {
+      "exercise": "walking-lunge",
+      "distance_m": 9,
+      "notes": "30 ft (2 x 15 ft)"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2025",
+    "dumbbell",
+    "ascending"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2025/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "open-23-1",
+  "name": "23.1",
+  "category": "open",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 14,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "reps": 60,
+      "notes": "calories"
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 50
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 40,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "clean",
+      "reps": 30,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 20
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2023",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2023/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
