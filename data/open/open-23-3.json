@@ -1,0 +1,119 @@
+{
+  "id": "open-23-3",
+  "name": "23.3",
+  "category": "open",
+  "format": "multi_part",
+  "format_meta": {
+    "total_minutes": 12,
+    "scoring": "time"
+  },
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2023",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2023/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09",
+  "segments": [
+    {
+      "label": "0:00-6:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "wall-climb",
+          "reps": 5
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "snatch",
+          "reps": 15,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "wall-climb",
+          "reps": 5
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "snatch",
+          "reps": 12,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "If complete, +3:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "strict-handstand-push-up",
+          "reps": 20
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "snatch",
+          "reps": 9,
+          "load": {
+            "rx_male": "185lb",
+            "rx_female": "125lb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "If complete, +3:00",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "strict-handstand-push-up",
+          "reps": 20
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "snatch",
+          "reps": 6,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        }
+      ]
+    }
+  ]
+}

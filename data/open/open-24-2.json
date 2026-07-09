@@ -1,0 +1,40 @@
+{
+  "id": "open-24-2",
+  "name": "24.2",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 300
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "125lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 50
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2024",
+    "rowing",
+    "barbell"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2024/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

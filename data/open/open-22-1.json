@@ -1,0 +1,40 @@
+{
+  "id": "open-22-1",
+  "name": "22.1",
+  "category": "open",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 15,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "wall-climb",
+      "reps": 3
+    },
+    {
+      "exercise": "dumbbell-snatch",
+      "reps": 12,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "box-jump-over",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2022",
+    "dumbbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2022/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

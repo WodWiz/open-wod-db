@@ -1,0 +1,87 @@
+{
+  "id": "open-26-2",
+  "name": "26.2",
+  "category": "open",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 15,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "dumbbell-overhead-lunge",
+      "distance_m": 24,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "80 ft"
+    },
+    {
+      "exercise": "alternating-dumbbell-snatch",
+      "reps": 20,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 20
+    },
+    {
+      "exercise": "dumbbell-overhead-lunge",
+      "distance_m": 24,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "80 ft"
+    },
+    {
+      "exercise": "alternating-dumbbell-snatch",
+      "reps": 20,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 20
+    },
+    {
+      "exercise": "dumbbell-overhead-lunge",
+      "distance_m": 24,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      },
+      "notes": "80 ft"
+    },
+    {
+      "exercise": "alternating-dumbbell-snatch",
+      "reps": 20,
+      "load": {
+        "rx_male": "50lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 20
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "open",
+    "2026",
+    "dumbbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/open/2026/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

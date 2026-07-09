@@ -23,40 +23,62 @@ def format_movement_line(m):
         reps_str = ""
     return f"  {reps_str}{name}{dist}{load}".rstrip()
 
-def render_markdown(wod):
-    lines = [f"# {wod['name']}", ""]
-    movements = wod["movements"]
-    if wod["format"] == "for_time" and same_scheme(movements):
+def render_block(fmt, meta, movements):
+    """Lines for one format + movements block (header + movement lines)."""
+    lines = []
+    if fmt == "for_time" and same_scheme(movements):
         scheme = "-".join(str(r) for r in movements[0]["reps"])
         lines.append(f"**{scheme}**")
         for m in movements:
             load = f" ({m['load']['rx_male']}/{m['load']['rx_female']})" if m.get("load") else ""
             lines.append(f"  {title(m['exercise'])}{load}")
     else:
-        meta = wod.get("format_meta") or {}
+        meta = meta or {}
         header = {
             "amrap": f"**AMRAP {meta.get('time_cap_minutes','?')} min**",
             "emom": f"**EMOM {meta.get('total_minutes','?')} min**",
             "interval": f"**{meta.get('rounds','?')} rounds for time**",
             "max_load": "**Max load**",
-        }.get(wod["format"], f"**{title(wod['format'])}**")
+        }.get(fmt, f"**{title(fmt)}**")
         lines.append(header)
         for m in movements:
             lines.append(format_movement_line(m))
+    return lines
+
+def _rest_label(seconds):
+    return f"{seconds // 60} min" if seconds % 60 == 0 else f"{seconds} s"
+
+def render_markdown(wod):
+    lines = [f"# {wod['name']}", ""]
+    if wod.get("segments"):
+        for seg in wod["segments"]:
+            if seg.get("label"):
+                lines.append(f"**{seg['label']}**")
+            lines += render_block(seg["format"], seg.get("format_meta"), seg["movements"])
+            if seg.get("rest_after_seconds"):
+                lines.append(f"  *rest {_rest_label(seg['rest_after_seconds'])}*")
+            lines.append("")
+        if lines[-1] == "":
+            lines.pop()
+    else:
+        lines += render_block(wod["format"], wod.get("format_meta"), wod["movements"])
     lines += ["", f"*Type: {title(wod['format'])} · Category: {title(wod['category'])}*"]
     return "\n".join(lines) + "\n"
 
 all_entries = []
-for category_dir in ["girls", "heroes"]:
-    for path in sorted(glob.glob(os.path.join(DATA, category_dir, "*.json"))):
-        with open(path, encoding="utf-8") as f:
-            wod = json.load(f)
-        all_entries.append(wod)
-        md_path = path.replace(".json", ".md")
-        # Force UTF-8 + LF so output is byte-identical on Windows and Linux
-        # (default text mode would emit cp1252/CRLF on Windows).
-        with open(md_path, "w", encoding="utf-8", newline="\n") as f:
-            f.write(render_markdown(wod))
+# Every data/<category>/*.json (excludes data/index.json, data/movements.json,
+# and data/staging/*). Sorted for deterministic, byte-stable output.
+for path in sorted(glob.glob(os.path.join(DATA, "*", "*.json"))):
+    if os.path.normpath(os.path.dirname(path)).endswith(os.sep + "staging"):
+        continue
+    with open(path, encoding="utf-8") as f:
+        wod = json.load(f)
+    all_entries.append(wod)
+    md_path = path.replace(".json", ".md")
+    # Force UTF-8 + LF so output is byte-identical on Windows and Linux
+    # (default text mode would emit cp1252/CRLF on Windows).
+    with open(md_path, "w", encoding="utf-8", newline="\n") as f:
+        f.write(render_markdown(wod))
 
 index_path = os.path.join(DATA, "index.json")
 with open(index_path, "w", encoding="utf-8", newline="\n") as f:
