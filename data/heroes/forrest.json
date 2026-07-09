@@ -1,0 +1,39 @@
+{
+  "id": "forrest",
+  "name": "Forrest",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "l-pull-up",
+      "reps": 20
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 30
+    },
+    {
+      "exercise": "burpee",
+      "reps": 40
+    },
+    {
+      "exercise": "run",
+      "distance_m": 800
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "bodyweight",
+    "3-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/forrest (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

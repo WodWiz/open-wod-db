@@ -1,5 +1,5 @@
 {
-  "count": 100,
+  "count": 130,
   "wods": [
     {
       "id": "amanda",
@@ -1418,6 +1418,77 @@
       "last_updated": "2026-07-09"
     },
     {
+      "id": "adambrown",
+      "name": "Adambrown",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 24,
+          "load": {
+            "rx_male": "295lb",
+            "rx_female": "195lb"
+          }
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 24
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 24,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        },
+        {
+          "exercise": "bench-press",
+          "reps": 24,
+          "load": {
+            "rx_male": "195lb",
+            "rx_female": "135lb"
+          }
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 24
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 24,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 24,
+          "load": {
+            "rx_male": "145lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "barbell",
+        "gymnastics",
+        "2-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/adambrown (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
       "id": "adrian",
       "name": "Adrian",
       "category": "hero",
@@ -1560,6 +1631,131 @@
       "last_updated": "2026-07-09"
     },
     {
+      "id": "arnie",
+      "name": "Arnie",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "turkish-get-up",
+          "reps": 21,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          },
+          "notes": "right arm"
+        },
+        {
+          "exercise": "kettlebell-swing",
+          "reps": 50,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          }
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 21,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          },
+          "notes": "left arm"
+        },
+        {
+          "exercise": "kettlebell-swing",
+          "reps": 50,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          }
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 21,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          },
+          "notes": "right arm"
+        },
+        {
+          "exercise": "kettlebell-swing",
+          "reps": 50,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          }
+        },
+        {
+          "exercise": "turkish-get-up",
+          "reps": 21,
+          "load": {
+            "rx_male": "70lb",
+            "rx_female": "53lb"
+          },
+          "notes": "left arm"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "kettlebell",
+        "single-kettlebell"
+      ],
+      "source_notes": "crossfit.com/benchmark/arnie (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "artie",
+      "name": "Artie",
+      "category": "hero",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 20
+      },
+      "movements": [
+        {
+          "exercise": "pull-up",
+          "reps": 5
+        },
+        {
+          "exercise": "push-up",
+          "reps": 10
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 15
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 5
+        },
+        {
+          "exercise": "thruster",
+          "reps": 10,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "amrap",
+        "bodyweight",
+        "barbell"
+      ],
+      "source_notes": "crossfit.com/benchmark/artie (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
       "id": "badger",
       "name": "Badger",
       "category": "hero",
@@ -1593,6 +1789,44 @@
       "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
       "schema_version": "1.0",
       "last_updated": "2026-07-08"
+    },
+    {
+      "id": "barraza",
+      "name": "Barraza",
+      "category": "hero",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 18
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 200
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 9,
+          "load": {
+            "rx_male": "275lb",
+            "rx_female": "185lb"
+          }
+        },
+        {
+          "exercise": "burpee-bar-muscle-up",
+          "reps": 6
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "amrap",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/benchmark/barraza (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
     },
     {
       "id": "bell",
@@ -1638,6 +1872,240 @@
       "last_updated": "2026-07-09"
     },
     {
+      "id": "bert",
+      "name": "Bert",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "burpee",
+          "reps": 50
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "push-up",
+          "reps": 100
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "walking-lunge",
+          "reps": 150,
+          "notes": "steps"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 200
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "walking-lunge",
+          "reps": 150,
+          "notes": "steps"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "push-up",
+          "reps": 100
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "burpee",
+          "reps": 50
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "bodyweight",
+        "running",
+        "high-volume"
+      ],
+      "source_notes": "crossfit.com/benchmark/bert (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "big-sexy",
+      "name": "Big Sexy",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 6,
+          "load": {
+            "rx_male": "315lb",
+            "rx_female": "205lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": 6
+        },
+        {
+          "exercise": "clean",
+          "reps": 5,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 5
+        },
+        {
+          "exercise": "thruster",
+          "reps": 4,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "105lb"
+          }
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 4
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "barbell",
+        "gymnastics",
+        "5-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/big-sexy (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "blake",
+      "name": "Blake",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 4,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "overhead-walking-lunge",
+          "distance_m": 30,
+          "load": {
+            "rx_male": "45lb",
+            "rx_female": "25lb"
+          },
+          "notes": "plate held overhead"
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 30
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 20,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 10
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "barbell",
+        "gymnastics",
+        "4-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/blake (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "bowen",
+      "name": "Bowen",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 7,
+          "load": {
+            "rx_male": "275lb",
+            "rx_female": "185lb"
+          }
+        },
+        {
+          "exercise": "burpee-pull-up",
+          "reps": 10
+        },
+        {
+          "exercise": "single-arm-kettlebell-thruster",
+          "reps": 14,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "35lb"
+          },
+          "notes": "7 each arm"
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 20
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "barbell",
+        "kettlebell",
+        "3-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/bowen (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
       "id": "bradshaw",
       "name": "Bradshaw",
       "category": "hero",
@@ -1677,6 +2145,48 @@
         "10-rounds"
       ],
       "source_notes": "crossfit.com/benchmark/bradshaw (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "brehm",
+      "name": "Brehm",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "rope-climb",
+          "reps": 10,
+          "notes": "to 15 feet"
+        },
+        {
+          "exercise": "back-squat",
+          "reps": 20,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 30
+        },
+        {
+          "exercise": "row",
+          "reps": 40,
+          "notes": "calories"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "gymnastics",
+        "barbell",
+        "rowing"
+      ],
+      "source_notes": "crossfit.com/benchmark/brehm (official CrossFit Hero WOD page), retrieved 2026-07-09",
       "schema_version": "1.0",
       "last_updated": "2026-07-09"
     },
@@ -1848,6 +2358,224 @@
       "last_updated": "2026-07-09"
     },
     {
+      "id": "buriak",
+      "name": "Buriak",
+      "category": "hero",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 20
+      },
+      "movements": [
+        {
+          "exercise": "squat-clean",
+          "reps": 5,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "135lb"
+          }
+        },
+        {
+          "exercise": "bar-facing-burpee",
+          "reps": 10
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 15
+        },
+        {
+          "exercise": "run",
+          "distance_m": 200
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "amrap",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/benchmark/buriak (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "cameron",
+      "name": "Cameron",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "walking-lunge",
+          "reps": 50,
+          "notes": "steps"
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 25
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 50
+        },
+        {
+          "exercise": "triple-under",
+          "reps": 25
+        },
+        {
+          "exercise": "back-extension",
+          "reps": 50
+        },
+        {
+          "exercise": "ring-dip",
+          "reps": 25
+        },
+        {
+          "exercise": "knees-to-elbows",
+          "reps": 50
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 25,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          },
+          "notes": "two-for-ones"
+        },
+        {
+          "exercise": "sit-up",
+          "reps": 50
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 5,
+          "notes": "to 15 feet"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "bodyweight",
+        "gymnastics",
+        "high-volume"
+      ],
+      "source_notes": "crossfit.com/benchmark/cameron (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "capoot",
+      "name": "Capoot",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "push-up",
+          "reps": 100
+        },
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "push-up",
+          "reps": 75
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1200
+        },
+        {
+          "exercise": "push-up",
+          "reps": 50
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1600
+        },
+        {
+          "exercise": "push-up",
+          "reps": 25
+        },
+        {
+          "exercise": "run",
+          "distance_m": 2000
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "bodyweight",
+        "running"
+      ],
+      "source_notes": "crossfit.com/benchmark/capoot (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "chad1000x",
+      "name": "Chad1000x",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "box-step-up",
+          "reps": 1000,
+          "load": {
+            "rx_male": "45lb",
+            "rx_female": "35lb"
+          },
+          "notes": "ruck; 20-inch box"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "weighted",
+        "single-movement",
+        "high-volume"
+      ],
+      "source_notes": "crossfit.com/benchmark/chad1000x (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "clovis",
+      "name": "Clovis",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 16093
+        },
+        {
+          "exercise": "burpee-pull-up",
+          "reps": 150,
+          "notes": "partition the run and burpee pull-ups as needed"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "gymnastics",
+        "endurance"
+      ],
+      "source_notes": "crossfit.com/benchmark/clovis (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
       "id": "coe",
       "name": "Coe",
       "category": "hero",
@@ -1879,6 +2607,356 @@
         "10-rounds"
       ],
       "source_notes": "crossfit.com/benchmark/coe (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "coffey",
+      "name": "Coffey",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "back-squat",
+          "reps": 50,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "bench-press",
+          "reps": 50,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "back-squat",
+          "reps": 35,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "bench-press",
+          "reps": 35,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "back-squat",
+          "reps": 20,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "bench-press",
+          "reps": 20,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "run",
+          "distance_m": 800
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 1
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/benchmark/coffey (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "collin",
+      "name": "Collin",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "sandbag-carry",
+          "distance_m": 400,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "push-press",
+          "reps": 12,
+          "load": {
+            "rx_male": "115lb",
+            "rx_female": "75lb"
+          }
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 12
+        },
+        {
+          "exercise": "sumo-deadlift-high-pull",
+          "reps": 12,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "barbell",
+        "running",
+        "6-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/collin (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "crain",
+      "name": "Crain",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "push-up",
+          "reps": 34
+        },
+        {
+          "exercise": "run",
+          "distance_m": 46,
+          "notes": "sprint"
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 34,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "run",
+          "distance_m": 46,
+          "notes": "sprint"
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 34
+        },
+        {
+          "exercise": "run",
+          "distance_m": 46,
+          "notes": "sprint"
+        },
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 34,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "run",
+          "distance_m": 46,
+          "notes": "sprint"
+        },
+        {
+          "exercise": "burpee",
+          "reps": 34
+        },
+        {
+          "exercise": "run",
+          "distance_m": 46,
+          "notes": "sprint"
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 34,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        },
+        {
+          "exercise": "run",
+          "distance_m": 46,
+          "notes": "sprint"
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 34
+        },
+        {
+          "exercise": "run",
+          "distance_m": 46,
+          "notes": "sprint"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "barbell",
+        "high-volume",
+        "2-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/crain (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "dae-han",
+      "name": "Dae Han",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 800,
+          "notes": "carrying an empty barbell"
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 3,
+          "notes": "to 15 feet"
+        },
+        {
+          "exercise": "thruster",
+          "reps": 12,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "running",
+        "barbell",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/dae-han (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "daniel-ray",
+      "name": "Daniel Ray",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "double-kettlebell-front-rack-lunge",
+          "distance_m": 8,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "strict-pull-up",
+          "reps": 9
+        },
+        {
+          "exercise": "double-kettlebell-overhead-carry",
+          "distance_m": 15,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "hand-release-push-up",
+          "reps": 16
+        },
+        {
+          "exercise": "double-kettlebell-front-rack-carry",
+          "distance_m": 23,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 23
+        },
+        {
+          "exercise": "double-kettlebell-farmers-carry",
+          "distance_m": 30,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "kettlebell",
+        "weight-vest-optional",
+        "5-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/daniel-ray (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx adds an optional load: 'If you have a weight vest or body armor, wear it.'",
       "schema_version": "1.0",
       "last_updated": "2026-07-09"
     },
@@ -1977,6 +3055,71 @@
       "last_updated": "2026-07-09"
     },
     {
+      "id": "del",
+      "name": "Del",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "burpee",
+          "reps": 25
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400,
+          "notes": "carrying a 20/14 lb medicine ball"
+        },
+        {
+          "exercise": "weighted-pull-up",
+          "reps": 25,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "15lb"
+          },
+          "notes": "holding a dumbbell"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400,
+          "notes": "carrying a 20/14 lb medicine ball"
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 25
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400,
+          "notes": "carrying a 20/14 lb medicine ball"
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 25
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400,
+          "notes": "carrying a 20/14 lb medicine ball"
+        },
+        {
+          "exercise": "burpee",
+          "reps": 25
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "bodyweight",
+        "running",
+        "dumbbell"
+      ],
+      "source_notes": "crossfit.com/benchmark/del (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
       "id": "desforges",
       "name": "Desforges",
       "category": "hero",
@@ -2020,6 +3163,167 @@
         "5-rounds"
       ],
       "source_notes": "crossfit.com/benchmark/desforges (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "dg",
+      "name": "DG",
+      "category": "hero",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 10
+      },
+      "movements": [
+        {
+          "exercise": "toes-to-bar",
+          "reps": 8
+        },
+        {
+          "exercise": "dumbbell-thruster",
+          "reps": 8,
+          "load": {
+            "rx_male": "35lb",
+            "rx_female": "20lb"
+          }
+        },
+        {
+          "exercise": "dumbbell-walking-lunge",
+          "reps": 12,
+          "load": {
+            "rx_male": "35lb",
+            "rx_female": "20lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "amrap",
+        "dumbbell",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/benchmark/dg (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "dobogai",
+      "name": "Dobogai",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "muscle-up",
+          "reps": 8
+        },
+        {
+          "exercise": "farmers-carry",
+          "distance_m": 20,
+          "load": {
+            "rx_male": "50lb",
+            "rx_female": "35lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "gymnastics",
+        "dumbbell",
+        "7-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/dobogai (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "donny",
+      "name": "Donny",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": [
+            21,
+            15,
+            9,
+            9,
+            15,
+            21
+          ],
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": [
+            21,
+            15,
+            9,
+            9,
+            15,
+            21
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "barbell",
+        "ladder"
+      ],
+      "source_notes": "crossfit.com/benchmark/donny (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "dork",
+      "name": "Dork",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "double-under",
+          "reps": 60
+        },
+        {
+          "exercise": "kettlebell-swing",
+          "reps": 30,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "35lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": 15
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "kettlebell",
+        "bodyweight",
+        "6-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/dork (official CrossFit Hero WOD page), retrieved 2026-07-09",
       "schema_version": "1.0",
       "last_updated": "2026-07-09"
     },
@@ -2068,6 +3372,253 @@
       "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
       "schema_version": "1.0",
       "last_updated": "2026-07-08"
+    },
+    {
+      "id": "dunn",
+      "name": "Dunn",
+      "category": "hero",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 19
+      },
+      "movements": [
+        {
+          "exercise": "muscle-up",
+          "reps": 3
+        },
+        {
+          "exercise": "shuttle-sprint",
+          "reps": 1,
+          "notes": "5, 10, and 15 yards"
+        },
+        {
+          "exercise": "burpee-box-jump-over",
+          "reps": 6,
+          "notes": "jump over the box without touching it"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "amrap",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/benchmark/dunn (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "erin",
+      "name": "Erin",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "dumbbell-split-clean",
+          "reps": 15,
+          "load": {
+            "rx_male": "40lb",
+            "rx_female": "30lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 21
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "dumbbell",
+        "gymnastics",
+        "5-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/erin (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "falkel",
+      "name": "Falkel",
+      "category": "hero",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 25
+      },
+      "movements": [
+        {
+          "exercise": "handstand-push-up",
+          "reps": 8
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 8
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 1,
+          "notes": "to 15 feet"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "amrap",
+        "gymnastics"
+      ],
+      "source_notes": "crossfit.com/benchmark/falkel (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "feeks",
+      "name": "Feeks",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "shuttle-sprint",
+          "reps": [
+            2,
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16
+          ],
+          "notes": "100 m each"
+        },
+        {
+          "exercise": "dumbbell-squat-clean-thruster",
+          "reps": [
+            2,
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16
+          ],
+          "load": {
+            "rx_male": "65lb",
+            "rx_female": "45lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "dumbbell",
+        "ladder"
+      ],
+      "source_notes": "crossfit.com/benchmark/feeks (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "forrest",
+      "name": "Forrest",
+      "category": "hero",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "l-pull-up",
+          "reps": 20
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 30
+        },
+        {
+          "exercise": "burpee",
+          "reps": 40
+        },
+        {
+          "exercise": "run",
+          "distance_m": 800
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "gymnastics",
+        "bodyweight",
+        "3-rounds"
+      ],
+      "source_notes": "crossfit.com/benchmark/forrest (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "fournier",
+      "name": "Fournier",
+      "category": "hero",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "shoulder-to-overhead",
+          "reps": 50,
+          "load": {
+            "rx_male": "115lb",
+            "rx_female": "75lb"
+          }
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 15,
+          "notes": "arm-over-arm; challenging load"
+        },
+        {
+          "exercise": "burpee",
+          "reps": 40
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 15,
+          "notes": "arm-over-arm; challenging load"
+        },
+        {
+          "exercise": "sumo-deadlift-high-pull",
+          "reps": 30,
+          "load": {
+            "rx_male": "85lb",
+            "rx_female": "55lb"
+          }
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 15,
+          "notes": "arm-over-arm; challenging load"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "barbell",
+        "sled"
+      ],
+      "source_notes": "crossfit.com/benchmark/fournier (official CrossFit Hero WOD page), retrieved 2026-07-09",
+      "schema_version": "1.0",
+      "last_updated": "2026-07-09"
     },
     {
       "id": "gator",

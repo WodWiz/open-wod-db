@@ -1,0 +1,50 @@
+{
+  "id": "feeks",
+  "name": "Feeks",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "shuttle-sprint",
+      "reps": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16
+      ],
+      "notes": "100 m each"
+    },
+    {
+      "exercise": "dumbbell-squat-clean-thruster",
+      "reps": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16
+      ],
+      "load": {
+        "rx_male": "65lb",
+        "rx_female": "45lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "dumbbell",
+    "ladder"
+  ],
+  "source_notes": "crossfit.com/benchmark/feeks (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

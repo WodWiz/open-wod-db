@@ -1,0 +1,51 @@
+{
+  "id": "capoot",
+  "name": "Capoot",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "push-up",
+      "reps": 100
+    },
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "push-up",
+      "reps": 75
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1200
+    },
+    {
+      "exercise": "push-up",
+      "reps": 50
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1600
+    },
+    {
+      "exercise": "push-up",
+      "reps": 25
+    },
+    {
+      "exercise": "run",
+      "distance_m": 2000
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "bodyweight",
+    "running"
+  ],
+  "source_notes": "crossfit.com/benchmark/capoot (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

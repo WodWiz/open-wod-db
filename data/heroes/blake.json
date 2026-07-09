@@ -1,0 +1,48 @@
+{
+  "id": "blake",
+  "name": "Blake",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "overhead-walking-lunge",
+      "distance_m": 30,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "25lb"
+      },
+      "notes": "plate held overhead"
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 30
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 20,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 10
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "4-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/blake (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

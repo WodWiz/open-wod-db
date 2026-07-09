@@ -1,0 +1,29 @@
+{
+  "id": "clovis",
+  "name": "Clovis",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 16093
+    },
+    {
+      "exercise": "burpee-pull-up",
+      "reps": 150,
+      "notes": "partition the run and burpee pull-ups as needed"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "gymnastics",
+    "endurance"
+  ],
+  "source_notes": "crossfit.com/benchmark/clovis (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

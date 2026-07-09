@@ -1,0 +1,71 @@
+{
+  "id": "daniel-ray",
+  "name": "Daniel Ray",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "double-kettlebell-front-rack-lunge",
+      "distance_m": 8,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "strict-pull-up",
+      "reps": 9
+    },
+    {
+      "exercise": "double-kettlebell-overhead-carry",
+      "distance_m": 15,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "hand-release-push-up",
+      "reps": 16
+    },
+    {
+      "exercise": "double-kettlebell-front-rack-carry",
+      "distance_m": 23,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 23
+    },
+    {
+      "exercise": "double-kettlebell-farmers-carry",
+      "distance_m": 30,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "kettlebell",
+    "weight-vest-optional",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/daniel-ray (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx adds an optional load: 'If you have a weight vest or body armor, wear it.'",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

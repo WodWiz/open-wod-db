@@ -1,0 +1,39 @@
+{
+  "id": "dork",
+  "name": "Dork",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 6,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "double-under",
+      "reps": 60
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 30,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 15
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "kettlebell",
+    "bodyweight",
+    "6-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/dork (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

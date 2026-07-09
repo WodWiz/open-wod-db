@@ -1,0 +1,59 @@
+{
+  "id": "big-sexy",
+  "name": "Big Sexy",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "deadlift",
+      "reps": 6,
+      "load": {
+        "rx_male": "315lb",
+        "rx_female": "205lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 6
+    },
+    {
+      "exercise": "clean",
+      "reps": 5,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 5
+    },
+    {
+      "exercise": "thruster",
+      "reps": 4,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "105lb"
+      }
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 4
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "5-rounds"
+  ],
+  "source_notes": "crossfit.com/benchmark/big-sexy (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}

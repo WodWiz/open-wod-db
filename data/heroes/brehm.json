@@ -1,0 +1,42 @@
+{
+  "id": "brehm",
+  "name": "Brehm",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "rope-climb",
+      "reps": 10,
+      "notes": "to 15 feet"
+    },
+    {
+      "exercise": "back-squat",
+      "reps": 20,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 30
+    },
+    {
+      "exercise": "row",
+      "reps": 40,
+      "notes": "calories"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "gymnastics",
+    "barbell",
+    "rowing"
+  ],
+  "source_notes": "crossfit.com/benchmark/brehm (official CrossFit Hero WOD page), retrieved 2026-07-09",
+  "schema_version": "1.0",
+  "last_updated": "2026-07-09"
+}
