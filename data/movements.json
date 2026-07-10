@@ -1,5 +1,5 @@
 {
-  "count": 245,
+  "count": 246,
   "movements": [
     {
       "id": "ab-mat-sit-up",
@@ -367,6 +367,7 @@
         "crain",
         "danny",
         "falkel",
+        "games-09-complex-chipper",
         "games-11-the-end-1",
         "games-11-the-end-2",
         "games-11-the-end-3",
@@ -465,6 +466,7 @@
         "ellen",
         "forrest",
         "fournier",
+        "games-09-complex-chipper",
         "games-10-the-final-3",
         "games-11-the-end-1",
         "games-11-the-end-2",
@@ -685,6 +687,7 @@
         "adambrown",
         "big-sexy",
         "elizabeth",
+        "games-09-complex-chipper",
         "games-10-cleans-handstand-pushups",
         "games-12-clean-ladder",
         "games-12-elizabeth",
@@ -816,6 +819,7 @@
         "diane",
         "donny",
         "dt",
+        "games-09-deadlift-ladder",
         "games-10-max-rep-deadlift",
         "games-11-triplet-sprint",
         "games-13-the-cinco-1",
@@ -975,6 +979,7 @@
         "bradshaw",
         "bull",
         "dork",
+        "games-09-complex-chipper",
         "games-10-event-3",
         "games-11-dog-sled",
         "games-12-double-banger",
@@ -1299,6 +1304,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-09-complex-chipper",
         "games-17-triple-g-chipper"
       ],
       "description": null
@@ -1605,6 +1611,7 @@
         "ghd sit-up"
       ],
       "workouts": [
+        "games-09-hspu-kb-ghd",
         "games-10-event-3",
         "games-11-triplet-sprint",
         "games-14-midline-march",
@@ -1716,6 +1723,7 @@
         "del",
         "diane",
         "falkel",
+        "games-09-hspu-kb-ghd",
         "games-11-dog-sled",
         "games-19-mary",
         "games-20-atalanta",
@@ -2367,6 +2375,7 @@
         "coffey",
         "dobogai",
         "dunn",
+        "games-09-complex-chipper",
         "games-11-triplet-sprint",
         "games-13-the-cinco-2",
         "games-14-muscle-up-biathlon",
@@ -2482,6 +2491,7 @@
       "aliases": [],
       "workouts": [
         "blake",
+        "games-09-complex-chipper",
         "games-14-midline-march",
         "games-21-event-15",
         "games-23-echo-thruster-final",
@@ -2684,6 +2694,7 @@
         "erin",
         "eva",
         "fran",
+        "games-09-complex-chipper",
         "games-12-fran",
         "games-13-2007",
         "games-14-21-15-9-complex",
@@ -2962,6 +2973,7 @@
       "aliases": [],
       "workouts": [
         "brehm",
+        "games-09-row-stake",
         "games-11-the-end-1",
         "games-11-the-end-2",
         "games-11-the-end-3",
@@ -3035,6 +3047,7 @@
         "eva",
         "forrest",
         "gallant",
+        "games-09-hill-run",
         "games-10-event-3",
         "games-11-beach",
         "games-12-pendleton-1",
@@ -3151,7 +3164,9 @@
       "aliases": [
         "kettlebell swing (russian)"
       ],
-      "workouts": [],
+      "workouts": [
+        "games-09-hspu-kb-ghd"
+      ],
       "description": null
     },
     {
@@ -3162,6 +3177,7 @@
       "aliases": [],
       "workouts": [
         "collin",
+        "games-09-hill-sprint-sandbags",
         "games-10-sandbag-move",
         "games-14-sprint-carry",
         "games-15-sandbag-2015",
@@ -3403,6 +3419,7 @@
       ],
       "aliases": [],
       "workouts": [
+        "games-09-1rm-snatch",
         "games-12-isabel",
         "games-12-track-triplet",
         "games-13-sprint-chipper",
@@ -3520,6 +3537,7 @@
       "aliases": [],
       "workouts": [
         "amanda",
+        "games-09-wall-ball-snatch",
         "games-10-amanda",
         "games-17-amanda-45",
         "games-19-first-cut"
@@ -3533,6 +3551,17 @@
       "equipment": [],
       "aliases": [],
       "workouts": [],
+      "description": null
+    },
+    {
+      "id": "stake-drive",
+      "name": "Stake Drive",
+      "category": "odd-object",
+      "equipment": [],
+      "aliases": [],
+      "workouts": [
+        "games-09-row-stake"
+      ],
       "description": null
     },
     {
@@ -3686,6 +3715,7 @@
         "dae-han",
         "daniel",
         "fran",
+        "games-09-complex-chipper",
         "games-12-chipper",
         "games-12-fran",
         "games-13-legless",
@@ -3750,6 +3780,7 @@
         "adrian",
         "dg",
         "forrest",
+        "games-09-complex-chipper",
         "games-10-the-final-2",
         "games-11-the-end-1",
         "games-11-the-end-2",
@@ -3864,6 +3895,7 @@
         "blake",
         "cameron",
         "crain",
+        "games-09-wall-ball-snatch",
         "games-11-the-end-1",
         "games-11-the-end-2",
         "games-11-the-end-3",

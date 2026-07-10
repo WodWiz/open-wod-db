@@ -1,0 +1,28 @@
+{
+  "id": "games-09-1rm-snatch",
+  "name": "1RM Snatch (2009 Games)",
+  "category": "games",
+  "format": "max_load",
+  "format_meta": {
+    "scoring": "load"
+  },
+  "movements": [
+    {
+      "exercise": "snatch",
+      "reps": 1,
+      "notes": "athlete's own 1-rep-max; no fixed Rx weight"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2009",
+    "barbell",
+    "max-load"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2009/6 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

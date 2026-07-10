@@ -109,7 +109,7 @@ GROUPS = {
         "medicine-ball-box-step-over", "ball-slam",
         "sandbag-carry", "sandbag-clean", "sandbag-ground-to-shoulder", "sandbag-squat",
         "sandbag-over-log", "jerry-bag-carry", "husafell-carry", "log-carry",
-        "sledgehammer-strike", "medicine-ball-throw", "sled-push",
+        "sledgehammer-strike", "medicine-ball-throw", "stake-drive", "sled-push",
         "sled-pull", "yoke-carry", "atlas-stone-over-shoulder", "d-ball-clean",
         "d-ball-over-shoulder", "tire-flip", "log-clean-and-jerk", "log-press",
         "plate-ground-to-overhead", "plate-carry",
