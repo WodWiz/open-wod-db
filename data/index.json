@@ -1,6 +1,153 @@
 {
-  "count": 493,
+  "count": 496,
   "wods": [
+    {
+      "id": "games-07-crossfit-total",
+      "name": "CrossFit Total (2007 Games)",
+      "category": "games",
+      "format": "multi_part",
+      "format_meta": {},
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2007",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2007/3 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; the classic CrossFit Total benchmark (1RM back squat + press + deadlift), used as the final event of the inaugural 2007 Games; score is the sum of the three lifts",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10",
+      "segments": [
+        {
+          "label": "Back squat",
+          "format": "max_load",
+          "format_meta": {
+            "scoring": "load"
+          },
+          "movements": [
+            {
+              "exercise": "back-squat",
+              "reps": 1,
+              "notes": "athlete's own 1-rep-max"
+            }
+          ]
+        },
+        {
+          "label": "Press",
+          "format": "max_load",
+          "format_meta": {
+            "scoring": "load"
+          },
+          "movements": [
+            {
+              "exercise": "strict-press",
+              "reps": 1,
+              "notes": "athlete's own 1-rep-max"
+            }
+          ]
+        },
+        {
+          "label": "Deadlift",
+          "format": "max_load",
+          "format_meta": {
+            "scoring": "load"
+          },
+          "movements": [
+            {
+              "exercise": "deadlift",
+              "reps": 1,
+              "notes": "athlete's own 1-rep-max"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "games-07-the-hopper-workout",
+      "name": "The Hopper Workout",
+      "category": "games",
+      "format": "multi_part",
+      "format_meta": {},
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2007",
+        "rowing",
+        "barbell",
+        "gymnastics",
+        "5-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2007/1 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; 1000m row once, then 5 rounds for time of 25 pull-ups and 7 push jerks",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10",
+      "segments": [
+        {
+          "label": "Row",
+          "format": "for_time",
+          "movements": [
+            {
+              "exercise": "row",
+              "distance_m": 1000
+            }
+          ]
+        },
+        {
+          "label": "Pull-up/Push-jerk",
+          "format": "interval",
+          "format_meta": {
+            "rounds": 5,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "pull-up",
+              "reps": 25
+            },
+            {
+              "exercise": "push-jerk",
+              "reps": 7,
+              "load": {
+                "rx_male": "135lb",
+                "rx_female": "95lb"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "games-07-trail-run",
+      "name": "Trail Run (2007 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 5000,
+          "notes": "approx. 5k trail run; exact course distance not published"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2007",
+        "running",
+        "outdoor",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2007/2 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; approx. 5k trail run, exact distance not precisely specified in available sources",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
     {
       "id": "games-08-sundays-workout",
       "name": "Sunday's Workout",
