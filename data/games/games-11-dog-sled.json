@@ -1,0 +1,98 @@
+{
+  "id": "games-11-dog-sled",
+  "name": "Dog-Sled",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "double-under",
+      "reps": 30
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 10,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 30
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 10,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 30
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 10,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 12,
+      "load": {
+        "rx_male": "385lb",
+        "rx_female": "275lb"
+      },
+      "notes": "40 ft; total sled weight"
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 12,
+      "load": {
+        "rx_male": "385lb",
+        "rx_female": "275lb"
+      },
+      "notes": "40 ft; total sled weight"
+    },
+    {
+      "exercise": "handstand-push-up",
+      "reps": 10
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 12,
+      "load": {
+        "rx_male": "385lb",
+        "rx_female": "275lb"
+      },
+      "notes": "40 ft; total sled weight"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2011",
+    "barbell",
+    "gymnastics",
+    "venue-equipment",
+    "jump-rope"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2011/2 (official CrossFit Games event), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

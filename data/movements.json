@@ -27,6 +27,7 @@
         "chelsea",
         "cindy",
         "daniel-ray",
+        "games-11-beach",
         "games-15-murph",
         "games-16-murph",
         "garrett",
@@ -313,6 +314,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-11-killer-kage",
         "games-12-pendleton-1",
         "games-12-pendleton-2",
         "games-15-pedal-to-the-metal-1",
@@ -365,6 +367,9 @@
         "crain",
         "danny",
         "falkel",
+        "games-11-the-end-1",
+        "games-11-the-end-2",
+        "games-11-the-end-3",
         "games-16-100-percent",
         "gaza",
         "hope",
@@ -459,6 +464,9 @@
         "ellen",
         "forrest",
         "fournier",
+        "games-11-the-end-1",
+        "games-11-the-end-2",
+        "games-11-the-end-3",
         "games-13-sprint-chipper",
         "games-14-the-beach",
         "games-16-the-separator",
@@ -623,6 +631,7 @@
         "bulger",
         "cameron",
         "del",
+        "games-11-beach",
         "games-14-21-15-9-complex",
         "games-18-bicouplet-1",
         "games-20-friendly-fran",
@@ -707,6 +716,7 @@
         "abbate",
         "crain",
         "desforges",
+        "games-11-rope-clean",
         "games-13-clean-jerk-ladder",
         "games-14-double-grace",
         "games-15-clean-and-jerk",
@@ -803,6 +813,7 @@
         "diane",
         "donny",
         "dt",
+        "games-11-triplet-sprint",
         "games-13-the-cinco-1",
         "games-14-21-15-9-complex",
         "games-15-heavy-dt",
@@ -960,6 +971,7 @@
         "bradshaw",
         "bull",
         "dork",
+        "games-11-dog-sled",
         "games-12-double-banger",
         "games-14-triple-3",
         "games-16-rope-chipper",
@@ -1552,6 +1564,7 @@
         "andi",
         "bell",
         "bulger",
+        "games-11-killer-kage",
         "games-16-the-separator",
         "games-20-1rm-front-squat",
         "games-22-back-nine",
@@ -1586,6 +1599,7 @@
         "ghd sit-up"
       ],
       "workouts": [
+        "games-11-triplet-sprint",
         "games-14-midline-march",
         "games-17-triple-g-chipper",
         "games-20-awful-annie",
@@ -1647,6 +1661,7 @@
       "aliases": [],
       "workouts": [
         "daniel-ray",
+        "games-11-beach",
         "pheezy",
         "severin"
       ],
@@ -1691,6 +1706,7 @@
         "del",
         "diane",
         "falkel",
+        "games-11-dog-sled",
         "games-19-mary",
         "games-20-atalanta",
         "games-24-push-pull-2",
@@ -2074,7 +2090,11 @@
         "kettlebell"
       ],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "games-11-the-end-1",
+        "games-11-the-end-2",
+        "games-11-the-end-3"
+      ],
       "description": null
     },
     {
@@ -2337,6 +2357,7 @@
         "coffey",
         "dobogai",
         "dunn",
+        "games-11-triplet-sprint",
         "games-13-the-cinco-2",
         "games-14-muscle-up-biathlon",
         "games-17-amanda-45",
@@ -2406,6 +2427,7 @@
       "workouts": [
         "arnie",
         "bull",
+        "games-11-dog-sled",
         "games-12-chipper",
         "games-13-naughty-nancy",
         "games-14-overhead-squat",
@@ -2478,6 +2500,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-11-killer-kage",
         "games-23-parallel-bar-pull"
       ],
       "description": null
@@ -2889,6 +2912,7 @@
         "cameron",
         "dae-han",
         "falkel",
+        "games-11-rope-clean",
         "games-12-rope-sled",
         "games-14-thick-n-quick",
         "games-16-climbing-snail",
@@ -2924,6 +2948,9 @@
       "aliases": [],
       "workouts": [
         "brehm",
+        "games-11-the-end-1",
+        "games-11-the-end-2",
+        "games-11-the-end-3",
         "games-13-2007",
         "games-13-row-1",
         "games-13-row-2",
@@ -2994,6 +3021,7 @@
         "eva",
         "forrest",
         "gallant",
+        "games-11-beach",
         "games-12-pendleton-1",
         "games-12-pendleton-2",
         "games-12-track-triplet",
@@ -3179,6 +3207,9 @@
       "aliases": [],
       "workouts": [
         "fournier",
+        "games-11-the-end-1",
+        "games-11-the-end-2",
+        "games-11-the-end-3",
         "games-20-2007-reload",
         "open-13-2"
       ],
@@ -3299,6 +3330,9 @@
       "aliases": [],
       "workouts": [
         "fournier",
+        "games-11-the-end-1",
+        "games-11-the-end-2",
+        "games-11-the-end-3",
         "games-13-burden-run",
         "games-14-push-pull",
         "games-16-rope-chipper",
@@ -3318,6 +3352,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-11-dog-sled",
         "games-12-rope-sled",
         "games-14-sprint-sled-1",
         "games-14-sprint-sled-2",
@@ -3427,6 +3462,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-11-triplet-sprint",
         "games-14-sprint-carry",
         "games-16-ranch-mini-chipper",
         "games-20-sprint-sled-sprint",
@@ -3597,6 +3633,7 @@
       "equipment": [],
       "aliases": [],
       "workouts": [
+        "games-11-beach",
         "games-12-pendleton-1",
         "games-12-pendleton-2",
         "games-13-the-pool",
@@ -3695,6 +3732,9 @@
         "adrian",
         "dg",
         "forrest",
+        "games-11-the-end-1",
+        "games-11-the-end-2",
+        "games-11-the-end-3",
         "games-12-chipper",
         "games-20-toes-to-bar-lunge",
         "games-21-event-10",
@@ -3804,6 +3844,9 @@
         "blake",
         "cameron",
         "crain",
+        "games-11-the-end-1",
+        "games-11-the-end-2",
+        "games-11-the-end-3",
         "games-16-ranch-mini-chipper",
         "games-22-hat-trick",
         "games-23-pig-chipper",

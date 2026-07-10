@@ -1,0 +1,67 @@
+{
+  "id": "games-11-skills-2",
+  "name": "Skills 2",
+  "category": "games",
+  "format": "multi_part",
+  "format_meta": {},
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2011",
+    "barbell",
+    "gymnastics",
+    "max-effort"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2011/6 (official CrossFit Games event), retrieved 2026-07-10; three independently-ranked skill tests; final score is the sum of the three individual rankings (lower total wins); no gender-differentiated loads reported",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10",
+  "segments": [
+    {
+      "label": "Weighted chest-to-bar pull-up",
+      "format": "max_load",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "weighted-pull-up",
+          "reps": 1,
+          "notes": "chest-to-bar; athlete's own max load"
+        }
+      ]
+    },
+    {
+      "label": "Snatch",
+      "format": "max_load",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "snatch",
+          "reps": 1,
+          "notes": "athlete's own 1-rep-max"
+        }
+      ]
+    },
+    {
+      "label": "Jug carry",
+      "format": "max_effort",
+      "format_meta": {
+        "time_cap_minutes": 1,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "farmers-carry",
+          "notes": "2 weighted water jugs; 60 seconds for maximum distance"
+        }
+      ]
+    }
+  ]
+}
