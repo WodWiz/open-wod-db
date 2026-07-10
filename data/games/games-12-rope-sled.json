@@ -1,0 +1,36 @@
+{
+  "id": "games-12-rope-sled",
+  "name": "Rope-Sled",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "time_cap_minutes": 13,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "rope-climb",
+      "reps": 1,
+      "notes": "20 ft"
+    },
+    {
+      "exercise": "sled-push",
+      "distance_m": 18,
+      "notes": "20 yd increments of a 100 yd total sled drive; available sources describe the added/total sled load inconsistently between men's and women's divisions and it could not be confidently resolved, flagged per CONTRIBUTING rather than guessed"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2012",
+    "venue-equipment",
+    "gymnastics",
+    "5-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2012/13 (official CrossFit Games event), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

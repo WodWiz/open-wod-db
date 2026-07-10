@@ -1,0 +1,45 @@
+{
+  "id": "games-12-elizabeth",
+  "name": "Elizabeth (2012 Games)",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 6,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "clean",
+      "reps": [
+        21,
+        15,
+        9
+      ],
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "ring-dip",
+      "reps": [
+        21,
+        15,
+        9
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2012",
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2012/6 (official CrossFit Games event), retrieved 2026-07-10; the classic Girl WOD Elizabeth, reused as a Games event",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

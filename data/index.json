@@ -1,6 +1,571 @@
 {
-  "count": 449,
+  "count": 462,
   "wods": [
+    {
+      "id": "games-12-ball-toss",
+      "name": "Ball Toss",
+      "category": "games",
+      "format": "max_effort",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "medicine-ball-throw",
+          "load": {
+            "rx_male": "4lb",
+            "rx_female": "2lb"
+          },
+          "notes": "seated in a GHD machine; scored by furthest throw"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "venue-equipment",
+        "max-effort"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/1 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-broad-jump",
+      "name": "Broad Jump",
+      "category": "games",
+      "format": "max_effort",
+      "format_meta": {
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "broad-jump",
+          "reps": 3,
+          "notes": "3 attempts; scored by the furthest single jump"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "bodyweight",
+        "max-effort"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/2 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-chipper",
+      "name": "Chipper (2012 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 15,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "overhead-squat",
+          "reps": 10,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "105lb"
+          }
+        },
+        {
+          "exercise": "box-jump-over",
+          "reps": 10,
+          "notes": "24 in (men) / 20 in (women) box"
+        },
+        {
+          "exercise": "thruster",
+          "reps": 10,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          },
+          "notes": "fat bar"
+        },
+        {
+          "exercise": "power-clean",
+          "reps": 10,
+          "load": {
+            "rx_male": "205lb",
+            "rx_female": "125lb"
+          }
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 10
+        },
+        {
+          "exercise": "burpee-muscle-up",
+          "reps": 10
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 10
+        },
+        {
+          "exercise": "power-clean",
+          "reps": 10,
+          "load": {
+            "rx_male": "205lb",
+            "rx_female": "125lb"
+          }
+        },
+        {
+          "exercise": "thruster",
+          "reps": 10,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          },
+          "notes": "fat bar"
+        },
+        {
+          "exercise": "box-jump-over",
+          "reps": 10,
+          "notes": "24 in (men) / 20 in (women) box"
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 10,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "105lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/3 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-clean-ladder",
+      "name": "Clean Ladder (2012 Games)",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "notes": "one rep every 30 seconds through progressively heavier barbells (245-385 lb men, 140-235 lb women); athletes ranked by heaviest successful clean"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell",
+        "max-load",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/4 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-double-banger",
+      "name": "Double Banger",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 9,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "sledgehammer-strike",
+          "notes": "\"low banger\" target"
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "sledgehammer-strike",
+          "notes": "\"down banger\" target"
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "sledgehammer-strike",
+          "notes": "\"mid banger\" target"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "venue-equipment",
+        "jump-rope"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/5 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-elizabeth",
+      "name": "Elizabeth (2012 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": [
+            21,
+            15,
+            9
+          ],
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "ring-dip",
+          "reps": [
+            21,
+            15,
+            9
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/6 (official CrossFit Games event), retrieved 2026-07-10; the classic Girl WOD Elizabeth, reused as a Games event",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-fran",
+      "name": "Fran (2012 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": [
+            21,
+            15,
+            9
+          ],
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": [
+            21,
+            15,
+            9
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/7 (official CrossFit Games event), retrieved 2026-07-10; the classic Girl WOD Fran, reused as a Games event; contested by the top 12 athletes overall",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-isabel",
+      "name": "Isabel (2012 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "snatch",
+          "reps": 30,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/8 (official CrossFit Games event), retrieved 2026-07-10; the classic Girl WOD Isabel, reused as a Games event; contested by the top 15 athletes overall, with the top 12 finishers advancing",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-medball-handstand-push-up",
+      "name": "MedBall-Handstand Push-up",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "time_cap_minutes": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "medicine-ball-clean",
+          "reps": 8,
+          "load": {
+            "rx_male": "150lb",
+            "rx_female": "80lb"
+          }
+        },
+        {
+          "exercise": "farmers-carry",
+          "distance_m": 30,
+          "load": {
+            "rx_male": "150lb",
+            "rx_female": "80lb"
+          },
+          "notes": "100 ft, carrying the medicine ball"
+        },
+        {
+          "exercise": "parallette-handstand-push-up",
+          "reps": 7
+        },
+        {
+          "exercise": "farmers-carry",
+          "distance_m": 30,
+          "load": {
+            "rx_male": "150lb",
+            "rx_female": "80lb"
+          },
+          "notes": "100 ft, carrying the medicine ball"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "odd-object",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/9 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-pendleton-1",
+      "name": "Pendleton 1",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 700,
+          "notes": "approx.; with fins"
+        },
+        {
+          "exercise": "bike",
+          "distance_m": 8000,
+          "notes": "approx. 8 km, undulating terrain including soft sand"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 11000,
+          "notes": "approx. 11 km dirt-road, over 1,400 ft of elevation gain"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "swim",
+        "outdoor",
+        "hill",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/11 (official CrossFit Games event), retrieved 2026-07-10; scored at a checkpoint approximately 150 m into the run; same continuous race as Pendleton 2",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-pendleton-2",
+      "name": "Pendleton 2",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 700,
+          "notes": "approx.; with fins"
+        },
+        {
+          "exercise": "bike",
+          "distance_m": 8000,
+          "notes": "approx. 8 km, undulating terrain including soft sand"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 11000,
+          "notes": "approx. 11 km dirt-road, over 1,400 ft of elevation gain"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "swim",
+        "outdoor",
+        "hill",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/12 (official CrossFit Games event), retrieved 2026-07-10; scored at the full finish of the same continuous swim/bike/run race as Pendleton 1",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-rope-sled",
+      "name": "Rope-Sled",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "time_cap_minutes": 13,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "rope-climb",
+          "reps": 1,
+          "notes": "20 ft"
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 18,
+          "notes": "20 yd increments of a 100 yd total sled drive; available sources describe the added/total sled load inconsistently between men's and women's divisions and it could not be confidently resolved, flagged per CONTRIBUTING rather than guessed"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "venue-equipment",
+        "gymnastics",
+        "5-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/13 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-track-triplet",
+      "name": "Track Triplet",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "time_cap_minutes": 13,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "snatch",
+          "reps": 8,
+          "load": {
+            "rx_male": "115lb",
+            "rx_female": "75lb"
+          },
+          "notes": "split snatch, alternating legs"
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 7
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell",
+        "gymnastics",
+        "running",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/15 (official CrossFit Games event), retrieved 2026-07-10; performed immediately after Ball Toss",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
     {
       "id": "games-13-2007",
       "name": "2007 (2013 Games)",
