@@ -98,9 +98,10 @@ prescription** (pure obstacle-course races, bracket/heat tournaments) are
 intentionally left out rather than fabricated — same principle as the staged
 Hero WODs.
 
-**Complete: every Games year 2007–2026 is structured.** Per-year counts
-(structured / total, skipped events in parentheses):
-- 2026: 4/4 · 2025: 10/10 · 2024: 10/10
+**Complete: every Games year 2007–2025 is structured** (the 2026 Games have not
+yet taken place). Per-year counts (structured / total, skipped events in
+parentheses):
+- 2025: 10/10 · 2024: 10/10
 - 2023: 11/12 (Ride — pure lap-count bike race)
 - 2022: 12/13 (Skill Speed Medley — elimination bracket)
 - 2021: 14/15 (Event 8 — obstacle course, no fixed reps)
