@@ -1,0 +1,50 @@
+{
+  "id": "games-11-beach",
+  "name": "Beach (2011 Games)",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 210
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1500,
+      "notes": "soft sand"
+    },
+    {
+      "exercise": "chest-to-bar-pull-up",
+      "reps": 50
+    },
+    {
+      "exercise": "hand-release-push-up",
+      "reps": 100
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 200
+    },
+    {
+      "exercise": "run",
+      "distance_m": 1500,
+      "notes": "soft sand"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2011",
+    "swim",
+    "open-water",
+    "running",
+    "bodyweight",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2011/1 (official CrossFit Games event), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

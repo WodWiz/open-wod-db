@@ -1,6 +1,3349 @@
 {
-  "count": 426,
+  "count": 496,
   "wods": [
+    {
+      "id": "games-07-crossfit-total",
+      "name": "CrossFit Total (2007 Games)",
+      "category": "games",
+      "format": "multi_part",
+      "format_meta": {},
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2007",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2007/3 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; the classic CrossFit Total benchmark (1RM back squat + press + deadlift), used as the final event of the inaugural 2007 Games; score is the sum of the three lifts",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10",
+      "segments": [
+        {
+          "label": "Back squat",
+          "format": "max_load",
+          "format_meta": {
+            "scoring": "load"
+          },
+          "movements": [
+            {
+              "exercise": "back-squat",
+              "reps": 1,
+              "notes": "athlete's own 1-rep-max"
+            }
+          ]
+        },
+        {
+          "label": "Press",
+          "format": "max_load",
+          "format_meta": {
+            "scoring": "load"
+          },
+          "movements": [
+            {
+              "exercise": "strict-press",
+              "reps": 1,
+              "notes": "athlete's own 1-rep-max"
+            }
+          ]
+        },
+        {
+          "label": "Deadlift",
+          "format": "max_load",
+          "format_meta": {
+            "scoring": "load"
+          },
+          "movements": [
+            {
+              "exercise": "deadlift",
+              "reps": 1,
+              "notes": "athlete's own 1-rep-max"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "games-07-the-hopper-workout",
+      "name": "The Hopper Workout",
+      "category": "games",
+      "format": "multi_part",
+      "format_meta": {},
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2007",
+        "rowing",
+        "barbell",
+        "gymnastics",
+        "5-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2007/1 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; 1000m row once, then 5 rounds for time of 25 pull-ups and 7 push jerks",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10",
+      "segments": [
+        {
+          "label": "Row",
+          "format": "for_time",
+          "movements": [
+            {
+              "exercise": "row",
+              "distance_m": 1000
+            }
+          ]
+        },
+        {
+          "label": "Pull-up/Push-jerk",
+          "format": "interval",
+          "format_meta": {
+            "rounds": 5,
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "pull-up",
+              "reps": 25
+            },
+            {
+              "exercise": "push-jerk",
+              "reps": 7,
+              "load": {
+                "rx_male": "135lb",
+                "rx_female": "95lb"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "games-07-trail-run",
+      "name": "Trail Run (2007 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 5000,
+          "notes": "approx. 5k trail run; exact course distance not published"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2007",
+        "running",
+        "outdoor",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2007/2 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; approx. 5k trail run, exact distance not precisely specified in available sources",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-08-sundays-workout",
+      "name": "Sunday's Workout",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 30,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "100lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2008",
+        "barbell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2008/1 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10; the classic Girl WOD Grace, reused as a Games event -- this was the final event of the 2008 Games",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-08-the-hill-run",
+      "name": "The Hill Run",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 20,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 750,
+          "notes": "steep, off-trail, rough terrain"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2008",
+        "running",
+        "outdoor",
+        "hill"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2008/2 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-08-workout-a",
+      "name": "Workout A (2008 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 12,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": [
+            21,
+            15,
+            9
+          ],
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": [
+            21,
+            15,
+            9
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2008",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2008/3 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10; the classic Girl WOD Fran, reused as a Games event",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-08-workout-b",
+      "name": "Workout B (2008 Games)",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time",
+        "time_cap_minutes": 12
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 5,
+          "load": {
+            "rx_male": "275lb",
+            "rx_female": "185lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": 10
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2008",
+        "barbell",
+        "5-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2008/4 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-09-1rm-snatch",
+      "name": "1RM Snatch (2009 Games)",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "snatch",
+          "reps": 1,
+          "notes": "athlete's own 1-rep-max; no fixed Rx weight"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2009",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2009/6 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-09-complex-chipper",
+      "name": "Complex Chipper (2009 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": 15,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "100lb"
+          }
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 30
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 30,
+          "notes": "24 in (men) / 20 in (women) box"
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 15
+        },
+        {
+          "exercise": "dumbbell-push-press",
+          "reps": 30,
+          "load": {
+            "rx_male": "40lb",
+            "rx_female": "25lb"
+          }
+        },
+        {
+          "exercise": "double-under",
+          "reps": 30
+        },
+        {
+          "exercise": "thruster",
+          "reps": 15,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 30
+        },
+        {
+          "exercise": "burpee",
+          "reps": 30
+        },
+        {
+          "exercise": "overhead-walking-lunge",
+          "distance_m": 91,
+          "load": {
+            "rx_male": "45lb",
+            "rx_female": "25lb"
+          },
+          "notes": "300 ft"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2009",
+        "barbell",
+        "dumbbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2009/8 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-09-deadlift-ladder",
+      "name": "Deadlift Ladder (2009 Games)",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 1,
+          "load": {
+            "rx_male": "315lb",
+            "rx_female": "185lb"
+          },
+          "notes": "starting weight; 1 rep every 30 seconds, increasing 10 lb each round (men to 505 lb, women to 375 lb)"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2009",
+        "barbell",
+        "max-load",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2009/2 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-09-hill-run",
+      "name": "7-k Hill Run",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 7000,
+          "notes": "hill terrain"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2009",
+        "running",
+        "outdoor",
+        "hill",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2009/1 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-09-hill-sprint-sandbags",
+      "name": "Hill Sprint with Sandbags",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "sandbag-carry",
+          "distance_m": 170,
+          "load": {
+            "rx_male": "35lb",
+            "rx_female": "35lb"
+          },
+          "notes": "hill sprint; men carry 2 sandbags, women carry 1"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2009",
+        "outdoor",
+        "hill"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2009/3 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-09-hspu-kb-ghd",
+      "name": "HSPU-KB Swing-GHD",
+      "category": "games",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 8,
+        "scoring": "rounds_reps"
+      },
+      "movements": [
+        {
+          "exercise": "handstand-push-up",
+          "reps": 4
+        },
+        {
+          "exercise": "russian-kettlebell-swing",
+          "reps": 8,
+          "load": {
+            "rx_male": "32kg",
+            "rx_female": "24kg"
+          }
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 12
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2009",
+        "gymnastics",
+        "kettlebell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2009/7 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-09-row-stake",
+      "name": "Row and Stake",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 500
+        },
+        {
+          "exercise": "stake-drive",
+          "notes": "drive a 4 ft (men) / 3 ft (women) stake into the ground"
+        },
+        {
+          "exercise": "row",
+          "distance_m": 500
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2009",
+        "rowing",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2009/4 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-09-wall-ball-snatch",
+      "name": "Wall-Ball Snatch",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 30,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": 30,
+          "load": {
+            "rx_male": "75lb",
+            "rx_female": "45lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2009",
+        "barbell",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2009/5 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-amanda",
+      "name": "Amanda (2010 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "ring-muscle-up",
+          "reps": [
+            9,
+            7,
+            5
+          ]
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": [
+            9,
+            7,
+            5
+          ],
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/1 (official CrossFit Games event, individual division), retrieved 2026-07-10; the classic Girl WOD Amanda, reused as a Games event. Note: this repo's original research pass initially mis-attributed a team-division thruster/pull-up/buddy-carry workout to this event slot; corrected after cross-referencing a second source",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-cleans-handstand-pushups",
+      "name": "Cleans-Handstand Pushups",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": 3,
+          "load": {
+            "rx_male": "205lb",
+            "rx_female": "135lb"
+          }
+        },
+        {
+          "exercise": "ring-handstand-push-up",
+          "reps": 4,
+          "notes": "on rings (men); on the floor (women)"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "gymnastics",
+        "7-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/5 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-event-3",
+      "name": "2010 Games Event 3",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 300
+        },
+        {
+          "exercise": "box-jump-over",
+          "reps": 15,
+          "notes": "24 in box"
+        },
+        {
+          "exercise": "dumbbell-squat-clean",
+          "reps": 15,
+          "load": {
+            "rx_male": "45lb",
+            "rx_female": "25lb"
+          }
+        },
+        {
+          "exercise": "double-under",
+          "reps": 30
+        },
+        {
+          "exercise": "hand-release-push-up",
+          "reps": 15
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 15
+        },
+        {
+          "exercise": "walking-lunge",
+          "distance_m": 27,
+          "notes": "30 yd"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "dumbbell",
+        "gymnastics",
+        "running",
+        "2-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/3 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-max-rep-deadlift",
+      "name": "Max Rep Deadlift",
+      "category": "games",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 1,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": "max",
+          "load": {
+            "rx_male": "264lb",
+            "rx_female": "264lb"
+          },
+          "notes": "max reps in 1 minute"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "max-effort"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/2 (official CrossFit Games event, individual division), retrieved 2026-07-10; available sources report a single 264 lb load without a gender split -- flagged per CONTRIBUTING rather than assumed",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-sandbag-move",
+      "name": "Sandbag Move",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "sandbag-carry",
+          "load": {
+            "rx_male": "600lb total",
+            "rx_female": "370lb total"
+          },
+          "notes": "down the stadium stairs, across the floor, up a wall, and up the far stairs"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/4 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-shoulder-to-overhead",
+      "name": "Shoulder-to-Overhead (2010 Games)",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "time_cap_minutes": 12,
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "shoulder-to-overhead",
+          "reps": 1,
+          "notes": "athlete's own 1-rep-max; no fixed Rx weight"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/2 (official CrossFit Games event, individual division), retrieved 2026-07-10; must be completed within 12 minutes of the start of Max Rep Deadlift, immediately following it on the same clock",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-the-final-1",
+      "name": "The Final 1 (2010 Games)",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "hand-release-push-up",
+          "reps": 30
+        },
+        {
+          "exercise": "wall-climb-over",
+          "reps": 1
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 21,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/6 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-the-final-2",
+      "name": "The Final 2 (2010 Games)",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "toes-to-bar",
+          "reps": 30
+        },
+        {
+          "exercise": "ground-to-overhead",
+          "reps": 21,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/7 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-the-final-3",
+      "name": "The Final 3 (2010 Games)",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "burpee",
+          "reps": 5,
+          "notes": "\"burpee wall jump\" -- jump to touch/clear an elevated wall target"
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 3,
+          "notes": "20 ft (men); women perform 2 reps"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/8 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-11-beach",
+      "name": "Beach (2011 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 210
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1500,
+          "notes": "soft sand"
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 50
+        },
+        {
+          "exercise": "hand-release-push-up",
+          "reps": 100
+        },
+        {
+          "exercise": "air-squat",
+          "reps": 200
+        },
+        {
+          "exercise": "run",
+          "distance_m": 1500,
+          "notes": "soft sand"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2011",
+        "swim",
+        "open-water",
+        "running",
+        "bodyweight",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2011/1 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-11-dog-sled",
+      "name": "Dog-Sled",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "double-under",
+          "reps": 30
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 10,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "double-under",
+          "reps": 30
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 10,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "double-under",
+          "reps": 30
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 10,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 10
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 12,
+          "load": {
+            "rx_male": "385lb",
+            "rx_female": "275lb"
+          },
+          "notes": "40 ft; total sled weight"
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 10
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 12,
+          "load": {
+            "rx_male": "385lb",
+            "rx_female": "275lb"
+          },
+          "notes": "40 ft; total sled weight"
+        },
+        {
+          "exercise": "handstand-push-up",
+          "reps": 10
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 12,
+          "load": {
+            "rx_male": "385lb",
+            "rx_female": "275lb"
+          },
+          "notes": "40 ft; total sled weight"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2011",
+        "barbell",
+        "gymnastics",
+        "venue-equipment",
+        "jump-rope"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2011/2 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-11-killer-kage",
+      "name": "Killer Kage",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "front-squat",
+          "reps": 7,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        },
+        {
+          "exercise": "bike",
+          "distance_m": 700
+        },
+        {
+          "exercise": "parallel-bar-traverse",
+          "distance_m": 30,
+          "notes": "100 ft, monkey bars"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2011",
+        "barbell",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2011/3 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-11-rope-clean",
+      "name": "Rope-Clean",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "rope-climb",
+          "reps": 5,
+          "notes": "15 ft"
+        },
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 5,
+          "load": {
+            "rx_male": "145lb",
+            "rx_female": "115lb"
+          }
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 4,
+          "notes": "15 ft"
+        },
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 4,
+          "load": {
+            "rx_male": "165lb",
+            "rx_female": "125lb"
+          }
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 3,
+          "notes": "15 ft"
+        },
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 3,
+          "load": {
+            "rx_male": "185lb",
+            "rx_female": "135lb"
+          }
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 2,
+          "notes": "15 ft"
+        },
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 2,
+          "load": {
+            "rx_male": "205lb",
+            "rx_female": "145lb"
+          }
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 1,
+          "notes": "15 ft"
+        },
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 1,
+          "load": {
+            "rx_male": "225lb",
+            "rx_female": "155lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2011",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2011/4 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-11-skills-1",
+      "name": "Skills 1",
+      "category": "games",
+      "format": "multi_part",
+      "format_meta": {},
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2011",
+        "gymnastics",
+        "max-effort"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2011/5 (official CrossFit Games event), retrieved 2026-07-10; three independently-ranked skill tests; final score is the sum of the three individual rankings (lower total wins)",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10",
+      "segments": [
+        {
+          "label": "L-sit hold",
+          "format": "max_effort",
+          "format_meta": {
+            "scoring": "time"
+          },
+          "movements": [
+            {
+              "exercise": "l-sit",
+              "notes": "1 attempt; scored by longest hold"
+            }
+          ]
+        },
+        {
+          "label": "Softball throw",
+          "format": "max_effort",
+          "format_meta": {
+            "scoring": "reps"
+          },
+          "movements": [
+            {
+              "exercise": "medicine-ball-throw",
+              "reps": 2,
+              "notes": "softball; 2 attempts, scored by furthest throw"
+            }
+          ]
+        },
+        {
+          "label": "Handstand walk",
+          "format": "max_effort",
+          "format_meta": {
+            "scoring": "reps"
+          },
+          "movements": [
+            {
+              "exercise": "handstand-walk",
+              "notes": "1 attempt for maximum distance, with a mulligan allowed if under 5 yards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "games-11-skills-2",
+      "name": "Skills 2",
+      "category": "games",
+      "format": "multi_part",
+      "format_meta": {},
+      "movements": [],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2011",
+        "barbell",
+        "gymnastics",
+        "max-effort"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2011/6 (official CrossFit Games event), retrieved 2026-07-10; three independently-ranked skill tests; final score is the sum of the three individual rankings (lower total wins); no gender-differentiated loads reported",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10",
+      "segments": [
+        {
+          "label": "Weighted chest-to-bar pull-up",
+          "format": "max_load",
+          "format_meta": {
+            "time_cap_minutes": 2,
+            "scoring": "load"
+          },
+          "movements": [
+            {
+              "exercise": "weighted-pull-up",
+              "reps": 1,
+              "notes": "chest-to-bar; athlete's own max load"
+            }
+          ]
+        },
+        {
+          "label": "Snatch",
+          "format": "max_load",
+          "format_meta": {
+            "time_cap_minutes": 2,
+            "scoring": "load"
+          },
+          "movements": [
+            {
+              "exercise": "snatch",
+              "reps": 1,
+              "notes": "athlete's own 1-rep-max"
+            }
+          ]
+        },
+        {
+          "label": "Jug carry",
+          "format": "max_effort",
+          "format_meta": {
+            "time_cap_minutes": 1,
+            "scoring": "reps"
+          },
+          "movements": [
+            {
+              "exercise": "farmers-carry",
+              "notes": "2 weighted water jugs; 60 seconds for maximum distance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "games-11-the-end-1",
+      "name": "The End 1",
+      "category": "games",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 3,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "row",
+          "reps": 20,
+          "notes": "calories"
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 30,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 20
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 30,
+          "notes": "24 in box"
+        },
+        {
+          "exercise": "kettlebell-sumo-deadlift-high-pull",
+          "reps": 20,
+          "load": {
+            "rx_male": "108lb",
+            "rx_female": "72lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": 30
+        },
+        {
+          "exercise": "shoulder-to-overhead",
+          "reps": 20,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "sled-pull",
+          "notes": "distance/load not specified in available sources"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2011",
+        "rowing",
+        "barbell",
+        "kettlebell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2011/7 (official CrossFit Games event), retrieved 2026-07-10; 1 minute of rest follows before The End 2",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-11-the-end-2",
+      "name": "The End 2",
+      "category": "games",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "row",
+          "reps": 20,
+          "notes": "calories"
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 30,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 20
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 30,
+          "notes": "24 in box"
+        },
+        {
+          "exercise": "kettlebell-sumo-deadlift-high-pull",
+          "reps": 20,
+          "load": {
+            "rx_male": "108lb",
+            "rx_female": "72lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": 30
+        },
+        {
+          "exercise": "shoulder-to-overhead",
+          "reps": 20,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "sled-pull",
+          "notes": "distance/load not specified in available sources"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2011",
+        "rowing",
+        "barbell",
+        "kettlebell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2011/8 (official CrossFit Games event), retrieved 2026-07-10; same movement circuit as The End 1, over a longer time domain",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-11-the-end-3",
+      "name": "The End 3",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "row",
+          "reps": 20,
+          "notes": "calories"
+        },
+        {
+          "exercise": "wall-ball-shot",
+          "reps": 30,
+          "load": {
+            "rx_male": "20lb",
+            "rx_female": "14lb"
+          }
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 20
+        },
+        {
+          "exercise": "box-jump",
+          "reps": 30,
+          "notes": "24 in box"
+        },
+        {
+          "exercise": "kettlebell-sumo-deadlift-high-pull",
+          "reps": 20,
+          "load": {
+            "rx_male": "108lb",
+            "rx_female": "72lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": 30
+        },
+        {
+          "exercise": "shoulder-to-overhead",
+          "reps": 20,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "sled-pull",
+          "notes": "distance/load not specified in available sources"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2011",
+        "rowing",
+        "barbell",
+        "kettlebell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2011/9 (official CrossFit Games event), retrieved 2026-07-10; same movement circuit as The End 1/2, performed once for time rather than as an AMRAP",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-11-triplet-sprint",
+      "name": "Triplet Sprint",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "muscle-up",
+          "reps": 5
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 10,
+          "load": {
+            "rx_male": "245lb",
+            "rx_female": "165lb"
+          }
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 15
+        },
+        {
+          "exercise": "sprint",
+          "distance_m": 46,
+          "notes": "50 yd"
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 5
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 10,
+          "load": {
+            "rx_male": "245lb",
+            "rx_female": "165lb"
+          }
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 15
+        },
+        {
+          "exercise": "sprint",
+          "distance_m": 91,
+          "notes": "100 yd"
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 5
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 10,
+          "load": {
+            "rx_male": "245lb",
+            "rx_female": "165lb"
+          }
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 15
+        },
+        {
+          "exercise": "sprint",
+          "distance_m": 137,
+          "notes": "150 yd"
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 5
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 10,
+          "load": {
+            "rx_male": "245lb",
+            "rx_female": "165lb"
+          }
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 15
+        },
+        {
+          "exercise": "sprint",
+          "distance_m": 137,
+          "notes": "150 yd (men); the women's final sprint was 200 yd"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2011",
+        "barbell",
+        "gymnastics",
+        "running"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2011/10 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-ball-toss",
+      "name": "Ball Toss",
+      "category": "games",
+      "format": "max_effort",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "medicine-ball-throw",
+          "load": {
+            "rx_male": "4lb",
+            "rx_female": "2lb"
+          },
+          "notes": "seated in a GHD machine; scored by furthest throw"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "venue-equipment",
+        "max-effort"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/1 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-broad-jump",
+      "name": "Broad Jump",
+      "category": "games",
+      "format": "max_effort",
+      "format_meta": {
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "broad-jump",
+          "reps": 3,
+          "notes": "3 attempts; scored by the furthest single jump"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "bodyweight",
+        "max-effort"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/2 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-chipper",
+      "name": "Chipper (2012 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 15,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "overhead-squat",
+          "reps": 10,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "105lb"
+          }
+        },
+        {
+          "exercise": "box-jump-over",
+          "reps": 10,
+          "notes": "24 in (men) / 20 in (women) box"
+        },
+        {
+          "exercise": "thruster",
+          "reps": 10,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          },
+          "notes": "fat bar"
+        },
+        {
+          "exercise": "power-clean",
+          "reps": 10,
+          "load": {
+            "rx_male": "205lb",
+            "rx_female": "125lb"
+          }
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 10
+        },
+        {
+          "exercise": "burpee-muscle-up",
+          "reps": 10
+        },
+        {
+          "exercise": "toes-to-bar",
+          "reps": 10
+        },
+        {
+          "exercise": "power-clean",
+          "reps": 10,
+          "load": {
+            "rx_male": "205lb",
+            "rx_female": "125lb"
+          }
+        },
+        {
+          "exercise": "thruster",
+          "reps": 10,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          },
+          "notes": "fat bar"
+        },
+        {
+          "exercise": "box-jump-over",
+          "reps": 10,
+          "notes": "24 in (men) / 20 in (women) box"
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 10,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "105lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/3 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-clean-ladder",
+      "name": "Clean Ladder (2012 Games)",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": 1,
+          "notes": "one rep every 30 seconds through progressively heavier barbells (245-385 lb men, 140-235 lb women); athletes ranked by heaviest successful clean"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell",
+        "max-load",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/4 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-double-banger",
+      "name": "Double Banger",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 9,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "sledgehammer-strike",
+          "notes": "\"low banger\" target"
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "sledgehammer-strike",
+          "notes": "\"down banger\" target"
+        },
+        {
+          "exercise": "double-under",
+          "reps": 50
+        },
+        {
+          "exercise": "sledgehammer-strike",
+          "notes": "\"mid banger\" target"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "venue-equipment",
+        "jump-rope"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/5 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-elizabeth",
+      "name": "Elizabeth (2012 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": [
+            21,
+            15,
+            9
+          ],
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        },
+        {
+          "exercise": "ring-dip",
+          "reps": [
+            21,
+            15,
+            9
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/6 (official CrossFit Games event), retrieved 2026-07-10; the classic Girl WOD Elizabeth, reused as a Games event",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-fran",
+      "name": "Fran (2012 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": [
+            21,
+            15,
+            9
+          ],
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": [
+            21,
+            15,
+            9
+          ]
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/7 (official CrossFit Games event), retrieved 2026-07-10; the classic Girl WOD Fran, reused as a Games event; contested by the top 12 athletes overall",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-isabel",
+      "name": "Isabel (2012 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 6,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "snatch",
+          "reps": 30,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/8 (official CrossFit Games event), retrieved 2026-07-10; the classic Girl WOD Isabel, reused as a Games event; contested by the top 15 athletes overall, with the top 12 finishers advancing",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-medball-handstand-push-up",
+      "name": "MedBall-Handstand Push-up",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "time_cap_minutes": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "medicine-ball-clean",
+          "reps": 8,
+          "load": {
+            "rx_male": "150lb",
+            "rx_female": "80lb"
+          }
+        },
+        {
+          "exercise": "farmers-carry",
+          "distance_m": 30,
+          "load": {
+            "rx_male": "150lb",
+            "rx_female": "80lb"
+          },
+          "notes": "100 ft, carrying the medicine ball"
+        },
+        {
+          "exercise": "parallette-handstand-push-up",
+          "reps": 7
+        },
+        {
+          "exercise": "farmers-carry",
+          "distance_m": 30,
+          "load": {
+            "rx_male": "150lb",
+            "rx_female": "80lb"
+          },
+          "notes": "100 ft, carrying the medicine ball"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "odd-object",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/9 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-pendleton-1",
+      "name": "Pendleton 1",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 700,
+          "notes": "approx.; with fins"
+        },
+        {
+          "exercise": "bike",
+          "distance_m": 8000,
+          "notes": "approx. 8 km, undulating terrain including soft sand"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 11000,
+          "notes": "approx. 11 km dirt-road, over 1,400 ft of elevation gain"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "swim",
+        "outdoor",
+        "hill",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/11 (official CrossFit Games event), retrieved 2026-07-10; scored at a checkpoint approximately 150 m into the run; same continuous race as Pendleton 2",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-pendleton-2",
+      "name": "Pendleton 2",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 700,
+          "notes": "approx.; with fins"
+        },
+        {
+          "exercise": "bike",
+          "distance_m": 8000,
+          "notes": "approx. 8 km, undulating terrain including soft sand"
+        },
+        {
+          "exercise": "run",
+          "distance_m": 11000,
+          "notes": "approx. 11 km dirt-road, over 1,400 ft of elevation gain"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "swim",
+        "outdoor",
+        "hill",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/12 (official CrossFit Games event), retrieved 2026-07-10; scored at the full finish of the same continuous swim/bike/run race as Pendleton 1",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-rope-sled",
+      "name": "Rope-Sled",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "time_cap_minutes": 13,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "rope-climb",
+          "reps": 1,
+          "notes": "20 ft"
+        },
+        {
+          "exercise": "sled-push",
+          "distance_m": 18,
+          "notes": "20 yd increments of a 100 yd total sled drive; available sources describe the added/total sled load inconsistently between men's and women's divisions and it could not be confidently resolved, flagged per CONTRIBUTING rather than guessed"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "venue-equipment",
+        "gymnastics",
+        "5-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/13 (official CrossFit Games event), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-12-track-triplet",
+      "name": "Track Triplet",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "time_cap_minutes": 13,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "snatch",
+          "reps": 8,
+          "load": {
+            "rx_male": "115lb",
+            "rx_female": "75lb"
+          },
+          "notes": "split snatch, alternating legs"
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 7
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2012",
+        "barbell",
+        "gymnastics",
+        "running",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2012/15 (official CrossFit Games event), retrieved 2026-07-10; performed immediately after Ball Toss",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-13-2007",
+      "name": "2007 (2013 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 15,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 1000
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 25
+        },
+        {
+          "exercise": "push-jerk",
+          "reps": 7,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "85lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 25
+        },
+        {
+          "exercise": "push-jerk",
+          "reps": 7,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "85lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 25
+        },
+        {
+          "exercise": "push-jerk",
+          "reps": 7,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "85lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 25
+        },
+        {
+          "exercise": "push-jerk",
+          "reps": 7,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "85lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 25
+        },
+        {
+          "exercise": "push-jerk",
+          "reps": 7,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "85lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2013",
+        "rowing",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2013/1 (official CrossFit Games event), retrieved 2026-07-09; the original event this workout is named for; later revisited as \"2007 Reload\" at the 2020 Games",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-13-burden-run",
+      "name": "Burden Run",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 40,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 3380,
+          "notes": "2.1 miles"
+        },
+        {
+          "exercise": "d-ball-over-shoulder",
+          "distance_m": 91,
+          "notes": "100 yd, \"pig flip\""
+        },
+        {
+          "exercise": "log-carry",
+          "distance_m": 549,
+          "notes": "600 yd"
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 60,
+          "notes": "66 yd, \"Iditarod\" drag apparatus"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2013",
+        "venue-equipment",
+        "running",
+        "outdoor"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2013/2 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-13-clean-jerk-ladder",
+      "name": "Clean & Jerk Ladder",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 1,
+          "notes": "athlete chooses one of four starting weights (225, 255, 285, or 315 lb men / 145, 165, 185, or 205 lb women), then attempts progressively heavier singles every 90 seconds; failing the OPENING attempt eliminates the athlete; partial credit given for a successful clean with a failed jerk after at least one made lift"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2013",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2013/3 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-13-legless",
+      "name": "Legless",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 10,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "thruster",
+          "reps": 27,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "legless-rope-climb",
+          "reps": 4
+        },
+        {
+          "exercise": "thruster",
+          "reps": 21,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "legless-rope-climb",
+          "reps": 3
+        },
+        {
+          "exercise": "thruster",
+          "reps": 15,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "legless-rope-climb",
+          "reps": 2
+        },
+        {
+          "exercise": "thruster",
+          "reps": 9,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        },
+        {
+          "exercise": "legless-rope-climb",
+          "reps": 1
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2013",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2013/4 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-13-naughty-nancy",
+      "name": "Naughty Nancy",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 4,
+        "time_cap_minutes": 20,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 600,
+          "notes": "up and over a berm"
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 25,
+          "load": {
+            "rx_male": "140lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2013",
+        "barbell",
+        "running",
+        "outdoor",
+        "4-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2013/5 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-13-row-1",
+      "name": "Row 1",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 120,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 21097,
+          "notes": "half-marathon distance; this event scores the 2,000 m checkpoint split"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2013",
+        "rowing",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2013/6 (official CrossFit Games event), retrieved 2026-07-09; time cap 2 hours (men) / 2 hours 10 minutes (women); scored at the 2,000 m mark of a continuous half-marathon row",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-13-row-2",
+      "name": "Row 2",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 120,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 21097,
+          "notes": "half-marathon distance; this event scores the full finish"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2013",
+        "rowing",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2013/7 (official CrossFit Games event), retrieved 2026-07-09; time cap 2 hours (men) / 2 hours 10 minutes (women); same continuous row as Row 1, scored at the full 21,097 m finish",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-13-sprint-chipper",
+      "name": "Sprint Chipper",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "medicine-ball-sit-up",
+          "reps": 21,
+          "notes": "GHD variant"
+        },
+        {
+          "exercise": "snatch",
+          "reps": 15,
+          "load": {
+            "rx_male": "165lb",
+            "rx_female": "100lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": 9,
+          "notes": "to touch an elevated wall target"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2013",
+        "barbell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2013/8 (official CrossFit Games event), retrieved 2026-07-09; top 30 men and top 30 women advance to the final",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-13-the-cinco-1",
+      "name": "The Cinco 1",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "time_cap_minutes": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 5,
+          "load": {
+            "rx_male": "405lb",
+            "rx_female": "265lb"
+          }
+        },
+        {
+          "exercise": "pistol",
+          "reps": 5,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "35lb"
+          },
+          "notes": "left leg, holding a kettlebell"
+        },
+        {
+          "exercise": "pistol",
+          "reps": 5,
+          "load": {
+            "rx_male": "53lb",
+            "rx_female": "35lb"
+          },
+          "notes": "right leg, holding a kettlebell"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2013",
+        "barbell",
+        "kettlebell",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2013/9 (official CrossFit Games event), retrieved 2026-07-09; finishes with an 80 ft handstand walk; The Cinco 2 begins exactly 1 minute after this event's cap",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-13-the-cinco-2",
+      "name": "The Cinco 2",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "time_cap_minutes": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "muscle-up",
+          "reps": 5
+        },
+        {
+          "exercise": "deficit-handstand-push-up",
+          "reps": 5
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2013",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2013/10 (official CrossFit Games event), retrieved 2026-07-09; finishes with a 90 ft overhead walking lunge holding a 160/100 lb axle bar; begins 1 minute after The Cinco 1's cap",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-13-the-pool",
+      "name": "The Pool",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 10,
+        "time_cap_minutes": 25,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 23,
+          "notes": "25 yd"
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 3
+        },
+        {
+          "exercise": "swim",
+          "distance_m": 23,
+          "notes": "25 yd"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2013",
+        "swim",
+        "gymnastics",
+        "10-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2013/11 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-21-15-9-complex",
+      "name": "21-15-9 Complex",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": 8,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "115lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 7,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "115lb"
+          }
+        },
+        {
+          "exercise": "snatch",
+          "reps": 6,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "115lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 8
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 7
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 6
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 6,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "115lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 5,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "115lb"
+          }
+        },
+        {
+          "exercise": "snatch",
+          "reps": 4,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "115lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 6
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 5
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 4
+        },
+        {
+          "exercise": "deadlift",
+          "reps": 4,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "115lb"
+          }
+        },
+        {
+          "exercise": "clean",
+          "reps": 3,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "115lb"
+          }
+        },
+        {
+          "exercise": "snatch",
+          "reps": 2,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "115lb"
+          }
+        },
+        {
+          "exercise": "pull-up",
+          "reps": 4
+        },
+        {
+          "exercise": "chest-to-bar-pull-up",
+          "reps": 3
+        },
+        {
+          "exercise": "bar-muscle-up",
+          "reps": 2
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/6 (official CrossFit Games event), retrieved 2026-07-09; named for its three descending stages, though the actual rep scheme is 8-7-6, 6-5-4, 4-3-2 rather than literal 21-15-9",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-double-grace",
+      "name": "Double Grace",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "clean-and-jerk",
+          "reps": 60,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "barbell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/13 (official CrossFit Games event), retrieved 2026-07-09; double the reps of the Girl WOD Grace; announced only 30 seconds before the event began",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-midline-march",
+      "name": "Midline March",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 25
+        },
+        {
+          "exercise": "handstand-walk",
+          "distance_m": 15,
+          "notes": "50 ft"
+        },
+        {
+          "exercise": "overhead-walking-lunge",
+          "distance_m": 15,
+          "load": {
+            "rx_male": "155lb",
+            "rx_female": "115lb"
+          },
+          "notes": "50 ft"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "barbell",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/11 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-muscle-up-biathlon",
+      "name": "Muscle-Up Biathlon",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 18,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 18
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 15
+        },
+        {
+          "exercise": "run",
+          "distance_m": 400
+        },
+        {
+          "exercise": "muscle-up",
+          "reps": 12
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "running",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/7 (official CrossFit Games event), retrieved 2026-07-09; each time an athlete breaks a set of muscle-ups, they must run an additional 200 m penalty lap",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-overhead-squat",
+      "name": "Overhead Squat (2014 Games)",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "overhead-squat",
+          "reps": 1,
+          "notes": "athlete's own 1-rep-max; no fixed Rx weight; 3 attempts"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/2 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-push-pull",
+      "name": "Push Pull",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 11,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "deficit-handstand-push-up",
+          "reps": 7,
+          "notes": "strict, no kipping; smallest deficit"
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 15,
+          "load": {
+            "rx_male": "204lb",
+            "rx_female": "145lb"
+          },
+          "notes": "50 ft"
+        },
+        {
+          "exercise": "deficit-handstand-push-up",
+          "reps": 8,
+          "notes": "strict, no kipping; deficit increases each round"
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 15,
+          "load": {
+            "rx_male": "260lb",
+            "rx_female": "180lb"
+          },
+          "notes": "50 ft"
+        },
+        {
+          "exercise": "deficit-handstand-push-up",
+          "reps": 9,
+          "notes": "strict, no kipping; deficit increases each round"
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 15,
+          "load": {
+            "rx_male": "315lb",
+            "rx_female": "215lb"
+          },
+          "notes": "50 ft"
+        },
+        {
+          "exercise": "deficit-handstand-push-up",
+          "reps": 10,
+          "notes": "strict, no kipping; largest deficit"
+        },
+        {
+          "exercise": "sled-pull",
+          "distance_m": 15,
+          "load": {
+            "rx_male": "370lb",
+            "rx_female": "250lb"
+          },
+          "notes": "50 ft"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "venue-equipment",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/10 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-sprint-carry",
+      "name": "Sprint Carry",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "sprint",
+          "distance_m": 91,
+          "notes": "100 yd"
+        },
+        {
+          "exercise": "sandbag-carry",
+          "distance_m": 91,
+          "load": {
+            "rx_male": "100lb",
+            "rx_female": "60lb"
+          },
+          "notes": "100 yd; metal cylinder"
+        },
+        {
+          "exercise": "sprint",
+          "distance_m": 91,
+          "notes": "100 yd"
+        },
+        {
+          "exercise": "sandbag-carry",
+          "distance_m": 91,
+          "load": {
+            "rx_male": "120lb",
+            "rx_female": "80lb"
+          },
+          "notes": "100 yd"
+        },
+        {
+          "exercise": "sprint",
+          "distance_m": 91,
+          "notes": "100 yd"
+        },
+        {
+          "exercise": "sandbag-carry",
+          "distance_m": 91,
+          "load": {
+            "rx_male": "150lb",
+            "rx_female": "100lb"
+          },
+          "notes": "100 yd; metal cylinder"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/8 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-sprint-sled-1",
+      "name": "Sprint Sled 1",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "sled-push",
+          "distance_m": 91,
+          "notes": "100 yd (men) / 55 yd (women)"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/4 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-sprint-sled-2",
+      "name": "Sprint Sled 2",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "sled-push",
+          "distance_m": 91,
+          "notes": "100 yd (men) / 55 yd (women)"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/5 (official CrossFit Games event), retrieved 2026-07-09; separately scored from Sprint Sled 1",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-the-beach",
+      "name": "The Beach",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "swim",
+          "distance_m": 229,
+          "notes": "250 yd"
+        },
+        {
+          "exercise": "kettlebell-thruster",
+          "reps": 50,
+          "load": {
+            "rx_male": "35lb",
+            "rx_female": "24lb"
+          }
+        },
+        {
+          "exercise": "burpee",
+          "reps": 30
+        },
+        {
+          "exercise": "swim",
+          "distance_m": 457,
+          "notes": "500 yd"
+        },
+        {
+          "exercise": "burpee",
+          "reps": 30
+        },
+        {
+          "exercise": "kettlebell-thruster",
+          "reps": 50,
+          "load": {
+            "rx_male": "35lb",
+            "rx_female": "24lb"
+          }
+        },
+        {
+          "exercise": "swim",
+          "distance_m": 229,
+          "notes": "250 yd"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "swim",
+        "open-water",
+        "kettlebell"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/1 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-thick-n-quick",
+      "name": "Thick 'n Quick",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {
+        "time_cap_minutes": 4,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "rope-climb",
+          "reps": 4,
+          "notes": "20 ft, on a 2-inch thick rope"
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 3,
+          "load": {
+            "rx_male": "245lb",
+            "rx_female": "165lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "venue-equipment",
+        "barbell",
+        "gymnastics"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/12 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
+    {
+      "id": "games-14-triple-3",
+      "name": "Triple 3",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 3000
+        },
+        {
+          "exercise": "double-under",
+          "reps": 300
+        },
+        {
+          "exercise": "run",
+          "distance_m": 4828,
+          "notes": "3 miles"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2014",
+        "rowing",
+        "running",
+        "jump-rope",
+        "endurance"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2014/3 (official CrossFit Games event), retrieved 2026-07-09",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-09"
+    },
     {
       "id": "games-15-clean-and-jerk",
       "name": "Clean and Jerk (2015 Games)",

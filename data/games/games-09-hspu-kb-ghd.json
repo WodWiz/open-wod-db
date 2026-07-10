@@ -1,0 +1,40 @@
+{
+  "id": "games-09-hspu-kb-ghd",
+  "name": "HSPU-KB Swing-GHD",
+  "category": "games",
+  "format": "amrap",
+  "format_meta": {
+    "time_cap_minutes": 8,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "handstand-push-up",
+      "reps": 4
+    },
+    {
+      "exercise": "russian-kettlebell-swing",
+      "reps": 8,
+      "load": {
+        "rx_male": "32kg",
+        "rx_female": "24kg"
+      }
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 12
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2009",
+    "gymnastics",
+    "kettlebell"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2009/7 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

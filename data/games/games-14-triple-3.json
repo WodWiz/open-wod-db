@@ -1,0 +1,36 @@
+{
+  "id": "games-14-triple-3",
+  "name": "Triple 3",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 3000
+    },
+    {
+      "exercise": "double-under",
+      "reps": 300
+    },
+    {
+      "exercise": "run",
+      "distance_m": 4828,
+      "notes": "3 miles"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2014",
+    "rowing",
+    "running",
+    "jump-rope",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2014/3 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

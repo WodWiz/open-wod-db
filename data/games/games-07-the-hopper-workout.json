@@ -1,0 +1,56 @@
+{
+  "id": "games-07-the-hopper-workout",
+  "name": "The Hopper Workout",
+  "category": "games",
+  "format": "multi_part",
+  "format_meta": {},
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2007",
+    "rowing",
+    "barbell",
+    "gymnastics",
+    "5-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2007/1 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; 1000m row once, then 5 rounds for time of 25 pull-ups and 7 push jerks",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10",
+  "segments": [
+    {
+      "label": "Row",
+      "format": "for_time",
+      "movements": [
+        {
+          "exercise": "row",
+          "distance_m": 1000
+        }
+      ]
+    },
+    {
+      "label": "Pull-up/Push-jerk",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 5,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "pull-up",
+          "reps": 25
+        },
+        {
+          "exercise": "push-jerk",
+          "reps": 7,
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ]
+    }
+  ]
+}

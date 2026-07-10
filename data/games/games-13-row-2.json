@@ -1,0 +1,29 @@
+{
+  "id": "games-13-row-2",
+  "name": "Row 2",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 120,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "distance_m": 21097,
+      "notes": "half-marathon distance; this event scores the full finish"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2013",
+    "rowing",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2013/7 (official CrossFit Games event), retrieved 2026-07-09; time cap 2 hours (men) / 2 hours 10 minutes (women); same continuous row as Row 1, scored at the full 21,097 m finish",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

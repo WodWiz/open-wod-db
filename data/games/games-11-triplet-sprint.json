@@ -1,0 +1,106 @@
+{
+  "id": "games-11-triplet-sprint",
+  "name": "Triplet Sprint",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "muscle-up",
+      "reps": 5
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "245lb",
+        "rx_female": "165lb"
+      }
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 15
+    },
+    {
+      "exercise": "sprint",
+      "distance_m": 46,
+      "notes": "50 yd"
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 5
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "245lb",
+        "rx_female": "165lb"
+      }
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 15
+    },
+    {
+      "exercise": "sprint",
+      "distance_m": 91,
+      "notes": "100 yd"
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 5
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "245lb",
+        "rx_female": "165lb"
+      }
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 15
+    },
+    {
+      "exercise": "sprint",
+      "distance_m": 137,
+      "notes": "150 yd"
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 5
+    },
+    {
+      "exercise": "deadlift",
+      "reps": 10,
+      "load": {
+        "rx_male": "245lb",
+        "rx_female": "165lb"
+      }
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 15
+    },
+    {
+      "exercise": "sprint",
+      "distance_m": 137,
+      "notes": "150 yd (men); the women's final sprint was 200 yd"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2011",
+    "barbell",
+    "gymnastics",
+    "running"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2011/10 (official CrossFit Games event), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

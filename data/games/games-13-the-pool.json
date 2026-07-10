@@ -1,0 +1,40 @@
+{
+  "id": "games-13-the-pool",
+  "name": "The Pool",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 10,
+    "time_cap_minutes": 25,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 23,
+      "notes": "25 yd"
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 3
+    },
+    {
+      "exercise": "swim",
+      "distance_m": 23,
+      "notes": "25 yd"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2013",
+    "swim",
+    "gymnastics",
+    "10-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2013/11 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

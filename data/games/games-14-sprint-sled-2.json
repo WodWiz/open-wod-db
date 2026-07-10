@@ -1,0 +1,28 @@
+{
+  "id": "games-14-sprint-sled-2",
+  "name": "Sprint Sled 2",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "sled-push",
+      "distance_m": 91,
+      "notes": "100 yd (men) / 55 yd (women)"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2014",
+    "venue-equipment"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2014/5 (official CrossFit Games event), retrieved 2026-07-09; separately scored from Sprint Sled 1",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

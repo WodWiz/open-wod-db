@@ -1,0 +1,87 @@
+{
+  "id": "games-11-rope-clean",
+  "name": "Rope-Clean",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "rope-climb",
+      "reps": 5,
+      "notes": "15 ft"
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 5,
+      "load": {
+        "rx_male": "145lb",
+        "rx_female": "115lb"
+      }
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 4,
+      "notes": "15 ft"
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 4,
+      "load": {
+        "rx_male": "165lb",
+        "rx_female": "125lb"
+      }
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 3,
+      "notes": "15 ft"
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 3,
+      "load": {
+        "rx_male": "185lb",
+        "rx_female": "135lb"
+      }
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 2,
+      "notes": "15 ft"
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 2,
+      "load": {
+        "rx_male": "205lb",
+        "rx_female": "145lb"
+      }
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 1,
+      "notes": "15 ft"
+    },
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 1,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2011",
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2011/4 (official CrossFit Games event), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "games-09-hill-sprint-sandbags",
+  "name": "Hill Sprint with Sandbags",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "sandbag-carry",
+      "distance_m": 170,
+      "load": {
+        "rx_male": "35lb",
+        "rx_female": "35lb"
+      },
+      "notes": "hill sprint; men carry 2 sandbags, women carry 1"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2009",
+    "outdoor",
+    "hill"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2009/3 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "games-14-thick-n-quick",
+  "name": "Thick 'n Quick",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 4,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "rope-climb",
+      "reps": 4,
+      "notes": "20 ft, on a 2-inch thick rope"
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 3,
+      "load": {
+        "rx_male": "245lb",
+        "rx_female": "165lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2014",
+    "venue-equipment",
+    "barbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2014/12 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

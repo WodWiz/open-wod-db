@@ -1,0 +1,45 @@
+{
+  "id": "games-13-burden-run",
+  "name": "Burden Run",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 40,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 3380,
+      "notes": "2.1 miles"
+    },
+    {
+      "exercise": "d-ball-over-shoulder",
+      "distance_m": 91,
+      "notes": "100 yd, \"pig flip\""
+    },
+    {
+      "exercise": "log-carry",
+      "distance_m": 549,
+      "notes": "600 yd"
+    },
+    {
+      "exercise": "sled-pull",
+      "distance_m": 60,
+      "notes": "66 yd, \"Iditarod\" drag apparatus"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2013",
+    "venue-equipment",
+    "running",
+    "outdoor"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2013/2 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

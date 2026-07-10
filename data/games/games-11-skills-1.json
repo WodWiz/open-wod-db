@@ -1,0 +1,62 @@
+{
+  "id": "games-11-skills-1",
+  "name": "Skills 1",
+  "category": "games",
+  "format": "multi_part",
+  "format_meta": {},
+  "movements": [],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2011",
+    "gymnastics",
+    "max-effort"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2011/5 (official CrossFit Games event), retrieved 2026-07-10; three independently-ranked skill tests; final score is the sum of the three individual rankings (lower total wins)",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10",
+  "segments": [
+    {
+      "label": "L-sit hold",
+      "format": "max_effort",
+      "format_meta": {
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "l-sit",
+          "notes": "1 attempt; scored by longest hold"
+        }
+      ]
+    },
+    {
+      "label": "Softball throw",
+      "format": "max_effort",
+      "format_meta": {
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "medicine-ball-throw",
+          "reps": 2,
+          "notes": "softball; 2 attempts, scored by furthest throw"
+        }
+      ]
+    },
+    {
+      "label": "Handstand walk",
+      "format": "max_effort",
+      "format_meta": {
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "handstand-walk",
+          "notes": "1 attempt for maximum distance, with a mulligan allowed if under 5 yards"
+        }
+      ]
+    }
+  ]
+}

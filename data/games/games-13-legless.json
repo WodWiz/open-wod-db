@@ -1,0 +1,73 @@
+{
+  "id": "games-13-legless",
+  "name": "Legless",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 10,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": 27,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "legless-rope-climb",
+      "reps": 4
+    },
+    {
+      "exercise": "thruster",
+      "reps": 21,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "legless-rope-climb",
+      "reps": 3
+    },
+    {
+      "exercise": "thruster",
+      "reps": 15,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "legless-rope-climb",
+      "reps": 2
+    },
+    {
+      "exercise": "thruster",
+      "reps": 9,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "legless-rope-climb",
+      "reps": 1
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2013",
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2013/4 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

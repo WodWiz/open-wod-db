@@ -1,0 +1,80 @@
+{
+  "id": "games-09-complex-chipper",
+  "name": "Complex Chipper (2009 Games)",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "clean",
+      "reps": 15,
+      "load": {
+        "rx_male": "155lb",
+        "rx_female": "100lb"
+      }
+    },
+    {
+      "exercise": "toes-to-bar",
+      "reps": 30
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 30,
+      "notes": "24 in (men) / 20 in (women) box"
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 15
+    },
+    {
+      "exercise": "dumbbell-push-press",
+      "reps": 30,
+      "load": {
+        "rx_male": "40lb",
+        "rx_female": "25lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 30
+    },
+    {
+      "exercise": "thruster",
+      "reps": 15,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 30
+    },
+    {
+      "exercise": "burpee",
+      "reps": 30
+    },
+    {
+      "exercise": "overhead-walking-lunge",
+      "distance_m": 91,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "25lb"
+      },
+      "notes": "300 ft"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2009",
+    "barbell",
+    "dumbbell",
+    "gymnastics"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2009/8 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

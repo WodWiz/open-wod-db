@@ -1,0 +1,28 @@
+{
+  "id": "games-13-clean-jerk-ladder",
+  "name": "Clean & Jerk Ladder",
+  "category": "games",
+  "format": "max_load",
+  "format_meta": {
+    "scoring": "load"
+  },
+  "movements": [
+    {
+      "exercise": "clean-and-jerk",
+      "reps": 1,
+      "notes": "athlete chooses one of four starting weights (225, 255, 285, or 315 lb men / 145, 165, 185, or 205 lb women), then attempts progressively heavier singles every 90 seconds; failing the OPENING attempt eliminates the athlete; partial credit given for a successful clean with a failed jerk after at least one made lift"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2013",
+    "barbell",
+    "max-load"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2013/3 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

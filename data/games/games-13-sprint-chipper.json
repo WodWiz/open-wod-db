@@ -1,0 +1,38 @@
+{
+  "id": "games-13-sprint-chipper",
+  "name": "Sprint Chipper",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "medicine-ball-sit-up",
+      "reps": 21,
+      "notes": "GHD variant"
+    },
+    {
+      "exercise": "snatch",
+      "reps": 15,
+      "load": {
+        "rx_male": "165lb",
+        "rx_female": "100lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 9,
+      "notes": "to touch an elevated wall target"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2013",
+    "barbell"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2013/8 (official CrossFit Games event), retrieved 2026-07-09; top 30 men and top 30 women advance to the final",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "games-11-killer-kage",
+  "name": "Killer Kage",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "front-squat",
+      "reps": 7,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "bike",
+      "distance_m": 700
+    },
+    {
+      "exercise": "parallel-bar-traverse",
+      "distance_m": 30,
+      "notes": "100 ft, monkey bars"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2011",
+    "barbell",
+    "gymnastics",
+    "3-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2011/3 (official CrossFit Games event), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

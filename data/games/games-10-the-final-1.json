@@ -1,0 +1,41 @@
+{
+  "id": "games-10-the-final-1",
+  "name": "The Final 1 (2010 Games)",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "hand-release-push-up",
+      "reps": 30
+    },
+    {
+      "exercise": "wall-climb-over",
+      "reps": 1
+    },
+    {
+      "exercise": "overhead-squat",
+      "reps": 21,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2010",
+    "barbell",
+    "gymnastics",
+    "3-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2010/6 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

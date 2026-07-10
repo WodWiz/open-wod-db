@@ -1,0 +1,44 @@
+{
+  "id": "games-12-track-triplet",
+  "name": "Track Triplet",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "time_cap_minutes": 13,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "snatch",
+      "reps": 8,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      },
+      "notes": "split snatch, alternating legs"
+    },
+    {
+      "exercise": "bar-muscle-up",
+      "reps": 7
+    },
+    {
+      "exercise": "run",
+      "distance_m": 400
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2012",
+    "barbell",
+    "gymnastics",
+    "running",
+    "3-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2012/15 (official CrossFit Games event), retrieved 2026-07-10; performed immediately after Ball Toss",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

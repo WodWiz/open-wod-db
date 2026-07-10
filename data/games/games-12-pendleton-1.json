@@ -1,0 +1,38 @@
+{
+  "id": "games-12-pendleton-1",
+  "name": "Pendleton 1",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 700,
+      "notes": "approx.; with fins"
+    },
+    {
+      "exercise": "bike",
+      "distance_m": 8000,
+      "notes": "approx. 8 km, undulating terrain including soft sand"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 11000,
+      "notes": "approx. 11 km dirt-road, over 1,400 ft of elevation gain"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2012",
+    "swim",
+    "outdoor",
+    "hill",
+    "endurance"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2012/11 (official CrossFit Games event), retrieved 2026-07-10; scored at a checkpoint approximately 150 m into the run; same continuous race as Pendleton 2",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

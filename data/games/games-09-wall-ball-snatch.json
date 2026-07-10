@@ -1,0 +1,40 @@
+{
+  "id": "games-09-wall-ball-snatch",
+  "name": "Wall-Ball Snatch",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 30,
+      "load": {
+        "rx_male": "20lb",
+        "rx_female": "14lb"
+      }
+    },
+    {
+      "exercise": "squat-snatch",
+      "reps": 30,
+      "load": {
+        "rx_male": "75lb",
+        "rx_female": "45lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2009",
+    "barbell",
+    "3-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2009/5 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

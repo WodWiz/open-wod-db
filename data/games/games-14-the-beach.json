@@ -1,0 +1,61 @@
+{
+  "id": "games-14-the-beach",
+  "name": "The Beach",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {},
+  "movements": [
+    {
+      "exercise": "swim",
+      "distance_m": 229,
+      "notes": "250 yd"
+    },
+    {
+      "exercise": "kettlebell-thruster",
+      "reps": 50,
+      "load": {
+        "rx_male": "35lb",
+        "rx_female": "24lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 30
+    },
+    {
+      "exercise": "swim",
+      "distance_m": 457,
+      "notes": "500 yd"
+    },
+    {
+      "exercise": "burpee",
+      "reps": 30
+    },
+    {
+      "exercise": "kettlebell-thruster",
+      "reps": 50,
+      "load": {
+        "rx_male": "35lb",
+        "rx_female": "24lb"
+      }
+    },
+    {
+      "exercise": "swim",
+      "distance_m": 229,
+      "notes": "250 yd"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2014",
+    "swim",
+    "open-water",
+    "kettlebell"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2014/1 (official CrossFit Games event), retrieved 2026-07-09",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-09"
+}
