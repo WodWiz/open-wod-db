@@ -80,7 +80,7 @@ structured for every year they existed, 2021–2026 (no Quarterfinals were held 
 second independent source whenever the primary page returned only one division's
 Rx loads.
 
-## Games events — in progress
+## Games events — done
 
 Category `games`, stored under `data/games/`, ids `games-YY-<slug>` using the
 event's real name (Games events are named, e.g. "Lake Day", not numbered like
@@ -98,9 +98,8 @@ prescription** (pure obstacle-course races, bracket/heat tournaments) are
 intentionally left out rather than fabricated — same principle as the staged
 Hero WODs.
 
-**Progress:** 2015–2026 fully done — every year in the catalogued range,
-structured. Per-year counts (structured / total, skipped events in
-parentheses):
+**Complete: every Games year 2007–2026 is structured.** Per-year counts
+(structured / total, skipped events in parentheses):
 - 2026: 4/4 · 2025: 10/10 · 2024: 10/10
 - 2023: 11/12 (Ride — pure lap-count bike race)
 - 2022: 12/13 (Skill Speed Medley — elimination bracket)
@@ -113,16 +112,22 @@ parentheses):
 - 2016: 15/15 (nothing skipped — every event had a genuine prescription)
 - 2015: 10/13 (Snatch Speed Ladder — elimination bracket; Sprint Course 1/2 —
   obstacles not itemized)
+- 2014: 12/13 (Clean Speed Ladder — elimination bracket)
+- 2013: 11/12 (ZigZag Sprint — bracketed head-to-head obstacle race)
+- 2012: 13/14 (Obstacle Course — bracketed head-to-head military obstacle race)
+- 2011: 10/10 · 2010: 9/9 · 2009: 8/8 · 2008: 4/4 · 2007: 3/3 (nothing skipped)
 
 **Skip categories, for reference:** elimination/advancement brackets (top N
 advance each round), pure mass-start/lap-count races, and obstacle courses
 whose individual obstacles aren't itemized in any available source. A couple
-of entries (2016 The Separator, 2015 Sandbag 2015, 2017 Fibonacci Final) have a
-minor detail that couldn't be corroborated across sources — each is flagged
-explicitly in its own `source_notes` per CONTRIBUTING rather than guessed.
-
-**Remaining:** 2007–2014 (early Games years, smaller field sizes, likely
-simpler formats) not yet catalogued — lower priority, do last.
+of entries (2016 The Separator, 2015 Sandbag 2015, 2017 Fibonacci Final, 2012
+Rope-Sled) have a detail that couldn't be corroborated across sources — each
+is flagged explicitly in its own `source_notes` per CONTRIBUTING rather than
+guessed. 2010 Events 1 and 4 warrant special note: the official page initially
+returned team-division content for those slots; both were corrected to the
+true individual-division prescriptions after cross-referencing a second
+source, and the correction is documented permanently in `games-10-amanda`'s
+`source_notes`.
 
 - **Community / affiliate-invented WODs** — intentionally grown organically via
   the PR-based contribution model rather than seeded by one contributor.
