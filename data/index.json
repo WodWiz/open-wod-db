@@ -1,6 +1,348 @@
 {
-  "count": 472,
+  "count": 481,
   "wods": [
+    {
+      "id": "games-10-amanda",
+      "name": "Amanda (2010 Games)",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "ring-muscle-up",
+          "reps": [
+            9,
+            7,
+            5
+          ]
+        },
+        {
+          "exercise": "squat-snatch",
+          "reps": [
+            9,
+            7,
+            5
+          ],
+          "load": {
+            "rx_male": "135lb",
+            "rx_female": "95lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "gymnastics",
+        "ladder"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/1 (official CrossFit Games event, individual division), retrieved 2026-07-10; the classic Girl WOD Amanda, reused as a Games event. Note: this repo's original research pass initially mis-attributed a team-division thruster/pull-up/buddy-carry workout to this event slot; corrected after cross-referencing a second source",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-cleans-handstand-pushups",
+      "name": "Cleans-Handstand Pushups",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 7,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "clean",
+          "reps": 3,
+          "load": {
+            "rx_male": "205lb",
+            "rx_female": "135lb"
+          }
+        },
+        {
+          "exercise": "ring-handstand-push-up",
+          "reps": 4,
+          "notes": "on rings (men); on the floor (women)"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "gymnastics",
+        "7-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/5 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-event-3",
+      "name": "2010 Games Event 3",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 2,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "run",
+          "distance_m": 300
+        },
+        {
+          "exercise": "box-jump-over",
+          "reps": 15,
+          "notes": "24 in box"
+        },
+        {
+          "exercise": "dumbbell-squat-clean",
+          "reps": 15,
+          "load": {
+            "rx_male": "45lb",
+            "rx_female": "25lb"
+          }
+        },
+        {
+          "exercise": "double-under",
+          "reps": 30
+        },
+        {
+          "exercise": "hand-release-push-up",
+          "reps": 15
+        },
+        {
+          "exercise": "ghd-sit-up",
+          "reps": 15
+        },
+        {
+          "exercise": "walking-lunge",
+          "distance_m": 27,
+          "notes": "30 yd"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "dumbbell",
+        "gymnastics",
+        "running",
+        "2-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/3 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-max-rep-deadlift",
+      "name": "Max Rep Deadlift",
+      "category": "games",
+      "format": "amrap",
+      "format_meta": {
+        "time_cap_minutes": 1,
+        "scoring": "reps"
+      },
+      "movements": [
+        {
+          "exercise": "deadlift",
+          "reps": "max",
+          "load": {
+            "rx_male": "264lb",
+            "rx_female": "264lb"
+          },
+          "notes": "max reps in 1 minute"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "max-effort"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/2 (official CrossFit Games event, individual division), retrieved 2026-07-10; available sources report a single 264 lb load without a gender split -- flagged per CONTRIBUTING rather than assumed",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-sandbag-move",
+      "name": "Sandbag Move",
+      "category": "games",
+      "format": "for_time",
+      "format_meta": {},
+      "movements": [
+        {
+          "exercise": "sandbag-carry",
+          "load": {
+            "rx_male": "600lb total",
+            "rx_female": "370lb total"
+          },
+          "notes": "down the stadium stairs, across the floor, up a wall, and up the far stairs"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "venue-equipment"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/4 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-shoulder-to-overhead",
+      "name": "Shoulder-to-Overhead (2010 Games)",
+      "category": "games",
+      "format": "max_load",
+      "format_meta": {
+        "time_cap_minutes": 12,
+        "scoring": "load"
+      },
+      "movements": [
+        {
+          "exercise": "shoulder-to-overhead",
+          "reps": 1,
+          "notes": "athlete's own 1-rep-max; no fixed Rx weight"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "max-load"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/2 (official CrossFit Games event, individual division), retrieved 2026-07-10; must be completed within 12 minutes of the start of Max Rep Deadlift, immediately following it on the same clock",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-the-final-1",
+      "name": "The Final 1 (2010 Games)",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "hand-release-push-up",
+          "reps": 30
+        },
+        {
+          "exercise": "wall-climb-over",
+          "reps": 1
+        },
+        {
+          "exercise": "overhead-squat",
+          "reps": 21,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/6 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-the-final-2",
+      "name": "The Final 2 (2010 Games)",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "toes-to-bar",
+          "reps": 30
+        },
+        {
+          "exercise": "ground-to-overhead",
+          "reps": 21,
+          "load": {
+            "rx_male": "95lb",
+            "rx_female": "65lb"
+          }
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "barbell",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/7 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
+    {
+      "id": "games-10-the-final-3",
+      "name": "The Final 3 (2010 Games)",
+      "category": "games",
+      "format": "interval",
+      "format_meta": {
+        "rounds": 3,
+        "scoring": "time"
+      },
+      "movements": [
+        {
+          "exercise": "burpee",
+          "reps": 5,
+          "notes": "\"burpee wall jump\" -- jump to touch/clear an elevated wall target"
+        },
+        {
+          "exercise": "rope-climb",
+          "reps": 3,
+          "notes": "20 ft (men); women perform 2 reps"
+        }
+      ],
+      "partition": null,
+      "scaling": null,
+      "origin": null,
+      "tags": [
+        "games",
+        "2010",
+        "gymnastics",
+        "3-rounds"
+      ],
+      "source_notes": "games.crossfit.com/workouts/games/2010/8 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+      "schema_version": "1.1",
+      "last_updated": "2026-07-10"
+    },
     {
       "id": "games-11-beach",
       "name": "Beach (2011 Games)",

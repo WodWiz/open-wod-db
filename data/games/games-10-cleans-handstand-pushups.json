@@ -1,0 +1,38 @@
+{
+  "id": "games-10-cleans-handstand-pushups",
+  "name": "Cleans-Handstand Pushups",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 7,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "clean",
+      "reps": 3,
+      "load": {
+        "rx_male": "205lb",
+        "rx_female": "135lb"
+      }
+    },
+    {
+      "exercise": "ring-handstand-push-up",
+      "reps": 4,
+      "notes": "on rings (men); on the floor (women)"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2010",
+    "barbell",
+    "gymnastics",
+    "7-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2010/5 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

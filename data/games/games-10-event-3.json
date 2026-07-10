@@ -1,0 +1,60 @@
+{
+  "id": "games-10-event-3",
+  "name": "2010 Games Event 3",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 2,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 300
+    },
+    {
+      "exercise": "box-jump-over",
+      "reps": 15,
+      "notes": "24 in box"
+    },
+    {
+      "exercise": "dumbbell-squat-clean",
+      "reps": 15,
+      "load": {
+        "rx_male": "45lb",
+        "rx_female": "25lb"
+      }
+    },
+    {
+      "exercise": "double-under",
+      "reps": 30
+    },
+    {
+      "exercise": "hand-release-push-up",
+      "reps": 15
+    },
+    {
+      "exercise": "ghd-sit-up",
+      "reps": 15
+    },
+    {
+      "exercise": "walking-lunge",
+      "distance_m": 27,
+      "notes": "30 yd"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2010",
+    "dumbbell",
+    "gymnastics",
+    "running",
+    "2-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2010/3 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

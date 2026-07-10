@@ -1,0 +1,34 @@
+{
+  "id": "games-10-the-final-3",
+  "name": "The Final 3 (2010 Games)",
+  "category": "games",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "burpee",
+      "reps": 5,
+      "notes": "\"burpee wall jump\" -- jump to touch/clear an elevated wall target"
+    },
+    {
+      "exercise": "rope-climb",
+      "reps": 3,
+      "notes": "20 ft (men); women perform 2 reps"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2010",
+    "gymnastics",
+    "3-rounds"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2010/8 (official CrossFit Games event, individual division), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

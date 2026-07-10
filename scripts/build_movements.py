@@ -75,7 +75,7 @@ GROUPS = {
         "deficit-handstand-push-up", "freestanding-handstand-push-up",
         "wall-facing-handstand-push-up", "ring-handstand-push-up",
         "parallette-handstand-push-up",
-        "handstand", "handstand-hold", "handstand-walk", "wall-climb",
+        "handstand", "handstand-hold", "handstand-walk", "wall-climb", "wall-climb-over",
         "ring-dip", "bar-dip", "strict-dip", "ring-row", "ring-push-up", "push-up",
         "hand-release-push-up",
         "toes-to-bar", "toes-to-ring", "knees-to-elbows", "hanging-knee-raise",

@@ -1,0 +1,29 @@
+{
+  "id": "games-10-shoulder-to-overhead",
+  "name": "Shoulder-to-Overhead (2010 Games)",
+  "category": "games",
+  "format": "max_load",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "load"
+  },
+  "movements": [
+    {
+      "exercise": "shoulder-to-overhead",
+      "reps": 1,
+      "notes": "athlete's own 1-rep-max; no fixed Rx weight"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2010",
+    "barbell",
+    "max-load"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2010/2 (official CrossFit Games event, individual division), retrieved 2026-07-10; must be completed within 12 minutes of the start of Max Rep Deadlift, immediately following it on the same clock",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}
