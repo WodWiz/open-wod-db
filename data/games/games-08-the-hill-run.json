@@ -1,0 +1,30 @@
+{
+  "id": "games-08-the-hill-run",
+  "name": "The Hill Run",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 20,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 750,
+      "notes": "steep, off-trail, rough terrain"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2008",
+    "running",
+    "outdoor",
+    "hill"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2008/2 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}

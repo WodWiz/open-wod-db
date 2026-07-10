@@ -1,0 +1,45 @@
+{
+  "id": "games-08-workout-a",
+  "name": "Workout A (2008 Games)",
+  "category": "games",
+  "format": "for_time",
+  "format_meta": {
+    "time_cap_minutes": 12,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": [
+        21,
+        15,
+        9
+      ],
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": [
+        21,
+        15,
+        9
+      ]
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "games",
+    "2008",
+    "barbell",
+    "gymnastics",
+    "ladder"
+  ],
+  "source_notes": "games.crossfit.com/workouts/games/2008/3 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10; the classic Girl WOD Fran, reused as a Games event",
+  "schema_version": "1.1",
+  "last_updated": "2026-07-10"
+}
