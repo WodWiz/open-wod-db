@@ -50,6 +50,7 @@
     "gymnastics",
     "ladder"
   ],
+  "description": "A descending double-under-and-GHD-sit-up ladder (50-40-30-20-10) finishing with an ascending-weight clean ladder (5-4-3-2-1).",
   "source_notes": "games.crossfit.com/workouts/games/2020/7 (official CrossFit Games event), retrieved 2026-07-09; the field was cut to the top 5 men and top 5 women after this event (end of Stage 1)",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

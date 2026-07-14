@@ -17,6 +17,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A two-part workout: three rounds of snatches and bar-facing burpees, followed by three rounds of bar muscle-ups and bar-facing burpees.",
   "source_notes": "games.crossfit.com/workouts/open/2019/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09",

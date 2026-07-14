@@ -36,6 +36,7 @@
     "barbell",
     "rowing"
   ],
+  "description": "A fast triplet of rowing calories, burpee box jump-overs, and heavy snatches.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2022/5 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

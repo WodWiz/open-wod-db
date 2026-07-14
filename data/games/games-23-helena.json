@@ -36,6 +36,7 @@
     "running",
     "gymnastics"
   ],
+  "description": "Three rounds of a run, bar muscle-ups, and heavy dumbbell snatches.",
   "source_notes": "games.crossfit.com/workouts/games/2023/6 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

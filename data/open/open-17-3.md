@@ -1,5 +1,7 @@
 # 17.3
 
+A staged workout pairing three-round blocks of chest-to-bar pull-ups and squat snatches, each new block trading fewer snatch reps for a heavier bar, continuing only if the prior block finished on time.
+
 **0:00-8:00 (Round Set 1)**
 **3 rounds for time**
   6 Chest To Bar Pull Up

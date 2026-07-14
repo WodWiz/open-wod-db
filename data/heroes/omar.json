@@ -33,6 +33,7 @@
     "barbell",
     "ladder"
   ],
+  "description": "An ascending couplet of thrusters and bar-facing burpees, climbing from 10 and 15 reps up to 30 and 35.",
   "source_notes": "crossfit.com/benchmark/omar (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

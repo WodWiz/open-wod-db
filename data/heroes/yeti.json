@@ -33,6 +33,7 @@
     "gymnastics",
     "running"
   ],
+  "description": "A mirrored chipper of pull-ups and muscle-ups framing a single 1.5-mile run in the middle.",
   "source_notes": "crossfit.com/benchmark/yeti (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

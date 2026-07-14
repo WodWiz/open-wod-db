@@ -39,6 +39,7 @@
     "gymnastics",
     "time-extension-ladder"
   ],
+  "description": "Two rounds of an ascending overhead-squat and chest-to-bar pull-up couplet, each round's reps rising from 10 to 14.",
   "source_notes": "games.crossfit.com/workouts/open/2014/2 (official CrossFit Games Open workout), retrieved 2026-07-09; each value is one 3-minute window (0:00-3:00, 3:00-6:00, 6:00-9:00, ...) in which 2 rounds of the listed reps must be completed; the rep count increases by 2 each window and the pattern continues indefinitely until the athlete fails to complete both rounds in a window (no fixed time cap)",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

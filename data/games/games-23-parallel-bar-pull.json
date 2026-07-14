@@ -36,6 +36,7 @@
     "venue-equipment",
     "gymnastics"
   ],
+  "description": "Eight rounds of a parallel-bar traverse, heavy-rope double-unders, and a hand-over-hand sled pull.",
   "source_notes": "games.crossfit.com/workouts/games/2023/11 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

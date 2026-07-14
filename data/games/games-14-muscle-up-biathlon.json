@@ -42,6 +42,7 @@
     "running",
     "gymnastics"
   ],
+  "description": "A descending muscle-up ladder with a 400m run before each set.",
   "source_notes": "games.crossfit.com/workouts/games/2014/7 (official CrossFit Games event), retrieved 2026-07-09; each time an athlete breaks a set of muscle-ups, they must run an additional 200 m penalty lap",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

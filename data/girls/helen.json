@@ -36,6 +36,7 @@
     "kettlebell",
     "gymnastics"
   ],
+  "description": "Three rounds of a 400m run, kettlebell swings, and pull-ups \u2014 a running-based interval piece that tests grip and shoulder endurance on top of aerobic capacity.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

@@ -27,6 +27,7 @@
     "barbell",
     "max-load"
   ],
+  "description": "A one-rep-max snatch and clean and jerk test, each contested in fast, short lifting windows.",
   "source_notes": "games.crossfit.com/workouts/games/2023/9 (official CrossFit Games event), retrieved 2026-07-09; score is the combined total of best snatch + best clean and jerk",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

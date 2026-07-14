@@ -47,6 +47,7 @@
     "gymnastics",
     "ascending"
   ],
+  "description": "A 7-minute ascending-rep couplet of thrusters and chest-to-bar pull-ups, climbing by threes (3-6-9 up to 21) for as many rounds as possible.",
   "source_notes": "games.crossfit.com/workouts/open/2011/6 (official CrossFit Games Open workout), retrieved 2026-07-09; ascending ladder (+3 reps each round); pattern continues indefinitely until the 7-minute cap",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

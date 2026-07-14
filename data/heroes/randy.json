@@ -22,6 +22,7 @@
     "barbell",
     "sprint"
   ],
+  "description": "75 power snatches for time at one fixed barbell weight \u2014 a single-movement, high-volume sprint similar in spirit to Isabel but at much higher volume and a lighter load.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

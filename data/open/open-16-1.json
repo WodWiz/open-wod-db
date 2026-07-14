@@ -45,6 +45,7 @@
     "bodyweight",
     "gymnastics"
   ],
+  "description": "A 20-minute AMRAP alternating overhead-lunge-and-burpee rounds with overhead-lunge-and-chest-to-bar-pull-up rounds.",
   "source_notes": "games.crossfit.com/workouts/open/2016/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

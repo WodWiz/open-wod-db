@@ -1,5 +1,7 @@
 # 14.3
 
+An 8-minute workout pairing box jumps with a deadlift ladder that gets heavier at every step (10 reps up through 35, the barbell adding weight each time) rather than lighter.
+
 **AMRAP 8 min**
   10 Deadlift (135lb/95lb)
   15 Box Jump

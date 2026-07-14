@@ -38,6 +38,7 @@
     "running",
     "gymnastics"
   ],
+  "description": "Three rounds of a berm run, rope climbs, and a heavy sled push on the 'Snail' apparatus.",
   "source_notes": "games.crossfit.com/workouts/games/2016/8 (official CrossFit Games event), retrieved 2026-07-09; only 1 rope ascent (not 2) on the final round",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

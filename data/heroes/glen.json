@@ -39,6 +39,7 @@
     "running",
     "gymnastics"
   ],
+  "description": "A chipper of 30 clean and jerks, 10 rope climbs, and 100 burpees, with a mile run separating each pair of movements.",
   "source_notes": "crossfit.com/benchmark/glen (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

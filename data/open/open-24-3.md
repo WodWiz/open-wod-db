@@ -1,5 +1,7 @@
 # 24.3
 
+A two-part workout: five rounds of thrusters and chest-to-bar pull-ups at one weight, followed by five rounds of heavier thrusters and bar muscle-ups.
+
 **Part 1**
 **5 rounds for time**
   10 Thruster (95lb/65lb)

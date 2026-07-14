@@ -22,6 +22,7 @@
     "gymnastics",
     "max-effort"
   ],
+  "description": "A max-effort freestanding handstand hold within a marked box, ending on a border touch or a foot or head touching the ground.",
   "source_notes": "games.crossfit.com/workouts/games/2020/6 (official CrossFit Games event), retrieved 2026-07-09; score is longest single hold duration, not fastest time",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

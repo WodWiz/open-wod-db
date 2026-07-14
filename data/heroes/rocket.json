@@ -29,6 +29,7 @@
     "bodyweight",
     "amrap"
   ],
+  "description": "A 30-minute AMRAP of a 50-yard swim, push-ups, and air squats \u2014 one of the few Hero WODs built around swimming rather than running.",
   "source_notes": "crossfit.com/benchmark/rocket (official CrossFit Hero WOD page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

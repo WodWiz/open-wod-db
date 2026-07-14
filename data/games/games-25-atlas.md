@@ -1,5 +1,7 @@
 # Atlas
 
+An ascending thruster-and-rope-climb ladder finishing with a heavy overhead walking lunge.
+
 **For Time**
   9-15-21 Thruster (135lb/95lb)
   3-5-7 Rope Climb

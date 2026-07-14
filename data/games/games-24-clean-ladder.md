@@ -1,5 +1,7 @@
 # Clean Ladder
 
+A three-round clean ladder against tight time windows, the barbell getting heavier at every single lift within each round.
+
 **Round 1**
 **Max load**
   1 Clean (255lb/165lb)

@@ -50,6 +50,8 @@ def _rest_label(seconds):
 
 def render_markdown(wod):
     lines = [f"# {wod['name']}", ""]
+    if wod.get("description"):
+        lines += [wod["description"], ""]
     if wod.get("segments"):
         for seg in wod["segments"]:
             if seg.get("label"):

@@ -38,6 +38,7 @@
     "gymnastics",
     "ladder"
   ],
+  "description": "A 30-20-10 triplet of back squat, bench press, and strict pull-up \u2014 three foundational strength movements at a shared descending rep scheme.",
   "source_notes": "crossfit.com/benchmark/justin (official CrossFit Hero WOD page), retrieved 2026-07-09; official page lists no barbell load for back squat/bench press (conventionally performed at bodyweight)",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

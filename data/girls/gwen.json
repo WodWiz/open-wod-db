@@ -28,6 +28,7 @@
     "barbell",
     "touch-and-go"
   ],
+  "description": "A touch-and-go clean and jerk load test across three descending sets (15-12-9), using the same self-selected weight for every rep \u2014 scored by load rather than time, rewarding barbell efficiency under fatigue.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

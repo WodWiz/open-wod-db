@@ -32,6 +32,7 @@
     "barbell",
     "7-rounds"
   ],
+  "description": "Seven rounds pairing a back squat set with a jerk set at nearly matching reps \u2014 a straightforward two-lift barbell circuit repeated often.",
   "source_notes": "crossfit.com/benchmark/kutschbach (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

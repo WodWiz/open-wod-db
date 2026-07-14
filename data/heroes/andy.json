@@ -59,6 +59,7 @@
     "weight-vest",
     "high-volume"
   ],
+  "description": "A mirrored chipper \u2014 thrusters, box jumps, and deadlifts building in volume toward a 1.5-mile run at the midpoint, then unwinding back through the same movements in reverse.",
   "source_notes": "crossfit.com/benchmark/andy (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx includes a 20 lb (men) / 14 lb (women) weight vest",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

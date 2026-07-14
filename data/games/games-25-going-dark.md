@@ -1,5 +1,7 @@
 # Going Dark
 
+A mirrored chipper of echo-bike calories bookending a yoke carry and deficit handstand push-ups.
+
 **For Time**
   50 Echo Bike
   Yoke Carry 30m

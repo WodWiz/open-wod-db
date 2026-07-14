@@ -80,6 +80,7 @@
       }
     },
     "tags": { "type": "array", "items": { "type": "string" } },
+    "description": { "type": ["string", "null"] },
     "source_notes": { "type": "string" },
     "schema_version": { "type": "string" },
     "last_updated": { "type": "string" }

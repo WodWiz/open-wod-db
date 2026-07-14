@@ -35,6 +35,7 @@
     "dumbbell",
     "running"
   ],
+  "description": "Five rounds of a short run, toes-to-bar, and heavy alternating dumbbell snatches.",
   "source_notes": "games.crossfit.com/workouts/games/2024/8 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

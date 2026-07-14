@@ -36,6 +36,7 @@
     "barbell",
     "kettlebell"
   ],
+  "description": "A 20-minute AMRAP of push press, kettlebell swings, and box jumps \u2014 a simple three-movement circuit at even reps throughout.",
   "source_notes": "crossfit.com/benchmark/jack (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

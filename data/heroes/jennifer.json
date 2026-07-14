@@ -32,6 +32,7 @@
     "kettlebell",
     "gymnastics"
   ],
+  "description": "A 26-minute AMRAP of pull-ups, kettlebell swings, and box jumps \u2014 a long-format triplet at ascending reps across the three movements.",
   "source_notes": "crossfit.com/benchmark/jennifer (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -36,6 +36,7 @@
     "dumbbell",
     "gymnastics"
   ],
+  "description": "A 10-minute AMRAP of toes-to-bar, dumbbell thrusters, and dumbbell walking lunges \u2014 a short, dumbbell-centered triplet.",
   "source_notes": "crossfit.com/benchmark/dg (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

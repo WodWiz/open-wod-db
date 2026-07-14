@@ -32,6 +32,7 @@
     "hill",
     "endurance"
   ],
+  "description": "A long-course swim, mountain bike, and trail run through undulating terrain and significant elevation gain.",
   "source_notes": "games.crossfit.com/workouts/games/2012/11 (official CrossFit Games event), retrieved 2026-07-10; scored at a checkpoint approximately 150 m into the run; same continuous race as Pendleton 2",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

@@ -43,6 +43,7 @@
     "gymnastics",
     "3-rounds"
   ],
+  "description": "Three rounds of single-arm dumbbell snatches, alternating arms each round, paired with l-pull-ups.",
   "source_notes": "crossfit.com/benchmark/joshie (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

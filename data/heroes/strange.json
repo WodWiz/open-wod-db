@@ -46,6 +46,7 @@
     "kettlebell",
     "8-rounds"
   ],
+  "description": "Eight rounds of a 600m run followed by weighted pull-ups, a loaded walking lunge carrying two kettlebells, and kettlebell thrusters.",
   "source_notes": "crossfit.com/benchmark/strange (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

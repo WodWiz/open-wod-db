@@ -45,6 +45,7 @@
     "gymnastics",
     "ascending"
   ],
+  "description": "A 7-minute ascending-rep couplet of clean and jerks and toes-to-bar, climbing by threes.",
   "source_notes": "games.crossfit.com/workouts/open/2013/4 (official CrossFit Games Open workout), retrieved 2026-07-09; ascending ladder (+3 reps each round); pattern continues indefinitely until the 7-minute cap",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

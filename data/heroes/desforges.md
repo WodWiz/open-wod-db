@@ -1,5 +1,7 @@
 # Desforges
 
+Five rounds of a four-movement circuit, alternating a heavy lift with a higher-rep bodyweight movement each time.
+
 **5 rounds for time**
   12 Deadlift (225lb/155lb)
   20 Pull Up

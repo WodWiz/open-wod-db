@@ -38,6 +38,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A 9-minute AMRAP of toes-to-bar, deadlifts, and snatches at one fixed barbell weight.",
   "source_notes": "games.crossfit.com/workouts/open/2015/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -39,6 +39,7 @@
     "dumbbell",
     "3-rounds"
   ],
+  "description": "Three rounds of heavy deadlifts, hanging hip touches, and a long running farmers carry.",
   "source_notes": "crossfit.com/benchmark/kevin (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

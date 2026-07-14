@@ -1,5 +1,7 @@
 # 23.3
 
+A staged workout pairing wall climbs, double-unders, and an ever-heavier snatch, later swapping the wall climbs for strict handstand push-ups as the blocks continue.
+
 **0:00-6:00**
 **For Time**
   5 Wall Climb

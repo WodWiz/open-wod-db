@@ -51,6 +51,7 @@
     "barbell",
     "single-movement"
   ],
+  "description": "A 10-minute ascending-load snatch ladder \u2014 three fixed sets of 30 reps at increasingly heavy weights, then max reps at the heaviest load for the remainder of the time cap.",
   "source_notes": "games.crossfit.com/workouts/open/2012/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

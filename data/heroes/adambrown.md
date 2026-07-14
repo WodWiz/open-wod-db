@@ -1,5 +1,7 @@
 # Adambrown
 
+Two rounds of a seven-movement, 24-rep circuit — deadlift, box jump, wall-ball, bench press, box jump, wall-ball, and clean — a broad full-body strength-and-conditioning sweep repeated twice.
+
 **2 rounds for time**
   24 Deadlift (295lb/195lb)
   24 Box Jump

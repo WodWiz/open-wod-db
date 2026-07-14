@@ -73,6 +73,7 @@
     "kettlebell",
     "single-kettlebell"
   ],
+  "description": "A single-kettlebell chipper of Turkish get-ups, overhead squats, and swings, alternating arms across the get-up and squat portions, all at one fixed weight throughout.",
   "source_notes": "crossfit.com/benchmark/arnie (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

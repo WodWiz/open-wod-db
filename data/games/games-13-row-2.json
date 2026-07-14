@@ -23,6 +23,7 @@
     "rowing",
     "endurance"
   ],
+  "description": "The same half-marathon row as Row 1, scored instead at the full finish.",
   "source_notes": "games.crossfit.com/workouts/games/2013/7 (official CrossFit Games event), retrieved 2026-07-09; time cap 2 hours (men) / 2 hours 10 minutes (women); same continuous row as Row 1, scored at the full 21,097 m finish",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

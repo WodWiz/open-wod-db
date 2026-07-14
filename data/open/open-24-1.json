@@ -62,6 +62,7 @@
     "dumbbell",
     "ladder"
   ],
+  "description": "A 21-15-9 dumbbell snatch-and-lateral-burpee-over-dumbbell couplet, performed on one arm and then repeated on the other.",
   "source_notes": "games.crossfit.com/workouts/open/2024/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

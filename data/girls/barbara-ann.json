@@ -41,6 +41,7 @@
     "gymnastics",
     "barbell"
   ],
+  "description": "Five rounds of handstand push-ups, deadlifts, sit-ups, and double-unders, with a mandatory three-minute rest between rounds \u2014 a four-movement update to Barbara's rest-interval format.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

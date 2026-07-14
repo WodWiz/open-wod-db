@@ -23,6 +23,7 @@
     "rowing",
     "endurance"
   ],
+  "description": "A half-marathon row, scored at the 2,000m checkpoint split.",
   "source_notes": "games.crossfit.com/workouts/games/2013/6 (official CrossFit Games event), retrieved 2026-07-09; time cap 2 hours (men) / 2 hours 10 minutes (women); scored at the 2,000 m mark of a continuous half-marathon row",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

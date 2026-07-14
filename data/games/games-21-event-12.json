@@ -26,6 +26,7 @@
     "barbell",
     "max-load"
   ],
+  "description": "A one-rep-max snatch test with fast-paced progressive attempts, the final round contested on a single shared platform.",
   "source_notes": "games.crossfit.com/workouts/games/2021/12 (official CrossFit Games event), retrieved 2026-07-09; tiebreak (for athletes who fail their opening lift) was 3 squat snatches for time at 225 lb (men) / 145 lb (women)",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

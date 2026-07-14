@@ -27,6 +27,7 @@
     "venue-equipment",
     "gymnastics"
   ],
+  "description": "Ten rounds of a bike interval and a legless rope climb.",
   "source_notes": "games.crossfit.com/workouts/games/2020/15 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

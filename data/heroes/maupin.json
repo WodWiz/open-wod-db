@@ -33,6 +33,7 @@
     "bodyweight",
     "4-rounds"
   ],
+  "description": "Four rounds of an 800m run followed by 49 reps each of push-ups, sit-ups, and air squats \u2014 an unusual rep count shared evenly across three bodyweight movements.",
   "source_notes": "crossfit.com/benchmark/maupin (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -1,5 +1,7 @@
 # Ski-Bag
 
+A descending ski-erg-and-sandbag-squat couplet.
+
 **For Time**
   30 Ski Erg
   30 Sandbag Squat (200lb/125lb)

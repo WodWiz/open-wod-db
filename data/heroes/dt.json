@@ -40,6 +40,7 @@
     "barbell",
     "5-rounds"
   ],
+  "description": "Five rounds of a descending 12-9-6 barbell triplet \u2014 deadlift, hang power clean, and push jerk \u2014 all at the same fixed weight, so the bar never leaves the hands between movements within a round.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

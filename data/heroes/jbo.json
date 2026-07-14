@@ -31,6 +31,7 @@
     "amrap",
     "barbell"
   ],
+  "description": "A 28-minute AMRAP of overhead squats and bench press at one fixed barbell weight \u2014 a long-format couplet pairing an overhead-stability movement with horizontal pressing.",
   "source_notes": "crossfit.com/benchmark/jbo (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -38,6 +38,7 @@
     "barbell",
     "bodyweight"
   ],
+  "description": "A 10-minute AMRAP of shoulder-to-overhead, deadlifts, and box jumps at one fixed barbell weight.",
   "source_notes": "games.crossfit.com/workouts/open/2013/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

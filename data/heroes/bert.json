@@ -68,6 +68,7 @@
     "running",
     "high-volume"
   ],
+  "description": "A mirrored bodyweight pyramid of burpees, push-ups, walking lunges, and air squats, with a 400m run breaking up every movement on the way out and back.",
   "source_notes": "crossfit.com/benchmark/bert (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

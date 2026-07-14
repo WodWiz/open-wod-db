@@ -92,6 +92,7 @@
     "venue-equipment",
     "gymnastics"
   ],
+  "description": "A mirrored strongman-style chipper of yoke carries, handstand walks, a farmers-style log carry, and a sled drag.",
   "source_notes": "games.crossfit.com/workouts/games/2017/8 (official CrossFit Games event), retrieved 2026-07-09; movements may be completed in any order; each retrieval trip includes a handstand-walk section",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

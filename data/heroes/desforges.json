@@ -41,6 +41,7 @@
     "gymnastics",
     "5-rounds"
   ],
+  "description": "Five rounds of a four-movement circuit, alternating a heavy lift with a higher-rep bodyweight movement each time.",
   "source_notes": "crossfit.com/benchmark/desforges (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -1,5 +1,7 @@
 # Lumberjack 20
 
+A seven-movement chipper — deadlift, kettlebell swing, overhead squat, burpee, chest-to-bar pull-up, box jump, and dumbbell squat clean, all at 20 reps — with a 400m run after every single movement.
+
 **For Time**
   20 Deadlift (275lb/185lb)
   Run 400m

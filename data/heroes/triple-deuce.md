@@ -1,5 +1,7 @@
 # Triple Deuce
 
+A 20-minute AMRAP of four bodyweight-and-odd-object movements at 22 reps each, finishing every round with a short sprint.
+
 **AMRAP 20 min**
   22 Burpee
   22 Air Squat

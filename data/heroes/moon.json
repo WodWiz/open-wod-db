@@ -45,6 +45,7 @@
     "gymnastics",
     "7-rounds"
   ],
+  "description": "Seven rounds alternating single-arm dumbbell hang split snatches between arms, each set followed by a rope climb.",
   "source_notes": "crossfit.com/benchmark/moon (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

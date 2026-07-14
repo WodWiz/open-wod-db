@@ -23,6 +23,7 @@
     "max-load",
     "ladder"
   ],
+  "description": "A one-lift-every-30-seconds deadlift ladder through a published series of ever-heavier barbells, with athletes lifting in reverse order of their finish in an earlier running event.",
   "source_notes": "games.crossfit.com/workouts/games/2016/2 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -1,5 +1,7 @@
 # Strongman's Fear
 
+A mirrored strongman-style chipper of yoke carries, handstand walks, a farmers-style log carry, and a sled drag.
+
 **For Time**
   Yoke Carry 18m (500lb/340lb)
   Handstand Walk 18m

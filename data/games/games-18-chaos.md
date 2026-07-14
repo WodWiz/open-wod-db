@@ -1,5 +1,7 @@
 # Chaos
 
+A six-movement chipper spanning the ski erg, burpees to a target, single-arm dumbbell overhead squats, alternating pistols, box jump-overs, and a heavy sled pull.
+
 **For Time**
   35 Ski Erg
   30 Burpee

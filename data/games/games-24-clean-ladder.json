@@ -15,6 +15,7 @@
     "max-load",
     "ladder"
   ],
+  "description": "A three-round clean ladder against tight time windows, the barbell getting heavier at every single lift within each round.",
   "source_notes": "games.crossfit.com/workouts/games/2024/6 (official CrossFit Games event), retrieved 2026-07-09; make-or-miss ladder across 3 rounds (each with its own 2-minute window), each attempt at a heavier weight; score is the heaviest successful clean",
   "schema_version": "1.1",
   "last_updated": "2026-07-09",

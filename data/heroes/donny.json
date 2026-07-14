@@ -39,6 +39,7 @@
     "barbell",
     "ladder"
   ],
+  "description": "A deadlift-and-burpee couplet that descends 21-15-9 and then climbs straight back up to 21 \u2014 a mirrored ladder rather than a one-way descent.",
   "source_notes": "crossfit.com/benchmark/donny (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

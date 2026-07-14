@@ -1,5 +1,7 @@
 # Bert
 
+A mirrored bodyweight pyramid of burpees, push-ups, walking lunges, and air squats, with a 400m run breaking up every movement on the way out and back.
+
 **For Time**
   50 Burpee
   Run 400m

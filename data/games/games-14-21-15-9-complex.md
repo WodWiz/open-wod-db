@@ -1,5 +1,7 @@
 # 21-15-9 Complex
 
+A descending complex spanning deadlift, clean, snatch, pull-up, chest-to-bar pull-up, and bar muscle-up, all at one fixed barbell weight.
+
 **For Time**
   8 Deadlift (155lb/115lb)
   7 Clean (155lb/115lb)

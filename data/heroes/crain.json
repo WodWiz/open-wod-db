@@ -92,6 +92,7 @@
     "high-volume",
     "2-rounds"
   ],
+  "description": "Two rounds of a seven-movement circuit \u2014 push-ups, deadlifts, box jumps, clean and jerks, burpees, wall-ball shots, and pull-ups \u2014 with a short sprint after every single movement.",
   "source_notes": "crossfit.com/benchmark/crain (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

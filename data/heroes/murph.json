@@ -34,6 +34,7 @@
     "high-volume",
     "running"
   ],
+  "description": "A mile run bookending 100 pull-ups, 200 push-ups, and 300 air squats, traditionally performed in a weighted vest and often partitioned into rounds of 5-10-20 \u2014 one of the most widely recognized Hero WODs.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08; partition pull-ups/push-ups/squats as needed, per official prescription",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

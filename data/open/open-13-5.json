@@ -31,6 +31,7 @@
     "gymnastics",
     "time-extension-ladder"
   ],
+  "description": "A fast 4-minute round of 15 thrusters and 15 chest-to-bar pull-ups \u2014 the shortest time cap in this collection.",
   "source_notes": "games.crossfit.com/workouts/open/2013/5 (official CrossFit Games Open workout), retrieved 2026-07-09; continuous 15/15 couplet; the 4-minute cap extends to 8 minutes if 90 total reps are completed, to 12 minutes at 180 reps, and to 16 minutes at 270 reps",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -40,6 +40,7 @@
     "dumbbell",
     "10-rounds"
   ],
+  "description": "Ten rounds of a farmers carry, weighted pull-ups, and alternating dumbbell power snatches \u2014 a grip-and-pulling-heavy circuit at high round count.",
   "source_notes": "crossfit.com/benchmark/nickman (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

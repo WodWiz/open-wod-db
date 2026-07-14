@@ -37,6 +37,7 @@
     "barbell",
     "4-rounds"
   ],
+  "description": "Four rounds of a 400m run followed by 24 back squats and 24 jerks \u2014 a running-anchored barbell couplet at fairly high rep counts for both lifts.",
   "source_notes": "crossfit.com/benchmark/bruck (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

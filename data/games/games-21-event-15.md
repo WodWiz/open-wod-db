@@ -1,5 +1,7 @@
 # 2021 Games Event 15
 
+A single round of a short row, a large chest-to-bar pull-up set, and three different loaded walking lunge variations.
+
 **For Time**
   Row 600m
   90 Chest To Bar Pull Up

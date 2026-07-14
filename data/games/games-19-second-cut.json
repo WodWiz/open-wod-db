@@ -37,6 +37,7 @@
     "kettlebell",
     "gymnastics"
   ],
+  "description": "An 800m row, a heavy double-kettlebell shoulder-to-overhead set, and a long handstand walk.",
   "source_notes": "games.crossfit.com/workouts/games/2019/2 (official CrossFit Games event), retrieved 2026-07-09; top 50 athletes advance",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

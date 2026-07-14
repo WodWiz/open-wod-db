@@ -52,6 +52,7 @@
     "barbell",
     "bodyweight"
   ],
+  "description": "A mirrored workout of shuttle runs, overhead squats, and burpees over the bar, performed forward and then back in reverse order.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2026/1 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09; 1-minute mandatory rest between the two burpee-over-the-bar sets; score includes the rest period",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

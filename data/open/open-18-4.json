@@ -90,6 +90,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A descending 21-15-9 deadlift ladder paired with handstand push-ups at one weight, then repeated at a much heavier weight paired with handstand walks instead.",
   "source_notes": "games.crossfit.com/workouts/open/2018/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

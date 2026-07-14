@@ -40,6 +40,7 @@
     "weighted",
     "high-volume"
   ],
+  "description": "The classic Murph Hero WOD, reused as a Games event for the second consecutive year.",
   "source_notes": "games.crossfit.com/workouts/games/2016/5 (official CrossFit Games event), retrieved 2026-07-09; the Hero WOD Murph, performed with a 20 lb (men) / 14 lb (women) weight vest and a 55-minute cap",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

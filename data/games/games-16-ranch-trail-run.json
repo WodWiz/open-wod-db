@@ -20,6 +20,7 @@
     "outdoor",
     "endurance"
   ],
+  "description": "A 7k trail run.",
   "source_notes": "games.crossfit.com/workouts/games/2016/1 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

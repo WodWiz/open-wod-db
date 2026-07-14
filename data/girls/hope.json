@@ -44,6 +44,7 @@
     "fgb-format",
     "station-based"
   ],
+  "description": "Five one-minute stations \u2014 burpees, power snatches, box jumps, thrusters, and chest-to-bar pull-ups \u2014 repeated for three rounds with a minute of rest between rounds, following the same station format as Fight Gone Bad.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

@@ -31,6 +31,7 @@
     "running",
     "barbell"
   ],
+  "description": "Five rounds of a 400m run paired with overhead squats \u2014 combines running-based conditioning with an overhead-stability barbell movement performed under fatigue.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

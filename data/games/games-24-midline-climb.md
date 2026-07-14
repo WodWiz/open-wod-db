@@ -1,5 +1,7 @@
 # Midline Climb
 
+A mirrored core-and-grip chipper of heavy deadlifts, rope climbs, ski-erg calories, and GHD sit-ups.
+
 **For Time**
   50 Deadlift (225lb/155lb)
   3 Rope Climb

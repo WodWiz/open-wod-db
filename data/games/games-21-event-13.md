@@ -1,5 +1,7 @@
 # 2021 Games Event 13
 
+Four rounds of GHD sit-ups, a weighted burpee over a hay bale, and a very heavy yoke carry, against tightening time windows.
+
 **Round 1**
 **For Time**
   20 Ghd Sit Up

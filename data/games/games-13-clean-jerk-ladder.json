@@ -22,6 +22,7 @@
     "barbell",
     "max-load"
   ],
+  "description": "An elimination-style clean and jerk ladder where the athlete picks a starting weight, then must make progressively heavier singles every 90 seconds or be eliminated.",
   "source_notes": "games.crossfit.com/workouts/games/2013/3 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

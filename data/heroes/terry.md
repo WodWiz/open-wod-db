@@ -1,5 +1,7 @@
 # Terry
 
+A mirrored chipper of three mile runs framing two rounds of push-ups and bear crawls.
+
 **For Time**
   Run 1609m
   100 Push Up

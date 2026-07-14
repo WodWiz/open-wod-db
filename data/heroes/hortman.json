@@ -28,6 +28,7 @@
     "running",
     "gymnastics"
   ],
+  "description": "A 45-minute AMRAP of an 800m run, 80 air squats, and 8 muscle-ups \u2014 one of the longer-format Hero WODs, built for sustained output rather than a short, intense round.",
   "source_notes": "crossfit.com/benchmark/hortman (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

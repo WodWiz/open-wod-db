@@ -29,6 +29,7 @@
     "barbell",
     "10-rounds"
   ],
+  "description": "Ten rounds of chest-to-bar pull-ups and front squats \u2014 a two-movement couplet at high round count.",
   "source_notes": "crossfit.com/benchmark/sean (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

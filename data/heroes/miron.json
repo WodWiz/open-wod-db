@@ -31,6 +31,7 @@
     "barbell",
     "5-rounds"
   ],
+  "description": "Five rounds of an 800m run followed by bodyweight-relative back squats and deadlifts \u2014 both barbell lifts are scaled to the athlete's own bodyweight rather than a fixed number.",
   "source_notes": "crossfit.com/benchmark/miron (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

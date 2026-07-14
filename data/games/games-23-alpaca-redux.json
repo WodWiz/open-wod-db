@@ -90,6 +90,7 @@
     "venue-equipment",
     "kettlebell"
   ],
+  "description": "A repeat of 2022's Alpaca sled-push-and-kettlebell chipper, with legless rope climbs added between rounds.",
   "source_notes": "games.crossfit.com/workouts/games/2023/4 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

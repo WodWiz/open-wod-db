@@ -1,5 +1,7 @@
 # Chipper (2012 Games)
 
+A mirrored chipper of overhead squats, box jump-overs, thrusters on a fat bar, power cleans, toes-to-bar, and burpee muscle-ups.
+
 **For Time**
   10 Overhead Squat (155lb/105lb)
   10 Box Jump Over

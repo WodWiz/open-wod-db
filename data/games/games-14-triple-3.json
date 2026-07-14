@@ -30,6 +30,7 @@
     "jump-rope",
     "endurance"
   ],
+  "description": "A single round of a 3000m row, 300 double-unders, and a 3-mile run.",
   "source_notes": "games.crossfit.com/workouts/games/2014/3 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

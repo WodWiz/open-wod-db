@@ -45,6 +45,7 @@
     "bodyweight",
     "running"
   ],
+  "description": "A descending push-up ladder (100 down to 25) paired with an ascending run distance after each set \u2014 the reps get easier as the runs get longer.",
   "source_notes": "crossfit.com/benchmark/capoot (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

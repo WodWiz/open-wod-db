@@ -39,6 +39,7 @@
     "gymnastics",
     "ladder"
   ],
+  "description": "The classic 21-15-9 thruster-and-pull-up couplet, reused directly as a Games event under its original name.",
   "source_notes": "games.crossfit.com/workouts/games/2012/7 (official CrossFit Games event), retrieved 2026-07-10; the classic Girl WOD Fran, reused as a Games event; contested by the top 12 athletes overall",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

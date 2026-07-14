@@ -1,5 +1,7 @@
 # Rope-Clean
 
+A descending rope-climb-and-clean-and-jerk ladder (5 down to 1) with the barbell getting heavier at every step.
+
 **For Time**
   5 Rope Climb
   5 Clean And Jerk (145lb/115lb)

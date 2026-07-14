@@ -21,6 +21,7 @@
     "outdoor",
     "endurance"
   ],
+  "description": "An approximately 5k trail run \u2014 one of the simplest events in Games history, pure running with no fixed course distance published.",
   "source_notes": "games.crossfit.com/workouts/games/2007/2 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; approx. 5k trail run, exact distance not precisely specified in available sources",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

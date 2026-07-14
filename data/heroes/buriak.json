@@ -36,6 +36,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A 20-minute AMRAP of squat cleans, bar-facing burpees, pull-ups, and a 200m run \u2014 a four-movement circuit built for sustained pacing rather than a short sprint.",
   "source_notes": "crossfit.com/benchmark/buriak (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

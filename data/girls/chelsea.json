@@ -31,6 +31,7 @@
     "bodyweight",
     "emom"
   ],
+  "description": "A 30-minute EMOM of a small pull-up, push-up, and air-squat triplet, testing whether an athlete can hold pace and quality for a full half hour rather than sprint a shorter piece.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

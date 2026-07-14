@@ -1,5 +1,7 @@
 # Dickies Triplet
 
+Five rounds of a short run, toes-to-bar, and heavy alternating dumbbell snatches.
+
 **5 rounds for time**
   Run 175m
   12 Toes To Bar

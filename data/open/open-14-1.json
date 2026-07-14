@@ -30,6 +30,7 @@
     "barbell",
     "jump-rope"
   ],
+  "description": "The same double-under-and-power-snatch AMRAP as 11.1, reused three years later.",
   "source_notes": "games.crossfit.com/workouts/open/2014/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

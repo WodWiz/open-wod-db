@@ -14,6 +14,7 @@
     "outdoor",
     "hill"
   ],
+  "description": "A run followed by a separately timed shuttle event of ascending sprint-and-sandbag-carry distances.",
   "source_notes": "games.crossfit.com/workouts/games/2024/4 (official CrossFit Games event), retrieved 2026-07-09; Phase 2 begins at a fixed clock time (12:00) regardless of when Phase 1 finishes",
   "schema_version": "1.1",
   "last_updated": "2026-07-09",

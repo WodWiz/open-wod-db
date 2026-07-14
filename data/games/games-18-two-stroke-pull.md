@@ -1,5 +1,7 @@
 # Two-Stroke Pull
 
+Five rounds of a run, assault bike calories, and a heavy sled pull.
+
 **5 rounds for time**
   Run 300m
   20 Assault Bike

@@ -32,6 +32,7 @@
     "barbell",
     "bodyweight"
   ],
+  "description": "A 30-minute AMRAP of heavy deadlifts, push-ups, and box jumps \u2014 a long-format triplet at modest, uneven rep counts.",
   "source_notes": "crossfit.com/benchmark/mcghee (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

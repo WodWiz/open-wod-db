@@ -1,5 +1,7 @@
 # Echo Thruster Final
 
+A descending echo-bike-and-thruster ladder, finishing with a heavy overhead walking lunge.
+
 **For Time**
   21 Echo Bike
   21 Thruster (115lb/85lb)

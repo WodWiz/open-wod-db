@@ -1,5 +1,7 @@
 # Pig Chipper
 
+A mirrored chipper of an over-the-shoulder ball flip bookending large sets of chest-to-bar pull-ups, toes-to-bar, and wall-ball shots.
+
 **For Time**
   10 D Ball Over Shoulder
   25 Chest To Bar Pull Up

@@ -48,6 +48,7 @@
     "gymnastics",
     "bodyweight-relative"
   ],
+  "description": "A descending 10-to-1 couplet of muscle-ups and bodyweight-relative clean and jerks, structurally similar to Linda but built around gymnastics and Olympic lifting rather than powerlifting-style strength.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

@@ -18,6 +18,7 @@
     "gymnastics",
     "time-extension-ladder"
   ],
+  "description": "A staged, ever-heavier squat-clean workout: each 4-minute block repeats the same toes-to-bar-and-double-under buy-in, then asks for fewer reps at a heavier clean weight, continuing only if the previous block was finished in time.",
   "source_notes": "games.crossfit.com/workouts/open/2016/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09",

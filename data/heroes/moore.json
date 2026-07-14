@@ -29,6 +29,7 @@
     "amrap",
     "gymnastics"
   ],
+  "description": "A 20-minute AMRAP of a rope climb and a 400m run, finishing each round with as many handstand push-ups as possible before starting over.",
   "source_notes": "crossfit.com/benchmark/moore (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

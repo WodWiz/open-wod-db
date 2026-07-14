@@ -33,6 +33,7 @@
     "barbell",
     "3-rounds"
   ],
+  "description": "Three rounds of a descending 21-15-9 gymnastics-and-barbell triplet \u2014 pull-ups, handstand push-ups, and thrusters \u2014 following the same scheme as Fran but with an added strict gymnastics movement.",
   "source_notes": "crossfit.com/benchmark/marco (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

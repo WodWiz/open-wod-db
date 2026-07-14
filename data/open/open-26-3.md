@@ -1,5 +1,7 @@
 # 26.3
 
+Three ascending-weight blocks of burpees-over-the-bar paired with cleans and thrusters, the barbell getting heavier at each stage.
+
 **Weight 1**
 **2 rounds for time**
   12 Burpee Over The Bar

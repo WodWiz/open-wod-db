@@ -1,5 +1,7 @@
 # Del
 
+A symmetric chipper of burpees, weighted pull-ups, handstand push-ups, and chest-to-bar pull-ups, with a medicine-ball-carry run separating every movement.
+
 **For Time**
   25 Burpee
   Run 400m

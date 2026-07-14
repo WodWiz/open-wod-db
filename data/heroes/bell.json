@@ -37,6 +37,7 @@
     "gymnastics",
     "3-rounds"
   ],
+  "description": "Three rounds of a descending-rep barbell-and-gymnastics triplet \u2014 21 deadlifts, 15 pull-ups, and 9 front squats \u2014 at the same barbell weight for both lifts.",
   "source_notes": "crossfit.com/benchmark/bell (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

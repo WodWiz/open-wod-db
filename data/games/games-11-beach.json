@@ -44,6 +44,7 @@
     "bodyweight",
     "endurance"
   ],
+  "description": "A beach event of a swim and soft-sand run bookending chest-to-bar pull-ups, hand-release push-ups, and air squats.",
   "source_notes": "games.crossfit.com/workouts/games/2011/1 (official CrossFit Games event), retrieved 2026-07-10",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

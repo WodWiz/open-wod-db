@@ -22,6 +22,7 @@
     "barbell",
     "max-load"
   ],
+  "description": "A one-rep-max snatch test \u2014 pure strength, no fixed Rx weight.",
   "source_notes": "games.crossfit.com/workouts/games/2009/6 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

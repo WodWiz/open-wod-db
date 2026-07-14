@@ -38,6 +38,7 @@
     "kettlebell",
     "gymnastics"
   ],
+  "description": "A companion event to Pedal to the Metal 1, swapping in parallette handstand push-ups and a heavy kettlebell deadlift for the pegboard and dumbbell snatch.",
   "source_notes": "games.crossfit.com/workouts/games/2015/13 (official CrossFit Games event), retrieved 2026-07-09; the final individual event of the 2015 Games, contested immediately after Pedal to the Metal 1",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

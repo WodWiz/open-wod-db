@@ -1,5 +1,7 @@
 # 20.5
 
+A single-round chipper of muscle-ups, rowing calories, and wall-ball shots.
+
 **For Time**
   40 Muscle Up
   80 Row

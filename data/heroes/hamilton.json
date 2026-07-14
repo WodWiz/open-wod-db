@@ -34,6 +34,7 @@
     "bodyweight",
     "3-rounds"
   ],
+  "description": "Three rounds of a 1000m row and a 1000m run, each followed by 50 reps of push-ups or pull-ups \u2014 pairing two different monostructural pieces with bodyweight work.",
   "source_notes": "crossfit.com/benchmark/hamilton (official CrossFit Hero WOD page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

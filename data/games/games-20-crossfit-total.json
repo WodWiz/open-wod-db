@@ -32,6 +32,7 @@
     "barbell",
     "max-load"
   ],
+  "description": "The classic CrossFit Total benchmark, repeated as a separate Games event two years after 2018's version.",
   "source_notes": "games.crossfit.com/workouts/games/2020/10 (official CrossFit Games event), retrieved 2026-07-09; score is the combined total of all three best lifts",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

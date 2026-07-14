@@ -34,6 +34,7 @@
     "open-water",
     "endurance"
   ],
+  "description": "A mirrored run-swim-run event bookending a middle-distance swim with two 1.5-mile runs.",
   "source_notes": "games.crossfit.com/workouts/games/2017/1 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

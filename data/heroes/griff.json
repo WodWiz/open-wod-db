@@ -31,6 +31,7 @@
     "running",
     "single-modality"
   ],
+  "description": "A pure running chipper alternating 800m forward runs with 400m backward runs, repeated twice.",
   "source_notes": "crossfit.com/benchmark/griff (official CrossFit Hero WOD page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

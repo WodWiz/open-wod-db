@@ -34,6 +34,7 @@
     "weight-vest-optional",
     "3-rounds"
   ],
+  "description": "Three rounds of an ascending gymnastics ladder \u2014 9 muscle-ups, 15 burpee pull-ups, and 21 pull-ups \u2014 each round closing with an 800m run.",
   "source_notes": "crossfit.com/benchmark/mccluskey (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx adds an optional 20 lb vest or body armor if available",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -28,6 +28,7 @@
     "amrap",
     "gymnastics"
   ],
+  "description": "A 25-minute AMRAP of handstand push-ups, box jumps, and a single rope climb each round \u2014 a longer-format gymnastics-heavy triplet.",
   "source_notes": "crossfit.com/benchmark/falkel (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

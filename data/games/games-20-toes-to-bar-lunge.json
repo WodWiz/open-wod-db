@@ -38,6 +38,7 @@
     "kettlebell",
     "ladder"
   ],
+  "description": "A descending toes-to-bar ladder paired with a descending double-kettlebell front-rack lunge, measured by distance walked.",
   "source_notes": "games.crossfit.com/workouts/games/2020/13 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

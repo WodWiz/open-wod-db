@@ -126,6 +126,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A descending complex spanning deadlift, clean, snatch, pull-up, chest-to-bar pull-up, and bar muscle-up, all at one fixed barbell weight.",
   "source_notes": "games.crossfit.com/workouts/games/2014/6 (official CrossFit Games event), retrieved 2026-07-09; named for its three descending stages, though the actual rep scheme is 8-7-6, 6-5-4, 4-3-2 rather than literal 21-15-9",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -29,6 +29,7 @@
     "barbell",
     "7-rounds"
   ],
+  "description": "Seven rounds of a 400m run followed by 29 back squats \u2014 a running-and-squat couplet repeated at high round count.",
   "source_notes": "crossfit.com/benchmark/manion (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

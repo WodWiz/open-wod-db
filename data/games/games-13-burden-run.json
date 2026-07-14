@@ -39,6 +39,7 @@
     "running",
     "outdoor"
   ],
+  "description": "A long endurance chipper of running, an over-the-shoulder object flip, a heavy log carry, and a sled drag.",
   "source_notes": "games.crossfit.com/workouts/games/2013/2 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

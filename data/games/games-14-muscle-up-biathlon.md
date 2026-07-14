@@ -1,5 +1,7 @@
 # Muscle-Up Biathlon
 
+A descending muscle-up ladder with a 400m run before each set.
+
 **For Time**
   Run 400m
   18 Muscle Up

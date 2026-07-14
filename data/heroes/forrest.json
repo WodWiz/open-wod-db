@@ -33,6 +33,7 @@
     "bodyweight",
     "3-rounds"
   ],
+  "description": "Three rounds of l-pull-ups, toes-to-bar, and burpees at escalating volume, capped with an 800m run each round.",
   "source_notes": "crossfit.com/benchmark/forrest (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

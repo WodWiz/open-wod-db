@@ -45,6 +45,7 @@
     "rowing",
     "interval"
   ],
+  "description": "Four one-minute max-rep stations \u2014 heavy snatches, rowing calories, and dumbbell box step-ups \u2014 each separated by a minute of rest.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2024/1 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09; 4 rounds of 1 minute each of snatch, row, dumbbell box step-up, with 1 minute of rest after each round, scored by total reps across all rounds",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

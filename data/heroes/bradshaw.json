@@ -37,6 +37,7 @@
     "gymnastics",
     "10-rounds"
   ],
+  "description": "Ten rounds of a short combo \u2014 3 handstand push-ups, 6 deadlifts, 12 pull-ups, and 24 double-unders \u2014 repeated as a fixed circuit rather than building further.",
   "source_notes": "crossfit.com/benchmark/bradshaw (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

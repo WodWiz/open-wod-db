@@ -32,6 +32,7 @@
     "gymnastics",
     "bodyweight-relative"
   ],
+  "description": "Five rounds of max-rep hang power snatches at a bodyweight-relative load and max-rep handstand push-ups, scored by total reps \u2014 pairs a loaded pull with strict overhead gymnastics.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

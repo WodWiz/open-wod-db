@@ -40,6 +40,7 @@
     "bodyweight",
     "barbell"
   ],
+  "description": "A 20-minute AMRAP built on the classic pull-up, push-up, and air-squat triplet with an added second pull-up set and a thruster finisher each round.",
   "source_notes": "crossfit.com/benchmark/artie (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

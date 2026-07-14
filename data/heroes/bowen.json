@@ -47,6 +47,7 @@
     "kettlebell",
     "3-rounds"
   ],
+  "description": "Three rounds of an 800m run followed by heavy deadlifts, burpee pull-ups, single-arm kettlebell thrusters, and box jumps \u2014 a running-anchored circuit with a long, varied tail.",
   "source_notes": "crossfit.com/benchmark/bowen (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -50,6 +50,7 @@
     "kettlebell",
     "3-rounds"
   ],
+  "description": "Three rounds of three different run distances, each paired with a different movement \u2014 a heavy low-rep front squat, chest-to-bar pull-ups, and kettlebell swings.",
   "source_notes": "crossfit.com/benchmark/willy (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

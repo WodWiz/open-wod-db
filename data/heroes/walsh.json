@@ -39,6 +39,7 @@
     "running",
     "4-rounds"
   ],
+  "description": "Four rounds of burpee pull-ups and heavy back squats, finishing each round with a 200m run carrying a plate overhead.",
   "source_notes": "crossfit.com/benchmark/walsh (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

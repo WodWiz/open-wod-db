@@ -38,6 +38,7 @@
     "gymnastics",
     "4-rounds"
   ],
+  "description": "Four rounds of heavy deadlifts, burpees, rope climbs, and a 600m run.",
   "source_notes": "crossfit.com/benchmark/ralph (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

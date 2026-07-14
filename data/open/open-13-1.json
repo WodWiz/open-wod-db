@@ -67,6 +67,7 @@
     "barbell",
     "bodyweight"
   ],
+  "description": "A 17-minute workout combining a descending burpee ladder with an ascending-load snatch ladder, finishing with max snatches at the heaviest weight for any remaining time.",
   "source_notes": "games.crossfit.com/workouts/open/2013/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

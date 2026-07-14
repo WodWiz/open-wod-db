@@ -62,6 +62,7 @@
     "gymnastics",
     "ladder"
   ],
+  "description": "A four-movement descending ladder (30 down to 5) of GHD sit-ups, back extensions, knees-to-elbows, and stiff-legged deadlifts \u2014 entirely core-and-posterior-chain focused.",
   "source_notes": "crossfit.com/benchmark/stephen (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

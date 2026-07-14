@@ -27,6 +27,7 @@
     "max-load",
     "ladder"
   ],
+  "description": "A deadlift ladder adding 10 lb every 30 seconds until failure \u2014 rewards both starting strength and the ability to keep making lifts as the bar gets heavier.",
   "source_notes": "games.crossfit.com/workouts/games/2009/2 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

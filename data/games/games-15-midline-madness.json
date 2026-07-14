@@ -32,6 +32,7 @@
     "venue-equipment",
     "running"
   ],
+  "description": "Six rounds of a 400m run and a heavy yoke carry.",
   "source_notes": "games.crossfit.com/workouts/games/2015/11 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

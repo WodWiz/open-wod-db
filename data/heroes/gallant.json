@@ -40,6 +40,7 @@
     "running",
     "gymnastics"
   ],
+  "description": "A descending run-and-burpee-pull-up ladder \u2014 each run is carried with a medicine ball, and both the run distance and burpee pull-up count halve at each stage.",
   "source_notes": "crossfit.com/benchmark/gallant (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

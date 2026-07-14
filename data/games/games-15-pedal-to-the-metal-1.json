@@ -42,6 +42,7 @@
     "rowing",
     "dumbbell"
   ],
+  "description": "A short round of pegboard ascents, rowing and biking calories, and a squat-style dumbbell snatch.",
   "source_notes": "games.crossfit.com/workouts/games/2015/12 (official CrossFit Games event), retrieved 2026-07-09; introduced the pegboard to Games competition for the first time",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

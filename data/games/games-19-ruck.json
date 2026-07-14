@@ -55,6 +55,7 @@
     "weighted",
     "endurance"
   ],
+  "description": "Four 1500m runs, each with a heavier weighted ruck than the last.",
   "source_notes": "games.crossfit.com/workouts/games/2019/3 (official CrossFit Games event), retrieved 2026-07-09; 4 laps of the same 1,500 m course, adding weight each lap (same for both divisions); top 40 athletes advance",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -32,6 +32,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A 25-minute AMRAP of chest-to-bar pull-ups, heavy deadlifts, and handstand push-ups \u2014 a long-format triplet at low, even reps.",
   "source_notes": "crossfit.com/benchmark/zimmerman (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

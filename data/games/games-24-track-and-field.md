@@ -1,5 +1,7 @@
 # Track and Field
 
+A run followed by a separately timed shuttle event of ascending sprint-and-sandbag-carry distances.
+
 **Phase 1**
 **For Time**
   Run 1600m

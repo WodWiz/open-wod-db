@@ -72,6 +72,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A chipper repeating wall climbs before each of four different movements \u2014 rowing, a deadlift set, a clean set, and a snatch set \u2014 bookended by matching rowing pieces.",
   "source_notes": "games.crossfit.com/workouts/open/2025/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

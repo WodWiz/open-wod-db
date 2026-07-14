@@ -47,6 +47,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "The same descending five-movement chipper-style AMRAP as 14.4, reused nearly a decade later.",
   "source_notes": "games.crossfit.com/workouts/open/2023/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

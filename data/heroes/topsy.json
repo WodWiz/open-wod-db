@@ -33,6 +33,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A 25-minute AMRAP of ring muscle-ups, thrusters, and a rowing calorie piece.",
   "source_notes": "crossfit.com/benchmark/topsy (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

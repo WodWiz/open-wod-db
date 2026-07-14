@@ -45,6 +45,7 @@
     "running",
     "5-rounds"
   ],
+  "description": "Five rounds of a five-movement circuit \u2014 kettlebell swings, box jumps, a 400m run, burpees, and wall-ball shots \u2014 all at 22 reps.",
   "source_notes": "crossfit.com/benchmark/whitten (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

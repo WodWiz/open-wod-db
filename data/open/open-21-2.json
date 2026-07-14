@@ -37,6 +37,7 @@
     "dumbbell",
     "bodyweight"
   ],
+  "description": "The same ascending dumbbell snatch ladder with burpee box jump-overs as 17.1, reused four years later.",
   "source_notes": "games.crossfit.com/workouts/open/2021/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

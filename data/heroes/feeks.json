@@ -44,6 +44,7 @@
     "dumbbell",
     "ladder"
   ],
+  "description": "An ascending ladder (2 up to 16) of 100m shuttle sprints paired with dumbbell squat clean-thrusters at matching rep counts each round.",
   "source_notes": "crossfit.com/benchmark/feeks (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

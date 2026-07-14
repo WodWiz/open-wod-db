@@ -33,6 +33,7 @@
     "gymnastics",
     "5-rounds"
   ],
+  "description": "Five rounds of handstand push-ups, pull-ups, and alternating pistols at escalating per-movement volume \u2014 a gymnastics-heavy sibling of Mary, compressed into a fixed five-round interval rather than an open AMRAP.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

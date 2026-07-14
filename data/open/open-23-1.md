@@ -1,5 +1,7 @@
 # 23.1
 
+The same descending five-movement chipper-style AMRAP as 14.4, reused nearly a decade later.
+
 **For Time**
   60 Row
   50 Toes To Bar

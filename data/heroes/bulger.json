@@ -38,6 +38,7 @@
     "gymnastics",
     "10-rounds"
   ],
+  "description": "Ten rounds of a short 150m run, 7 chest-to-bar pull-ups, 7 front squats, and 7 handstand push-ups \u2014 the same small combo repeated at a high round count.",
   "source_notes": "crossfit.com/benchmark/bulger (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

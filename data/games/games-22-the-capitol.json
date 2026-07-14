@@ -43,6 +43,7 @@
     "venue-equipment",
     "outdoor"
   ],
+  "description": "A long chipper of an over-the-shoulder ball flip and a 3.5-mile run, finishing with two heavy carries.",
   "source_notes": "games.crossfit.com/workouts/games/2022/5 (official CrossFit Games event), retrieved 2026-07-09; course runs from Alliant Energy Center to the Wisconsin State Capitol; reps/distances/loads are fixed and standardized despite the location-specific route",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

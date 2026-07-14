@@ -49,6 +49,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A chipper bookended by plate-carry runs, with high-rep toes-to-bar, heavy front squats, and rope climbs in between.",
   "source_notes": "crossfit.com/benchmark/liam (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

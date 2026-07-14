@@ -1,5 +1,7 @@
 # Gunny
 
+Three weighted mile runs bookending two rounds of push-ups and sit-ups.
+
 **For Time**
   Run 1609m
   50 Push Up

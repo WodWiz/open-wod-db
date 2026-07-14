@@ -1,5 +1,7 @@
 # Double Banger
 
+Three rounds of double-unders finishing on a different sledgehammer-strike target each time.
+
 **For Time**
   50 Double Under
   Sledgehammer Strike

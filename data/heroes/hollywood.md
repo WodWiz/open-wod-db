@@ -1,5 +1,7 @@
 # Hollywood
 
+A chipper bookended by 2000m runs, with wall-ball shots separating a muscle-up set from a heavy power clean set in the middle.
+
 **For Time**
   Run 2000m
   22 Wall Ball Shot (30lb/20lb)

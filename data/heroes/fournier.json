@@ -48,6 +48,7 @@
     "barbell",
     "sled"
   ],
+  "description": "A chipper of shoulder-to-overhead, burpees, and sumo deadlift high pulls, broken up by three heavy arm-over-arm sled pulls.",
   "source_notes": "crossfit.com/benchmark/fournier (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

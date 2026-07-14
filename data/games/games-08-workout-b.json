@@ -31,6 +31,7 @@
     "barbell",
     "5-rounds"
   ],
+  "description": "Five rounds of heavy deadlifts and burpees within a 12-minute cap.",
   "source_notes": "games.crossfit.com/workouts/games/2008/4 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

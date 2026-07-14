@@ -14,6 +14,7 @@
     "barbell",
     "running"
   ],
+  "description": "Three escalating rounds of a run and max-rep jerks in the time remaining, the run getting longer each round.",
   "source_notes": "games.crossfit.com/workouts/games/2022/4 (official CrossFit Games event), retrieved 2026-07-09; scored as two separate events: total time to complete the three runs, and cumulative jerks across all rounds",
   "schema_version": "1.1",
   "last_updated": "2026-07-09",

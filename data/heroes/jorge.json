@@ -38,6 +38,7 @@
     "gymnastics",
     "ladder"
   ],
+  "description": "A descending couplet of GHD sit-ups and squat cleans, the sit-ups dropping by 6 and the cleans by 3 each round.",
   "source_notes": "crossfit.com/benchmark/jorge (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

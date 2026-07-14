@@ -90,6 +90,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A chipper alternating box jumps (later pistols) with an ascending clean-and-jerk ladder that gets heavier and lower-rep at each step.",
   "source_notes": "games.crossfit.com/workouts/open/2020/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

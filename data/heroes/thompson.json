@@ -29,6 +29,7 @@
     "10-rounds",
     "gymnastics"
   ],
+  "description": "Ten rounds of a rope climb starting from a seated position, a heavy back squat set, and a farmers carry.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

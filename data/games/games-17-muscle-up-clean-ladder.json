@@ -32,6 +32,7 @@
     "gymnastics",
     "ladder"
   ],
+  "description": "Eight rounds of bar muscle-ups and heavy cleans.",
   "source_notes": "games.crossfit.com/workouts/games/2017/9 (official CrossFit Games event), retrieved 2026-07-09; clean load increases each round: 225-245-265-285-305-320-335-350 lb (men), 145-160-175-190-205-215-225-235 lb (women)",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

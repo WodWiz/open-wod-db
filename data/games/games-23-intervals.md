@@ -1,5 +1,7 @@
 # Intervals
 
+Two mirrored intervals of box jump-overs, rowing calories, and burpee box jump-overs, the movement order flipped between the two.
+
 **Interval 1**
 **For Time**
   21 Box Jump Over

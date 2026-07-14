@@ -26,6 +26,7 @@
     "running",
     "weight-vest"
   ],
+  "description": "A chipper of 50 strict pull-ups and 100 hand-release push-ups finishing with a 5k run \u2014 gymnastics volume up front, pure endurance at the end.",
   "source_notes": "crossfit.com/benchmark/severin (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx includes a 20 lb (men) / 14 lb (women) weight vest",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

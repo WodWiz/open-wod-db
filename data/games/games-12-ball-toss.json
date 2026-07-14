@@ -25,6 +25,7 @@
     "venue-equipment",
     "max-effort"
   ],
+  "description": "A seated medicine-ball throw for distance from a GHD machine.",
   "source_notes": "games.crossfit.com/workouts/games/2012/1 (official CrossFit Games event), retrieved 2026-07-10",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

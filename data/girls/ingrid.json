@@ -32,6 +32,7 @@
     "barbell",
     "10-rounds"
   ],
+  "description": "Ten rounds of three snatches and three burpees over the bar \u2014 Grettel's snatch-based counterpart, the same rep and round scheme built around the more technical lift.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"
