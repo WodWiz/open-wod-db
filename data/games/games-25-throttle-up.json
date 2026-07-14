@@ -30,6 +30,7 @@
     "gymnastics",
     "weight-vest"
   ],
+  "description": "A single round of ski-erg calories, chest-to-bar pull-ups, and burpee box jump-overs.",
   "source_notes": "games.crossfit.com/workouts/games/2025/6 (official CrossFit Games event), retrieved 2026-07-09; performed wearing a 22 lb (men) / 16 lb (women) weight vest throughout",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

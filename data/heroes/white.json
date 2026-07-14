@@ -40,6 +40,7 @@
     "running",
     "5-rounds"
   ],
+  "description": "Five rounds of rope climbs, toes-to-bar, overhead plate lunges, and a 400m run.",
   "source_notes": "crossfit.com/benchmark/white-hero (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

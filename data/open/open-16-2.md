@@ -1,5 +1,7 @@
 # 16.2
 
+A staged, ever-heavier squat-clean workout: each 4-minute block repeats the same toes-to-bar-and-double-under buy-in, then asks for fewer reps at a heavier clean weight, continuing only if the previous block was finished in time.
+
 **0:00-4:00**
 **For Time**
   25 Toes To Bar

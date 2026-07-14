@@ -1,5 +1,7 @@
 # 19.2
 
+A staged, ever-heavier squat-clean workout similar to 16.2's toes-to-bar-and-double-under buy-in structure, but frontloading two clean weights into the first 8-minute block before the later blocks add just one weight each.
+
 **0:00-8:00**
 **For Time**
   25 Toes To Bar

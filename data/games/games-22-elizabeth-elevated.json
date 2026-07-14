@@ -43,6 +43,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A descending squat-clean-and-bar-dip couplet, the dips split into unbroken sets each starting with a parallel bar traverse \u2014 a harder variant of the classic Elizabeth.",
   "source_notes": "games.crossfit.com/workouts/games/2022/3 (official CrossFit Games event), retrieved 2026-07-09; time cap 10 minutes (men) / 12 minutes (women)",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

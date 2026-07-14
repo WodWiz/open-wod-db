@@ -41,6 +41,7 @@
     "bodyweight",
     "4-rounds"
   ],
+  "description": "Four rounds of an ascending pull-up progression \u2014 l-pull-ups, then chest-to-bar, then regular pull-ups \u2014 with push-ups threaded between each variation.",
   "source_notes": "crossfit.com/benchmark/weaver (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

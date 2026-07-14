@@ -37,6 +37,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A 21-15-9 couplet of squat cleans and ring dips at a fixed barbell load, pairing a full-body Olympic lift with a gymnastics ring skill.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

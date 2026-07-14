@@ -1,5 +1,7 @@
 # All Crossed Up
 
+A chipper of wall climbs, heavy dumbbell shoulder-to-overhead, crossover single-unders, and toes-to-bar, repeated across three waves.
+
 **For Time**
   20 Wall Climb
   10 Dumbbell Shoulder To Overhead (100lb/70lb)

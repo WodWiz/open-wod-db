@@ -1,5 +1,7 @@
 # 25.2
 
+The same three-part descending pull-up-variation-and-thruster chipper as 22.3, reused the following year.
+
 **For Time**
   21 Pull Up
   42 Double Under

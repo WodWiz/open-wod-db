@@ -36,6 +36,7 @@
     "bodyweight",
     "5-rounds"
   ],
+  "description": "Five rounds of the same bodyweight quartet as Angie at lower per-round volume, with a mandatory three-minute rest between rounds \u2014 the rest windows are part of the prescription, not just recovery.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

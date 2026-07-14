@@ -1,5 +1,7 @@
 import json, os
 
+from wod_descriptions import DESCRIPTIONS
+
 OUT = os.path.join(os.path.dirname(__file__), "..", "data", "heroes")
 os.makedirs(OUT, exist_ok=True)
 SRC = "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08"
@@ -15,6 +17,7 @@ def w(id, name, format, movements, format_meta=None, tags=None, notes=None):
         "scaling": None,
         "origin": None,
         "tags": tags or [],
+        "description": DESCRIPTIONS.get(id),
         "source_notes": notes or SRC,
         "schema_version": VER,
         "last_updated": TODAY,

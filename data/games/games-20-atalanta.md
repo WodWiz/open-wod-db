@@ -1,5 +1,7 @@
 # Atalanta
 
+A mirrored mile-run bookend around large volumes of handstand push-ups, alternating pistols, and pull-ups, all performed in a weighted vest.
+
 **For Time**
   Run 1609m
   100 Handstand Push Up

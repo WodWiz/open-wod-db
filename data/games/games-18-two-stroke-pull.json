@@ -37,6 +37,7 @@
     "venue-equipment",
     "running"
   ],
+  "description": "Five rounds of a run, assault bike calories, and a heavy sled pull.",
   "source_notes": "games.crossfit.com/workouts/games/2018/12 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

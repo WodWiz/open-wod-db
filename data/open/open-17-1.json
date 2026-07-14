@@ -37,6 +37,7 @@
     "dumbbell",
     "bodyweight"
   ],
+  "description": "An ascending dumbbell snatch ladder (10 up to 50) with 15 burpee box jump-overs inserted between every set.",
   "source_notes": "games.crossfit.com/workouts/open/2017/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -1,5 +1,7 @@
 # 20.3
 
+The same descending deadlift-and-handstand-push-up/walk ladder as 18.4, reused the following year.
+
 **For Time**
   21 Deadlift (225lb/155lb)
   21 Handstand Push Up

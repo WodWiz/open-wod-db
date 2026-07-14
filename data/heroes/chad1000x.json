@@ -23,6 +23,7 @@
     "single-movement",
     "high-volume"
   ],
+  "description": "1,000 weighted box step-ups performed wearing a ruck \u2014 a single-movement volume test with no other movements involved.",
   "source_notes": "crossfit.com/benchmark/chad1000x (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

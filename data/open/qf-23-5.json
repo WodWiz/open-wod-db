@@ -55,6 +55,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A three-step descending deadlift ladder that gets heavier at each step, pairing it with an increasingly demanding gymnastics skill \u2014 chest-to-bar pull-ups, then bar muscle-ups, then rope climbs.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2023/5 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

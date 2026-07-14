@@ -27,6 +27,7 @@
     "high-volume",
     "weight-vest-optional"
   ],
+  "description": "Two 1.5-mile runs bookending 150 burpees \u2014 a running-first chipper with one large bodyweight movement in the middle.",
   "source_notes": "crossfit.com/benchmark/riley (official CrossFit Hero WOD page), retrieved 2026-07-08; official Rx adds an optional load: 'If you've got a weight vest or body armor, wear it.'",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

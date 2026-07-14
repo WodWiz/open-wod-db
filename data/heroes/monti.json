@@ -48,6 +48,7 @@
     "barbell",
     "5-rounds"
   ],
+  "description": "Five rounds of two loaded barbell step-up sets bookending a clean set and a snatch set \u2014 a step-up-heavy circuit built around two different Olympic lifts.",
   "source_notes": "crossfit.com/benchmark/monti (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

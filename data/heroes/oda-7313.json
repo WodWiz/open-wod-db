@@ -45,6 +45,7 @@
     "gymnastics",
     "7-rounds"
   ],
+  "description": "Seven rounds of a jogging run, single-arm dumbbell thrusters split between arms, and strict pull-ups.",
   "source_notes": "crossfit.com/benchmark/oda-7313 (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -53,6 +53,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A 12-minute AMRAP alternating a dumbbell-lunge, toes-to-bar, and power-clean round with a dumbbell-lunge, bar-muscle-up, and power-clean round.",
   "source_notes": "games.crossfit.com/workouts/open/2017/2 (official CrossFit Games Open workout), retrieved 2026-07-09; alternates toes-to-bar and bar-muscle-ups every other round; power clean load increases with each pass (per official movement standards)",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

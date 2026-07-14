@@ -39,6 +39,7 @@
     "gymnastics",
     "ladder"
   ],
+  "description": "An ascending heavy-deadlift-and-freestanding-handstand-push-up ladder (6-10-14).",
   "source_notes": "games.crossfit.com/workouts/games/2021/14 (official CrossFit Games event), retrieved 2026-07-09; introduced freestanding handstand push-ups to the Games for the first time",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

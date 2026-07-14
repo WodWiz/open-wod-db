@@ -34,6 +34,7 @@
     "barbell",
     "single-movement"
   ],
+  "description": "A 5-minute AMRAP alternating single reps of a squat clean and a jerk at one fixed barbell weight.",
   "source_notes": "games.crossfit.com/workouts/open/2011/3 (official CrossFit Games Open workout), retrieved 2026-07-09; one round = one squat clean + one jerk; the clean must be completed before the jerk is attempted",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -55,6 +55,7 @@
     "barbell",
     "ladder"
   ],
+  "description": "A descending thruster ladder (21-15-9) with a pegboard ascent before each set.",
   "source_notes": "games.crossfit.com/workouts/games/2016/15 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

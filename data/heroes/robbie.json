@@ -24,6 +24,7 @@
     "amrap",
     "gymnastics"
   ],
+  "description": "A 25-minute AMRAP of freestanding handstand push-ups and an L-sit rope climb \u2014 two of the more advanced gymnastics skills in this dataset, paired at very low reps.",
   "source_notes": "crossfit.com/benchmark/robbie (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

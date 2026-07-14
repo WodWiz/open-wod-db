@@ -52,6 +52,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A single round of a short row, a large chest-to-bar pull-up set, and three different loaded walking lunge variations.",
   "source_notes": "games.crossfit.com/workouts/games/2021/15 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

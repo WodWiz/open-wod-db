@@ -18,6 +18,7 @@
     "gymnastics",
     "time-extension-ladder"
   ],
+  "description": "A staged workout pairing three-round blocks of chest-to-bar pull-ups and squat snatches, each new block trading fewer snatch reps for a heavier bar, continuing only if the prior block finished on time.",
   "source_notes": "games.crossfit.com/workouts/open/2017/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09",

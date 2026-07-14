@@ -1,5 +1,7 @@
 # The Hopper Workout
 
+A 1000m row done once, followed by five rounds of pull-ups and push jerks.
+
 **Row**
 **For Time**
   Row 1000m

@@ -41,6 +41,7 @@
     "barbell",
     "ladder"
   ],
+  "description": "A six-step descending ladder (21 down to 3, by threes) of front squats and bar-facing burpees.",
   "source_notes": "crossfit.com/benchmark/larry (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -32,6 +32,7 @@
     "running",
     "endurance"
   ],
+  "description": "A large-volume chipper of 100 heavy thrusters, 100 chest-to-bar pull-ups, and a 6-mile run, partitioned however the athlete chooses.",
   "source_notes": "crossfit.com/benchmark/spehar (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

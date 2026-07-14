@@ -40,6 +40,7 @@
     "bodyweight",
     "gymnastics"
   ],
+  "description": "An ascending couplet of wall climbs and double-unders, both climbing through the same six-step scheme.",
   "source_notes": "games.crossfit.com/workouts/open/2021/1 (official CrossFit Games Open workout), retrieved 2026-07-09; bodyweight only, no Rx load",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

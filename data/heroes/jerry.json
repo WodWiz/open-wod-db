@@ -26,6 +26,7 @@
     "rowing",
     "endurance"
   ],
+  "description": "Two mile runs bookending a 2000m row \u2014 a pure monostructural piece with no barbell or gymnastics work at all.",
   "source_notes": "crossfit.com/benchmark/jerry (official CrossFit Hero WOD page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

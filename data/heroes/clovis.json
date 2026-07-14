@@ -23,6 +23,7 @@
     "gymnastics",
     "endurance"
   ],
+  "description": "A 10-mile run combined with 150 burpee pull-ups, partitioned however the athlete chooses \u2014 an endurance-first chipper with a large gymnastics finisher.",
   "source_notes": "crossfit.com/benchmark/clovis (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

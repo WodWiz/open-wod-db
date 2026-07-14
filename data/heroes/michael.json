@@ -29,6 +29,7 @@
     "bodyweight",
     "3-rounds"
   ],
+  "description": "Three rounds of an 800m run followed by back extensions and sit-ups \u2014 a running-and-core couplet.",
   "source_notes": "crossfit.com/benchmark/michael (official CrossFit Hero WOD page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

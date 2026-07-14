@@ -1,5 +1,7 @@
 # The Beach
 
+A mirrored chipper of ocean swims bookending kettlebell thrusters and burpees.
+
 **For Time**
   Swim 229m
   50 Kettlebell Thruster (35lb/24lb)

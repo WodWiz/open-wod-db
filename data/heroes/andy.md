@@ -1,5 +1,7 @@
 # Andy
 
+A mirrored chipper — thrusters, box jumps, and deadlifts building in volume toward a 1.5-mile run at the midpoint, then unwinding back through the same movements in reverse.
+
 **For Time**
   25 Thruster (115lb/75lb)
   50 Box Jump

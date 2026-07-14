@@ -93,6 +93,7 @@
     "barbell",
     "running"
   ],
+  "description": "Three rounds of a 16-rep barbell triplet \u2014 deadlift, hang power clean, and push press \u2014 each round finishing with an 800m run.",
   "source_notes": "crossfit.com/benchmark/matt-16 (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -1,5 +1,7 @@
 # 21.3
 
+Three back-to-back parts sharing the same front-squat-and-thruster bookends, each swapping in a harder gymnastics movement between them — toes-to-bar, then chest-to-bar pull-ups, then bar muscle-ups.
+
 **Part 1**
 **For Time**
   15 Front Squat (95lb/65lb)

@@ -50,6 +50,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A symmetric chipper bookended by 50 pull-ups, with a longer middle run and two sets of 21 thrusters framing it.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

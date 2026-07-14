@@ -36,6 +36,7 @@
     "max-load",
     "complex"
   ],
+  "description": "A one-rep-max barbell complex \u2014 deadlift into clean into hang clean into jerk \u2014 performed on the same bar without re-gripping or dropping between lifts.",
   "source_notes": "games.crossfit.com/workouts/open/2021/4 (official CrossFit Games Open workout), retrieved 2026-07-09; max-load complex -- athlete determines and builds their own barbell load (score is the heaviest complex completed), so there is no prescribed Rx weight; time begins immediately after 21.3",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

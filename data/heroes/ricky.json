@@ -36,6 +36,7 @@
     "dumbbell",
     "barbell"
   ],
+  "description": "A 20-minute AMRAP of pull-ups, dumbbell deadlifts, and push press \u2014 a compact triplet mixing dumbbell and barbell loading.",
   "source_notes": "crossfit.com/benchmark/ricky (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

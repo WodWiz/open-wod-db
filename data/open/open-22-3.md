@@ -1,5 +1,7 @@
 # 22.3
 
+A three-part descending chipper that swaps in a harder pull-up variation and a heavier thruster load at each step.
+
 **For Time**
   21 Pull Up
   42 Double Under

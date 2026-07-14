@@ -47,6 +47,7 @@
     "barbell",
     "ascending"
   ],
+  "description": "An 8-minute workout pairing an ascending handstand push-up ladder with an unevenly stepped clean ladder at one fixed heavy weight.",
   "source_notes": "games.crossfit.com/workouts/open/2015/4 (official CrossFit Games Open workout), retrieved 2026-07-09; handstand push-ups increase by 3 reps every round; clean reps increase by 3 every 3rd round; pattern continues indefinitely until the 8-minute cap",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

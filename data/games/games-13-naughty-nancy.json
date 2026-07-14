@@ -34,6 +34,7 @@
     "outdoor",
     "4-rounds"
   ],
+  "description": "Four rounds of a hill run over a berm paired with heavy overhead squats.",
   "source_notes": "games.crossfit.com/workouts/games/2013/5 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

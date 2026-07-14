@@ -23,6 +23,7 @@
     "barbell",
     "max-load"
   ],
+  "description": "A one-rep-max shoulder-to-overhead test, required to be completed within 12 minutes of starting the paired Max Rep Deadlift event.",
   "source_notes": "games.crossfit.com/workouts/games/2010/2 (official CrossFit Games event, individual division), retrieved 2026-07-10; must be completed within 12 minutes of the start of Max Rep Deadlift, immediately following it on the same clock",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

@@ -17,6 +17,7 @@
     "rowing",
     "bodyweight"
   ],
+  "description": "Two mirrored intervals of box jump-overs, rowing calories, and burpee box jump-overs, the movement order flipped between the two.",
   "source_notes": "games.crossfit.com/workouts/games/2023/8 (official CrossFit Games event), retrieved 2026-07-09; Interval 2 begins at a fixed clock time (6:00) regardless of when Interval 1 finishes, movements reversed",
   "schema_version": "1.1",
   "last_updated": "2026-07-09",

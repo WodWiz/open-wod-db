@@ -1,5 +1,7 @@
 # Happy Star
 
+An ascending hill-run-burpee-thruster combination, with the run course changing and the thruster load increasing each round.
+
 **For Time**
   Run 300m
   5 Burpee

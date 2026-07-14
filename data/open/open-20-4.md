@@ -1,5 +1,7 @@
 # 20.4
 
+A chipper alternating box jumps (later pistols) with an ascending clean-and-jerk ladder that gets heavier and lower-rep at each step.
+
 **For Time**
   30 Box Jump
   15 Clean And Jerk (95lb/65lb)

@@ -1,5 +1,7 @@
 # Fibonacci
 
+A deficit version of the Fibonacci ladder — ascending parallette handstand push-ups and kettlebell deadlifts (5-8-13), finishing with a heavy overhead kettlebell lunge.
+
 **For Time**
   5-8-13 Parallette Handstand Push Up
   5-8-13 Kettlebell Deadlift (203lb/124lb)

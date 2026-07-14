@@ -90,6 +90,7 @@
     "barbell",
     "bodyweight"
   ],
+  "description": "An 8-minute workout pairing box jumps with a deadlift ladder that gets heavier at every step (10 reps up through 35, the barbell adding weight each time) rather than lighter.",
   "source_notes": "games.crossfit.com/workouts/open/2014/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

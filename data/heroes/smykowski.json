@@ -23,6 +23,7 @@
     "endurance",
     "weight-vest-optional"
   ],
+  "description": "A 6k run paired with 60 burpee pull-ups \u2014 a running-heavy chipper with one demanding gymnastics movement.",
   "source_notes": "crossfit.com/benchmark/smykowski (official CrossFit Hero WOD page), retrieved 2026-07-08; official Rx adds an optional load: 'If you've got body armor or a 30-lb vest, wear it.'",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

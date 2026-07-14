@@ -32,6 +32,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A fast round of rope climbs on a thick 2-inch rope paired with a heavy overhead squat.",
   "source_notes": "games.crossfit.com/workouts/games/2014/12 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

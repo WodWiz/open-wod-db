@@ -34,6 +34,7 @@
     "running",
     "6-rounds"
   ],
+  "description": "Six rounds of air squats, push-ups, and walking lunges, each round closing with a 400m run.",
   "source_notes": "crossfit.com/benchmark/loredo (official CrossFit Hero WOD page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

@@ -29,6 +29,7 @@
     "gymnastics",
     "10-rounds"
   ],
+  "description": "Ten rounds of 10 thrusters and 10 ring push-ups \u2014 a barbell-and-gymnastics couplet repeated at high round count.",
   "source_notes": "crossfit.com/benchmark/coe (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

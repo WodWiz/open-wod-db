@@ -28,6 +28,7 @@
     "2025",
     "gymnastics"
   ],
+  "description": "A single round of bike calories, bar muscle-ups, and burpee box jump-overs.",
   "source_notes": "games.crossfit.com/workouts/games/2025/7 (official CrossFit Games event), retrieved 2026-07-09; begins 7 minutes after the start of Throttle Up (Event 6)",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -33,6 +33,7 @@
     "kettlebell",
     "gymnastics"
   ],
+  "description": "A 20-minute AMRAP of strict pull-ups, box jumps on an elevated box, and kettlebell swings.",
   "source_notes": "crossfit.com/benchmark/tk (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

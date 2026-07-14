@@ -30,6 +30,7 @@
     "weight-vest",
     "3-rounds"
   ],
+  "description": "Three rounds of a 1000m run, 10 muscle-ups, and 100 air squats \u2014 a running-anchored round with a large air-squat volume alongside a gymnastics skill.",
   "source_notes": "crossfit.com/benchmark/luce (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx includes a 20 lb (men) / 14 lb (women) weight vest",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

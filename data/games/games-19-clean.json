@@ -26,6 +26,7 @@
     "barbell",
     "max-load"
   ],
+  "description": "A one-rep-max clean test where athletes lift in reverse order of current placement, the bar getting heavier each round.",
   "source_notes": "games.crossfit.com/workouts/games/2019/8 (official CrossFit Games event), retrieved 2026-07-09; tiebreak was 5 reps at 295 lb (men) / 195 lb (women) for athletes who failed their attempt",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

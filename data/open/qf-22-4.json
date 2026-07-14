@@ -32,6 +32,7 @@
     "max-load",
     "complex"
   ],
+  "description": "A one-rep-max barbell complex \u2014 clean into bench press into overhead squat \u2014 on the same bar throughout.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2022/4 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

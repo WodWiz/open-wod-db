@@ -1,5 +1,7 @@
 # Cameron
 
+A ten-movement chipper alternating higher-rep bodyweight work with lower-rep gymnastics skills, finishing on rope climbs.
+
 **For Time**
   50 Walking Lunge
   25 Chest To Bar Pull Up

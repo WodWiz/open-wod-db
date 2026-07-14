@@ -35,6 +35,7 @@
     "amrap",
     "barbell"
   ],
+  "description": "An 11-minute AMRAP of heavy deadlifts, wall-ball shots, and bar-facing burpees \u2014 a short, fast triplet at odd rep counts.",
   "source_notes": "crossfit.com/benchmark/scotty (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

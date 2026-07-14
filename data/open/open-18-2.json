@@ -17,6 +17,7 @@
     "barbell",
     "max-load"
   ],
+  "description": "A two-part workout: an ascending 1-through-10 ladder of dumbbell front-rack squats and bar-facing burpees, followed by a separately scored one-rep-max clean in whatever time remains.",
   "source_notes": "games.crossfit.com/workouts/open/2018/2 (official CrossFit Games Open workout), retrieved 2026-07-09; 18.2 (ascending ladder, scored by reps/time) and 18.2a (1-rep-max clean, scored by load) share one 12-minute clock and are scored separately",
   "schema_version": "1.1",
   "last_updated": "2026-07-09",

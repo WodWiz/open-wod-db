@@ -1,5 +1,7 @@
 # 2021 Games Event 9
 
+A descending echo-bike-and-snatch ladder, the barbell getting heavier as the reps drop.
+
 **For Time**
   21 Echo Bike
   21 Snatch (75lb/75lb)

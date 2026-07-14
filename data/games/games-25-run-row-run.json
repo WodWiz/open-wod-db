@@ -30,6 +30,7 @@
     "rowing",
     "endurance"
   ],
+  "description": "A run-row-run sandwich covering four miles of running and a 3000m row.",
   "source_notes": "games.crossfit.com/workouts/games/2025/1 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

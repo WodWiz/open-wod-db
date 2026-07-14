@@ -68,6 +68,7 @@
     "gymnastics",
     "ladder"
   ],
+  "description": "A descending pegboard-and-squat-clean ladder, each clean immediately followed by a front squat counted as one rep of the complex, the bar getting heavier as the reps drop.",
   "source_notes": "games.crossfit.com/workouts/games/2025/3 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

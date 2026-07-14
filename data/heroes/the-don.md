@@ -1,5 +1,7 @@
 # The Don
 
+A ten-movement chipper at 66 reps each across deadlift, box jump, kettlebell swing, knees-to-elbows, sit-up, pull-up, thruster, wall-ball, burpee, and double-under — one uniform rep scheme applied to nearly every major movement category.
+
 **For Time**
   66 Deadlift (110lb/70lb)
   66 Box Jump

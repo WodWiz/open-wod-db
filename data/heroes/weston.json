@@ -47,6 +47,7 @@
     "dumbbell",
     "5-rounds"
   ],
+  "description": "Five rounds of a 1000m row, a farmers carry, and a single-arm overhead dumbbell waiter's walk performed on each side.",
   "source_notes": "crossfit.com/benchmark/weston (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

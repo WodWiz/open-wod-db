@@ -81,6 +81,7 @@
     "dumbbell",
     "gymnastics"
   ],
+  "description": "Three rounds of a dumbbell lunge-and-snatch pairing, each round finishing with a harder pull-up variation \u2014 regular, then chest-to-bar, then muscle-up.",
   "source_notes": "games.crossfit.com/workouts/open/2026/2 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

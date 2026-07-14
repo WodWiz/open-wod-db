@@ -69,6 +69,7 @@
     "rowing",
     "jump-rope"
   ],
+  "description": "A long machine-and-jump-rope chipper spanning the ski erg, rower, and assault bike, with weighted-rope double-unders threaded throughout and a heavy sled pull to finish.",
   "source_notes": "games.crossfit.com/workouts/games/2016/14 (official CrossFit Games event), retrieved 2026-07-09; debuted the ski erg in Games competition",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

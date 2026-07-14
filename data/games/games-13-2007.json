@@ -83,6 +83,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A 1000m row followed by five rounds of pull-ups and push jerks \u2014 a near-identical repeat of the 2007 Games' Hopper Workout, referencing that inaugural year directly in its name.",
   "source_notes": "games.crossfit.com/workouts/games/2013/1 (official CrossFit Games event), retrieved 2026-07-09; the original event this workout is named for; later revisited as \"2007 Reload\" at the 2020 Games",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

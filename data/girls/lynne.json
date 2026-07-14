@@ -32,6 +32,7 @@
     "strength",
     "bodyweight-relative"
   ],
+  "description": "Five rounds of max-rep bodyweight bench press and max-rep pull-ups, scored by total reps rather than time \u2014 a strength-endurance test rather than a conditioning sprint.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

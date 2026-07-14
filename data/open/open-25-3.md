@@ -1,5 +1,7 @@
 # 25.3
 
+A chipper repeating wall climbs before each of four different movements — rowing, a deadlift set, a clean set, and a snatch set — bookended by matching rowing pieces.
+
 **For Time**
   5 Wall Climb
   50 Row

@@ -40,6 +40,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "Four rounds of one-minute-on, one-minute-off intervals combining rope climbs, ski-erg calories, and max-rep overhead squats.",
   "source_notes": "games.crossfit.com/workouts/games/2017/12 (official CrossFit Games event), retrieved 2026-07-09; the first 3 rounds are 2 minutes each, the 4th round extends to 3 minutes; 1 minute of rest after each round; scored by cumulative overhead squat reps across all rounds",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -39,6 +39,7 @@
     "venue-equipment",
     "gymnastics"
   ],
+  "description": "A technical handstand walk course \u2014 a pylon slalom, a ramp, stairs, and parallel bars \u2014 following a set of heavy-rope double-unders.",
   "source_notes": "games.crossfit.com/workouts/games/2018/13 (official CrossFit Games event), retrieved 2026-07-09; each obstacle must be completed without falling",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

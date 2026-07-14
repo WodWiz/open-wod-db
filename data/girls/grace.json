@@ -25,6 +25,7 @@
     "barbell",
     "sprint"
   ],
+  "description": "30 clean and jerks for time at a fixed barbell weight \u2014 a single-movement sprint that rewards efficient barbell cycling under fatigue.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

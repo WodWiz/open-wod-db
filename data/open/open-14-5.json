@@ -44,6 +44,7 @@
     "bodyweight",
     "ladder"
   ],
+  "description": "A six-step descending couplet (21 down to 3, by threes) of thrusters and burpees \u2014 a longer version of Fran's ladder logic.",
   "source_notes": "games.crossfit.com/workouts/open/2014/5 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

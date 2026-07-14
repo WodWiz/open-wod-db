@@ -48,6 +48,7 @@
     "venue-equipment",
     "gymnastics"
   ],
+  "description": "A mirrored gymnastics medley of handstand walks, freestanding handstand push-ups, and obstacle pirouettes that rotate a full 180 and then 360 degrees.",
   "source_notes": "games.crossfit.com/workouts/games/2023/3 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

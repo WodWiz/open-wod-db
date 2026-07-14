@@ -75,6 +75,7 @@
     "venue-equipment",
     "gymnastics"
   ],
+  "description": "Five rounds of muscle-ups and heavy log lifts, the log getting heavier on the final round.",
   "source_notes": "games.crossfit.com/workouts/games/2023/10 (official CrossFit Games event), retrieved 2026-07-09; sandbag carried and tossed over 3 logs each round; weight increases in the final (5th) round",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

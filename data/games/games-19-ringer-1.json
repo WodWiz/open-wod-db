@@ -44,6 +44,7 @@
     "2019",
     "gymnastics"
   ],
+  "description": "A descending bike-and-toes-to-ring couplet (30-20-10).",
   "source_notes": "games.crossfit.com/workouts/games/2019/10 (official CrossFit Games event), retrieved 2026-07-09; time cap 6 minutes (men) / 7 minutes (women); scored separately from Ringer 2, which begins 1 minute after this event's cap",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

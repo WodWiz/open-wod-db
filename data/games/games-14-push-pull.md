@@ -1,5 +1,7 @@
 # Push Pull
 
+An ascending deficit handstand push-up ladder paired with an increasingly heavy sled pull.
+
 **For Time**
   7 Deficit Handstand Push Up
   Sled Pull 15m (204lb/145lb)

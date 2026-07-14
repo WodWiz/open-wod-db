@@ -43,6 +43,7 @@
     "barbell",
     "5-rounds"
   ],
+  "description": "Five rounds of the DT barbell triplet \u2014 deadlift, hang power clean, push jerk \u2014 at a heavier weight than the original Hero WOD.",
   "source_notes": "games.crossfit.com/workouts/games/2015/5 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

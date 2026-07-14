@@ -32,6 +32,7 @@
     "running",
     "ladder"
   ],
+  "description": "Five rounds of a short run and a single heavy clean.",
   "source_notes": "games.crossfit.com/workouts/games/2021/6 (official CrossFit Games event), retrieved 2026-07-09; clean load increases each round: 245-265-285-305-315 lb (men), 165-175-185-195-205 lb (women)",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

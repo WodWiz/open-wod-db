@@ -15,6 +15,7 @@
     "gymnastics",
     "max-effort"
   ],
+  "description": "Three more independently scored skill tests \u2014 a weighted chest-to-bar pull-up, a max-load snatch, and a weighted jug carry \u2014 again ranked by the sum of the three placings.",
   "source_notes": "games.crossfit.com/workouts/games/2011/6 (official CrossFit Games event), retrieved 2026-07-10; three independently-ranked skill tests; final score is the sum of the three individual rankings (lower total wins); no gender-differentiated loads reported",
   "schema_version": "1.1",
   "last_updated": "2026-07-10",

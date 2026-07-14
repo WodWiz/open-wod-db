@@ -51,6 +51,7 @@
     "kettlebell",
     "ladder"
   ],
+  "description": "A descending 50-40-30-20-10 triplet of wall-ball shots, box jumps, and kettlebell swings.",
   "source_notes": "crossfit.com/benchmark/morrison (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

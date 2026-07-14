@@ -74,6 +74,7 @@
     "dumbbell",
     "gymnastics"
   ],
+  "description": "A ten-movement chipper spanning cleans, toes-to-bar, box jumps, muscle-ups, dumbbell push press, double-unders, thrusters, pull-ups, burpees, and a weighted overhead lunge.",
   "source_notes": "games.crossfit.com/workouts/games/2009/8 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

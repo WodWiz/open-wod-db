@@ -53,6 +53,7 @@
     "barbell",
     "4-rounds"
   ],
+  "description": "Four rounds rotating through a 200m run before each of three different barbell presses \u2014 thruster, push press, and bench press \u2014 at the same weight and rep count.",
   "source_notes": "crossfit.com/benchmark/roney (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -1,5 +1,7 @@
 import json, os
 
+from wod_descriptions import DESCRIPTIONS
+
 OUT = os.path.join(os.path.dirname(__file__), "..", "data", "girls")
 os.makedirs(OUT, exist_ok=True)
 SRC = "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08"
@@ -16,6 +18,7 @@ def w(id, name, category, format, movements, format_meta=None, partition=None,
         "scaling": None,
         "origin": {"summary": origin_summary, "first_posted": first_posted} if origin_summary or first_posted else None,
         "tags": tags or [],
+        "description": DESCRIPTIONS.get(id),
         "source_notes": notes or SRC,
         "schema_version": VER,
         "last_updated": TODAY,

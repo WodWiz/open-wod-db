@@ -48,6 +48,7 @@
     "high-volume",
     "barbell"
   ],
+  "description": "100 reps each of hang power snatch, push press, sumo deadlift high pull, and front squat at one fixed light barbell weight \u2014 a high-volume single-load barbell chipper.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

@@ -40,6 +40,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A 20-minute AMRAP of a 400m run, power snatches, pull-ups, and power cleans \u2014 combining both Olympic lift variants in one circuit.",
   "source_notes": "crossfit.com/benchmark/viola (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

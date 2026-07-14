@@ -29,6 +29,7 @@
     "barbell",
     "5-rounds"
   ],
+  "description": "Five rounds of muscle-ups and sumo deadlift high pulls \u2014 a gymnastics-and-barbell couplet.",
   "source_notes": "crossfit.com/benchmark/tyler (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -1,5 +1,7 @@
 # Madison Triplus
 
+A swim, paddleboard, and run combination.
+
 **For Time**
   Swim 500m
   Paddleboard 1000m

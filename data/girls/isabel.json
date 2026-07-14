@@ -25,6 +25,7 @@
     "barbell",
     "sprint"
   ],
+  "description": "30 snatches for time at a fixed barbell weight \u2014 Grace's more technical cousin, trading raw speed for the added skill demand of the snatch's overhead catch.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

@@ -36,6 +36,7 @@
     "barbell",
     "rowing"
   ],
+  "description": "A single-round chipper of rope climbs, heavy back squats, handstand push-ups, and a rowing calorie finisher.",
   "source_notes": "crossfit.com/benchmark/brehm (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

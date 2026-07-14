@@ -1,5 +1,7 @@
 # Climbing Couplet
 
+A descending pegboard-and-squat-clean ladder, each clean immediately followed by a front squat counted as one rep of the complex, the bar getting heavier as the reps drop.
+
 **For Time**
   4 Pegboard
   4 Squat Clean (235lb/145lb)

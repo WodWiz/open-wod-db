@@ -29,6 +29,7 @@
     "dumbbell",
     "8-rounds"
   ],
+  "description": "Eight rounds of a 200m run followed by dumbbell burpee deadlifts \u2014 a running-and-hybrid-movement couplet repeated at high round count.",
   "source_notes": "crossfit.com/benchmark/tumilson-hero (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -1,5 +1,7 @@
 # Big Sexy
 
+Five rounds of a six-movement descending-rep circuit — heavy deadlifts and burpees, then cleans and chest-to-bar pull-ups, then thrusters and muscle-ups — getting more technical and lower-rep as it goes.
+
 **5 rounds for time**
   6 Deadlift (315lb/205lb)
   6 Burpee

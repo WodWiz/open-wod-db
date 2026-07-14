@@ -38,6 +38,7 @@
     "dumbbell",
     "8-rounds"
   ],
+  "description": "Eight rounds of a 400m run, burpee box jump-overs, a bike-erg calorie piece, and heavy alternating dumbbell snatches.",
   "source_notes": "crossfit.com/benchmark/hoover-hero (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

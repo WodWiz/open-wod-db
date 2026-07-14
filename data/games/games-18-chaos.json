@@ -57,6 +57,7 @@
     "dumbbell",
     "gymnastics"
   ],
+  "description": "A six-movement chipper spanning the ski erg, burpees to a target, single-arm dumbbell overhead squats, alternating pistols, box jump-overs, and a heavy sled pull.",
   "source_notes": "games.crossfit.com/workouts/games/2018/9 (official CrossFit Games event), retrieved 2026-07-09; a \"mystery\" event -- athletes were not told the movements or reps in advance, discovering each station on arrival",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -36,6 +36,7 @@
     "kettlebell",
     "gymnastics"
   ],
+  "description": "Five rounds of an 800m run, heavy kettlebell swings, and pull-ups \u2014 a longer-format sibling of Helen, with roughly double the running and kettlebell volume per round.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

@@ -24,6 +24,7 @@
     "9-rounds",
     "barbell"
   ],
+  "description": "Nine rounds of squat cleans and burpee box jumps \u2014 a simple couplet at high round count.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

@@ -29,6 +29,7 @@
     "amrap",
     "gymnastics"
   ],
+  "description": "A 19-minute AMRAP of muscle-ups, a short shuttle sprint, and burpee box jump-overs performed without touching the box.",
   "source_notes": "crossfit.com/benchmark/dunn (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

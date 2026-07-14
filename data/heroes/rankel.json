@@ -40,6 +40,7 @@
     "barbell",
     "kettlebell"
   ],
+  "description": "A 20-minute AMRAP of deadlifts, burpee pull-ups, kettlebell swings, and a 200m run \u2014 an ascending-rep four-movement circuit.",
   "source_notes": "crossfit.com/benchmark/rankel (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -82,6 +82,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A descending back squat and bench press ladder (50-35-20) with an 800m run before each set, finishing with a single muscle-up after the last run.",
   "source_notes": "crossfit.com/benchmark/coffey (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

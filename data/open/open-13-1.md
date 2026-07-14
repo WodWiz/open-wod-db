@@ -1,5 +1,7 @@
 # 13.1
 
+A 17-minute workout combining a descending burpee ladder with an ascending-load snatch ladder, finishing with max snatches at the heaviest weight for any remaining time.
+
 **AMRAP 17 min**
   40 Burpee
   30 Snatch (75lb/45lb)

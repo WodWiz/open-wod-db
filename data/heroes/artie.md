@@ -1,5 +1,7 @@
 # Artie
 
+A 20-minute AMRAP built on the classic pull-up, push-up, and air-squat triplet with an added second pull-up set and a thruster finisher each round.
+
 **AMRAP 20 min**
   5 Pull Up
   10 Push Up

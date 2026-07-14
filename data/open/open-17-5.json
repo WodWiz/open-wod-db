@@ -32,6 +32,7 @@
     "jump-rope",
     "10-rounds"
   ],
+  "description": "Ten rounds of 9 thrusters and 35 double-unders within an overall 40-minute cap.",
   "source_notes": "games.crossfit.com/workouts/open/2017/5 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

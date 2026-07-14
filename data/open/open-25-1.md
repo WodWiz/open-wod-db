@@ -1,5 +1,7 @@
 # 25.1
 
+A 15-minute AMRAP with the burpee and dumbbell clean-to-overhead reps climbing by three every round, plus a fixed 30-foot walking lunge each round.
+
 **AMRAP 15 min**
   3 Burpee Over Dumbbell
   3 Dumbbell Hang Clean To Overhead (50lb/35lb)

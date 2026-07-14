@@ -29,6 +29,7 @@
     "kettlebell",
     "barbell"
   ],
+  "description": "Seven rounds of kettlebell swings, power cleans, and box jumps at even reps throughout.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

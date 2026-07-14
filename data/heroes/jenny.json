@@ -36,6 +36,7 @@
     "barbell",
     "running"
   ],
+  "description": "A 20-minute AMRAP of overhead squats, back squats, and a 400m run \u2014 a light-barbell squat couplet paired with running.",
   "source_notes": "crossfit.com/benchmark/jenny (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -39,6 +39,7 @@
     "2022",
     "dumbbell"
   ],
+  "description": "Three rounds of a sprint, wall-ball shots to an elevated target, and heavy alternating dumbbell snatches, separated by long rest periods.",
   "source_notes": "games.crossfit.com/workouts/games/2022/9 (official CrossFit Games event), retrieved 2026-07-09; 2 minutes per round then 4 minutes rest; performed in two overlapping heats",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

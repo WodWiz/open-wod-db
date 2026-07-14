@@ -31,6 +31,7 @@
     "amrap",
     "triplet"
   ],
+  "description": "A 20-minute AMRAP of the classic pull-up, push-up, and air-squat triplet at 5-10-15 reps per round \u2014 one of the most commonly used benchmarks for tracking bodyweight conditioning over time.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

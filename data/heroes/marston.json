@@ -32,6 +32,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A 20-minute AMRAP built around a single very heavy deadlift rep each round, paired with toes-to-bar and bar-facing burpees.",
   "source_notes": "crossfit.com/benchmark/marston (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

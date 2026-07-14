@@ -27,6 +27,7 @@
     "amrap",
     "barbell"
   ],
+  "description": "A 12-minute AMRAP of box jumps, thrusters, and bar-facing burpees \u2014 a short, fast triplet.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

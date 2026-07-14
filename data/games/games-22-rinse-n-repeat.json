@@ -29,6 +29,7 @@
     "swim",
     "venue-equipment"
   ],
+  "description": "Eight rounds of a short swim and ski-erg calories, the calorie target climbing each round before capping out.",
   "source_notes": "games.crossfit.com/workouts/games/2022/8 (official CrossFit Games event), retrieved 2026-07-09; every 2 minutes for up to 8 rounds",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

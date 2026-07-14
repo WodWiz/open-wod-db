@@ -1,5 +1,7 @@
 # The Alpaca
 
+A sled-push-and-kettlebell-clean-and-jerk chipper, the sled unloading kettlebells with each pass while the barbell-free kettlebell work stays constant.
+
 **For Time**
   Sled Push 38m
   20 Kettlebell Clean And Jerk (70lb/53lb)

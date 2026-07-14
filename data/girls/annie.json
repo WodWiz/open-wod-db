@@ -37,6 +37,7 @@
     "descending-ladder",
     "jump-rope"
   ],
+  "description": "A descending double-under and sit-up ladder (50-40-30-20-10) \u2014 the jump-rope analog to Fran's barbell-and-gymnastics couplet, testing coordination as much as conditioning.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

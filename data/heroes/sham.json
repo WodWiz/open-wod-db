@@ -27,6 +27,7 @@
     "running",
     "7-rounds"
   ],
+  "description": "Seven rounds of a bodyweight-relative deadlift set followed by a 100m sprint.",
   "source_notes": "crossfit.com/benchmark/sham (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

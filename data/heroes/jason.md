@@ -1,5 +1,7 @@
 # Jason
 
+A mirrored ladder pairing descending air-squat volume with ascending muscle-up volume — the squats get easier as the muscle-ups get harder.
+
 **For Time**
   100 Air Squat
   5 Muscle Up

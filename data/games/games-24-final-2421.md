@@ -1,5 +1,7 @@
 # Final 2421
 
+A descending thruster-and-chest-to-bar-pull-up couplet split around a heavy yoke carry in the middle.
+
 **For Time**
   24 Thruster (95lb/65lb)
   24 Chest To Bar Pull Up

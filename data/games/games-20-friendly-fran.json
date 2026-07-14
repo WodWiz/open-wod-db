@@ -30,6 +30,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "Three rounds of thrusters and chest-to-bar pull-ups at Fran's classic 21-rep count, spread across multiple rounds rather than descending.",
   "source_notes": "games.crossfit.com/workouts/games/2020/1 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

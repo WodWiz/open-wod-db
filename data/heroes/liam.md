@@ -1,5 +1,7 @@
 # Liam
 
+A chipper bookended by plate-carry runs, with high-rep toes-to-bar, heavy front squats, and rope climbs in between.
+
 **For Time**
   Run 800m (45lb/25lb)
   100 Toes To Bar

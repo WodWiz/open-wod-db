@@ -27,6 +27,7 @@
     "open-water",
     "endurance"
   ],
+  "description": "A long swim followed by an equal-distance paddleboard leg.",
   "source_notes": "games.crossfit.com/workouts/games/2019/9 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

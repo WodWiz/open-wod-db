@@ -50,6 +50,7 @@
     "gymnastics",
     "5-rounds"
   ],
+  "description": "Five rounds of a running-led circuit combining strict pull-ups and handstand push-ups with toes-to-bar, dumbbell snatches, and a loaded dumbbell carry.",
   "source_notes": "crossfit.com/benchmark/restrepo (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

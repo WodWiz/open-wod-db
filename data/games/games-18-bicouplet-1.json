@@ -38,6 +38,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A descending 21-15-9 snatch-and-chest-to-bar-pull-up couplet.",
   "source_notes": "games.crossfit.com/workouts/games/2018/10 (official CrossFit Games event), retrieved 2026-07-09; separately scored from Bicouplet 2, which follows after a 1-minute transition",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

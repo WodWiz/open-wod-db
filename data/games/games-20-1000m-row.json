@@ -18,6 +18,7 @@
     "2020",
     "rowing"
   ],
+  "description": "A single 1000m row for time \u2014 pure monostructural testing.",
   "source_notes": "games.crossfit.com/workouts/games/2020/4 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -14,6 +14,7 @@
     "barbell",
     "max-load"
   ],
+  "description": "The classic CrossFit Total benchmark (1RM back squat, press, and deadlift), used as the final event of the inaugural 2007 Games.",
   "source_notes": "games.crossfit.com/workouts/games/2007/3 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; the classic CrossFit Total benchmark (1RM back squat + press + deadlift), used as the final event of the inaugural 2007 Games; score is the sum of the three lifts",
   "schema_version": "1.1",
   "last_updated": "2026-07-10",

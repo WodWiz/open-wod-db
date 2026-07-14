@@ -34,6 +34,7 @@
     "rowing",
     "gymnastics"
   ],
+  "description": "A 20-minute AMRAP of a long row, GHD sit-ups, a shorter row, and v-ups.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2023/4 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

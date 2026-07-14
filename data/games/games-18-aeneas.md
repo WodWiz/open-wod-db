@@ -1,5 +1,7 @@
 # Aeneas
 
+A chipper of pegboard ascents and thrusters finishing with three ascending-weight yoke carries.
+
 **For Time**
   5 Pegboard
   40 Thruster (85lb/55lb)

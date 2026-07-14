@@ -29,6 +29,7 @@
     "dumbbell",
     "4-rounds"
   ],
+  "description": "Four rounds of a 200m swim followed by dumbbell squat cleans \u2014 one of the few Hero WODs built around swimming.",
   "source_notes": "crossfit.com/benchmark/tully (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

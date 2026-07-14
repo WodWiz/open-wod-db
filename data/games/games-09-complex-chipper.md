@@ -1,5 +1,7 @@
 # Complex Chipper (2009 Games)
 
+A ten-movement chipper spanning cleans, toes-to-bar, box jumps, muscle-ups, dumbbell push press, double-unders, thrusters, pull-ups, burpees, and a weighted overhead lunge.
+
 **For Time**
   15 Clean (155lb/100lb)
   30 Toes To Bar

@@ -17,6 +17,7 @@
     "dumbbell",
     "gymnastics"
   ],
+  "description": "A two-part workout: three rounds of strict handstand push-ups, dumbbell hang power cleans, and double-unders, followed by three more rounds swapping in regular handstand push-ups and dumbbell shoulder-to-overhead.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2021/1 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09",

@@ -45,6 +45,7 @@
     "gymnastics",
     "ascending"
   ],
+  "description": "An ascending thruster-and-rope-climb ladder finishing with a heavy overhead walking lunge.",
   "source_notes": "games.crossfit.com/workouts/games/2025/10 (official CrossFit Games event), retrieved 2026-07-09; an ascending ladder (9-15-21), the reverse of the usual descending Fran-style scheme",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

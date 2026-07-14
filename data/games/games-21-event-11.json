@@ -37,6 +37,7 @@
     "dumbbell",
     "gymnastics"
   ],
+  "description": "An 11-minute AMRAP of pegboard ascents, single-arm dumbbell overhead squats, and double-unders on a heavily loaded rope.",
   "source_notes": "games.crossfit.com/workouts/games/2021/11 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

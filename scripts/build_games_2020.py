@@ -1,5 +1,7 @@
 import json, os
 
+from wod_descriptions import DESCRIPTIONS
+
 OUT = os.path.join(os.path.dirname(__file__), "..", "data", "games")
 os.makedirs(OUT, exist_ok=True)
 VER = "1.1"
@@ -23,7 +25,7 @@ def w(id, name, fmt, slug, movements=None, segments=None, format_meta=None, tags
         "format_meta": format_meta or {},
         "movements": movements or [],
         "partition": None, "scaling": None, "origin": None,
-        "tags": tags or [], "source_notes": notes or src(*slug),
+        "tags": tags or [], "description": DESCRIPTIONS.get(id), "source_notes": notes or src(*slug),
         "schema_version": VER, "last_updated": TODAY,
     }
     if segments is not None:

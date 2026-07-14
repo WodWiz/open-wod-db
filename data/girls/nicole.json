@@ -27,6 +27,7 @@
     "running",
     "amrap"
   ],
+  "description": "A 20-minute AMRAP of a 400m run and max-rep pull-ups, scored by rounds plus total pull-up reps \u2014 pull-up capacity becomes the limiting factor as fatigue accumulates.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

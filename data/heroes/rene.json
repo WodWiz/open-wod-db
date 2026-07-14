@@ -35,6 +35,7 @@
     "weight-vest",
     "7-rounds"
   ],
+  "description": "Seven rounds of a 400m run followed by walking lunges, pull-ups, and burpees at descending reps.",
   "source_notes": "crossfit.com/benchmark/rene (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx includes a 20 lb (men) / 14 lb (women) weight vest",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

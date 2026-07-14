@@ -58,6 +58,7 @@
     "dumbbell",
     "jump-rope"
   ],
+  "description": "A 12-minute AMRAP of dumbbell snatches and overhead lunges split evenly between arms, finishing each round with crossover single-unders.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2023/2 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

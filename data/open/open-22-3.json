@@ -66,6 +66,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A three-part descending chipper that swaps in a harder pull-up variation and a heavier thruster load at each step.",
   "source_notes": "games.crossfit.com/workouts/open/2022/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

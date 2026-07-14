@@ -38,6 +38,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A 20-minute AMRAP of power cleans, toes-to-bar, and wall-ball shots \u2014 a longer-format triplet built for sustained pacing.",
   "source_notes": "games.crossfit.com/workouts/open/2011/5 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

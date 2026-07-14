@@ -14,6 +14,7 @@
     "venue-equipment",
     "gymnastics"
   ],
+  "description": "Four rounds of GHD sit-ups, a weighted burpee over a hay bale, and a very heavy yoke carry, against tightening time windows.",
   "source_notes": "games.crossfit.com/workouts/games/2021/13 (official CrossFit Games event), retrieved 2026-07-09; 1 minute to return to the GHD rig before each next round begins",
   "schema_version": "1.1",
   "last_updated": "2026-07-09",

@@ -31,6 +31,7 @@
     "amrap",
     "gymnastics"
   ],
+  "description": "A 20-minute AMRAP of parallette handstand push-ups, toes-to-rings, and medicine-ball cleans \u2014 an ascending-rep gymnastics-heavy triplet.",
   "source_notes": "crossfit.com/benchmark/ledesma (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

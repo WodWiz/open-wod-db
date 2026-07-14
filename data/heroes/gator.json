@@ -29,6 +29,7 @@
     "gymnastics",
     "8-rounds"
   ],
+  "description": "Eight rounds pairing a low-rep, heavy front squat with a high-rep ring push-up set.",
   "source_notes": "crossfit.com/benchmark/gator (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

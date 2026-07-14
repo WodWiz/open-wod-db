@@ -26,6 +26,7 @@
     "weight-vest",
     "4-rounds"
   ],
+  "description": "Four rounds of a 400m run followed by burpee muscle-ups \u2014 a running-and-gymnastics couplet.",
   "source_notes": "crossfit.com/benchmark/taylor (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx includes a 20 lb (men) / 14 lb (women) weight vest",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

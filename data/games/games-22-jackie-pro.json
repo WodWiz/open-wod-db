@@ -33,6 +33,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A row, thruster, and bar-muscle-up chipper with a strict time standard on the row \u2014 a harder, bar-muscle-up version of the classic Girl WOD Jackie.",
   "source_notes": "games.crossfit.com/workouts/games/2022/13 (official CrossFit Games event), retrieved 2026-07-09; a heavier-loaded, bar-muscle-up variant of the Girl WOD Jackie, with a qualifying row-time standard to continue to the thrusters/muscle-ups",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

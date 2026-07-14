@@ -74,6 +74,7 @@
     "bodyweight-relative",
     "barbell"
   ],
+  "description": "A three-lift descending ladder (10 down to 1 reps) across deadlift, bench press, and clean, each loaded relative to the athlete's own bodyweight rather than a fixed number.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

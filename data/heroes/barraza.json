@@ -32,6 +32,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "An 18-minute AMRAP of a 200m run, 9 heavy deadlifts, and 6 burpee bar muscle-ups \u2014 pairing a demanding gymnastics movement with heavy pulling.",
   "source_notes": "crossfit.com/benchmark/barraza (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

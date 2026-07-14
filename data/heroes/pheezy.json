@@ -53,6 +53,7 @@
     "gymnastics",
     "3-rounds"
   ],
+  "description": "Three rounds of a six-movement circuit alternating a heavy low-rep barbell lift with a higher-rep bodyweight movement, three times over.",
   "source_notes": "crossfit.com/benchmark/pheezy (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -1,5 +1,7 @@
 # Double DT
 
+Ten rounds of the DT barbell triplet — double the round count of the original Hero WOD.
+
 **10 rounds for time**
   12 Deadlift (155lb/105lb)
   9 Hang Power Clean (155lb/105lb)

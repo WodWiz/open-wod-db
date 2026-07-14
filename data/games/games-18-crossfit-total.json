@@ -33,6 +33,7 @@
     "barbell",
     "max-load"
   ],
+  "description": "The classic CrossFit Total benchmark \u2014 1RM back squat, strict press, and deadlift, each with three attempts inside a 4-minute window.",
   "source_notes": "games.crossfit.com/workouts/games/2018/3 (official CrossFit Games event), retrieved 2026-07-09; score is the combined total of all three best lifts",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

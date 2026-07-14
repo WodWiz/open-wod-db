@@ -32,6 +32,7 @@
     "venue-equipment",
     "gymnastics"
   ],
+  "description": "Three rounds of muscle-ups, a box jump-over sequence spanning a log, a box, and a raised platform, and GHD sit-ups.",
   "source_notes": "games.crossfit.com/workouts/games/2022/6 (official CrossFit Games event), retrieved 2026-07-09; followed by an 84 ft weighted lunge with a 125 lb (women) axle bar to finish",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

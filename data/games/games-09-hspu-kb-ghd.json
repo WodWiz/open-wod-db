@@ -34,6 +34,7 @@
     "gymnastics",
     "kettlebell"
   ],
+  "description": "An 8-minute AMRAP of handstand push-ups, Russian kettlebell swings, and GHD sit-ups.",
   "source_notes": "games.crossfit.com/workouts/games/2009/7 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

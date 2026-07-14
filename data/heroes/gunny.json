@@ -45,6 +45,7 @@
     "bodyweight",
     "weight-vest"
   ],
+  "description": "Three weighted mile runs bookending two rounds of push-ups and sit-ups.",
   "source_notes": "crossfit.com/benchmark/gunny (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx: wear a weight vest / body armor / loaded pack totaling 50 lb for the runs",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

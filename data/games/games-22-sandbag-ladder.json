@@ -26,6 +26,7 @@
     "max-load",
     "venue-equipment"
   ],
+  "description": "A max-effort sandbag-clean ladder through progressively heavier bags until the athlete fails to lift one to the shoulder.",
   "source_notes": "games.crossfit.com/workouts/games/2022/10 (official CrossFit Games event), retrieved 2026-07-09; exact intermediate ladder increments between the confirmed endpoints (240-340 lb men, 160-250 lb women) are not confirmed from available sources -- flagged per CONTRIBUTING rather than guessed; tiebreak was a 3-sandbag toss over a yoke (100/150/200 lb men, 50/100/150 lb women)",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -49,6 +49,7 @@
     "barbell",
     "gymnastics"
   ],
+  "description": "A mirrored chipper of thrusters and bar muscle-ups bookending a very heavy yoke carry.",
   "source_notes": "games.crossfit.com/workouts/games/2024/10 (official CrossFit Games event), retrieved 2026-07-09; contested immediately after Final 2421 with only 2 minutes of rest between",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

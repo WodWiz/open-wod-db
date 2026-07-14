@@ -37,6 +37,7 @@
     "dumbbell",
     "ascending"
   ],
+  "description": "A 15-minute AMRAP with the burpee and dumbbell clean-to-overhead reps climbing by three every round, plus a fixed 30-foot walking lunge each round.",
   "source_notes": "games.crossfit.com/workouts/open/2025/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

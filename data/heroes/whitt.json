@@ -37,6 +37,7 @@
     "running",
     "3-rounds"
   ],
+  "description": "Three rounds of an 800m medicine-ball-carry run followed by wall-ball shots and ball slams, all with the same medicine ball.",
   "source_notes": "crossfit.com/benchmark/whitt-hero (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

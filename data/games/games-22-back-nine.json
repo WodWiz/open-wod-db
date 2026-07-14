@@ -61,6 +61,7 @@
     "barbell",
     "max-effort"
   ],
+  "description": "A mirrored strength event of heavy yoke carries bookending front squats and a very heavy deadlift set.",
   "source_notes": "games.crossfit.com/workouts/games/2022/12 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

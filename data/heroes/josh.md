@@ -1,5 +1,7 @@
 # Josh
 
+A descending 21-15-9 overhead squat ladder paired with double the pull-up reps at each step.
+
 **For Time**
   21 Overhead Squat (95lb/65lb)
   42 Pull Up

@@ -32,6 +32,7 @@
     "bodyweight",
     "high-volume"
   ],
+  "description": "A bodyweight ladder of four gymnastics and core staples \u2014 100 reps each of pull-ups, push-ups, sit-ups, and air squats, done straight through in that order for time.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

@@ -41,6 +41,7 @@
     "sandbag",
     "bodyweight"
   ],
+  "description": "A 20-minute AMRAP of four bodyweight-and-odd-object movements at 22 reps each, finishing every round with a short sprint.",
   "source_notes": "crossfit.com/benchmark/triple-deuce (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

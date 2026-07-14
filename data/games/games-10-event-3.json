@@ -54,6 +54,7 @@
     "running",
     "2-rounds"
   ],
+  "description": "Two rounds of a six-movement circuit \u2014 a short run, box jump-overs, dumbbell squat cleans, double-unders, hand-release push-ups, GHD sit-ups, and a walking lunge.",
   "source_notes": "games.crossfit.com/workouts/games/2010/3 (official CrossFit Games event, individual division), retrieved 2026-07-10",
   "schema_version": "1.1",
   "last_updated": "2026-07-10"

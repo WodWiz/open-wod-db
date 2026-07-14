@@ -23,6 +23,7 @@
     "barbell",
     "max-load"
   ],
+  "description": "A 4-rep-max front squat test \u2014 pure strength, no conditioning component.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2021/4 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

@@ -1,5 +1,7 @@
 # The End 2
 
+The same eight-movement circuit as The End 1, extended to a 6-minute AMRAP.
+
 **AMRAP 6 min**
   20 Row
   30 Wall Ball Shot (20lb/14lb)

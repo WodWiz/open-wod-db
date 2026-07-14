@@ -33,6 +33,7 @@
     "gymnastics",
     "5-rounds"
   ],
+  "description": "Five rounds of an ascending three-movement combo \u2014 15 deadlifts, 20 box jumps, and 25 pull-ups.",
   "source_notes": "crossfit.com/benchmark/roy (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

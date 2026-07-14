@@ -16,6 +16,7 @@
     "2024",
     "barbell"
   ],
+  "description": "Three fixed sets of 10 clean and jerks at increasing weights, finishing with an AMRAP of clean and jerks at the heaviest weight for whatever time remains.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2024/4 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09; continually running clock; scored by total reps in 10 minutes, ties broken by fastest 10th rep at the previous weight",
   "schema_version": "1.1",
   "last_updated": "2026-07-09",

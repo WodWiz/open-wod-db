@@ -31,6 +31,7 @@
     "bodyweight",
     "5-rounds"
   ],
+  "description": "Five rounds of an 800m run, five rope climbs, and 50 push-ups \u2014 a running-anchored gymnastics-and-bodyweight couplet.",
   "source_notes": "crossfit.com/benchmark/rj (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -41,6 +41,7 @@
     "running",
     "barbell"
   ],
+  "description": "Two mile-long runs bookending a middle 800m run, broken up by two sets of 21 heavy clean and jerks \u2014 a running-heavy chipper with the barbell work sandwiched in the middle.",
   "source_notes": "crossfit.com/benchmark/abbate (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

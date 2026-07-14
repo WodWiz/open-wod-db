@@ -29,6 +29,7 @@
     "bodyweight",
     "4-rounds"
   ],
+  "description": "Four rounds of an 800m run followed by high-rep pull-ups and push-ups \u2014 a running-anchored bodyweight couplet.",
   "source_notes": "crossfit.com/benchmark/jared (official CrossFit Hero WOD page), retrieved 2026-07-08",
   "schema_version": "1.0",
   "last_updated": "2026-07-08"

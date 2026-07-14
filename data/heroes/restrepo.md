@@ -1,5 +1,7 @@
 # Restrepo
 
+Five rounds of a running-led circuit combining strict pull-ups and handstand push-ups with toes-to-bar, dumbbell snatches, and a loaded dumbbell carry.
+
 **5 rounds for time**
   Run 400m
   7 Strict Pull Up

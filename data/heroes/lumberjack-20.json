@@ -86,6 +86,7 @@
     "running",
     "high-volume"
   ],
+  "description": "A seven-movement chipper \u2014 deadlift, kettlebell swing, overhead squat, burpee, chest-to-bar pull-up, box jump, and dumbbell squat clean, all at 20 reps \u2014 with a 400m run after every single movement.",
   "source_notes": "crossfit.com/benchmark/lumberjack-20 (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

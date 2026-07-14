@@ -26,6 +26,7 @@
     "open-water",
     "endurance"
   ],
+  "description": "A one-mile fin swim followed by a 3-mile kayak.",
   "source_notes": "games.crossfit.com/workouts/games/2021/1 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

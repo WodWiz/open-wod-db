@@ -29,6 +29,7 @@
     "gymnastics",
     "weight-vest"
   ],
+  "description": "A 20-minute AMRAP of a single rope climb, 5 burpees, and a 200m run \u2014 a short, repeatable circuit built for many rounds.",
   "source_notes": "crossfit.com/benchmark/sisson (official CrossFit Hero WOD page), retrieved 2026-07-09; official Rx includes a 20 lb (men) / 14 lb (women) weight vest",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -41,6 +41,7 @@
     "high-volume",
     "gymnastics"
   ],
+  "description": "A mirrored mile-run bookend around large volumes of handstand push-ups, alternating pistols, and pull-ups, all performed in a weighted vest.",
   "source_notes": "games.crossfit.com/workouts/games/2020/19 (official CrossFit Games event), retrieved 2026-07-09; all reps must be unpartitioned (each movement fully completed before advancing); combines elements of Mary and the Hero WOD Murph",
   "schema_version": "1.1",
   "last_updated": "2026-07-09"

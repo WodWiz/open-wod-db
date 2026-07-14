@@ -34,6 +34,7 @@
     "gymnastics",
     "rings"
   ],
+  "description": "A rings-only chipper of ascending volume \u2014 muscle-ups, slow ring lowers, ring handstand push-ups, ring rows, and ring push-ups \u2014 testing a full range of gymnastics-ring strength.",
   "source_notes": "crossfit.com/benchmark/meadows (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"

@@ -1,5 +1,7 @@
 # 18.4
 
+A descending 21-15-9 deadlift ladder paired with handstand push-ups at one weight, then repeated at a much heavier weight paired with handstand walks instead.
+
 **For Time**
   21 Deadlift (225lb/155lb)
   21 Handstand Push Up

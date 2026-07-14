@@ -59,6 +59,7 @@
     "running",
     "dumbbell"
   ],
+  "description": "A symmetric chipper of burpees, weighted pull-ups, handstand push-ups, and chest-to-bar pull-ups, with a medicine-ball-carry run separating every movement.",
   "source_notes": "crossfit.com/benchmark/del (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
   "last_updated": "2026-07-09"
