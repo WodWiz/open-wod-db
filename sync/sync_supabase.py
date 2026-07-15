@@ -49,6 +49,7 @@ def movement_row(m):
         "name": m["name"],
         "category": m["category"],
         "workouts": m.get("workouts") or [],  # WOD ids that use this movement
+        "patterns": m.get("patterns") or [],  # biomechanical movement pattern(s)
         "data": m,
     }
 

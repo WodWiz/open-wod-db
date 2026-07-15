@@ -54,19 +54,28 @@ grant select on public.wods to anon, authenticated;
 -- `movements` — the movement library, mirrored from data/movements.json.
 -- `workouts` is the movement->workout mapping (WOD ids that use the movement),
 -- promoted to a text[] column so the app can query it (e.g. movements used in a
--- given WOD via `workouts @> array['fran']`). Full entry (equipment, aliases,
--- description, ...) lives in `data`.
+-- given WOD via `workouts @> array['fran']`). `patterns` is the biomechanical
+-- movement-pattern tagging (squat, hinge, push, pull, lunge, carry, core,
+-- olympic, monostructural) — a movement can carry more than one, e.g. a
+-- thruster is both squat and push. Full entry (equipment, aliases, description,
+-- ...) lives in `data`.
 -- ---------------------------------------------------------------------------
 create table if not exists public.movements (
   id       text primary key,
   name     text not null,
   category text not null,
   workouts text[] not null default '{}',
+  patterns text[] not null default '{}',
   data     jsonb  not null
 );
 
+-- Migration for a table created before `patterns` existed — no-op if the
+-- column is already there (e.g. on a fresh `create table`).
+alter table public.movements add column if not exists patterns text[] not null default '{}';
+
 create index if not exists movements_category_idx on public.movements (category);
 create index if not exists movements_workouts_idx  on public.movements using gin (workouts);
+create index if not exists movements_patterns_idx  on public.movements using gin (patterns);
 create extension if not exists pg_trgm;
 create index if not exists movements_name_trgm_idx
   on public.movements using gin (name gin_trgm_ops);
