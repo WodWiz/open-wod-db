@@ -57,7 +57,9 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -73,7 +75,9 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -216,7 +220,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -230,7 +235,8 @@
       "category": "bodyweight",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -254,7 +260,8 @@
       "equipment": [],
       "patterns": [
         "pull",
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [
         "bmu"
@@ -359,7 +366,8 @@
         "barbell"
       ],
       "patterns": [
-        "pull"
+        "pull",
+        "hinge"
       ],
       "aliases": [],
       "workouts": [],
@@ -409,7 +417,10 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "squat",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -422,9 +433,7 @@
       "name": "Box Jump",
       "category": "bodyweight",
       "equipment": [],
-      "patterns": [
-        "lunge"
-      ],
+      "patterns": [],
       "aliases": [],
       "workouts": [
         "adambrown",
@@ -474,9 +483,7 @@
       "name": "Box Jump Over",
       "category": "bodyweight",
       "equipment": [],
-      "patterns": [
-        "lunge"
-      ],
+      "patterns": [],
       "aliases": [],
       "workouts": [
         "games-10-event-3",
@@ -523,9 +530,7 @@
       "name": "Broad Jump",
       "category": "bodyweight",
       "equipment": [],
-      "patterns": [
-        "lunge"
-      ],
+      "patterns": [],
       "aliases": [],
       "workouts": [
         "games-12-broad-jump"
@@ -538,7 +543,8 @@
       "category": "bodyweight",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -599,7 +605,8 @@
       "patterns": [
         "core",
         "pull",
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -614,7 +621,7 @@
       "equipment": [],
       "patterns": [
         "core",
-        "lunge"
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -629,7 +636,7 @@
       "equipment": [],
       "patterns": [
         "core",
-        "lunge"
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -651,7 +658,8 @@
       "category": "bodyweight",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "push"
       ],
       "aliases": [],
       "workouts": [],
@@ -665,7 +673,8 @@
       "patterns": [
         "core",
         "pull",
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -680,7 +689,8 @@
       "category": "bodyweight",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -695,7 +705,8 @@
       "category": "bodyweight",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "push"
       ],
       "aliases": [
         "lateral burpee over the bar"
@@ -714,7 +725,9 @@
       "equipment": [],
       "patterns": [
         "core",
-        "pull"
+        "pull",
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -735,7 +748,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [],
@@ -747,7 +761,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [
         "chest-to-bar",
@@ -795,7 +810,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [],
@@ -809,7 +825,9 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "squat"
       ],
       "aliases": [],
       "workouts": [
@@ -845,7 +863,10 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "squat",
+        "push"
       ],
       "aliases": [
         "c&j"
@@ -881,6 +902,7 @@
       ],
       "patterns": [
         "olympic",
+        "hinge",
         "pull"
       ],
       "aliases": [],
@@ -920,7 +942,9 @@
       "category": "odd-object",
       "equipment": [],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -1045,7 +1069,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -1067,7 +1092,9 @@
       ],
       "patterns": [
         "olympic",
-        "core"
+        "core",
+        "hinge",
+        "pull"
       ],
       "aliases": [
         "devil's press"
@@ -1229,7 +1256,8 @@
       ],
       "patterns": [
         "hinge",
-        "core"
+        "core",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -1261,7 +1289,9 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [],
@@ -1275,7 +1305,10 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull",
+        "push"
       ],
       "aliases": [],
       "workouts": [],
@@ -1377,7 +1410,9 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "pull",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -1394,7 +1429,9 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "pull",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -1410,7 +1447,8 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "pull"
       ],
       "aliases": [],
       "workouts": [],
@@ -1424,7 +1462,8 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "lunge"
       ],
       "aliases": [],
       "workouts": [
@@ -1441,7 +1480,8 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "squat"
       ],
       "aliases": [],
       "workouts": [
@@ -1509,7 +1549,9 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [],
@@ -1523,7 +1565,9 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [],
@@ -1626,7 +1670,9 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -1651,7 +1697,9 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "lunge"
       ],
       "aliases": [],
       "workouts": [
@@ -1667,7 +1715,9 @@
         "dumbbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "squat"
       ],
       "aliases": [],
       "workouts": [
@@ -1686,6 +1736,7 @@
       ],
       "patterns": [
         "olympic",
+        "hinge",
         "squat",
         "push"
       ],
@@ -1834,7 +1885,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -1848,7 +1900,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -1988,7 +2041,10 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -2022,7 +2078,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "core",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -2036,7 +2093,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "core",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -2050,7 +2108,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [
         "hspu"
@@ -2100,7 +2159,8 @@
       "equipment": [],
       "patterns": [
         "push",
-        "carry"
+        "carry",
+        "gymnastics"
       ],
       "aliases": [
         "hs walk"
@@ -2130,7 +2190,8 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "squat"
       ],
       "aliases": [],
       "workouts": [
@@ -2146,7 +2207,8 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -2166,7 +2228,8 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -2183,7 +2246,8 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "squat"
       ],
       "aliases": [],
       "workouts": [],
@@ -2197,7 +2261,8 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "squat"
       ],
       "aliases": [],
       "workouts": [],
@@ -2369,7 +2434,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [],
@@ -2397,7 +2463,9 @@
         "kettlebell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [],
@@ -2411,7 +2479,10 @@
         "kettlebell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -2523,7 +2594,9 @@
         "kettlebell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [],
@@ -2607,7 +2680,8 @@
         "kettlebell"
       ],
       "patterns": [
-        "core"
+        "core",
+        "hinge"
       ],
       "aliases": [],
       "workouts": [],
@@ -2619,7 +2693,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [],
@@ -2631,7 +2706,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [],
@@ -2643,7 +2719,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "gymnastics"
       ],
       "aliases": [
         "knees to elbows",
@@ -2666,7 +2743,8 @@
       "equipment": [],
       "patterns": [
         "pull",
-        "core"
+        "core",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -2683,7 +2761,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [],
@@ -2695,7 +2774,8 @@
       "category": "bodyweight",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -2709,7 +2789,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -2742,7 +2823,10 @@
       "category": "odd-object",
       "equipment": [],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull",
+        "push"
       ],
       "aliases": [],
       "workouts": [],
@@ -2780,7 +2864,9 @@
       "category": "odd-object",
       "equipment": [],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -2838,7 +2924,9 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [],
@@ -2852,7 +2940,10 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull",
+        "push"
       ],
       "aliases": [],
       "workouts": [],
@@ -2865,7 +2956,8 @@
       "equipment": [],
       "patterns": [
         "pull",
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -2918,7 +3010,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [],
@@ -2930,7 +3023,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3037,7 +3131,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3052,7 +3147,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3070,7 +3166,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3091,7 +3188,8 @@
         "barbell"
       ],
       "patterns": [
-        "pull"
+        "pull",
+        "hinge"
       ],
       "aliases": [],
       "workouts": [],
@@ -3103,7 +3201,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "squat"
+        "squat",
+        "gymnastics"
       ],
       "aliases": [
         "single-leg squat",
@@ -3153,7 +3252,10 @@
       "category": "odd-object",
       "equipment": [],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull",
+        "push"
       ],
       "aliases": [],
       "workouts": [],
@@ -3167,7 +3269,9 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -3192,7 +3296,9 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -3211,7 +3317,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3225,7 +3332,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3409,7 +3517,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3428,7 +3537,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3445,7 +3555,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3460,7 +3571,8 @@
       "equipment": [],
       "patterns": [
         "pull",
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [
         "rmu"
@@ -3478,7 +3590,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3494,7 +3607,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3522,7 +3636,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -3803,7 +3918,9 @@
       "category": "odd-object",
       "equipment": [],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -3817,7 +3934,9 @@
       "category": "odd-object",
       "equipment": [],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -4080,7 +4199,9 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "squat"
       ],
       "aliases": [],
       "workouts": [
@@ -4118,7 +4239,8 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "squat"
       ],
       "aliases": [],
       "workouts": [],
@@ -4133,6 +4255,7 @@
       ],
       "patterns": [
         "olympic",
+        "hinge",
         "pull"
       ],
       "aliases": [],
@@ -4194,7 +4317,9 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "squat"
       ],
       "aliases": [],
       "workouts": [
@@ -4219,7 +4344,9 @@
         "barbell"
       ],
       "patterns": [
-        "olympic"
+        "olympic",
+        "hinge",
+        "squat"
       ],
       "aliases": [],
       "workouts": [
@@ -4279,7 +4406,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [],
@@ -4291,7 +4419,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -4312,7 +4441,8 @@
       "equipment": [],
       "patterns": [
         "pull",
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [],
@@ -4341,7 +4471,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -4503,7 +4634,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "gymnastics"
       ],
       "aliases": [
         "toes to bar",
@@ -4550,7 +4682,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "core"
+        "core",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -4578,9 +4711,7 @@
       "name": "Tuck Jump",
       "category": "bodyweight",
       "equipment": [],
-      "patterns": [
-        "squat"
-      ],
+      "patterns": [],
       "aliases": [],
       "workouts": [],
       "description": "A vertical jump bringing both knees up toward the chest at the peak before landing."
@@ -4692,7 +4823,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [
         "wall walk"
@@ -4713,7 +4845,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
@@ -4727,7 +4860,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "push"
+        "push",
+        "gymnastics"
       ],
       "aliases": [
         "chest-to-wall handstand push-up"
@@ -4756,7 +4890,8 @@
       "category": "gymnastics",
       "equipment": [],
       "patterns": [
-        "pull"
+        "pull",
+        "gymnastics"
       ],
       "aliases": [],
       "workouts": [
