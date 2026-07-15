@@ -6,6 +6,9 @@
       "name": "Ab Mat Sit Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [
         "abmat sit-up"
       ],
@@ -17,6 +20,9 @@
       "name": "Air Squat",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "squat"
+      ],
       "aliases": [],
       "workouts": [
         "angie",
@@ -50,6 +56,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [
         "nickman"
@@ -62,6 +71,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -80,6 +92,9 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [
         "kettlebell swing (american)"
       ],
@@ -91,6 +106,9 @@
       "name": "Assault Bike",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "games-16-rope-chipper",
@@ -104,6 +122,9 @@
       "name": "Atlas Stone Over Shoulder",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Lifting a round, weighted atlas stone from the ground and placing it over one shoulder in a single motion."
@@ -113,6 +134,9 @@
       "name": "Back Extension",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [
         "cameron",
@@ -128,6 +152,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "games-21-event-15"
@@ -140,6 +167,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "squat"
       ],
       "aliases": [],
       "workouts": [
@@ -170,6 +200,9 @@
       "name": "Ball Slam",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "games-20-swim-n-stuff",
@@ -182,6 +215,9 @@
       "name": "Bar Dip",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-22-elizabeth-elevated"
@@ -193,6 +229,9 @@
       "name": "Bar Facing Burpee",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "buriak",
@@ -213,6 +252,10 @@
       "name": "Bar Muscle Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull",
+        "push"
+      ],
       "aliases": [
         "bmu"
       ],
@@ -247,6 +290,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Barbell locked out overhead while lunging forward or walking \u2014 combines overhead stability with a single-leg squat pattern."
@@ -257,6 +303,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "lunge"
       ],
       "aliases": [],
       "workouts": [
@@ -269,6 +318,9 @@
       "name": "Bear Crawl",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "pike",
@@ -282,6 +334,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -303,6 +358,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Torso hinged forward and near-parallel to the floor, pulling a barbell to the lower ribs/stomach and lowering under control \u2014 targets the mid-back and lats."
@@ -312,6 +370,9 @@
       "name": "Bike",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "games-11-killer-kage",
@@ -333,6 +394,9 @@
       "name": "Bike Erg",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "A prescribed distance or calorie count on a Concept2 BikeErg, a standard-geometry stationary bike ergometer."
@@ -343,6 +407,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -355,6 +422,9 @@
       "name": "Box Jump",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "adambrown",
@@ -404,6 +474,9 @@
       "name": "Box Jump Over",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "games-10-event-3",
@@ -422,6 +495,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "squat"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Back squat performed to a box or bench, briefly sitting back to touch it before standing \u2014 reinforces hip-driven depth and a controlled bottom position."
@@ -431,6 +507,9 @@
       "name": "Box Step Up",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "chad1000x",
@@ -444,6 +523,9 @@
       "name": "Broad Jump",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "games-12-broad-jump"
@@ -455,6 +537,9 @@
       "name": "Burpee",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "bert",
@@ -511,6 +596,11 @@
       "name": "Burpee Bar Muscle Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core",
+        "pull",
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "barraza"
@@ -522,6 +612,10 @@
       "name": "Burpee Box Jump",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core",
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "ship"
@@ -533,6 +627,10 @@
       "name": "Burpee Box Jump Over",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core",
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "dunn",
@@ -552,6 +650,9 @@
       "name": "Burpee Broad Jump",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Burpee immediately followed by a maximal-distance broad jump forward instead of a vertical jump."
@@ -561,6 +662,11 @@
       "name": "Burpee Muscle Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core",
+        "pull",
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-12-chipper",
@@ -573,6 +679,9 @@
       "name": "Burpee Over Dumbbell",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "open-24-1",
@@ -585,6 +694,9 @@
       "name": "Burpee Over The Bar",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [
         "lateral burpee over the bar"
       ],
@@ -600,6 +712,10 @@
       "name": "Burpee Pull Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core",
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "bowen",
@@ -618,6 +734,9 @@
       "name": "Butterfly Pull Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "A continuous, circular kipping pull-up where the hips trace a loop rather than a front-to-back swing \u2014 the fastest competitive pull-up style once the timing is mastered."
@@ -627,6 +746,9 @@
       "name": "Chest To Bar Pull Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [
         "chest-to-bar",
         "c2b"
@@ -672,6 +794,9 @@
       "name": "Chin Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Pull-up performed with an underhand (supinated) grip rather than overhand \u2014 the biceps-forward grip variation."
@@ -682,6 +807,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -716,6 +844,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [
         "c&j"
       ],
@@ -748,6 +879,10 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "olympic",
+        "pull"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "The pulling portion of a clean (floor to full extension) performed without racking the bar \u2014 used to build pulling strength and speed without the catch."
@@ -757,6 +892,9 @@
       "name": "Cossack Squat",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "squat"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "A wide-stance side-to-side squat, shifting weight fully onto one bent leg while the other stays straight, then shifting to the other side."
@@ -766,6 +904,9 @@
       "name": "Crossover Single Under",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "games-25-all-crossed-up",
@@ -778,6 +919,9 @@
       "name": "D Ball Clean",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [
         "games-16-100-percent"
@@ -789,6 +933,9 @@
       "name": "D Ball Over Shoulder",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [
         "games-13-burden-run",
@@ -805,6 +952,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "hinge"
       ],
       "aliases": [],
       "workouts": [
@@ -882,6 +1032,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Deadlift performed standing on a raised platform, increasing the range of motion off the floor \u2014 demands extra hip and ankle mobility off the bottom."
@@ -891,6 +1044,9 @@
       "name": "Deficit Handstand Push Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-13-the-cinco-2",
@@ -909,6 +1065,10 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "olympic",
+        "core"
+      ],
       "aliases": [
         "devil's press"
       ],
@@ -921,6 +1081,9 @@
       "category": "kettlebell",
       "equipment": [
         "kettlebell"
+      ],
+      "patterns": [
+        "carry"
       ],
       "aliases": [],
       "workouts": [
@@ -935,6 +1098,9 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "carry"
+      ],
       "aliases": [],
       "workouts": [
         "daniel-ray"
@@ -947,6 +1113,9 @@
       "category": "kettlebell",
       "equipment": [
         "kettlebell"
+      ],
+      "patterns": [
+        "lunge"
       ],
       "aliases": [],
       "workouts": [
@@ -961,6 +1130,9 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "carry"
+      ],
       "aliases": [],
       "workouts": [
         "daniel-ray"
@@ -972,6 +1144,9 @@
       "name": "Double Under",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [
         "du",
         "dubs"
@@ -1021,6 +1196,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Bench press performed with a dumbbell in each hand instead of a barbell, allowing a greater range of motion and independent arm paths."
@@ -1031,6 +1209,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "lunge"
       ],
       "aliases": [],
       "workouts": [
@@ -1046,6 +1227,10 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "hinge",
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "tumilson"
@@ -1058,6 +1243,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "carry"
       ],
       "aliases": [],
       "workouts": [
@@ -1072,6 +1260,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "A dumbbell (or pair) pulled from the floor and received in the front rack, typically with a slight squat \u2014 the dumbbell analog of the barbell clean."
@@ -1083,6 +1274,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "A dumbbell clean immediately followed by a jerk to lock the dumbbell(s) out overhead."
@@ -1093,6 +1287,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "hinge"
       ],
       "aliases": [],
       "workouts": [
@@ -1107,6 +1304,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Dumbbell bench press performed lying on the floor, stopping the descent when the upper arms touch the ground."
@@ -1117,6 +1317,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "lunge"
       ],
       "aliases": [],
       "workouts": [
@@ -1131,6 +1334,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "squat"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Squat holding a dumbbell (or pair) in the front rack position at the shoulders throughout the descent and stand."
@@ -1141,6 +1347,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "squat"
       ],
       "aliases": [],
       "workouts": [],
@@ -1153,6 +1362,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "squat"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Squat holding a single dumbbell vertically against the chest with both hands cupping the top end \u2014 an accessible, upright-torso squat variation."
@@ -1163,6 +1375,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -1178,6 +1393,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [
         "open-25-1"
@@ -1191,6 +1409,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Dumbbell hang clean caught above parallel with only a partial dip."
@@ -1201,6 +1422,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -1215,6 +1439,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -1231,6 +1458,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "carry"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Walking a set distance with one or two dumbbells locked out overhead, arms fully extended throughout."
@@ -1241,6 +1471,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "lunge"
       ],
       "aliases": [],
       "workouts": [
@@ -1258,6 +1491,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "squat"
+      ],
       "aliases": [],
       "workouts": [
         "games-18-chaos",
@@ -1272,6 +1508,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Dumbbell clean caught above parallel with only a partial dip rather than a full-depth squat."
@@ -1282,6 +1521,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [],
@@ -1294,6 +1536,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Dumbbell driven overhead with a dip-drive and a quarter-squat receive \u2014 the dumbbell version of the push jerk."
@@ -1304,6 +1549,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -1319,6 +1567,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Romanian deadlift performed holding dumbbells at the sides instead of a barbell in front."
@@ -1329,6 +1580,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "pull"
       ],
       "aliases": [],
       "workouts": [],
@@ -1341,6 +1595,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Dumbbell pressed from the shoulder to locked-out overhead with no leg drive \u2014 a strict, single- or double-arm overhead press."
@@ -1351,6 +1608,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -1364,6 +1624,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -1387,6 +1650,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [
         "erin"
@@ -1399,6 +1665,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -1415,6 +1684,11 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "olympic",
+        "squat",
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "feeks"
@@ -1428,6 +1702,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Dumbbell pressed overhead using shoulder strength alone, no hip or leg drive, matching the strictness standard of a barbell strict press."
@@ -1438,6 +1715,10 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "squat",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -1455,6 +1736,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "carry"
+      ],
       "aliases": [],
       "workouts": [
         "weston"
@@ -1467,6 +1751,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "lunge"
       ],
       "aliases": [],
       "workouts": [
@@ -1481,6 +1768,9 @@
       "name": "Echo Bike",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "games-21-event-9",
@@ -1497,6 +1787,9 @@
       "category": "dumbbell",
       "equipment": [
         "dumbbell"
+      ],
+      "patterns": [
+        "carry"
       ],
       "aliases": [],
       "workouts": [
@@ -1516,6 +1809,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Bench press performed lying on the floor instead of a bench, so the range of motion stops when the upper arms touch the ground \u2014 reduces shoulder strain and emphasizes lockout strength."
@@ -1525,6 +1821,9 @@
       "name": "Flutter Kick",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Lying on the back with legs extended and slightly raised, kicking the legs in a small, rapid alternating up-down motion."
@@ -1534,6 +1833,9 @@
       "name": "Forward Roll",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "adrian"
@@ -1545,6 +1847,9 @@
       "name": "Freestanding Handstand Push Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-21-event-14",
@@ -1561,6 +1866,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "games-21-event-15"
@@ -1573,6 +1881,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "squat"
       ],
       "aliases": [],
       "workouts": [
@@ -1601,6 +1912,9 @@
       "name": "Ghd Hip Extension",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Hip-focused variation of the back extension on a GHD, emphasizing glute drive to extend the hips rather than lower-back rounding/extension."
@@ -1610,6 +1924,9 @@
       "name": "Ghd Sit Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [
         "ghd sit-up"
       ],
@@ -1640,6 +1957,9 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "squat"
+      ],
       "aliases": [
         "kettlebell goblet squat"
       ],
@@ -1653,6 +1973,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Barbell on the back, hinging forward at the hips with a flat back and soft knees until the torso nears parallel to the floor, then returning upright \u2014 targets the posterior chain."
@@ -1663,6 +1986,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -1676,6 +2002,9 @@
       "name": "Hand Release Push Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "daniel-ray",
@@ -1692,6 +2021,9 @@
       "name": "Handstand",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "marguerita"
@@ -1703,6 +2035,9 @@
       "name": "Handstand Hold",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-20-handstand-hold"
@@ -1714,6 +2049,9 @@
       "name": "Handstand Push Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [
         "hspu"
       ],
@@ -1760,6 +2098,10 @@
       "name": "Handstand Walk",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push",
+        "carry"
+      ],
       "aliases": [
         "hs walk"
       ],
@@ -1787,6 +2129,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [
         "open-21-4"
@@ -1799,6 +2144,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -1817,6 +2165,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [
         "andi",
@@ -1831,6 +2182,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Snatch initiated from the hang position rather than the floor, emphasizing the second pull and the catch."
@@ -1842,6 +2196,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Clean started from the hang position and received in a full-depth front squat."
@@ -1851,6 +2208,9 @@
       "name": "Hanging Hip Touch",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "kevin"
@@ -1862,6 +2222,9 @@
       "name": "Hanging Knee Raise",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Hanging from a bar, raising the knees toward the chest under control with little to no kip \u2014 an ab/hip-flexor strength movement."
@@ -1871,6 +2234,9 @@
       "name": "High Knees",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Running in place (or traveling) driving the knees up toward hip height with each step, at a fast cadence."
@@ -1880,6 +2246,9 @@
       "name": "Hip Extension",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "General term for extending the hips from a flexed position back to neutral/extended against resistance or bodyweight, as prescribed on a GHD or hyperextension bench."
@@ -1889,6 +2258,9 @@
       "name": "Hollow Hold",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Holding the hollow body position (lower back flat to the floor, shoulders and legs raised) motionless for time."
@@ -1898,6 +2270,9 @@
       "name": "Hollow Rock",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Holding a hollow body position (lower back pressed to the floor, arms and legs extended and slightly raised) while rocking gently front to back \u2014 a core-control and rhythm drill."
@@ -1907,6 +2282,9 @@
       "name": "Husafell Carry",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "carry"
+      ],
       "aliases": [],
       "workouts": [
         "games-21-event-5",
@@ -1919,6 +2297,9 @@
       "name": "Inchworm",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "From standing, folding forward to place the hands on the floor, walking the hands out to a plank, then walking the feet up to the hands to return to standing."
@@ -1929,6 +2310,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -1944,6 +2328,9 @@
       "name": "Jerry Bag Carry",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "carry"
+      ],
       "aliases": [],
       "workouts": [
         "games-22-the-capitol"
@@ -1955,6 +2342,9 @@
       "name": "Jumping Jack",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "marguerita"
@@ -1966,6 +2356,9 @@
       "name": "Jumping Lunge",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Lunge where the athlete jumps to switch the front/back leg mid-air between reps, rather than stepping."
@@ -1975,6 +2368,9 @@
       "name": "Jumping Pull Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Pull-up assisted by a small jump off the ground to help the chin clear the bar \u2014 a scaled version of a full pull-up for athletes still building pulling strength."
@@ -1984,6 +2380,9 @@
       "name": "Kayak",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "games-21-event-1"
@@ -1997,6 +2396,9 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Kettlebell pulled from between the legs (or the floor) and received in the front rack against the forearm, absorbing it softly to avoid banging the wrist."
@@ -2007,6 +2409,9 @@
       "category": "kettlebell",
       "equipment": [
         "kettlebell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -2021,6 +2426,9 @@
       "category": "kettlebell",
       "equipment": [
         "kettlebell"
+      ],
+      "patterns": [
+        "hinge"
       ],
       "aliases": [],
       "workouts": [
@@ -2037,6 +2445,9 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "games-20-toes-to-bar-lunge"
@@ -2050,6 +2461,9 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Circling a kettlebell around the head, close to the skull, reversing direction each rep or set \u2014 a shoulder-mobility and control movement, not a strength lift."
@@ -2060,6 +2474,9 @@
       "category": "kettlebell",
       "equipment": [
         "kettlebell"
+      ],
+      "patterns": [
+        "lunge"
       ],
       "aliases": [],
       "workouts": [
@@ -2075,6 +2492,9 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-19-second-cut"
@@ -2088,6 +2508,9 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Kettlebell pressed overhead using a short dip-and-drive from the legs rather than a strict press."
@@ -2099,6 +2522,9 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "A single kettlebell pulled from between the legs to locked-out overhead in one continuous motion, the bell rolling smoothly around the wrist rather than banging into the forearm."
@@ -2109,6 +2535,10 @@
       "category": "kettlebell",
       "equipment": [
         "kettlebell"
+      ],
+      "patterns": [
+        "hinge",
+        "pull"
       ],
       "aliases": [],
       "workouts": [
@@ -2124,6 +2554,9 @@
       "category": "kettlebell",
       "equipment": [
         "kettlebell"
+      ],
+      "patterns": [
+        "hinge"
       ],
       "aliases": [],
       "workouts": [
@@ -2155,6 +2588,10 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "squat",
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-14-the-beach",
@@ -2169,6 +2606,9 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Standing with a kettlebell locked out overhead, hinging sideways at the hips to touch (or reach toward) the opposite foot while keeping the arm vertical \u2014 an overhead-stability and hip-mobility drill."
@@ -2178,6 +2618,9 @@
       "name": "Kipping Handstand Push Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Handstand push-up using a kip (a hip/knee drive against the wall) to help press back up out of the bottom, similar in spirit to a kipping pull-up."
@@ -2187,6 +2630,9 @@
       "name": "Kipping Pull Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Pull-up using a rhythmic hip/leg swing (the 'kip') to generate momentum, getting the chin over the bar faster and with less pure pulling strength than a strict rep."
@@ -2196,6 +2642,9 @@
       "name": "Knees To Elbows",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [
         "knees to elbows",
         "k2e"
@@ -2215,6 +2664,10 @@
       "name": "L Pull Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull",
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "forrest",
@@ -2229,6 +2682,9 @@
       "name": "L Sit",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Supporting the body on the hands (on the floor, a box, or rings) with the legs held straight out in front at a 90-degree angle, held for time."
@@ -2238,6 +2694,9 @@
       "name": "Lateral Burpee",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "qf-24-2"
@@ -2249,6 +2708,9 @@
       "name": "Legless Rope Climb",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "games-13-legless",
@@ -2264,6 +2726,9 @@
       "name": "Log Carry",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "carry"
+      ],
       "aliases": [],
       "workouts": [
         "games-13-burden-run",
@@ -2276,6 +2741,9 @@
       "name": "Log Clean And Jerk",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "A loaded log pulled from the floor to the chest/shoulders and then driven overhead to a lockout, similar in structure to a barbell clean-and-jerk but with an axle-style implement."
@@ -2285,6 +2753,9 @@
       "name": "Log Press",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Pressing a loaded log from the shoulders/chest to locked-out overhead, typically without a squat clean to get it there first."
@@ -2294,6 +2765,9 @@
       "name": "Medicine Ball Box Step Over",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "open-26-1"
@@ -2305,6 +2779,9 @@
       "name": "Medicine Ball Clean",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [
         "games-12-medball-handstand-push-up",
@@ -2317,6 +2794,9 @@
       "name": "Medicine Ball Sit Up",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "games-13-sprint-chipper",
@@ -2329,6 +2809,9 @@
       "name": "Medicine Ball Throw",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "games-12-ball-toss"
@@ -2340,6 +2823,9 @@
       "name": "Mountain Climber",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "From a plank position, rapidly driving alternating knees toward the chest while the hands stay planted."
@@ -2350,6 +2836,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [],
@@ -2362,6 +2851,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Snatch pulled and pressed out overhead with no re-bend of the knees to catch it \u2014 an overhead-strength and technique builder, not a max-load lift."
@@ -2371,6 +2863,10 @@
       "name": "Muscle Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull",
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "amanda",
@@ -2421,6 +2917,9 @@
       "name": "Negative Pull Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Starting at the top of a pull-up (chin over the bar) and lowering as slowly as possible to a full hang \u2014 builds pulling strength by isolating the eccentric portion."
@@ -2430,6 +2929,9 @@
       "name": "Obstacle Pirouette",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "games-23-inverted-medley"
@@ -2442,6 +2944,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "squat"
       ],
       "aliases": [
         "ohs"
@@ -2480,6 +2985,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "carry"
+      ],
       "aliases": [],
       "workouts": [
         "paul"
@@ -2491,6 +2999,9 @@
       "name": "Overhead Walking Lunge",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "blake",
@@ -2509,6 +3020,9 @@
       "name": "Paddleboard",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "games-15-pier-paddle",
@@ -2522,6 +3036,9 @@
       "name": "Parallel Bar Traverse",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "games-11-killer-kage",
@@ -2534,6 +3051,9 @@
       "name": "Parallette Handstand Push Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-12-medball-handstand-push-up",
@@ -2549,6 +3069,9 @@
       "name": "Pegboard",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "games-15-pedal-to-the-metal-1",
@@ -2567,6 +3090,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Bent-over row performed with the bar returning to a dead stop on the floor between every rep, torso held parallel throughout \u2014 a stricter, more explosive row variant."
@@ -2576,6 +3102,9 @@
       "name": "Pistol",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "squat"
+      ],
       "aliases": [
         "single-leg squat",
         "pistol squat"
@@ -2599,6 +3128,9 @@
       "name": "Plank",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Holding the body in a straight line supported on the forearms (or hands) and toes, core braced, for time."
@@ -2608,6 +3140,9 @@
       "name": "Plate Carry",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "carry"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Carrying one or two weight plates a set distance, typically pinched at the sides or held at the chest."
@@ -2617,6 +3152,9 @@
       "name": "Plate Ground To Overhead",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Moving a weight plate from the floor to locked-out overhead by any method the athlete chooses."
@@ -2627,6 +3165,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -2650,6 +3191,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [
         "hope",
@@ -2666,6 +3210,9 @@
       "name": "Pull Over",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "games-23-inverted-medley"
@@ -2677,6 +3224,9 @@
       "name": "Pull Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "angie",
@@ -2747,6 +3297,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "dt",
@@ -2764,6 +3317,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -2784,6 +3340,9 @@
       "name": "Push Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "angie",
@@ -2824,6 +3383,10 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "pull",
+        "core"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "From a push-up (plank) position with a hand on each dumbbell, rowing one dumbbell to the hip while balancing on the other \u2014 combines a core-stability plank with a rowing pull."
@@ -2833,6 +3396,9 @@
       "name": "Reverse Lunge",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Lunge stepping backward instead of forward, then returning to standing before the next rep."
@@ -2842,6 +3408,9 @@
       "name": "Ring Dip",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "cameron",
@@ -2858,6 +3427,9 @@
       "name": "Ring Handstand Push Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-10-cleans-handstand-pushups",
@@ -2872,6 +3444,9 @@
       "name": "Ring Lower",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "meadows"
@@ -2883,6 +3458,10 @@
       "name": "Ring Muscle Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull",
+        "push"
+      ],
       "aliases": [
         "rmu"
       ],
@@ -2898,6 +3477,9 @@
       "name": "Ring Push Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "coe",
@@ -2911,6 +3493,9 @@
       "name": "Ring Row",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "meadows"
@@ -2924,6 +3509,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Barbell lowered from the hips (not the floor) with knees only slightly bent, pushing the hips back until a hamstring stretch is felt, then driving back to standing."
@@ -2933,6 +3521,9 @@
       "name": "Rope Climb",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "brehm",
@@ -2974,6 +3565,9 @@
       "name": "Row",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "brehm",
@@ -3028,6 +3622,9 @@
       "name": "Run",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "abbate",
@@ -3156,6 +3753,9 @@
       "name": "Run Backward",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Running a prescribed distance moving backward instead of forward."
@@ -3166,6 +3766,9 @@
       "category": "kettlebell",
       "equipment": [
         "kettlebell"
+      ],
+      "patterns": [
+        "hinge"
       ],
       "aliases": [
         "kettlebell swing (russian)"
@@ -3180,6 +3783,9 @@
       "name": "Sandbag Carry",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "carry"
+      ],
       "aliases": [],
       "workouts": [
         "collin",
@@ -3196,6 +3802,9 @@
       "name": "Sandbag Clean",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [
         "games-22-sandbag-ladder"
@@ -3207,6 +3816,9 @@
       "name": "Sandbag Ground To Shoulder",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [
         "triple-deuce"
@@ -3218,6 +3830,9 @@
       "name": "Sandbag Over Log",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [
         "games-23-muscle-up-logs"
@@ -3229,6 +3844,9 @@
       "name": "Sandbag Squat",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "squat"
+      ],
       "aliases": [],
       "workouts": [
         "games-23-ski-bag"
@@ -3241,6 +3859,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -3259,6 +3880,9 @@
       "name": "Shuttle Run",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "qf-22-3",
@@ -3271,6 +3895,9 @@
       "name": "Shuttle Sprint",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "dunn",
@@ -3286,6 +3913,10 @@
       "equipment": [
         "dumbbell"
       ],
+      "patterns": [
+        "squat",
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Thruster performed holding one dumbbell in a single-arm front rack, alternating or fixed to one side per the workout's prescription \u2014 adds an anti-rotation core demand."
@@ -3296,6 +3927,9 @@
       "category": "kettlebell",
       "equipment": [
         "kettlebell"
+      ],
+      "patterns": [
+        "hinge"
       ],
       "aliases": [],
       "workouts": [],
@@ -3308,6 +3942,10 @@
       "equipment": [
         "kettlebell"
       ],
+      "patterns": [
+        "squat",
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "bowen"
@@ -3319,6 +3957,9 @@
       "name": "Single Under",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "A standard jump rope pass, one rotation of the rope per jump."
@@ -3328,6 +3969,9 @@
       "name": "Sit Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "angie",
@@ -3348,6 +3992,9 @@
       "name": "Ski Erg",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "games-16-rope-chipper",
@@ -3366,6 +4013,9 @@
       "name": "Sled Pull",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "fournier",
@@ -3389,6 +4039,9 @@
       "name": "Sled Push",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-11-dog-sled",
@@ -3409,6 +4062,9 @@
       "name": "Sledgehammer Strike",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "games-12-double-banger",
@@ -3422,6 +4078,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -3458,6 +4117,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Barbell taken from behind the neck, dropped under with a slight dip and drive, and caught in an overhead squat \u2014 a speed-under-the-bar and overhead-stability drill for the snatch."
@@ -3468,6 +4130,10 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "olympic",
+        "pull"
       ],
       "aliases": [],
       "workouts": [],
@@ -3480,6 +4146,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Overhead press performed from the bottom of an overhead squat position, bar taken from behind the neck \u2014 an advanced overhead-mobility and stability drill."
@@ -3491,6 +4160,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Jerk received with a front-to-back foot split, one leg forward and one back, locking the bar out overhead \u2014 the most common competitive jerk style."
@@ -3500,6 +4172,9 @@
       "name": "Sprint",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "games-11-triplet-sprint",
@@ -3517,6 +4192,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "olympic"
       ],
       "aliases": [],
       "workouts": [
@@ -3540,6 +4218,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "olympic"
+      ],
       "aliases": [],
       "workouts": [
         "amanda",
@@ -3555,6 +4236,9 @@
       "name": "Stair Climb",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Climbing a prescribed number of stairs or flights, typically for time or as part of a larger workout."
@@ -3564,6 +4248,9 @@
       "name": "Stake Drive",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "games-09-row-stake"
@@ -3577,6 +4264,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [
         "stephen"
@@ -3588,6 +4278,9 @@
       "name": "Strict Dip",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Dip performed with no kip or leg swing \u2014 a controlled lower and press using triceps/chest/shoulder strength alone."
@@ -3597,6 +4290,9 @@
       "name": "Strict Handstand Push Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-20-damn-diane",
@@ -3614,6 +4310,10 @@
       "name": "Strict Muscle Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull",
+        "push"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Muscle-up performed with no kip or swing \u2014 a strict pull straight into the transition and dip lockout."
@@ -3624,6 +4324,9 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -3637,6 +4340,9 @@
       "name": "Strict Pull Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "daniel-ray",
@@ -3656,6 +4362,9 @@
       "equipment": [
         "barbell"
       ],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Deadlift with a wide stance and hands inside the knees, more upright torso than a conventional pull \u2014 shifts more of the load to the hips and inner thighs."
@@ -3666,6 +4375,10 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "hinge",
+        "pull"
       ],
       "aliases": [
         "sdhp"
@@ -3684,6 +4397,9 @@
       "name": "Swim",
       "category": "monostructural",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "games-11-beach",
@@ -3711,6 +4427,10 @@
       "category": "barbell",
       "equipment": [
         "barbell"
+      ],
+      "patterns": [
+        "squat",
+        "push"
       ],
       "aliases": [],
       "workouts": [
@@ -3770,6 +4490,9 @@
       "name": "Tire Flip",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Flipping a large tractor tire end over end by squatting to grip its underside and driving it up and over with the hips and legs."
@@ -3779,6 +4502,9 @@
       "name": "Toes To Bar",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [
         "toes to bar",
         "t2b"
@@ -3823,6 +4549,9 @@
       "name": "Toes To Ring",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "games-19-ringer-1",
@@ -3835,6 +4564,9 @@
       "name": "Triple Under",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
       "aliases": [],
       "workouts": [
         "cameron"
@@ -3846,6 +4578,9 @@
       "name": "Tuck Jump",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "squat"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "A vertical jump bringing both knees up toward the chest at the peak before landing."
@@ -3856,6 +4591,9 @@
       "category": "kettlebell",
       "equipment": [
         "kettlebell"
+      ],
+      "patterns": [
+        "core"
       ],
       "aliases": [],
       "workouts": [
@@ -3868,6 +4606,9 @@
       "name": "V Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "core"
+      ],
       "aliases": [],
       "workouts": [
         "qf-23-4"
@@ -3879,6 +4620,9 @@
       "name": "Walking Lunge",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
       "aliases": [],
       "workouts": [
         "bert",
@@ -3896,6 +4640,10 @@
       "name": "Wall Ball Shot",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "squat",
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "adambrown",
@@ -3943,6 +4691,9 @@
       "name": "Wall Climb",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [
         "wall walk"
       ],
@@ -3961,6 +4712,9 @@
       "name": "Wall Climb Over",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [],
       "workouts": [
         "games-10-the-final-1"
@@ -3972,6 +4726,9 @@
       "name": "Wall Facing Handstand Push Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "push"
+      ],
       "aliases": [
         "chest-to-wall handstand push-up"
       ],
@@ -3986,6 +4743,9 @@
       "name": "Wall Sit",
       "category": "bodyweight",
       "equipment": [],
+      "patterns": [
+        "squat"
+      ],
       "aliases": [],
       "workouts": [],
       "description": "Holding a seated squat position with the back against a wall and thighs parallel to the floor, no chair, for time."
@@ -3995,6 +4755,9 @@
       "name": "Weighted Pull Up",
       "category": "gymnastics",
       "equipment": [],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [
         "del",
@@ -4008,6 +4771,9 @@
       "name": "Yoke Carry",
       "category": "odd-object",
       "equipment": [],
+      "patterns": [
+        "carry"
+      ],
       "aliases": [],
       "workouts": [
         "games-15-midline-madness",

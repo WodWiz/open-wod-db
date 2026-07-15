@@ -121,6 +121,141 @@ EQUIPMENT = {
     "gymnastics": [], "bodyweight": [], "monostructural": [], "odd-object": [],
 }
 
+# Biomechanical movement pattern(s), independent of the equipment-based `category`
+# above. A movement can hit more than one pattern (e.g. a thruster is a squat AND
+# a push; a clean-and-jerk is bucketed as a single "olympic" pattern rather than
+# decomposed into hinge/pull/squat/push, matching how programming tools group the
+# barbell classics). This is our own functional classification, not copied from
+# any glossary. Every slug in GROUPS must have an entry here (checked below).
+PATTERNS = {
+    # barbell
+    "back-squat": ["squat"], "front-squat": ["squat"], "overhead-squat": ["squat"],
+    "box-squat": ["squat"],
+    "back-rack-lunge": ["lunge"], "front-rack-lunge": ["lunge"],
+    "barbell-overhead-lunge": ["lunge"], "barbell-step-up": ["lunge"],
+    "good-morning": ["hinge"],
+    "deadlift": ["hinge"], "sumo-deadlift": ["hinge"], "romanian-deadlift": ["hinge"],
+    "stiff-legged-deadlift": ["hinge"], "deficit-deadlift": ["hinge"],
+    "sumo-deadlift-high-pull": ["hinge", "pull"],
+    "clean": ["olympic"], "power-clean": ["olympic"], "squat-clean": ["olympic"],
+    "hang-clean": ["olympic"], "hang-power-clean": ["olympic"],
+    "ground-to-overhead": ["olympic"], "hang-squat-clean": ["olympic"],
+    "muscle-clean": ["olympic"], "clean-pull": ["olympic", "pull"],
+    "clean-and-jerk": ["olympic"], "bodyweight-clean-and-jerk": ["olympic"],
+    "snatch": ["olympic"], "power-snatch": ["olympic"], "squat-snatch": ["olympic"],
+    "hang-snatch": ["olympic"], "hang-power-snatch": ["olympic"],
+    "muscle-snatch": ["olympic"], "snatch-pull": ["olympic", "pull"],
+    "snatch-balance": ["olympic"],
+    "jerk": ["push"], "split-jerk": ["push"], "push-jerk": ["push"],
+    "push-press": ["push"], "strict-press": ["push"], "shoulder-to-overhead": ["push"],
+    "sots-press": ["push"],
+    "thruster": ["squat", "push"],
+    "bench-press": ["push"], "floor-press": ["push"],
+    "bent-over-row": ["pull"], "pendlay-row": ["pull"],
+    "overhead-walk": ["carry"],
+    # dumbbell
+    "dumbbell-thruster": ["squat", "push"], "single-arm-dumbbell-thruster": ["squat", "push"],
+    "dumbbell-snatch": ["olympic"], "dumbbell-power-snatch": ["olympic"],
+    "alternating-dumbbell-snatch": ["olympic"], "alternating-dumbbell-power-snatch": ["olympic"],
+    "dumbbell-clean": ["olympic"], "dumbbell-power-clean": ["olympic"],
+    "dumbbell-squat-clean": ["olympic"], "dumbbell-hang-squat-clean": ["olympic"],
+    "dumbbell-split-clean": ["olympic"], "dumbbell-hang-split-snatch": ["olympic"],
+    "dumbbell-clean-and-jerk": ["olympic"],
+    "dumbbell-squat-clean-thruster": ["olympic", "squat", "push"],
+    "dumbbell-hang-clean-to-overhead": ["olympic"], "dumbbell-hang-clean-and-jerk": ["olympic"],
+    "dumbbell-front-rack-squat": ["squat"],
+    "dumbbell-push-press": ["push"], "dumbbell-push-jerk": ["push"],
+    "dumbbell-shoulder-press": ["push"], "dumbbell-strict-press": ["push"],
+    "dumbbell-shoulder-to-overhead": ["push"], "dumbbell-hang-power-clean": ["olympic"],
+    "dumbbell-front-squat": ["squat"], "dumbbell-overhead-squat": ["squat"],
+    "dumbbell-goblet-squat": ["squat"],
+    "dumbbell-bench-press": ["push"], "dumbbell-floor-press": ["push"],
+    "dumbbell-deadlift": ["hinge"], "dumbbell-romanian-deadlift": ["hinge"],
+    "dumbbell-burpee-deadlift": ["hinge", "core"],
+    "dumbbell-walking-lunge": ["lunge"], "dumbbell-front-rack-lunge": ["lunge"],
+    "dumbbell-overhead-lunge": ["lunge"], "dumbbell-box-step-up": ["lunge"],
+    "dumbbell-row": ["pull"], "renegade-row": ["pull", "core"],
+    "devils-press": ["olympic", "core"],
+    "dumbbell-carry": ["carry"], "dumbbell-waiters-walk": ["carry"],
+    "dumbbell-overhead-carry": ["carry"], "farmers-carry": ["carry"],
+    # kettlebell
+    "kettlebell-swing": ["hinge"], "american-kettlebell-swing": ["hinge"],
+    "russian-kettlebell-swing": ["hinge"], "single-arm-kettlebell-swing": ["hinge"],
+    "kettlebell-clean": ["olympic"], "kettlebell-clean-and-jerk": ["olympic"],
+    "kettlebell-snatch": ["olympic"],
+    "kettlebell-thruster": ["squat", "push"], "single-arm-kettlebell-thruster": ["squat", "push"],
+    "kettlebell-push-press": ["push"], "kettlebell-press": ["push"],
+    "kettlebell-deadlift": ["hinge"], "kettlebell-sumo-deadlift-high-pull": ["hinge", "pull"],
+    "goblet-squat": ["squat"],
+    "kettlebell-front-rack-lunge": ["lunge"], "kettlebell-overhead-lunge": ["lunge"],
+    "turkish-get-up": ["core"], "kettlebell-windmill": ["core"], "kettlebell-halo": ["core"],
+    "double-kettlebell-farmers-carry": ["carry"], "double-kettlebell-front-rack-carry": ["carry"],
+    "double-kettlebell-front-rack-lunge": ["lunge"], "double-kettlebell-overhead-carry": ["carry"],
+    # gymnastics
+    "pull-up": ["pull"], "kipping-pull-up": ["pull"], "butterfly-pull-up": ["pull"],
+    "strict-pull-up": ["pull"], "chest-to-bar-pull-up": ["pull"],
+    "l-pull-up": ["pull", "core"], "weighted-pull-up": ["pull"],
+    "burpee-pull-up": ["core", "pull"], "jumping-pull-up": ["pull"],
+    "chin-up": ["pull"], "negative-pull-up": ["pull"],
+    "muscle-up": ["pull", "push"], "bar-muscle-up": ["pull", "push"],
+    "ring-muscle-up": ["pull", "push"], "strict-muscle-up": ["pull", "push"],
+    "burpee-muscle-up": ["core", "pull", "push"], "burpee-bar-muscle-up": ["core", "pull", "push"],
+    "handstand-push-up": ["push"], "strict-handstand-push-up": ["push"],
+    "kipping-handstand-push-up": ["push"], "deficit-handstand-push-up": ["push"],
+    "freestanding-handstand-push-up": ["push"], "wall-facing-handstand-push-up": ["push"],
+    "ring-handstand-push-up": ["push"], "parallette-handstand-push-up": ["push"],
+    "handstand": ["push"], "handstand-hold": ["push"], "handstand-walk": ["push", "carry"],
+    "wall-climb": ["push"], "wall-climb-over": ["push"],
+    "ring-dip": ["push"], "bar-dip": ["push"], "strict-dip": ["push"],
+    "ring-row": ["pull"], "ring-push-up": ["push"], "push-up": ["push"],
+    "hand-release-push-up": ["push"],
+    "toes-to-bar": ["core"], "toes-to-ring": ["core"], "knees-to-elbows": ["core"],
+    "hanging-knee-raise": ["core"], "hanging-hip-touch": ["core"],
+    "rope-climb": ["pull"], "legless-rope-climb": ["pull"], "pegboard": ["pull"],
+    "pistol": ["squat"], "forward-roll": ["core"], "ring-lower": ["pull"],
+    "pull-over": ["pull"], "parallel-bar-traverse": ["pull"], "obstacle-pirouette": ["core"],
+    "sit-up": ["core"], "ghd-sit-up": ["core"], "ab-mat-sit-up": ["core"], "v-up": ["core"],
+    "hollow-rock": ["core"], "hollow-hold": ["core"], "l-sit": ["core"], "plank": ["core"],
+    "back-extension": ["hinge"], "ghd-hip-extension": ["hinge"], "hip-extension": ["hinge"],
+    # bodyweight
+    "air-squat": ["squat"],
+    "walking-lunge": ["lunge"], "reverse-lunge": ["lunge"], "jumping-lunge": ["lunge"],
+    "overhead-walking-lunge": ["lunge"],
+    "cossack-squat": ["squat"], "wall-sit": ["squat"],
+    "burpee": ["core"], "bar-facing-burpee": ["core"], "burpee-over-the-bar": ["core"],
+    "lateral-burpee": ["core"],
+    "burpee-box-jump": ["core", "lunge"], "burpee-box-jump-over": ["core", "lunge"],
+    "burpee-broad-jump": ["core"], "burpee-over-dumbbell": ["core"],
+    "box-jump": ["lunge"], "box-jump-over": ["lunge"], "box-step-up": ["lunge"],
+    "broad-jump": ["lunge"], "tuck-jump": ["squat"],
+    "double-under": ["monostructural"], "single-under": ["monostructural"],
+    "triple-under": ["monostructural"], "crossover-single-under": ["monostructural"],
+    "jumping-jack": ["monostructural"],
+    "bear-crawl": ["core"], "mountain-climber": ["core"],
+    "high-knees": ["monostructural"], "inchworm": ["core"], "flutter-kick": ["core"],
+    # monostructural
+    "run": ["monostructural"], "sprint": ["monostructural"], "run-backward": ["monostructural"],
+    "shuttle-sprint": ["monostructural"], "shuttle-run": ["monostructural"],
+    "row": ["monostructural"], "ski-erg": ["monostructural"], "bike": ["monostructural"],
+    "assault-bike": ["monostructural"], "echo-bike": ["monostructural"],
+    "bike-erg": ["monostructural"], "swim": ["monostructural"], "kayak": ["monostructural"],
+    "paddleboard": ["monostructural"], "stair-climb": ["monostructural"],
+    # odd-object
+    "wall-ball-shot": ["squat", "push"], "medicine-ball-clean": ["olympic"],
+    "medicine-ball-sit-up": ["core"], "medicine-ball-box-step-over": ["lunge"],
+    "ball-slam": ["core"],
+    "sandbag-carry": ["carry"], "sandbag-clean": ["olympic"],
+    "sandbag-ground-to-shoulder": ["olympic"], "sandbag-squat": ["squat"],
+    "sandbag-over-log": ["hinge"],
+    "jerry-bag-carry": ["carry"], "husafell-carry": ["carry"], "log-carry": ["carry"],
+    "sledgehammer-strike": ["core"], "medicine-ball-throw": ["core"], "stake-drive": ["core"],
+    "sled-push": ["push"], "sled-pull": ["pull"], "yoke-carry": ["carry"],
+    "atlas-stone-over-shoulder": ["hinge"], "d-ball-clean": ["olympic"],
+    "d-ball-over-shoulder": ["hinge"], "tire-flip": ["hinge"],
+    "log-clean-and-jerk": ["olympic"], "log-press": ["push"],
+    "plate-ground-to-overhead": ["olympic"], "plate-carry": ["carry"],
+}
+
 # Two distinct burpee standards, kept separate on purpose:
 #   bar-facing-burpee = face the bar, chest to floor, two-foot jump over facing it
 #   burpee-over-the-bar = lateral, jump/step over the bar
@@ -453,11 +588,18 @@ def main():
             + ", ".join(sorted(missing))
         )
 
+    missing_patterns = set(category) - set(PATTERNS)
+    if missing_patterns:
+        raise SystemExit(
+            "movements missing from PATTERNS: " + ", ".join(sorted(missing_patterns))
+        )
+
     movements = [{
         "id": slug,
         "name": title(slug),
         "category": cat,
         "equipment": EQUIPMENT[cat],
+        "patterns": PATTERNS[slug],
         "aliases": ALIASES.get(slug, []),
         "workouts": workouts.get(slug, []),
         "description": DESCRIPTIONS.get(slug),
