@@ -99,7 +99,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Workout 1 of the 2026 CrossFit Open. The Open is the worldwide online qualifying stage of the CrossFit Games season: one workout released each week, completed and scored by hundreds of thousands of athletes in affiliates and garages on the same few days.",
+    "first_posted": null
+  },
   "tags": [
     "open",
     "2026",
@@ -108,5 +111,5 @@
   "description": "A mirrored wall-ball pyramid (20-30-40-66-40-30-20) with box jump-overs, later medicine-ball box step-overs, threaded between each set.",
   "source_notes": "games.crossfit.com/workouts/open/2026/1 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

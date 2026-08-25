@@ -40,7 +40,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Test 2 of the 2021 CrossFit Quarterfinals. The Quarterfinals sit between the worldwide Open and the Semifinals in the CrossFit Games season — a harder online stage for the top slice of Open finishers.",
+    "first_posted": null
+  },
   "tags": [
     "quarterfinal",
     "2021",
@@ -51,5 +54,5 @@
   "description": "A descending triplet of GHD sit-ups, rope climbs, and alternating pistols.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2021/2 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

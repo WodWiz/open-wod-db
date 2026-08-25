@@ -27,17 +27,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "25-35 rounds, kick-to-handstand against a wall or an inchworm in place of the handstand.",
+    "beginner": "20-25 rounds substituting a plank shoulder-tap pair for the handstand. The single-rep carousel format is pure practice — use it as exactly that."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Fifty rounds of a five-movement bodyweight sequence done one rep at a time — burpee, push-up, jumping-jack, sit-up, handstand. Less a strength test than a coordination flywheel: the transitions are the workout. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2014-01-15.",
     "first_posted": "2014-01-15"
   },
   "tags": [
     "bodyweight",
     "high-volume"
   ],
-  "description": "50 reps each of five bodyweight movements \u2014 burpees, push-ups, jumping jacks, sit-ups, and handstands \u2014 done straight through in order for time.",
+  "description": "50 reps each of five bodyweight movements — burpees, push-ups, jumping jacks, sit-ups, and handstands — done straight through in order for time.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

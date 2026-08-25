@@ -27,7 +27,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2009 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2009",
@@ -37,5 +40,5 @@
   "description": "Three rounds of wall-ball shots and squat snatches.",
   "source_notes": "games.crossfit.com/workouts/games/2009/5 (official CrossFit Games event, individual division confirmed), retrieved 2026-07-10",
   "schema_version": "1.1",
-  "last_updated": "2026-07-10"
+  "last_updated": "2026-08-25"
 }

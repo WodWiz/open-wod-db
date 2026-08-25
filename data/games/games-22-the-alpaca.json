@@ -68,7 +68,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2022 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2022",
@@ -78,5 +81,5 @@
   "description": "A sled-push-and-kettlebell-clean-and-jerk chipper, the sled unloading kettlebells with each pass while the barbell-free kettlebell work stays constant.",
   "source_notes": "games.crossfit.com/workouts/games/2022/11 (official CrossFit Games event), retrieved 2026-07-09; originally included legless rope climbs between each sled push/kettlebell station, but these were removed for weather/safety reasons in the version actually contested -- this entry reflects the as-performed version; the exact load-removal mechanic during the initial 126 ft push is not precisely confirmed from available sources, flagged per CONTRIBUTING",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

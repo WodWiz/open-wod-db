@@ -38,14 +38,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "Pike push-ups, 95/65 lb thrusters and deadlifts, banded pull-ups. Seven movements × seven rounds punishes poor transitions — station setup before the clock is half the score.",
+    "beginner": "4-5 rounds of 5 reps: elevated push-ups, light thrusters, sit-ups (for knees-to-elbows), light deadlifts, burpees, light swings, ring rows."
+  },
+  "origin": {
+    "summary": "Honors seven CIA officers killed on December 30, 2009, when a suicide bomber attacked Forward Operating Base Chapman in Khost, Afghanistan. Seven rounds of seven reps of seven movements — the arithmetic is the memorial.",
+    "first_posted": null
+  },
   "tags": [
     "7-rounds",
     "high-skill"
   ],
-  "description": "Seven rounds of seven reps each across seven different movements \u2014 handstand push-up, thruster, knees-to-elbows, deadlift, burpee, kettlebell swing, and pull-up.",
+  "description": "Seven rounds of seven reps each across seven different movements — handstand push-up, thruster, knees-to-elbows, deadlift, burpee, kettlebell swing, and pull-up.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

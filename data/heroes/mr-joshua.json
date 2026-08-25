@@ -27,7 +27,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Navy Special Warfare Operator 1st Class Joshua Thomas Harris, 36, a SEAL who drowned during combat operations on August 30, 2008. Runs, GHD sit-ups, and heavy deadlifts — midline endurance stacked against a heavy hinge, five times.",
+    "first_posted": null
+  },
   "tags": [
     "running",
     "barbell",
@@ -37,5 +40,5 @@
   "description": "Five rounds of a 400m run, GHD sit-ups, and heavy deadlifts.",
   "source_notes": "crossfit.com/benchmark/mr-joshua (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

@@ -21,9 +21,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Banded pull-ups, knee or box push-ups if straight sets of 10 break early. The target is steady rounds every 60-75 seconds for all 20 minutes.",
+    "beginner": "Ring rows, elevated push-ups, squats to a target box; 12-15 minutes. Log the rounds — Cindy is the easiest benchmark to re-test progress on."
+  },
   "origin": {
-    "summary": null,
+    "summary": "The most accessible of the Girls: twenty minutes of bodyweight triplet work with no barbell and no skill barrier beyond a pull-up. Deceptive — 20 rounds (a long-standing 'good' score) is 100 pull-ups, 200 push-ups, and 300 squats. The push-ups are almost always what breaks first. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2004-12-29.",
     "first_posted": "2004-12-29"
   },
   "tags": [
@@ -31,8 +34,8 @@
     "amrap",
     "triplet"
   ],
-  "description": "A 20-minute AMRAP of the classic pull-up, push-up, and air-squat triplet at 5-10-15 reps per round \u2014 one of the most commonly used benchmarks for tracking bodyweight conditioning over time.",
+  "description": "A 20-minute AMRAP of the classic pull-up, push-up, and air-squat triplet at 5-10-15 reps per round — one of the most commonly used benchmarks for tracking bodyweight conditioning over time.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

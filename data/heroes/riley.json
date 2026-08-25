@@ -20,15 +20,18 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Army Sergeant First Class Riley Stephens, 39, killed in Afghanistan on September 28, 2012. A running-and-lunging sandwich — 1.5 miles, 150 burpees, 1.5 miles — traditionally worn with a 20-lb vest.",
+    "first_posted": null
+  },
   "tags": [
     "running",
     "bodyweight",
     "high-volume",
     "weight-vest-optional"
   ],
-  "description": "Two 1.5-mile runs bookending 150 burpees \u2014 a running-first chipper with one large bodyweight movement in the middle.",
+  "description": "Two 1.5-mile runs bookending 150 burpees — a running-first chipper with one large bodyweight movement in the middle.",
   "source_notes": "crossfit.com/benchmark/riley (official CrossFit Hero WOD page), retrieved 2026-07-08; official Rx adds an optional load: 'If you've got a weight vest or body armor, wear it.'",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

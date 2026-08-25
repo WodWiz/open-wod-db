@@ -44,13 +44,16 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Navy Senior Chief Petty Officer Thomas Valentine, 37, of Ham Lake, Minnesota, a SEAL who died in a training accident in Arizona on February 13, 2008. Thrusters and rope climbs — grip against legs, with neither getting a turn off.",
+    "first_posted": null
+  },
   "tags": [
     "barbell",
     "gymnastics"
   ],
-  "description": "A descending thruster-and-rope-climb couplet (21-15-9 on the thrusters, 12-9-6 on the climbs) \u2014 the rope-climb volume drops at a different rate than the barbell work.",
+  "description": "A descending thruster-and-rope-climb couplet (21-15-9 on the thrusters, 12-9-6 on the climbs) — the rope-climb volume drops at a different rate than the barbell work.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

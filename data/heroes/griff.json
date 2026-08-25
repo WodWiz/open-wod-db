@@ -26,7 +26,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Air Force Staff Sergeant Travis Griffin, 28, killed on April 3, 2008, in Baghdad by an improvised explosive device while on his second tour. Uniquely in the canon, half of Griff's running is done backward — a nod that the workout should be as unusual as the man was.",
+    "first_posted": null
+  },
   "tags": [
     "running",
     "single-modality"
@@ -34,5 +37,5 @@
   "description": "A pure running chipper alternating 800m forward runs with 400m backward runs, repeated twice.",
   "source_notes": "crossfit.com/benchmark/griff (official CrossFit Hero WOD page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

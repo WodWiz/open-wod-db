@@ -7,7 +7,10 @@
   "movements": [],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2007 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2007",
@@ -19,7 +22,7 @@
   "description": "A 1000m row done once, followed by five rounds of pull-ups and push jerks.",
   "source_notes": "games.crossfit.com/workouts/games/2007/1 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; 1000m row once, then 5 rounds for time of 25 pull-ups and 7 push jerks",
   "schema_version": "1.1",
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-08-25",
   "segments": [
     {
       "label": "Row",

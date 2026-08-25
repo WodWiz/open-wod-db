@@ -17,14 +17,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Navy SEAL Chad Wilkinson, who died by suicide on October 29, 2018, after multiple deployments and traumatic brain injuries. One thousand box step-ups with a 45-lb ruck, created by his wife Sara to raise awareness of veteran suicide — completed by thousands each Veterans Day as the CHAD1000X event.",
+    "first_posted": null
+  },
   "tags": [
     "weighted",
     "single-movement",
     "high-volume"
   ],
-  "description": "1,000 weighted box step-ups performed wearing a ruck \u2014 a single-movement volume test with no other movements involved.",
+  "description": "1,000 weighted box step-ups performed wearing a ruck — a single-movement volume test with no other movements involved.",
   "source_notes": "crossfit.com/benchmark/chad1000x (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

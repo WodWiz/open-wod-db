@@ -23,14 +23,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Marine First Lieutenant Travis Manion, 26, killed in Al Anbar Province, Iraq, on April 29, 2007, by sniper fire while aiding wounded comrades. Seven rounds of 400m runs and heavy back squats — 'If not me, then who...' became the motto of the foundation bearing his name.",
+    "first_posted": null
+  },
   "tags": [
     "running",
     "barbell",
     "7-rounds"
   ],
-  "description": "Seven rounds of a 400m run followed by 29 back squats \u2014 a running-and-squat couplet repeated at high round count.",
+  "description": "Seven rounds of a 400m run followed by 29 back squats — a running-and-squat couplet repeated at high round count.",
   "source_notes": "crossfit.com/benchmark/manion (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

@@ -10,7 +10,10 @@
   "movements": [],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2023 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2023",
@@ -20,7 +23,7 @@
   "description": "Two mirrored intervals of box jump-overs, rowing calories, and burpee box jump-overs, the movement order flipped between the two.",
   "source_notes": "games.crossfit.com/workouts/games/2023/8 (official CrossFit Games event), retrieved 2026-07-09; Interval 2 begins at a fixed clock time (6:00) regardless of when Interval 1 finishes, movements reversed",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09",
+  "last_updated": "2026-08-25",
   "segments": [
     {
       "label": "Interval 1",

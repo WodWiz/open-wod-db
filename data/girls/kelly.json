@@ -27,17 +27,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "20\" box (step-ups allowed), 14/10 lb ball, 3-4 rounds. This is a 25-35 minute workout even scaled — start slower than feels right.",
+    "beginner": "3 rounds: 200m run, 15 box step-ups, 15 light wall-balls. Volume is the hazard here, not load — cut rounds before cutting movements."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Five rounds of a 400m run, thirty box jumps, and thirty wall-balls — one of the longer Girls, a half-hour grind for most athletes. Nothing is heavy; the test is staying in continuous motion when every movement taxes the legs the previous one just used. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2005-04-10.",
     "first_posted": "2005-04-10"
   },
   "tags": [
     "running",
     "box-jump"
   ],
-  "description": "Five rounds of a 400m run, box jumps, and wall-ball shots \u2014 a running-anchored triplet pairing two lower-body-dominant movements with the run.",
+  "description": "Five rounds of a 400m run, box jumps, and wall-ball shots — a running-anchored triplet pairing two lower-body-dominant movements with the run.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

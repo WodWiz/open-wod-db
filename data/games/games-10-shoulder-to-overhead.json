@@ -16,7 +16,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2010 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2010",
@@ -26,5 +29,5 @@
   "description": "A one-rep-max shoulder-to-overhead test, required to be completed within 12 minutes of starting the paired Max Rep Deadlift event.",
   "source_notes": "games.crossfit.com/workouts/games/2010/2 (official CrossFit Games event, individual division), retrieved 2026-07-10; must be completed within 12 minutes of the start of Max Rep Deadlift, immediately following it on the same clock",
   "schema_version": "1.1",
-  "last_updated": "2026-07-10"
+  "last_updated": "2026-08-25"
 }

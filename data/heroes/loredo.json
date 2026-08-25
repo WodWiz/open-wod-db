@@ -27,8 +27,14 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "4-5 rounds, or trim the run to 200m. No load to remove — the scaling lever is volume and pace only.",
+    "beginner": "3 rounds of 15 squats, 15 elevated push-ups, 15 lunges, 200m run — a fully equipment-free introduction to Hero-length efforts."
+  },
+  "origin": {
+    "summary": "Honors Army Staff Sergeant Edwardo Loredo, 34, killed in Jelewar, Afghanistan, on June 24, 2010, by an improvised explosive device. Six rounds of squats, push-ups, walking lunges, and running — no equipment, no ceiling on effort.",
+    "first_posted": null
+  },
   "tags": [
     "bodyweight",
     "running",
@@ -37,5 +43,5 @@
   "description": "Six rounds of air squats, push-ups, and walking lunges, each round closing with a 400m run.",
   "source_notes": "crossfit.com/benchmark/loredo (official CrossFit Hero WOD page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

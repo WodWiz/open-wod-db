@@ -15,15 +15,21 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "55/35 lb keeping sets of 10+, or 50 reps at 75/55. When form degrades to a stiff-legged pull, the load is wrong regardless of what the clock says.",
+    "beginner": "50 dumbbell snatches (alternating arms) at a light weight. The power snatch pattern first, the volume later."
+  },
+  "origin": {
+    "summary": "Honors Los Angeles Police Department SWAT Officer Randy Simmons, 51, killed in the line of duty on February 7, 2008 — the first LAPD SWAT officer to die in the unit's history. Seventy-five power snatches at 75 lb: light, fast, and a masterclass in how a 'light' barbell stops being light.",
+    "first_posted": null
+  },
   "tags": [
     "single-movement",
     "barbell",
     "sprint"
   ],
-  "description": "75 power snatches for time at one fixed barbell weight \u2014 a single-movement, high-volume sprint similar in spirit to Isabel but at much higher volume and a lighter load.",
+  "description": "75 power snatches for time at one fixed barbell weight — a single-movement, high-volume sprint similar in spirit to Isabel but at much higher volume and a lighter load.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

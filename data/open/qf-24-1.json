@@ -36,7 +36,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Test 1 of the 2024 CrossFit Quarterfinals. The Quarterfinals sit between the worldwide Open and the Semifinals in the CrossFit Games season — a harder online stage for the top slice of Open finishers.",
+    "first_posted": null
+  },
   "tags": [
     "quarterfinal",
     "2024",
@@ -45,8 +48,8 @@
     "rowing",
     "interval"
   ],
-  "description": "Four one-minute max-rep stations \u2014 heavy snatches, rowing calories, and dumbbell box step-ups \u2014 each separated by a minute of rest.",
+  "description": "Four one-minute max-rep stations — heavy snatches, rowing calories, and dumbbell box step-ups — each separated by a minute of rest.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2024/1 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09; 4 rounds of 1 minute each of snatch, row, dumbbell box step-up, with 1 minute of rest after each round, scored by total reps across all rounds",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

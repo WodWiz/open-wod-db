@@ -22,9 +22,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Banded pull-ups and knee push-ups, holding the every-minute-on-the-minute structure. If a minute is missed, keep going Cindy-style and note the round.",
+    "beginner": "3 ring rows, 6 elevated push-ups, 9 squats per minute for 15-20 minutes — the EMOM structure teaches pacing better than any open AMRAP."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Cindy's stricter sibling: the same 5-10-15 triplet, but on the minute for thirty minutes. Miss a minute and the workout is traditionally over — which turns a simple bodyweight circuit into a test of sustained precision. Completing all 30 rounds means the same volume as a very good Cindy, on someone else's schedule. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2003-09-07.",
     "first_posted": "2003-09-07"
   },
   "tags": [
@@ -34,5 +37,5 @@
   "description": "A 30-minute EMOM of a small pull-up, push-up, and air-squat triplet, testing whether an athlete can hold pace and quality for a full half hour rather than sprint a shorter piece.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

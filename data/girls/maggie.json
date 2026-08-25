@@ -23,9 +23,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Pike push-ups, pistols to a box, banded pull-ups, 3 rounds. Same rule as Mary: if most movements need scaling, the workout is telling you to do Cindy.",
+    "beginner": "Do Cindy or scaled Mary first. Maggie is volume stacked on top of skill — earn the skill at lower volume."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Five rounds of handstand push-ups, one-legged squats, and pull-ups — Mary's structure stretched into fixed rounds at higher volume. A skill-gated grinder: 100 handstand push-ups and 300 pistols total put it firmly in advanced territory. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2006-07-28.",
     "first_posted": "2006-07-28"
   },
   "tags": [
@@ -33,8 +36,8 @@
     "gymnastics",
     "5-rounds"
   ],
-  "description": "Five rounds of handstand push-ups, pull-ups, and alternating pistols at escalating per-movement volume \u2014 a gymnastics-heavy sibling of Mary, compressed into a fixed five-round interval rather than an open AMRAP.",
+  "description": "Five rounds of handstand push-ups, pull-ups, and alternating pistols at escalating per-movement volume — a gymnastics-heavy sibling of Mary, compressed into a fixed five-round interval rather than an open AMRAP.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

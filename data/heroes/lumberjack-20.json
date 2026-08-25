@@ -80,14 +80,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors the thirteen killed and thirty wounded at Fort Hood, Texas, on November 5, 2009 — many of them members of the 20th Engineer Battalion. Every couplet is separated by a 400m run: twenty reps, run, repeat, until six movements are gone.",
+    "first_posted": null
+  },
   "tags": [
     "barbell",
     "running",
     "high-volume"
   ],
-  "description": "A seven-movement chipper \u2014 deadlift, kettlebell swing, overhead squat, burpee, chest-to-bar pull-up, box jump, and dumbbell squat clean, all at 20 reps \u2014 with a 400m run after every single movement.",
+  "description": "A seven-movement chipper — deadlift, kettlebell swing, overhead squat, burpee, chest-to-bar pull-up, box jump, and dumbbell squat clean, all at 20 reps — with a 400m run after every single movement.",
   "source_notes": "crossfit.com/benchmark/lumberjack-20 (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

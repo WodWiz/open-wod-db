@@ -18,15 +18,21 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "Jumping muscle-ups or 2:1 pull-ups + dips; burpees unmodified. Five rounds of burpee-fatigued muscle-ups is advanced by design — scale without apology.",
+    "beginner": "5 rounds of 5 ring rows + 5 push-ups and 10 burpees. The couplet's rhythm — skill work on failing arms — survives any substitution."
+  },
+  "origin": {
+    "summary": "Honors Maplewood, Missouri, firefighter Ryan Hummert, 22, killed by sniper fire on July 21, 2008, while responding to his first call as a firefighter. Muscle-ups and burpees, five rounds — short on movements, long on suffering.",
+    "first_posted": null
+  },
   "tags": [
     "gymnastics",
     "bodyweight",
     "5-rounds"
   ],
-  "description": "Five rounds of muscle-ups and burpees \u2014 a simple two-movement gymnastics-and-bodyweight couplet.",
+  "description": "Five rounds of muscle-ups and burpees — a simple two-movement gymnastics-and-bodyweight couplet.",
   "source_notes": "crossfit.com/benchmark/ryan (official CrossFit Hero WOD page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

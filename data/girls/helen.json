@@ -26,9 +26,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "35/26 lb kettlebell; banded or jumping pull-ups. Keep the runs — they are the engine test. Target under 15 minutes.",
+    "beginner": "200-300m runs or a 500m row substitute, 26/18 lb Russian swings, ring rows. Three even-paced rounds beat two fast ones and a walk."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Three rounds pairing a run with kettlebell swings and pull-ups — the archetypal light triplet. The run keeps the heart rate high enough that the 'easy' gymnastics and kettlebell work stop being easy. A benchmark for pacing discipline: the athletes with the best times are rarely the ones who sprint the first 400m. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2003-08-09.",
     "first_posted": "2003-08-09"
   },
   "tags": [
@@ -36,8 +39,8 @@
     "kettlebell",
     "gymnastics"
   ],
-  "description": "Three rounds of a 400m run, kettlebell swings, and pull-ups \u2014 a running-based interval piece that tests grip and shoulder endurance on top of aerobic capacity.",
+  "description": "Three rounds of a 400m run, kettlebell swings, and pull-ups — a running-based interval piece that tests grip and shoulder endurance on top of aerobic capacity.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

@@ -27,17 +27,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Banded pull-ups, knee push-ups, 3-4 rounds. Guard the 3-minute rests — compressing them turns a repeat-sprint test into a grind and ruins the comparison.",
+    "beginner": "3 rounds of 10 ring rows, 15 elevated push-ups, 20 sit-ups, 25 squats with the full rest. The structure teaches recovering on purpose."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Five rounds of a descending-skill bodyweight ladder with exactly three minutes of rest between rounds. The rest is what defines Barbara: scores count work time only, so every round is an all-out effort into a recovery that never feels long enough by round four. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2003-09-27.",
     "first_posted": "2003-09-27"
   },
   "tags": [
     "bodyweight",
     "5-rounds"
   ],
-  "description": "Five rounds of the same bodyweight quartet as Angie at lower per-round volume, with a mandatory three-minute rest between rounds \u2014 the rest windows are part of the prescription, not just recovery.",
+  "description": "Five rounds of the same bodyweight quartet as Angie at lower per-round volume, with a mandatory three-minute rest between rounds — the rest windows are part of the prescription, not just recovery.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

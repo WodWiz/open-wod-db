@@ -22,9 +22,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Dumbbell bench at a load allowing 8-15 reps per set; banded pull-ups or ring rows. Score total reps — the no-clock format already scales itself.",
+    "beginner": "5 rounds of max push-ups and max ring rows. Same strategic puzzle (how close to failure per set?), no barbell required."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Five rounds of max-rep bodyweight bench press and max-rep pull-ups, with no clock at all. One of only a few untimed benchmarks: the score is total reps, and the strategy question — how close to failure to push each set — has no clean answer. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2004-04-22.",
     "first_posted": "2004-04-22"
   },
   "tags": [
@@ -32,8 +35,8 @@
     "strength",
     "bodyweight-relative"
   ],
-  "description": "Five rounds of max-rep bodyweight bench press and max-rep pull-ups, scored by total reps rather than time \u2014 a strength-endurance test rather than a conditioning sprint.",
+  "description": "Five rounds of max-rep bodyweight bench press and max-rep pull-ups, scored by total reps rather than time — a strength-endurance test rather than a conditioning sprint.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

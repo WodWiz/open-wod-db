@@ -39,17 +39,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Cut the total volume by a third and choose loads that keep sets of 10+ alive in the opening rounds.",
+    "beginner": "Halve the volume with light implements; long single-couplet grinds teach pacing fastest when the load is nearly trivial."
+  },
   "origin": {
-    "summary": null,
+    "summary": "One of the newer Girls from CrossFit.com's expansion of the series — a high-volume single-couplet grind in the mold of the originals, built to be understood in one reading and remembered by lunchtime. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2021-01-14.",
     "first_posted": "2021-01-14"
   },
   "tags": [
     "high-volume",
     "barbell"
   ],
-  "description": "100 reps each of hang power snatch, push press, sumo deadlift high pull, and front squat at one fixed light barbell weight \u2014 a high-volume single-load barbell chipper.",
+  "description": "100 reps each of hang power snatch, push press, sumo deadlift high pull, and front squat at one fixed light barbell weight — a high-volume single-load barbell chipper.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

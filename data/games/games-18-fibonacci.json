@@ -42,15 +42,18 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2018 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2018",
     "kettlebell",
     "gymnastics"
   ],
-  "description": "A deficit version of the Fibonacci ladder \u2014 ascending parallette handstand push-ups and kettlebell deadlifts (5-8-13), finishing with a heavy overhead kettlebell lunge.",
+  "description": "A deficit version of the Fibonacci ladder — ascending parallette handstand push-ups and kettlebell deadlifts (5-8-13), finishing with a heavy overhead kettlebell lunge.",
   "source_notes": "games.crossfit.com/workouts/games/2018/7 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

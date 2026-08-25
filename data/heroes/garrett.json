@@ -23,14 +23,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Marine Captain Garrett 'Tubes' Lawton, 31, killed by an improvised explosive device in Herat Province, Afghanistan, on August 4, 2008. Three rounds of high-volume squats, ring handstand push-ups, and L-pull-ups — gymnastics density few Heroes match.",
+    "first_posted": null
+  },
   "tags": [
     "gymnastics",
     "bodyweight",
     "3-rounds"
   ],
-  "description": "Three rounds of high-rep air squats followed by ring handstand push-ups and l-pull-ups \u2014 a squat-heavy round leading into two strict gymnastics movements.",
+  "description": "Three rounds of high-rep air squats followed by ring handstand push-ups and l-pull-ups — a squat-heavy round leading into two strict gymnastics movements.",
   "source_notes": "crossfit.com/benchmark/garrett (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

@@ -59,15 +59,18 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2016 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2016",
     "barbell",
     "gymnastics"
   ],
-  "description": "Three rounds trading a descending ring handstand push-up count for an ascending squat variation \u2014 back squat, then front squat, then overhead squat \u2014 with burpees between each.",
+  "description": "Three rounds trading a descending ring handstand push-up count for an ascending squat variation — back squat, then front squat, then overhead squat — with burpees between each.",
   "source_notes": "games.crossfit.com/workouts/games/2016/9 (official CrossFit Games event), retrieved 2026-07-09; time cap 16 minutes (women); men's cap not confirmed from available sources. One source described a slightly different women's movement order/rep count (ring HSPU descending 6-4-2 vs. the men's 12-9-6) that could not be fully corroborated -- this entry uses the men's structure, flagged per CONTRIBUTING",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

@@ -25,7 +25,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2022 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2022",
@@ -35,5 +38,5 @@
   "description": "Three rounds of muscle-ups, a box jump-over sequence spanning a log, a box, and a raised platform, and GHD sit-ups.",
   "source_notes": "games.crossfit.com/workouts/games/2022/6 (official CrossFit Games event), retrieved 2026-07-09; followed by an 84 ft weighted lunge with a 125 lb (women) axle bar to finish",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

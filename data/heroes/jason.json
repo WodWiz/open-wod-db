@@ -40,14 +40,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Navy Special Warfare Operator 1st Class Jason Dale Lewis, 30, a SEAL killed in Baghdad, Iraq, on July 6, 2007. Ascending squats against descending muscle-ups — a format that front-loads the hardest gymnastics while the athlete is freshest, then takes the legs anyway.",
+    "first_posted": null
+  },
   "tags": [
     "gymnastics",
     "bodyweight",
     "descending-ascending"
   ],
-  "description": "A mirrored ladder pairing descending air-squat volume with ascending muscle-up volume \u2014 the squats get easier as the muscle-ups get harder.",
+  "description": "A mirrored ladder pairing descending air-squat volume with ascending muscle-up volume — the squats get easier as the muscle-ups get harder.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

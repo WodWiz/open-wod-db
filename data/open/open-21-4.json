@@ -28,7 +28,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Workout 4 of the 2021 CrossFit Open. The Open is the worldwide online qualifying stage of the CrossFit Games season: one workout released each week, completed and scored by hundreds of thousands of athletes in affiliates and garages on the same few days.",
+    "first_posted": null
+  },
   "tags": [
     "open",
     "2021",
@@ -36,8 +39,8 @@
     "max-load",
     "complex"
   ],
-  "description": "A one-rep-max barbell complex \u2014 deadlift into clean into hang clean into jerk \u2014 performed on the same bar without re-gripping or dropping between lifts.",
+  "description": "A one-rep-max barbell complex — deadlift into clean into hang clean into jerk — performed on the same bar without re-gripping or dropping between lifts.",
   "source_notes": "games.crossfit.com/workouts/open/2021/4 (official CrossFit Games Open workout), retrieved 2026-07-09; max-load complex -- athlete determines and builds their own barbell load (score is the heaviest complex completed), so there is no prescribed Rx weight; time begins immediately after 21.3",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

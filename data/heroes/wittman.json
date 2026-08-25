@@ -22,8 +22,14 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "44/35 lb kettlebell, 95/65 lb power cleans, 20\" box, 5 rounds. Steady triplet pacing — the workout has no natural rest built in.",
+    "beginner": "4 rounds: 10 Russian swings, 10 light hang cleans, 10 step-ups. Volume before load, always."
+  },
+  "origin": {
+    "summary": "Honors Army Sergeant Jeremiah Wittman, 26, of Darby, Montana, killed in Zhari Province, Afghanistan, on February 13, 2010. Seven rounds of kettlebell swings, power cleans, and box jumps — a straightforward, grinding triplet.",
+    "first_posted": null
+  },
   "tags": [
     "7-rounds",
     "kettlebell",
@@ -32,5 +38,5 @@
   "description": "Seven rounds of kettlebell swings, power cleans, and box jumps at even reps throughout.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

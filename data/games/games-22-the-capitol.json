@@ -36,7 +36,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2022 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2022",
@@ -46,5 +49,5 @@
   "description": "A long chipper of an over-the-shoulder ball flip and a 3.5-mile run, finishing with two heavy carries.",
   "source_notes": "games.crossfit.com/workouts/games/2022/5 (official CrossFit Games event), retrieved 2026-07-09; course runs from Alliant Energy Center to the Wisconsin State Capitol; reps/distances/loads are fixed and standardized despite the location-specific route",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

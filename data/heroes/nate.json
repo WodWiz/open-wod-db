@@ -26,14 +26,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Navy Chief Special Warfare Operator Nate Hardy, killed in Iraq on February 4, 2008, alongside Chief Michael Koch (honored by a separate workout). A 20-minute AMRAP of muscle-ups, handstand push-ups, and heavy swings — skill-dense and honest about it.",
+    "first_posted": null
+  },
   "tags": [
     "gymnastics",
     "kettlebell",
     "amrap"
   ],
-  "description": "A 20-minute AMRAP of muscle-ups, handstand push-ups, and kettlebell swings \u2014 a compact, gymnastics-heavy triplet at low, even reps.",
+  "description": "A 20-minute AMRAP of muscle-ups, handstand push-ups, and kettlebell swings — a compact, gymnastics-heavy triplet at low, even reps.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

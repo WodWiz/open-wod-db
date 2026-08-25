@@ -27,7 +27,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Workout 4 of the 2011 CrossFit Open. The Open is the worldwide online qualifying stage of the CrossFit Games season: one workout released each week, completed and scored by hundreds of thousands of athletes in affiliates and garages on the same few days.",
+    "first_posted": null
+  },
   "tags": [
     "open",
     "2011",
@@ -35,8 +38,8 @@
     "bodyweight",
     "gymnastics"
   ],
-  "description": "A 10-minute AMRAP of 60 bar-facing burpees, 30 overhead squats, and 10 muscle-ups \u2014 one long round rather than a fast-repeating circuit.",
+  "description": "A 10-minute AMRAP of 60 bar-facing burpees, 30 overhead squats, and 10 muscle-ups — one long round rather than a fast-repeating circuit.",
   "source_notes": "games.crossfit.com/workouts/open/2011/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

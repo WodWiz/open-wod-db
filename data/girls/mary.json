@@ -22,9 +22,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Pike push-ups on a box, pistols to a box or with a heel counterweight, banded pull-ups. If two of the three movements need scaling, do Cindy instead and log it as Cindy.",
+    "beginner": "Do Cindy. Mary is Cindy for athletes whose pistols and handstand push-ups are already automatic — there's no shame and no shortcut in that order."
+  },
   "origin": {
-    "summary": null,
+    "summary": "The advanced sibling of Cindy: the same 20-minute AMRAP format, but with handstand push-ups, one-legged squats, and pull-ups. Where Cindy tests engine, Mary gates the engine behind skill — pistols and handstand push-ups have to be automatic before the workout is about conditioning at all. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2005-01-19.",
     "first_posted": "2005-01-19"
   },
   "tags": [
@@ -32,8 +35,8 @@
     "gymnastics",
     "triplet"
   ],
-  "description": "A 20-minute AMRAP of handstand push-ups, alternating pistols, and pull-ups \u2014 three advanced gymnastics skills combined, making it one of the more technically demanding Girl AMRAPs.",
+  "description": "A 20-minute AMRAP of handstand push-ups, alternating pistols, and pull-ups — three advanced gymnastics skills combined, making it one of the more technically demanding Girl AMRAPs.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

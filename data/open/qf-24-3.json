@@ -61,7 +61,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Test 3 of the 2024 CrossFit Quarterfinals. The Quarterfinals sit between the worldwide Open and the Semifinals in the CrossFit Games season — a harder online stage for the top slice of Open finishers.",
+    "first_posted": null
+  },
   "tags": [
     "quarterfinal",
     "2024",
@@ -70,5 +73,5 @@
   "description": "A chipper built almost entirely around handstand push-up variations, escalating from regular to strict to wall-facing, each paired with a different gymnastics movement.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2024/3 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

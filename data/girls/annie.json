@@ -27,9 +27,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Half the double-unders (25-20-15-10-5) with full sit-ups, or 2x singles. If you're 'almost' at double-unders, this is the workout to attempt them in.",
+    "beginner": "Single-unders at the written scheme, or 30-20-10. Sit-ups unmodified. A perfect first benchmark: low load, low skill floor, obvious progress marker."
+  },
   "origin": {
-    "summary": null,
+    "summary": "The gentlest-looking Girl: double-unders and sit-ups, 50-40-30-20-10. For athletes with double-unders it's a sprint and a welcome deload; for athletes without them it's the workout that finally forces the skill. A favorite re-test for tracking double-under progress. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2005-04-16.",
     "first_posted": "2005-04-16"
   },
   "tags": [
@@ -37,8 +40,8 @@
     "descending-ladder",
     "jump-rope"
   ],
-  "description": "A descending double-under and sit-up ladder (50-40-30-20-10) \u2014 the jump-rope analog to Fran's barbell-and-gymnastics couplet, testing coordination as much as conditioning.",
+  "description": "A descending double-under and sit-up ladder (50-40-30-20-10) — the jump-rope analog to Fran's barbell-and-gymnastics couplet, testing coordination as much as conditioning.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

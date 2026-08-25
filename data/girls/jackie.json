@@ -23,9 +23,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "The row stays; 35/25 lb bar or PVC-plus for thrusters, banded pull-ups. The classic error is rowing 15 seconds too hard — scale the pacing, not just the load.",
+    "beginner": "500-750m row, 25-35 empty-bar or dumbbell thrusters, 15-20 ring rows. One continuous effort at conversational-plus pace."
+  },
   "origin": {
-    "summary": null,
+    "summary": "A 1,000-meter row into fifty 45-pound thrusters into thirty pull-ups — light, fast, and unforgiving of a hot start on the rower. The empty-bar thrusters are where Jackie is won or lost: they look trivial on paper and feel very different after a hard row. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2005-08-03.",
     "first_posted": "2005-08-03"
   },
   "tags": [
@@ -33,8 +36,8 @@
     "rowing",
     "barbell"
   ],
-  "description": "A single round of a 1000m row, 50 thrusters, and 30 pull-ups \u2014 a rowing-led triplet that front-loads a long aerobic piece before the barbell and gymnastics work.",
+  "description": "A single round of a 1000m row, 50 thrusters, and 30 pull-ups — a rowing-led triplet that front-loads a long aerobic piece before the barbell and gymnastics work.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

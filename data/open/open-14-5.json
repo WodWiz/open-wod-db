@@ -36,7 +36,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Workout 5 of the 2014 CrossFit Open. The Open is the worldwide online qualifying stage of the CrossFit Games season: one workout released each week, completed and scored by hundreds of thousands of athletes in affiliates and garages on the same few days.",
+    "first_posted": null
+  },
   "tags": [
     "open",
     "2014",
@@ -44,8 +47,8 @@
     "bodyweight",
     "ladder"
   ],
-  "description": "A six-step descending couplet (21 down to 3, by threes) of thrusters and burpees \u2014 a longer version of Fran's ladder logic.",
+  "description": "A six-step descending couplet (21 down to 3, by threes) of thrusters and burpees — a longer version of Fran's ladder logic.",
   "source_notes": "games.crossfit.com/workouts/open/2014/5 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }
