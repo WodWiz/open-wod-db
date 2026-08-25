@@ -15,9 +15,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "95/65 lb power snatches, singles from the floor. The snatch degrades fastest under fatigue of any lift — scale until 30 crisp reps is realistic.",
+    "beginner": "Empty bar or light dumbbell, 20-30 reps, as technique practice under a gentle clock. A PVC-to-empty-bar progression session beats a sloppy timed effort."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Grace's twin: the same thirty reps and the same barbell, but snatched instead of clean-and-jerked. Technique degrades faster overhead, which is exactly the test — elite athletes finish in under 2 minutes, but only with a snatch that survives a red-lined heart rate. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2004-11-11.",
     "first_posted": "2004-11-11"
   },
   "tags": [
@@ -25,8 +28,8 @@
     "barbell",
     "sprint"
   ],
-  "description": "30 snatches for time at a fixed barbell weight \u2014 Grace's more technical cousin, trading raw speed for the added skill demand of the snatch's overhead catch.",
+  "description": "30 snatches for time at a fixed barbell weight — Grace's more technical cousin, trading raw speed for the added skill demand of the snatch's overhead catch.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

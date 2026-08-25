@@ -32,8 +32,14 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "115/75 lb clean and jerks, 3 rope climbs or 15 lay-back rope pulls, trim runs to 600m. A 40+ minute effort scaled or not — fuel and pace accordingly.",
+    "beginner": "Halve everything and substitute ring rows for climbs. Long chippers teach pacing better than anything short — that's the takeaway at any scale."
+  },
+  "origin": {
+    "summary": "Honors Glen Doherty, 42, a former Navy SEAL working as a security contractor, killed in Benghazi, Libya, on September 11, 2012, alongside Tyrone Woods (honored by a separate workout). A long chipper — clean and jerks, running, rope climbs, and more running — matching the scale of the story it carries.",
+    "first_posted": null
+  },
   "tags": [
     "barbell",
     "running",
@@ -42,5 +48,5 @@
   "description": "A chipper of 30 clean and jerks, 10 rope climbs, and 100 burpees, with a mile run separating each pair of movements.",
   "source_notes": "crossfit.com/benchmark/glen (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

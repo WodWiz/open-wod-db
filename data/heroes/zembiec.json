@@ -28,7 +28,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Marine Major Douglas A. Zembiec, 34, the 'Lion of Fallujah,' killed in Baghdad on May 11, 2007, during his fourth deployment. Five rounds pairing heavy back squats with strict burpee pull-ups and running — strength, gymnastics, and engine with nothing optional.",
+    "first_posted": null
+  },
   "tags": [
     "barbell",
     "gymnastics",
@@ -37,5 +40,5 @@
   "description": "Five rounds of back squats, strict burpee pull-ups, and a 400m run.",
   "source_notes": "crossfit.com/benchmark/zembiec (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

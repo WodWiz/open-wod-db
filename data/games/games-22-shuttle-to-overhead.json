@@ -7,7 +7,10 @@
   "movements": [],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2022 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2022",
@@ -17,7 +20,7 @@
   "description": "Three escalating rounds of a run and max-rep jerks in the time remaining, the run getting longer each round.",
   "source_notes": "games.crossfit.com/workouts/games/2022/4 (official CrossFit Games event), retrieved 2026-07-09; scored as two separate events: total time to complete the three runs, and cumulative jerks across all rounds",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09",
+  "last_updated": "2026-08-25",
   "segments": [
     {
       "label": "0:00-2:00",

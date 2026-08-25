@@ -23,17 +23,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "50 reps per movement, or bands for the pull-ups. Keep the do-all-of-one-before-the-next order — rotating movements defeats the test.",
+    "beginner": "25-50 ring rows, elevated push-ups, sit-ups, and box squats. Break into small planned sets from rep one; nobody's arms survive improvisation."
+  },
   "origin": {
-    "summary": null,
+    "summary": "One hundred pull-ups, then a hundred push-ups, then a hundred sit-ups, then a hundred squats — completed in order, each movement finished before the next begins. The format is brutal in its simplicity: no rotating away from a failing muscle group. How you break up the first two hundred reps decides the workout. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2004-07-26.",
     "first_posted": "2004-07-26"
   },
   "tags": [
     "bodyweight",
     "high-volume"
   ],
-  "description": "A bodyweight ladder of four gymnastics and core staples \u2014 100 reps each of pull-ups, push-ups, sit-ups, and air squats, done straight through in that order for time.",
+  "description": "A bodyweight ladder of four gymnastics and core staples — 100 reps each of pull-ups, push-ups, sit-ups, and air squats, done straight through in that order for time.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

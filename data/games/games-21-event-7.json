@@ -24,7 +24,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2021 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2021",
@@ -32,8 +35,8 @@
     "running",
     "ladder"
   ],
-  "description": "Five rounds of a shorter run and a single very heavy clean \u2014 a heavier companion to Event 6.",
+  "description": "Five rounds of a shorter run and a single very heavy clean — a heavier companion to Event 6.",
   "source_notes": "games.crossfit.com/workouts/games/2021/7 (official CrossFit Games event), retrieved 2026-07-09; clean load increases each round: 325-335-340-345-350 lb (men), 210-215-220-225-230 lb (women); paired with Event 6 as a two-part 100-point couplet",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

@@ -53,7 +53,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Test 3 of the 2022 CrossFit Quarterfinals. The Quarterfinals sit between the worldwide Open and the Semifinals in the CrossFit Games season — a harder online stage for the top slice of Open finishers.",
+    "first_posted": null
+  },
   "tags": [
     "quarterfinal",
     "2022",
@@ -63,5 +66,5 @@
   "description": "A mirrored pyramid (up to 32 and back down) shared across wall-ball shots, shuttle runs, and rope climbs.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2022/3 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

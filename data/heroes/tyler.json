@@ -23,14 +23,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Army First Lieutenant Tyler E. Parten, 24, killed in Afghanistan's Konar Province on September 10, 2009. Five rounds of muscle-ups and heavy sumo deadlift high pulls — an upper-body attrition test.",
+    "first_posted": null
+  },
   "tags": [
     "gymnastics",
     "barbell",
     "5-rounds"
   ],
-  "description": "Five rounds of muscle-ups and sumo deadlift high pulls \u2014 a gymnastics-and-barbell couplet.",
+  "description": "Five rounds of muscle-ups and sumo deadlift high pulls — a gymnastics-and-barbell couplet.",
   "source_notes": "crossfit.com/benchmark/tyler (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

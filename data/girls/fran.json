@@ -27,9 +27,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "65/45 lb thrusters; jumping pull-ups or a band. Keep the reps at 21-15-9 — the scheme is the workout. Target: finish under 10 minutes with no set lasting less than 5 reps.",
+    "beginner": "Empty-bar or light-dumbbell thrusters; ring rows. Cut the scheme to 15-12-9. The goal is continuous movement and a first benchmark time to beat, not survival."
+  },
   "origin": {
-    "summary": null,
+    "summary": "The most famous workout in CrossFit. Its blend of two simple movements at a load light enough to keep moving — but heavy enough to punish — made it the sport's universal handshake: 'What's your Fran time?' remains the question CrossFitters ask each other first. Elite athletes finish under 2 minutes; sub-5 is a widely used marker of solid fitness. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2003-08-25.",
     "first_posted": "2003-08-25"
   },
   "tags": [
@@ -41,5 +44,5 @@
   "description": "The best-known CrossFit benchmark: a 21-15-9 couplet of thrusters and pull-ups, prized for being short, simple to understand, and brutally unforgiving of an overly aggressive early pace.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

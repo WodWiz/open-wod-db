@@ -22,15 +22,21 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "95/65 lb squat cleans, banded pull-ups, 600m runs. This is a long workout at any scale — expect 30+ minutes and pace round one like round three.",
+    "beginner": "3 rounds: 15 light hang power cleans, 15 ring rows, 400m run. Badger's structure at a survivable dose."
+  },
+  "origin": {
+    "summary": "Honors Navy Chief Petty Officer Mark Carter, 27, of Fallbrook, California, a SEAL killed in Iraq on December 11, 2007. Three rounds of squat cleans, pull-ups, and 800m runs — among the most feared of the early Heroes for its combination of load, volume, and distance.",
+    "first_posted": null
+  },
   "tags": [
     "barbell",
     "running",
     "3-rounds"
   ],
-  "description": "Three rounds of 30 squat cleans, 30 pull-ups, and an 800m run \u2014 a high-volume triplet with the run as a substantial aerobic buffer between rounds.",
+  "description": "Three rounds of 30 squat cleans, 30 pull-ups, and an 800m run — a high-volume triplet with the run as a substantial aerobic buffer between rounds.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

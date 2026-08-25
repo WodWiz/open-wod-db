@@ -22,15 +22,21 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "Reduce runs to 600m or back extensions to 35 supermans on the floor; sit-ups unmodified. The test is repeatability across three identical rounds.",
+    "beginner": "3 rounds: 400m run or 500m row, 25 supermans, 25 sit-ups. The posterior-chain endurance this builds transfers to every deadlift you'll ever do."
+  },
+  "origin": {
+    "summary": "Honors Navy Lieutenant Michael M. McGreevy Jr., 30, of Portville, New York, a SEAL killed in Afghanistan on June 28, 2005, in the same helicopter shoot-down during Operation Red Wings that took the men honored by JT and Murph. Three rounds of running, back extensions, and sit-ups — deceptively simple, brutally repeatable trunk endurance.",
+    "first_posted": null
+  },
   "tags": [
     "running",
     "bodyweight",
     "3-rounds"
   ],
-  "description": "Three rounds of an 800m run followed by back extensions and sit-ups \u2014 a running-and-core couplet.",
+  "description": "Three rounds of an 800m run followed by back extensions and sit-ups — a running-and-core couplet.",
   "source_notes": "crossfit.com/benchmark/michael (official CrossFit Hero WOD page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

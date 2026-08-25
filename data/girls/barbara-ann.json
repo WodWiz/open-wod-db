@@ -31,9 +31,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Reduce loads to what allows unbroken sets of 10+ in round one, and cut to 3-4 rounds before touching the 3-minute rests.",
+    "beginner": "Do Barbara scaled instead, and come back to the weighted variant with a strength base."
+  },
   "origin": {
-    "summary": null,
+    "summary": "A latter-day heavier variation on Barbara from CrossFit.com's expansion of the Girls series: the same five-round, rest-defined structure, with the bodyweight movements traded for weighted work that changes what the three minutes of rest can actually recover. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2021-01-04.",
     "first_posted": "2021-01-04"
   },
   "tags": [
@@ -41,8 +44,8 @@
     "gymnastics",
     "barbell"
   ],
-  "description": "Five rounds of handstand push-ups, deadlifts, sit-ups, and double-unders, with a mandatory three-minute rest between rounds \u2014 a four-movement update to Barbara's rest-interval format.",
+  "description": "Five rounds of handstand push-ups, deadlifts, sit-ups, and double-unders, with a mandatory three-minute rest between rounds — a four-movement update to Barbara's rest-interval format.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

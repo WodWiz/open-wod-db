@@ -7,17 +7,20 @@
   "movements": [],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2016 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2016",
     "barbell",
     "ladder"
   ],
-  "description": "A staged, ever-heavier squat clean ladder against tightening time windows \u2014 fewer reps required at each stage, but the barbell gets significantly heavier.",
+  "description": "A staged, ever-heavier squat clean ladder against tightening time windows — fewer reps required at each stage, but the barbell gets significantly heavier.",
   "source_notes": "games.crossfit.com/workouts/games/2016/6 (official CrossFit Games event), retrieved 2026-07-09; an athlete unable to complete all reps at a bar is credited with reps completed and ranked by their last fully-completed stage",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09",
+  "last_updated": "2026-08-25",
   "segments": [
     {
       "label": "By 2:00",

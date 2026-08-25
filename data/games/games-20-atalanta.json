@@ -33,7 +33,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2020 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2020",
@@ -44,5 +47,5 @@
   "description": "A mirrored mile-run bookend around large volumes of handstand push-ups, alternating pistols, and pull-ups, all performed in a weighted vest.",
   "source_notes": "games.crossfit.com/workouts/games/2020/19 (official CrossFit Games event), retrieved 2026-07-09; all reps must be unpartitioned (each movement fully completed before advancing); combines elements of Mary and the Hero WOD Murph",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

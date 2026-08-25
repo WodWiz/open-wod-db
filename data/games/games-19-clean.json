@@ -19,7 +19,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2019 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2019",
@@ -29,5 +32,5 @@
   "description": "A one-rep-max clean test where athletes lift in reverse order of current placement, the bar getting heavier each round.",
   "source_notes": "games.crossfit.com/workouts/games/2019/8 (official CrossFit Games event), retrieved 2026-07-09; tiebreak was 5 reps at 295 lb (men) / 195 lb (women) for athletes who failed their attempt",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

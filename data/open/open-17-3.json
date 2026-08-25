@@ -10,7 +10,10 @@
   "movements": [],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Workout 3 of the 2017 CrossFit Open. The Open is the worldwide online qualifying stage of the CrossFit Games season: one workout released each week, completed and scored by hundreds of thousands of athletes in affiliates and garages on the same few days.",
+    "first_posted": null
+  },
   "tags": [
     "open",
     "2017",
@@ -21,7 +24,7 @@
   "description": "A staged workout pairing three-round blocks of chest-to-bar pull-ups and squat snatches, each new block trading fewer snatch reps for a heavier bar, continuing only if the prior block finished on time.",
   "source_notes": "games.crossfit.com/workouts/open/2017/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09",
+  "last_updated": "2026-08-25",
   "segments": [
     {
       "label": "0:00-8:00 (Round Set 1)",

@@ -20,15 +20,18 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2024 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2024",
     "weighted",
     "high-volume"
   ],
-  "description": "1,000 weighted box step-ups in a weight vest, completed as 250 trips up and down \u2014 one of the longest single-movement volume tests in Games history.",
+  "description": "1,000 weighted box step-ups in a weight vest, completed as 250 trips up and down — one of the longest single-movement volume tests in Games history.",
   "source_notes": "games.crossfit.com/workouts/games/2024/5 (official CrossFit Games event), retrieved 2026-07-09; same core movement as the Hero WOD Chad1000x, but this is the official 2024 Games version with a 67-minute cap and vest load",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

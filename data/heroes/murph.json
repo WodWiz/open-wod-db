@@ -27,15 +27,21 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "No vest; partition the middle as 20 rounds of 5 pull-ups, 10 push-ups, 15 squats (Cindy-style); band the pull-ups if needed. Keep both mile runs if at all possible — they are the memorial's bookends.",
+    "beginner": "Half Murph: 800m runs bracketing 50 pull-ups (ring rows), 100 push-ups (elevated), 150 squats, partitioned. Build to the full distance across a season, not a morning."
+  },
+  "origin": {
+    "summary": "Honors Navy Lieutenant Michael P. Murphy, 29, of Patchogue, New York, killed in Afghanistan on June 28, 2005, during Operation Red Wings, and posthumously awarded the Medal of Honor. This workout was one of Mike's favorites — he called it 'Body Armor.' Traditionally performed with a 20/14 lb vest, it has become CrossFit's Memorial Day tradition, completed by hundreds of thousands of athletes worldwide each year.",
+    "first_posted": null
+  },
   "tags": [
     "memorial-day",
     "high-volume",
     "running"
   ],
-  "description": "A mile run bookending 100 pull-ups, 200 push-ups, and 300 air squats, traditionally performed in a weighted vest and often partitioned into rounds of 5-10-20 \u2014 one of the most widely recognized Hero WODs.",
+  "description": "A mile run bookending 100 pull-ups, 200 push-ups, and 300 air squats, traditionally performed in a weighted vest and often partitioned into rounds of 5-10-20 — one of the most widely recognized Hero WODs.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08; partition pull-ups/push-ups/squats as needed, per official prescription",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

@@ -15,9 +15,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "95/65 lb — a load you could cycle in steady singles or small touch-and-go sets without form breaking. Cap the effort around 6 minutes.",
+    "beginner": "45-35 lb bar or light dumbbells, 20-30 reps, treating every rep as a deliberate ground-to-overhead. Learn the hang power clean and push press pattern first."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Thirty clean and jerks for time — nothing to hide behind. Grace is the classic test of barbell cycling under fatigue, and a rite of passage at 135/95: the load is manageable for one rep, and the workout asks whether it's manageable for thirty. Often programmed alongside Isabel, its snatch twin. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2004-06-24.",
     "first_posted": "2004-06-24"
   },
   "tags": [
@@ -25,8 +28,8 @@
     "barbell",
     "sprint"
   ],
-  "description": "30 clean and jerks for time at a fixed barbell weight \u2014 a single-movement sprint that rewards efficient barbell cycling under fatigue.",
+  "description": "30 clean and jerks for time at a fixed barbell weight — a single-movement sprint that rewards efficient barbell cycling under fatigue.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

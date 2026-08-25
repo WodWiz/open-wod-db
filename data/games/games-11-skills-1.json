@@ -7,17 +7,20 @@
   "movements": [],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2011 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2011",
     "gymnastics",
     "max-effort"
   ],
-  "description": "Three independently scored skill tests \u2014 an L-sit hold, a softball throw for distance, and a handstand walk for distance \u2014 with the final ranking based on the sum of the three placings.",
+  "description": "Three independently scored skill tests — an L-sit hold, a softball throw for distance, and a handstand walk for distance — with the final ranking based on the sum of the three placings.",
   "source_notes": "games.crossfit.com/workouts/games/2011/5 (official CrossFit Games event), retrieved 2026-07-10; three independently-ranked skill tests; final score is the sum of the three individual rankings (lower total wins)",
   "schema_version": "1.1",
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-08-25",
   "segments": [
     {
       "label": "L-sit hold",

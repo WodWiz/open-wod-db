@@ -13,7 +13,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2007 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2007",
@@ -21,8 +24,8 @@
     "outdoor",
     "endurance"
   ],
-  "description": "An approximately 5k trail run \u2014 one of the simplest events in Games history, pure running with no fixed course distance published.",
+  "description": "An approximately 5k trail run — one of the simplest events in Games history, pure running with no fixed course distance published.",
   "source_notes": "games.crossfit.com/workouts/games/2007/2 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; approx. 5k trail run, exact distance not precisely specified in available sources",
   "schema_version": "1.1",
-  "last_updated": "2026-07-10"
+  "last_updated": "2026-08-25"
 }

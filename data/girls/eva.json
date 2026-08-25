@@ -26,9 +26,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "53/35 lb kettlebell, banded pull-ups, 3-4 rounds. Even elite athletes take 30+ minutes on Eva — respect the total volume when choosing.",
+    "beginner": "Not a beginner workout. Substitute 3 rounds of a 400m run, 15 Russian swings, and 15 ring rows, and build toward it over months."
+  },
   "origin": {
-    "summary": null,
+    "summary": "One of the heaviest-volume Girls: five rounds of an 800m run, thirty two-pood kettlebell swings, and thirty pull-ups. A long, punishing test usually reserved for experienced athletes — the total is 2.5 miles of running, 150 heavy swings, and 150 pull-ups. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2008-02-24.",
     "first_posted": "2008-02-24"
   },
   "tags": [
@@ -36,8 +39,8 @@
     "kettlebell",
     "gymnastics"
   ],
-  "description": "Five rounds of an 800m run, heavy kettlebell swings, and pull-ups \u2014 a longer-format sibling of Helen, with roughly double the running and kettlebell volume per round.",
+  "description": "Five rounds of an 800m run, heavy kettlebell swings, and pull-ups — a longer-format sibling of Helen, with roughly double the running and kettlebell volume per round.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

@@ -27,9 +27,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Ring or bar muscle-up transitions/jumping muscle-ups, 95/65 lb squat snatches. If muscle-ups are close but not there, 9-7-5 of 2× pull-ups + 2× dips keeps the intent.",
+    "beginner": "9-7-5 of ring rows + push-ups and overhead squats with an empty bar. Amanda unmodified is a Games-level test — the scaled version is what makes it trainable."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Nine, seven, and five reps of muscle-ups and squat snatches at 135/95 — one of the most skill-dense benchmarks in the canon. It carries real history: it debuted at the 2010 CrossFit Games in tribute to Amanda Miller, a 2009 Games competitor who died of melanoma earlier in 2010, and it has been a Games-level test ever since. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2010-07-17.",
     "first_posted": "2010-07-17"
   },
   "tags": [
@@ -38,8 +41,8 @@
     "barbell",
     "high-skill"
   ],
-  "description": "A descending 9-7-5 couplet of ring muscle-ups and squat snatches at a fixed heavy barbell load \u2014 one of the higher-skill Girl WODs, pairing two advanced movements at low but taxing volume.",
+  "description": "A descending 9-7-5 couplet of ring muscle-ups and squat snatches at a fixed heavy barbell load — one of the higher-skill Girl WODs, pairing two advanced movements at low but taxing volume.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

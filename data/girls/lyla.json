@@ -37,9 +37,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Lay-back rope pulls from the floor or towel pull-ups for the climbs; a barbell load that cycles in sets of 5+.",
+    "beginner": "Ring rows and light barbell cycling. Save actual rope climbs for a skill session — grip fails suddenly, not gradually."
+  },
   "origin": {
-    "summary": null,
+    "summary": "A newer addition to the Girls series pairing barbell cycling with rope climbs — a combination of grip-heavy skill work and load that the original Girls never used, reflecting how the movement pool has grown since 2003. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2021-01-07.",
     "first_posted": "2021-01-07"
   },
   "tags": [
@@ -51,5 +54,5 @@
   "description": "A descending 10-to-1 couplet of muscle-ups and bodyweight-relative clean and jerks, structurally similar to Linda but built around gymnastics and Olympic lifting rather than powerlifting-style strength.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

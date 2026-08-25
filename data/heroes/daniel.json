@@ -44,7 +44,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Army Sergeant First Class Daniel Crabtree of the Ohio National Guard's Special Forces, killed in Al Kut, Iraq, on June 8, 2006. A symmetric chipper — pull-ups and sprints bracketing a hundred thrusters — posted among the earliest Hero workouts.",
+    "first_posted": null
+  },
   "tags": [
     "running",
     "barbell",
@@ -53,5 +56,5 @@
   "description": "A symmetric chipper bookended by 50 pull-ups, with a longer middle run and two sets of 21 thrusters framing it.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

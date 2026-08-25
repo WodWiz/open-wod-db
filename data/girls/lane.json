@@ -22,9 +22,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Reduce the barbell to a weight that never demands more than two breaks per set, and substitute the gymnastics progressions you'd use in Fran or Diane.",
+    "beginner": "Halve the scheme with an empty bar and ring rows — descending-ascending ladders teach set management better than straight sets."
+  },
   "origin": {
-    "summary": null,
+    "summary": "One of the newer Girls: alternating barbell and gymnastics work in a descending-then-ascending scheme that keeps neither the arms nor the lungs fully in charge. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2021-01-26.",
     "first_posted": "2021-01-26"
   },
   "tags": [
@@ -32,8 +35,8 @@
     "gymnastics",
     "bodyweight-relative"
   ],
-  "description": "Five rounds of max-rep hang power snatches at a bodyweight-relative load and max-rep handstand push-ups, scored by total reps \u2014 pairs a loaded pull with strict overhead gymnastics.",
+  "description": "Five rounds of max-rep hang power snatches at a bodyweight-relative load and max-rep handstand push-ups, scored by total reps — pairs a loaded pull with strict overhead gymnastics.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

@@ -22,9 +22,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Drop the barbell load until the intended round rhythm survives — short couplets only test what they're meant to when the bar keeps moving.",
+    "beginner": "Empty bar or dumbbells with halved reps, treating it as barbell-cycling practice under a light clock."
+  },
   "origin": {
-    "summary": null,
+    "summary": "One of the newer Girls: a fast barbell couplet in the Fran mold — few reps, quick rounds, and a load that stays light only if your technique holds under a redlined heart rate. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2021-01-03.",
     "first_posted": "2021-01-03"
   },
   "tags": [
@@ -32,8 +35,8 @@
     "barbell",
     "10-rounds"
   ],
-  "description": "Ten rounds of three clean and jerks and three burpees over the bar \u2014 a short-interval couplet that repeats a small barbell and bodyweight pairing many times rather than escalating volume.",
+  "description": "Ten rounds of three clean and jerks and three burpees over the bar — a short-interval couplet that repeats a small barbell and bodyweight pairing many times rather than escalating volume.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

@@ -44,7 +44,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Army Staff Sergeant Joshua Hager, 29, killed in Ramadi, Iraq, on February 22, 2007, by an improvised explosive device. Overhead squats and pull-ups in a descending-ascending ladder — one of the shorter Heroes, and no gentler for it.",
+    "first_posted": null
+  },
   "tags": [
     "barbell",
     "gymnastics"
@@ -52,5 +55,5 @@
   "description": "A descending 21-15-9 overhead squat ladder paired with double the pull-up reps at each step.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

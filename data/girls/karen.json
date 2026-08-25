@@ -15,17 +15,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "14/10 lb ball or a reduced target height, planned sets of 10-15 with short rests from the start. 150 improvised reps always ends in long stares at the ball.",
+    "beginner": "75-100 reps with a light ball, or 150 goblet-squat-to-press reps. The squat depth and hip drive matter more than the target on day one."
+  },
   "origin": {
-    "summary": null,
+    "summary": "One movement, one number: 150 wall-ball shots for time. No complexity, no strategy beyond break-up scheme and mental tolerance. Karen is the purest example of CrossFit's 'simple, not easy' — everyone understands it immediately and nobody enjoys the back half. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2008-08-07.",
     "first_posted": "2008-08-07"
   },
   "tags": [
     "single-movement",
     "high-volume"
   ],
-  "description": "150 wall-ball shots for time at a fixed target height and load \u2014 a single-movement volume test of shoulders, legs, and mental pacing.",
+  "description": "150 wall-ball shots for time at a fixed target height and load — a single-movement volume test of shoulders, legs, and mental pacing.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

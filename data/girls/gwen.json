@@ -18,9 +18,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "The format self-scales — choose a load with 3-4 clean and jerks in reserve on the first set of 15. Newer athletes err heavy here; the 12 and 9 arrive fast.",
+    "beginner": "15-12-9 with an empty bar or light dumbbells, resting as needed but practicing the no-drop discipline of the last few reps of each set."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Clean and jerks at 15-12-9 — but unbroken, with the load self-selected and the score being the weight, not the time. Dropping the bar mid-set ends the attempt. Gwen inverts the usual benchmark logic: instead of racing a clock at a fixed load, you're betting on how heavy you can go without letting go. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2003-05-25.",
     "first_posted": "2003-05-25"
   },
   "tags": [
@@ -28,8 +31,8 @@
     "barbell",
     "touch-and-go"
   ],
-  "description": "A touch-and-go clean and jerk load test across three descending sets (15-12-9), using the same self-selected weight for every rep \u2014 scored by load rather than time, rewarding barbell efficiency under fatigue.",
+  "description": "A touch-and-go clean and jerk load test across three descending sets (15-12-9), using the same self-selected weight for every rep — scored by load rather than time, rewarding barbell efficiency under fatigue.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

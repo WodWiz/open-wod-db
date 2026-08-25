@@ -22,14 +22,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "20 rounds, 155/105 lb cleans, pike push-ups. The one-heavy-rep-per-round format is rare and worth keeping — it teaches arriving at a heavy bar breathing hard.",
+    "beginner": "10-15 rounds: 5 light wall-balls, 3 elevated push-ups, 1 moderate deadlift. Same metronome, humane dose."
+  },
+  "origin": {
+    "summary": "Honors Army Special Forces Sergeant First Class Aaron N. Holleyman, 27, killed in Khutayiah, Iraq, on August 30, 2004, when his vehicle struck an improvised explosive device. Thirty rounds of five wall-balls, three handstand push-ups, and one heavy power clean — a metronome of a workout.",
+    "first_posted": null
+  },
   "tags": [
     "30-rounds",
     "gymnastics"
   ],
-  "description": "Thirty rounds of a small descending combo \u2014 5 wall-ball shots, 3 handstand push-ups, and 1 power clean \u2014 a far higher round count than a typical interval WOD, testing consistency over raw output per round.",
+  "description": "Thirty rounds of a small descending combo — 5 wall-ball shots, 3 handstand push-ups, and 1 power clean — a far higher round count than a typical interval WOD, testing consistency over raw output per round.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

@@ -7,7 +7,10 @@
   "movements": [],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2007 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2007",
@@ -17,7 +20,7 @@
   "description": "The classic CrossFit Total benchmark (1RM back squat, press, and deadlift), used as the final event of the inaugural 2007 Games.",
   "source_notes": "games.crossfit.com/workouts/games/2007/3 (official CrossFit Games event, inaugural Games), retrieved 2026-07-10; the classic CrossFit Total benchmark (1RM back squat + press + deadlift), used as the final event of the inaugural 2007 Games; score is the sum of the three lifts",
   "schema_version": "1.1",
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-08-25",
   "segments": [
     {
       "label": "Back squat",

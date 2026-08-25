@@ -37,7 +37,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2017 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2017",
@@ -47,5 +50,5 @@
   "description": "An ascending Fibonacci-sequence ladder (5-8-13) of parallette handstand push-ups and kettlebell deadlifts, finishing with a heavy overhead kettlebell lunge.",
   "source_notes": "games.crossfit.com/workouts/games/2017/13 (official CrossFit Games event), retrieved 2026-07-09; essentially the same event as 2018's Fibonacci, reused with the same rep scheme and loads; one secondary source suggested a different women's rep breakdown, but this could not be corroborated and is not used here, flagged per CONTRIBUTING",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

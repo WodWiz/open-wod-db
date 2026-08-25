@@ -22,9 +22,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Power snatches at a weight allowing touch-and-go triples when fresh; step-down burpee pacing from the start.",
+    "beginner": "Dumbbell snatches and a fixed easy burpee cadence — the snatch-plus-burpee combination is about breathing rhythm, learnable at any load."
+  },
   "origin": {
-    "summary": null,
+    "summary": "A newer Girl built on the snatch and burpee — technical barbell work paired with the sport's most democratic conditioning movement, in the classic short-couplet format. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2021-01-03.",
     "first_posted": "2021-01-03"
   },
   "tags": [
@@ -32,8 +35,8 @@
     "barbell",
     "10-rounds"
   ],
-  "description": "Ten rounds of three snatches and three burpees over the bar \u2014 Grettel's snatch-based counterpart, the same rep and round scheme built around the more technical lift.",
+  "description": "Ten rounds of three snatches and three burpees over the bar — Grettel's snatch-based counterpart, the same rep and round scheme built around the more technical lift.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

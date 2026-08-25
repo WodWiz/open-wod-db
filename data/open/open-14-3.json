@@ -83,7 +83,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Workout 3 of the 2014 CrossFit Open. The Open is the worldwide online qualifying stage of the CrossFit Games season: one workout released each week, completed and scored by hundreds of thousands of athletes in affiliates and garages on the same few days.",
+    "first_posted": null
+  },
   "tags": [
     "open",
     "2014",
@@ -93,5 +96,5 @@
   "description": "An 8-minute workout pairing box jumps with a deadlift ladder that gets heavier at every step (10 reps up through 35, the barbell adding weight each time) rather than lighter.",
   "source_notes": "games.crossfit.com/workouts/open/2014/3 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

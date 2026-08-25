@@ -24,7 +24,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Army Staff Sergeant Marc Small, 29, of Collegeville, Pennsylvania, killed in Faryab Province, Afghanistan, on February 12, 2009. Three rounds of rowing, burpees, and running — Big's sibling workout, all engine, no barbell.",
+    "first_posted": null
+  },
   "tags": [
     "rowing",
     "running",
@@ -33,5 +36,5 @@
   "description": "A single-round chipper of a 1000m row, 50 burpees, 50 box jumps, and an 800m run.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

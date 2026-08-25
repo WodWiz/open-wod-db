@@ -18,17 +18,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Banded pull-ups or a fixed set of 5-10 ring rows per round; keep the max-set scoring if using bands. Runs stay 400m.",
+    "beginner": "200-300m runs with max-rep ring rows. The run-recover-hang rhythm is the point — any pulling movement preserves it."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Twenty minutes of 400m runs, each followed by a max set of pull-ups — the round ends when you drop off the bar. The score is total pull-ups, which makes it an unusual strategic puzzle: shorter sets mean more running, bigger sets mean earlier grip failure. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2006-12-11.",
     "first_posted": "2006-12-11"
   },
   "tags": [
     "running",
     "amrap"
   ],
-  "description": "A 20-minute AMRAP of a 400m run and max-rep pull-ups, scored by rounds plus total pull-up reps \u2014 pull-up capacity becomes the limiting factor as fatigue accumulates.",
+  "description": "A 20-minute AMRAP of a 400m run and max-rep pull-ups, scored by rounds plus total pull-up reps — pull-up capacity becomes the limiting factor as fatigue accumulates.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

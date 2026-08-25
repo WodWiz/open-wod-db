@@ -27,7 +27,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Test 4 of the 2023 CrossFit Quarterfinals. The Quarterfinals sit between the worldwide Open and the Semifinals in the CrossFit Games season — a harder online stage for the top slice of Open finishers.",
+    "first_posted": null
+  },
   "tags": [
     "quarterfinal",
     "2023",
@@ -37,5 +40,5 @@
   "description": "A 20-minute AMRAP of a long row, GHD sit-ups, a shorter row, and v-ups.",
   "source_notes": "games.crossfit.com/workouts/quarterfinalsindividual/2023/4 (official CrossFit Games Individual Quarterfinals workout), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

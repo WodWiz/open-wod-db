@@ -23,14 +23,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Army Sergeant Keith Adam Coe, 30, killed in Khalis, Iraq, on April 27, 2010, by an explosive device. Ten rounds of thrusters and ring push-ups — pressing volume stacked past what feels reasonable, on purpose.",
+    "first_posted": null
+  },
   "tags": [
     "barbell",
     "gymnastics",
     "10-rounds"
   ],
-  "description": "Ten rounds of 10 thrusters and 10 ring push-ups \u2014 a barbell-and-gymnastics couplet repeated at high round count.",
+  "description": "Ten rounds of 10 thrusters and 10 ring push-ups — a barbell-and-gymnastics couplet repeated at high round count.",
   "source_notes": "crossfit.com/benchmark/coe (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

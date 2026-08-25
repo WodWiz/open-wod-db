@@ -31,14 +31,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "Pike push-ups off a box for HSPU, banded ring dips, regular push-ups if needed. Three pressing movements means shoulders go fast — break sets before failure, from the first round.",
+    "beginner": "15-12-9 of seated dumbbell press, bench dips, and elevated push-ups. Pressing endurance builds slowly; volume across weeks beats heroics on day one."
+  },
+  "origin": {
+    "summary": "Honors Petty Officer 1st Class Jeff Taylor, 30, of Little Creek, Virginia, a Navy SEAL killed in Afghanistan on June 28, 2005, when the MH-47 helicopter carrying a quick-reaction force to support Operation Red Wings was shot down. Posted in 2005, JT was the first Hero workout on CrossFit.com — three pressing movements and no legs to hide behind.",
+    "first_posted": null
+  },
   "tags": [
     "gymnastics",
     "bodyweight"
   ],
-  "description": "A 21-15-9 triplet of handstand push-ups, ring dips, and push-ups \u2014 three different pressing variations at the same classic descending scheme as Fran.",
+  "description": "A 21-15-9 triplet of handstand push-ups, ring dips, and push-ups — three different pressing variations at the same classic descending scheme as Fran.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

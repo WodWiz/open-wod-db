@@ -31,9 +31,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Lighter dumbbells and steady burpee pacing — pick a burpee cadence in round one you can still hold in the final round.",
+    "beginner": "Cut the round count, keep the triplet structure, and use the lightest dumbbells in the gym without embarrassment."
+  },
   "origin": {
-    "summary": null,
+    "summary": "A newer addition to the Girls canon: a triplet mixing burpees with dumbbell work, in the modern CrossFit.com style that folds dumbbells into the classic benchmark format. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2021-01-10.",
     "first_posted": "2021-01-10"
   },
   "tags": [
@@ -41,8 +44,8 @@
     "dumbbell",
     "3-rounds"
   ],
-  "description": "Three rounds of burpees, dumbbell snatches, and dumbbell thrusters \u2014 a dumbbell-only triplet in the mold of Fran's couplet, extended to three movements.",
+  "description": "Three rounds of burpees, dumbbell snatches, and dumbbell thrusters — a dumbbell-only triplet in the mold of Fran's couplet, extended to three movements.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

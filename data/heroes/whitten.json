@@ -39,14 +39,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Army Captain Dan Whitten, 28, killed in Zabul Province, Afghanistan, on February 2, 2010, by an improvised explosive device. Five rounds through kettlebell swings, box jumps, running, burpees, and wall-balls — a long five-station engine test.",
+    "first_posted": null
+  },
   "tags": [
     "kettlebell",
     "running",
     "5-rounds"
   ],
-  "description": "Five rounds of a five-movement circuit \u2014 kettlebell swings, box jumps, a 400m run, burpees, and wall-ball shots \u2014 all at 22 reps.",
+  "description": "Five rounds of a five-movement circuit — kettlebell swings, box jumps, a 400m run, burpees, and wall-ball shots — all at 22 reps.",
   "source_notes": "crossfit.com/benchmark/whitten (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

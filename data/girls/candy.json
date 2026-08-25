@@ -22,8 +22,14 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "Banded pull-ups, knee push-ups, 3 rounds. The volume dwarfs Cindy's — plan set sizes before the clock starts.",
+    "beginner": "3 rounds of 10 ring rows, 20 elevated push-ups, 30 squats. Build to the full five rounds over weeks."
+  },
+  "origin": {
+    "summary": "One of the expanded Girls series: five rounds of pull-ups, push-ups, and squats at volumes that make Cindy look polite. The structure is classic early-CrossFit bodyweight attrition — no skill gate, no equipment, nowhere to hide. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter.",
+    "first_posted": null
+  },
   "tags": [
     "bodyweight",
     "5-rounds"
@@ -31,5 +37,5 @@
   "description": "Five rounds of pull-ups, push-ups, and air squats at higher per-round volume than Barbara, with no prescribed rest between rounds.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

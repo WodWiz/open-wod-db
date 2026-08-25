@@ -26,14 +26,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Army Corporal Ryan C. McGhee, 21, killed in action on May 13, 2009, in central Iraq during his fourth deployment, serving with the 3rd Battalion, 75th Ranger Regiment. A 30-minute AMRAP of heavy deadlifts, push-ups, and box jumps — long, heavy, and relentless.",
+    "first_posted": null
+  },
   "tags": [
     "amrap",
     "barbell",
     "bodyweight"
   ],
-  "description": "A 30-minute AMRAP of heavy deadlifts, push-ups, and box jumps \u2014 a long-format triplet at modest, uneven rep counts.",
+  "description": "A 30-minute AMRAP of heavy deadlifts, push-ups, and box jumps — a long-format triplet at modest, uneven rep counts.",
   "source_notes": "crossfit.com/benchmark/mcghee (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

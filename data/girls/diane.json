@@ -27,9 +27,12 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "155/105 lb deadlifts; pike push-ups on a box or dumbbell strict presses in place of handstand push-ups. Abmat-and-band HSPU only for athletes with an established inversion base.",
+    "beginner": "95/65 lb deadlifts with a coach's eye on the set-up, seated dumbbell presses, 15-12-9 or 12-9-6. The hinge pattern is the priority; upside-down can wait."
+  },
   "origin": {
-    "summary": null,
+    "summary": "Deadlifts at 225/155 paired with handstand push-ups in the classic 21-15-9. The pairing is the point: a heavy hinge that pools blood in the posterior chain, followed immediately by going upside down. Sub-3 elite times depend almost entirely on unbroken handstand push-ups. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2003-09-19.",
     "first_posted": "2003-09-19"
   },
   "tags": [
@@ -37,8 +40,8 @@
     "barbell",
     "gymnastics"
   ],
-  "description": "A 21-15-9 couplet pairing heavy deadlifts with handstand push-ups \u2014 two very different skill demands, raw posterior-chain strength and inverted pressing, under the same descending rep scheme as Fran.",
+  "description": "A 21-15-9 couplet pairing heavy deadlifts with handstand push-ups — two very different skill demands, raw posterior-chain strength and inverted pressing, under the same descending rep scheme as Fran.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

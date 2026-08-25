@@ -35,17 +35,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
+  "scaling": {
+    "scaled": "Lighter snatch (45-65/35-45 lb), regular pull-ups or jumping pull-ups, lower box. Rotate stations even when a minute goes badly — the score absorbs it.",
+    "beginner": "Same station format with squats in place of snatches and ring rows in place of pull-ups. Fight Gone Bad's format is the friendliest scoring in CrossFit for a first-timer: every rep counts."
+  },
   "origin": {
-    "summary": "Same format as Fight Gone Bad: five one-minute stations, one-minute rest between rounds, clock runs continuously, scored by total reps across stations.",
+    "summary": "Fight Gone Bad's format applied to new movements: three rounds of five one-minute stations — burpees, power snatches, box jumps, thrusters, and chest-to-bar pull-ups — with a minute of rest between rounds, scored in total reps. Originally created for the 'Hope for Kenya' fundraiser campaign on CrossFit.com. Part of CrossFit's original 'Girls' benchmark series — named workouts introduced by founder Greg Glassman starting in 2003, on the logic that anything that leaves you flat on your back deserves a name like a storm. They serve as repeatable fitness tests: revisit one every few months and the clock tells you whether you're fitter. First posted to CrossFit.com on 2012-06-08.",
     "first_posted": "2012-06-08"
   },
   "tags": [
     "fgb-format",
     "station-based"
   ],
-  "description": "Five one-minute stations \u2014 burpees, power snatches, box jumps, thrusters, and chest-to-bar pull-ups \u2014 repeated for three rounds with a minute of rest between rounds, following the same station format as Fight Gone Bad.",
+  "description": "Five one-minute stations — burpees, power snatches, box jumps, thrusters, and chest-to-bar pull-ups — repeated for three rounds with a minute of rest between rounds, following the same station format as Fight Gone Bad.",
   "source_notes": "crossfit.com/faq/wod (official CrossFit FAQ, 'Explain The Workouts with Names (the Girls)?'), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

@@ -26,14 +26,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Oakland Police Sergeant Daniel Sakai, 35, killed in the line of duty on March 21, 2009, alongside three fellow officers. A 20-minute AMRAP of box jumps, push presses, and pull-ups — Fight Gone Bad's engine in Hero clothing.",
+    "first_posted": null
+  },
   "tags": [
     "amrap",
     "barbell",
     "gymnastics"
   ],
-  "description": "A 20-minute AMRAP of box jumps, push press, and pull-ups \u2014 a straightforward three-movement circuit built for sustained pacing.",
+  "description": "A 20-minute AMRAP of box jumps, push press, and pull-ups — a straightforward three-movement circuit built for sustained pacing.",
   "source_notes": "crossfit.com/benchmark/danny (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

@@ -10,7 +10,10 @@
   "movements": [],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Workout 4 of the 2019 CrossFit Open. The Open is the worldwide online qualifying stage of the CrossFit Games season: one workout released each week, completed and scored by hundreds of thousands of athletes in affiliates and garages on the same few days.",
+    "first_posted": null
+  },
   "tags": [
     "open",
     "2019",
@@ -20,7 +23,7 @@
   "description": "A two-part workout: three rounds of snatches and bar-facing burpees, followed by three rounds of bar muscle-ups and bar-facing burpees.",
   "source_notes": "games.crossfit.com/workouts/open/2019/4 (official CrossFit Games Open workout), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09",
+  "last_updated": "2026-08-25",
   "segments": [
     {
       "label": "Part 1",

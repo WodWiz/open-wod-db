@@ -34,14 +34,20 @@
     }
   ],
   "partition": null,
-  "scaling": null,
-  "origin": null,
+  "scaling": {
+    "scaled": "115/75 lb — the round rhythm (fast singles on deadlifts, unbroken hang cleans, jerks in one or two sets) is what to preserve. Grip management is the entire workout.",
+    "beginner": "65-75/45-55 lb with 3-4 rounds, or 12-9-6 per round. Learn the hang power clean's hook grip release before adding load — DT eats grip mistakes."
+  },
+  "origin": {
+    "summary": "Honors Air Force Staff Sergeant Timothy P. Davis, 28, killed on February 20, 2009, in Afghanistan when his vehicle was struck by an improvised explosive device. Five rounds of deadlifts, hang power cleans, and push jerks at 155/105 — DT has become a competition classic, a pure test of barbell cycling and grip management.",
+    "first_posted": null
+  },
   "tags": [
     "barbell",
     "5-rounds"
   ],
-  "description": "Five rounds of a descending 12-9-6 barbell triplet \u2014 deadlift, hang power clean, and push jerk \u2014 all at the same fixed weight, so the bar never leaves the hands between movements within a round.",
+  "description": "Five rounds of a descending 12-9-6 barbell triplet — deadlift, hang power clean, and push jerk — all at the same fixed weight, so the bar never leaves the hands between movements within a round.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }

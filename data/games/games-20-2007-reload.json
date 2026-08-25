@@ -72,7 +72,10 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "An event from the 2020 CrossFit Games. The CrossFit Games are the season's final championship stage, where the qualified field competes across multiple events to crown the Fittest on Earth. Games events are tests first and workouts second — many use loads, formats, or venues no affiliate would program, which is exactly why they make interesting benchmarks.",
+    "first_posted": null
+  },
   "tags": [
     "games",
     "2020",
@@ -80,8 +83,8 @@
     "barbell",
     "gymnastics"
   ],
-  "description": "Five rounds of a row, bar muscle-ups, and heavy shoulder-to-overhead \u2014 an homage to the Games' 2007 origins.",
+  "description": "Five rounds of a row, bar muscle-ups, and heavy shoulder-to-overhead — an homage to the Games' 2007 origins.",
   "source_notes": "games.crossfit.com/workouts/games/2020/8 (official CrossFit Games event), retrieved 2026-07-09",
   "schema_version": "1.1",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-08-25"
 }

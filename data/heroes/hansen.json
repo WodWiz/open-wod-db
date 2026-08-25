@@ -23,14 +23,17 @@
   ],
   "partition": null,
   "scaling": null,
-  "origin": null,
+  "origin": {
+    "summary": "Honors Marine Staff Sergeant Daniel Hansen, killed in Farah Province, Afghanistan, on February 14, 2009, by an improvised explosive device. Five rounds of heavy swings, burpees, and GHD sit-ups — a midline crucible.",
+    "first_posted": null
+  },
   "tags": [
     "kettlebell",
     "bodyweight",
     "5-rounds"
   ],
-  "description": "Five rounds of 30 kettlebell swings, 30 burpees, and 30 GHD sit-ups \u2014 a straightforward high-rep triplet.",
+  "description": "Five rounds of 30 kettlebell swings, 30 burpees, and 30 GHD sit-ups — a straightforward high-rep triplet.",
   "source_notes": "crossfit.com/heroes (official CrossFit Hero and Tribute Workouts page), retrieved 2026-07-08",
   "schema_version": "1.0",
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-08-25"
 }
