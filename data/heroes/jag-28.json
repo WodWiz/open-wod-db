@@ -1,0 +1,55 @@
+{
+  "id": "jag-28",
+  "name": "Jag 28",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 800
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 28,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      }
+    },
+    {
+      "exercise": "strict-pull-up",
+      "reps": 28
+    },
+    {
+      "exercise": "kettlebell-clean-and-jerk",
+      "reps": 28,
+      "load": {
+        "rx_male": "70lb",
+        "rx_female": "53lb"
+      }
+    },
+    {
+      "exercise": "strict-pull-up",
+      "reps": 28
+    },
+    {
+      "exercise": "run",
+      "distance_m": 800
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "kettlebell",
+    "gymnastics"
+  ],
+  "description": "An 800 m run, 28 kettlebell swings, 28 strict pull-ups, 28 kettlebell clean and jerks and 28 more strict pull-ups, then a second 800 m run.",
+  "source_notes": "crossfit.com/benchmark/jag-28 (official CrossFit Hero WOD page, first posted May 13, 2012), retrieved 2026-10-16",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "hall",
+  "name": "Hall",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "rest_between_seconds": 120,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "clean",
+      "reps": 3,
+      "load": {
+        "rx_male": "225lb",
+        "rx_female": "155lb"
+      }
+    },
+    {
+      "exercise": "sprint",
+      "distance_m": 200
+    },
+    {
+      "exercise": "kettlebell-snatch",
+      "reps": 20,
+      "load": {
+        "rx_male": "53lb",
+        "rx_female": "35lb"
+      },
+      "notes": "10 reps each arm"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "kettlebell",
+    "sprint",
+    "5-rounds"
+  ],
+  "description": "Five timed rounds of 3 cleans, a 200 m sprint and 20 kettlebell snatches split between the arms, with two minutes of rest after each.",
+  "source_notes": "crossfit.com/benchmark/hall (official CrossFit Hero WOD page, first posted June 7, 2015), retrieved 2026-10-16; 2 minutes of rest between rounds",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

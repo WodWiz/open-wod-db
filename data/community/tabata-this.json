@@ -1,0 +1,41 @@
+{
+  "id": "tabata-this",
+  "name": "Tabata This",
+  "category": "community",
+  "format": "tabata",
+  "format_meta": {
+    "work_seconds": 20,
+    "rest_seconds": 10,
+    "rounds": 8,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "notes": "scored in calories"
+    },
+    {
+      "exercise": "air-squat"
+    },
+    {
+      "exercise": "pull-up"
+    },
+    {
+      "exercise": "push-up"
+    },
+    {
+      "exercise": "sit-up"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "benchmark",
+    "tabata"
+  ],
+  "description": "Five Tabata intervals of rowing, air squats, pull-ups, push-ups and sit-ups, with a minute of rest after each of the first four. You score the lowest interval for each movement.",
+  "source_notes": "crossfit.com/workout/2015/01/11 (official CrossFit daily workout archive), retrieved 2026-10-16; 1 minute of rest after each of the first four movements, score the lowest interval for each movement (calories on the row) and add them",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

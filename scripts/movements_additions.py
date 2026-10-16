@@ -1,0 +1,102 @@
+"""Movements added on 2026-10-16 (the gaps flagged in WodWiz's backlog).
+
+Each row is (slug, category, patterns, description). build_movements.py folds
+these into GROUPS, PATTERNS and DESCRIPTIONS, so the usual checks still apply.
+Warm-up and mobility drills stay out of the catalog by decision. Descriptions
+are original text, in the dataset's factual tone.
+"""
+
+ADDITIONS = [
+    # barbell
+    ("zercher-squat", "barbell", ["squat"], "A squat with the barbell held in the crook of the elbows at the waist, which loads the front of the torso and the legs."),
+    ("zercher-deadlift", "barbell", ["hinge"], "A deadlift with the barbell lifted from the floor and held in the crook of the elbows rather than in the hands."),
+    ("zercher-carry", "barbell", ["carry"], "Walking a set distance with the barbell held in the crook of the elbows, which taxes the arms, trunk and legs."),
+    ("hang-high-pull", "barbell", ["olympic", "pull"], "A pull from the hang position that brings the barbell to chest height with the elbows high and outside, finishing on the toes."),
+    ("bradford-press", "barbell", ["push"], "A barbell press that alternates between the front and back of the head, never locking out overhead, which keeps the shoulders under constant tension."),
+    ("barbell-squat-jump", "barbell", ["squat"], "A jump from a squat with a light barbell held on the back, landing softly back into the squat."),
+    ("hip-thrust", "barbell", ["hinge"], "Upper back resting on a bench with a barbell across the hips, driving the hips up to full extension to load the glutes."),
+    ("trap-bar-deadlift", "barbell", ["hinge"], "A deadlift performed standing inside a hexagonal bar with neutral-grip handles at the sides, which shifts the load closer to the body's center."),
+    ("snatch-grip-deadlift", "barbell", ["hinge"], "A deadlift taken with the wide grip used for the snatch, which lengthens the pull and demands more from the upper back."),
+    ("tall-clean", "barbell", ["olympic", "pull"], "A clean started from a standing position with the bar at the hips, catching it in a quarter squat or less with an emphasis on the fast turnover."),
+    ("squat-jerk", "barbell", ["olympic", "push", "squat"], "A jerk caught in a full overhead squat, with the barbell driven off the shoulders and received at depth."),
+    ("behind-the-neck-jerk", "barbell", ["push"], "A jerk where the barbell starts and returns across the back of the shoulders, which asks for an upright torso and good shoulder mobility."),
+    ("cluster", "barbell", ["olympic", "squat", "push"], "A full squat clean flowing straight into a thruster without letting the barbell rest between the two lifts."),
+    ("close-grip-bench-press", "barbell", ["push"], "A bench press with the hands set closer than shoulder width, which shifts the work toward the triceps."),
+    ("incline-bench-press", "barbell", ["push"], "A bench press on an inclined bench, which moves more of the load to the upper chest and shoulders."),
+    ("axle-press", "barbell", ["push"], "Pressing a thick-handled axle bar from the shoulders to overhead, which challenges grip as well as the shoulders."),
+    ("axle-deadlift", "barbell", ["hinge"], "A deadlift using a thick-handled axle bar, which makes the grip the limiting factor."),
+    ("single-leg-romanian-deadlift", "barbell", ["hinge"], "A hip hinge on one leg with the other extended behind, holding a barbell, which trains balance along with the hamstrings."),
+    ("seated-row", "bodyweight", ["pull"], "Pulling a handle or bar toward the torso from a seated position, usually on a cable or machine."),
+    ("lat-pulldown", "bodyweight", ["pull"], "Pulling a bar down to the upper chest from an overhead cable while seated, a machine-based relative of the pull-up."),
+    ("landmine-press", "barbell", ["push"], "Pressing the free end of a barbell anchored at the other end, which follows an arc up and away from the body."),
+    ("skull-crusher", "barbell", ["push"], "Lying on a bench and lowering a barbell toward the forehead by bending only the elbows, then extending them again."),
+    ("tricep-extension", "bodyweight", ["push"], "Extending the elbows against resistance, usually overhead or on a cable, to isolate the back of the upper arm."),
+    ("z-press", "barbell", ["push", "core"], "A strict overhead press from a seated position on the floor with the legs out front, which removes any help from the legs."),
+    # dumbbell and kettlebell
+    ("arnold-press", "dumbbell", ["push"], "A dumbbell press that begins with the palms facing the body and rotates them outward as the weights go overhead."),
+    ("bicep-curl", "dumbbell", ["pull"], "Curling a weight from the hips to the shoulders by bending only the elbows."),
+    ("hammer-curl", "dumbbell", ["pull"], "A curl with the palms facing each other throughout, which works the forearms along with the biceps."),
+    ("lateral-raise", "dumbbell", ["push"], "Raising dumbbells out to the sides to shoulder height with the arms nearly straight."),
+    ("front-raise", "dumbbell", ["push"], "Raising a dumbbell or plate in front of the body to shoulder height with the arms nearly straight."),
+    ("man-maker", "dumbbell", ["push", "pull", "squat"], "A sequence on a pair of dumbbells of a push-up, a row on each side, then a clean and press to standing."),
+    ("suitcase-carry", "dumbbell", ["carry", "core"], "Walking with a single heavy weight in one hand at the side, which makes the trunk resist leaning toward the load."),
+    ("bulgarian-split-squat", "dumbbell", ["lunge"], "A single-leg squat with the rear foot resting on a bench behind, usually holding dumbbells or a barbell."),
+    ("split-squat", "bodyweight", ["lunge"], "Lowering straight down and up from a fixed staggered stance, without stepping, which loads the front leg."),
+    ("lateral-lunge", "bodyweight", ["lunge"], "Stepping out to the side and sitting back over that leg while the other stays straight, then pushing back to center."),
+    ("shrimp-squat", "gymnastics", ["squat", "gymnastics"], "A single-leg squat with the rear foot held behind, lowering until the back knee touches the floor."),
+    # odd-object
+    ("sandbag-lunge", "odd-object", ["lunge"], "Lunging with a sandbag held on the shoulder or at the chest, which shifts and resists in ways a barbell does not."),
+    ("sandbag-load-to-box", "odd-object", ["hinge"], "Lifting a sandbag from the floor and placing it on a box or platform."),
+    ("sled-drag", "odd-object", ["pull", "carry"], "Dragging a loaded sled behind you, either walking backward facing it or forward with a harness."),
+    ("bear-hug-carry", "odd-object", ["carry"], "Carrying a heavy object such as a sandbag or stone held in both arms against the chest."),
+    ("keg-carry", "odd-object", ["carry"], "Carrying a keg or similar awkward, shifting object a set distance, usually held at the chest or on a shoulder."),
+    ("battle-rope", "odd-object", ["core"], "Making waves or slams with the ends of a heavy rope anchored at the middle, a conditioning drill for the shoulders and trunk."),
+    # bodyweight and gymnastics
+    ("squat-jump", "bodyweight", [], "A bodyweight squat followed by a vertical jump, landing back in the squat."),
+    ("skater-jump", "bodyweight", [], "A lateral bound from one leg to the other, landing on a single foot and sweeping the trailing leg behind."),
+    ("glute-ham-raise", "gymnastics", ["hinge"], "On a glute-ham developer, lowering the torso toward the floor from the knees, then curling back up with the hamstrings and glutes."),
+    ("glute-bridge", "bodyweight", ["hinge"], "Lying on the back with the feet flat, lifting the hips until the body forms a line from shoulders to knees."),
+    ("single-leg-glute-bridge", "bodyweight", ["hinge"], "A glute bridge performed with one foot on the floor and the other leg extended."),
+    ("face-pull", "bodyweight", ["pull"], "Pulling a cable or band toward the face with the elbows high, which works the rear shoulders and upper back."),
+    ("ring-hamstring-curl", "gymnastics", ["hinge", "pull"], "Lying on the back with the heels in rings, lifting the hips and curling the heels toward the glutes."),
+    ("strict-knee-raise", "gymnastics", ["core"], "Hanging from a bar and raising the knees toward the chest without swinging."),
+    ("strict-knees-to-chest", "gymnastics", ["core"], "Hanging from a bar and drawing the knees all the way to the chest under control, with no kip."),
+    ("toy-soldier", "bodyweight", ["core"], "Walking forward with straight legs, kicking each leg up toward the opposite outstretched hand."),
+    ("pike-push-up", "gymnastics", ["push"], "A push-up with the hips high and the head moving toward the floor between the hands, the stepping stone to the handstand push-up."),
+    ("crab-walk", "bodyweight", ["core"], "Moving on hands and feet with the belly facing up and the hips lifted off the floor."),
+    ("reverse-hyper", "gymnastics", ["hinge"], "Lying face-down on a raised pad and swinging the legs up behind the body, which works the glutes and lower back."),
+    ("nordic-curl", "gymnastics", ["hinge"], "Kneeling with the ankles held, lowering the torso forward as slowly as possible with the hamstrings, then pulling back up."),
+    ("jefferson-curl", "barbell", ["hinge"], "Rolling down one vertebra at a time toward the floor under a light load and rolling back up, a loaded spinal flexion exercise."),
+    ("calf-raise", "bodyweight", [], "Rising onto the balls of the feet and lowering again, usually with added weight, to work the calf muscles."),
+    ("superman", "bodyweight", ["hinge"], "Lying face-down and lifting the arms and legs off the floor together, which works the lower back and glutes."),
+    ("side-plank", "gymnastics", ["core"], "Holding the body in a straight line on one forearm and the side of one foot."),
+    ("copenhagen-plank", "gymnastics", ["core"], "A side plank with the top leg resting on a bench and the bottom leg hanging beneath it, which loads the inner thigh."),
+    ("russian-twist", "bodyweight", ["core"], "Sitting with the torso leaned back and rotating the trunk side to side, often holding a weight."),
+    ("dead-bug", "bodyweight", ["core"], "Lying on the back with the arms and knees raised, then lowering the opposite arm and leg while keeping the lower back flat."),
+    ("bird-dog", "bodyweight", ["core"], "On hands and knees, extending one arm and the opposite leg at the same time and holding the position."),
+    ("pallof-press", "bodyweight", ["core"], "Pressing a cable or band straight out from the chest while resisting its pull to rotate the torso."),
+    ("ab-wheel", "gymnastics", ["core"], "Rolling a wheel out from the knees or feet with the body extended, then pulling it back under control."),
+    # monostructural
+    ("strides", "monostructural", ["monostructural"], "Short, controlled accelerations of 50 to 100 meters run at a fast but relaxed pace, used for speed and as a warm-up."),
+    ("a-skip", "monostructural", ["monostructural"], "A running drill that pairs a skip with a high knee drive, one leg at a time."),
+    ("b-skip", "monostructural", ["monostructural"], "A running drill like the A-skip, with the lower leg extended forward and then pulled down and back under the hip."),
+]
+
+# alias additions on movements that already exist
+ALIAS_ADDITIONS = {
+    "yoke-carry": ["yoke walk"],
+    "ski-erg": ["ski"],
+    "kettlebell-swing": ["kb swing"],
+    "bent-over-row": ["barbell row"],
+    "single-under": ["jump rope"],
+    "wall-ball-shot": ["wall ball"],
+    "ball-slam": ["slam ball"],
+    "atlas-stone-over-shoulder": ["atlas stone"],
+    "sledgehammer-strike": ["sledgehammer"],
+    "stiff-legged-deadlift": ["stiff leg deadlift"],
+    "pegboard": ["peg board"],
+    "squat-jump": ["jump squat"],
+    "strict-knees-to-chest": ["strict knee to chest"],
+    "single-leg-romanian-deadlift": ["single leg rdl", "single leg deadlift"],
+    "glute-ham-raise": ["ghr"],
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nasty-girls",
+  "name": "Nasty Girls",
+  "category": "community",
+  "format": "for_time",
+  "format_meta": {
+    "rounds": 3,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "air-squat",
+      "reps": 50
+    },
+    {
+      "exercise": "muscle-up",
+      "reps": 7
+    },
+    {
+      "exercise": "hang-power-clean",
+      "reps": 10,
+      "load": {
+        "rx_male": "135lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "benchmark",
+    "gymnastics",
+    "barbell",
+    "3-rounds"
+  ],
+  "description": "Three rounds for time of 50 air squats, 7 muscle-ups and 10 hang power cleans at 135 lb.",
+  "source_notes": "crossfit.com/workout/2008/01/25 (official CrossFit daily workout archive, first posted), retrieved 2026-10-16; the page lists a single load",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

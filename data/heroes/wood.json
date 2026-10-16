@@ -1,0 +1,53 @@
+{
+  "id": "wood",
+  "name": "Wood",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "rest_between_seconds": 60,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 400
+    },
+    {
+      "exercise": "burpee-box-jump",
+      "reps": 10,
+      "load": {
+        "rx_male": "24\"",
+        "rx_female": "20\""
+      }
+    },
+    {
+      "exercise": "sumo-deadlift-high-pull",
+      "reps": 10,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    },
+    {
+      "exercise": "thruster",
+      "reps": 10,
+      "load": {
+        "rx_male": "95lb",
+        "rx_female": "65lb"
+      }
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "barbell",
+    "5-rounds"
+  ],
+  "description": "Five timed rounds of a 400 m run, 10 burpee box jumps, 10 sumo deadlift high pulls and 10 thrusters, with a minute of rest between rounds.",
+  "source_notes": "crossfit.com/benchmark/wood (official CrossFit Hero WOD page, first posted Dec 7, 2011), retrieved 2026-10-16; 1 minute of rest between rounds",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

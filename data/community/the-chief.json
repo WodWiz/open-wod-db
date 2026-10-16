@@ -1,0 +1,41 @@
+{
+  "id": "the-chief",
+  "name": "The Chief",
+  "category": "community",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "work_seconds": 180,
+    "rest_seconds": 60,
+    "scoring": "rounds_reps"
+  },
+  "movements": [
+    {
+      "exercise": "power-clean",
+      "reps": 3,
+      "load": {
+        "rx_male": "135lb"
+      }
+    },
+    {
+      "exercise": "push-up",
+      "reps": 6
+    },
+    {
+      "exercise": "air-squat",
+      "reps": 9
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "benchmark",
+    "amrap",
+    "5-cycles"
+  ],
+  "description": "Five three-minute AMRAPs of 3 power cleans, 6 push-ups and 9 air squats, with a minute of rest between them. You record the rounds finished in each.",
+  "source_notes": "crossfit.com/workout/2008/09/14 (official CrossFit daily workout archive, first posted), retrieved 2026-10-16; five 3-minute AMRAP cycles with 1 minute of rest, post the rounds completed in each; the page lists a single load",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}
