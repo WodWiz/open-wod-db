@@ -1,6 +1,6 @@
 # 2021 Games Event 7
 
-Five rounds of a shorter run and a single very heavy clean — a heavier companion to Event 6.
+Five rounds of a shorter run and a single very heavy clean, a heavier companion to Event 6.
 
 **5 rounds for time**
   Run 200m

@@ -1,6 +1,6 @@
 # Heavy DT
 
-Five rounds of the DT barbell triplet — deadlift, hang power clean, push jerk — at a heavier weight than the original Hero WOD.
+Five rounds of the DT barbell triplet (deadlift, hang power clean, push jerk) at a heavier weight than the original Hero WOD.
 
 **5 rounds for time**
   12 Deadlift (205lb/145lb)

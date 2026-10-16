@@ -1,6 +1,6 @@
 # Brian
 
-Three rounds pairing rope climbs with a substantial back squat set — a simple but demanding gymnastics-and-strength couplet.
+Three rounds pairing rope climbs with a substantial back squat set, a simple but demanding gymnastics-and-strength couplet.
 
 **3 rounds for time**
   5 Rope Climb

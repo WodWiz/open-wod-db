@@ -1,6 +1,6 @@
 # Nutts
 
-An ascending chipper — 10 handstand push-ups up through 200 double-unders — finishing with a plate-carry run.
+An ascending chipper, 10 handstand push-ups up through 200 double-unders, finishing with a plate-carry run.
 
 **For Time**
   10 Handstand Push Up

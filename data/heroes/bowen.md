@@ -1,6 +1,6 @@
 # Bowen
 
-Three rounds of an 800m run followed by heavy deadlifts, burpee pull-ups, single-arm kettlebell thrusters, and box jumps — a running-anchored circuit with a long, varied tail.
+Three rounds of an 800m run followed by heavy deadlifts, burpee pull-ups, single-arm kettlebell thrusters, and box jumps, a running-anchored circuit with a long, varied tail.
 
 **3 rounds for time**
   Run 800m

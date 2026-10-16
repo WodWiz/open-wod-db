@@ -1,6 +1,6 @@
 # Helen
 
-Three rounds of a 400m run, kettlebell swings, and pull-ups — a running-based interval piece that tests grip and shoulder endurance on top of aerobic capacity.
+Three rounds of a 400m run, kettlebell swings, and pull-ups, a running-based interval piece that tests grip and shoulder endurance on top of aerobic capacity.
 
 **3 rounds for time**
   Run 400m

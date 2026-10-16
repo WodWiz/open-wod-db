@@ -1,6 +1,6 @@
 # Dork
 
-Six rounds of double-unders, kettlebell swings, and burpees — a jump-rope-anchored triplet at descending volume per movement.
+Six rounds of double-unders, kettlebell swings, and burpees, a jump-rope-anchored triplet at descending volume per movement.
 
 **6 rounds for time**
   60 Double Under

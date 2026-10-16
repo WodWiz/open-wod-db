@@ -1,6 +1,6 @@
 # Tumilson
 
-Eight rounds of a 200m run followed by dumbbell burpee deadlifts — a running-and-hybrid-movement couplet repeated at high round count.
+Eight rounds of a 200m run followed by dumbbell burpee deadlifts, a running-and-hybrid-movement couplet repeated at high round count.
 
 **8 rounds for time**
   Run 200m

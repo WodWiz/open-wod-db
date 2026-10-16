@@ -1,6 +1,6 @@
 # Jerry
 
-Two mile runs bookending a 2000m row — a pure monostructural piece with no barbell or gymnastics work at all.
+Two mile runs bookending a 2000m row, a pure monostructural piece with no barbell or gymnastics work at all.
 
 **For Time**
   Run 1609m

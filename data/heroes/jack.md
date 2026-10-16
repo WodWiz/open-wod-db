@@ -1,6 +1,6 @@
 # Jack
 
-A 20-minute AMRAP of push press, kettlebell swings, and box jumps — a simple three-movement circuit at even reps throughout.
+A 20-minute AMRAP of push press, kettlebell swings, and box jumps, a simple three-movement circuit at even reps throughout.
 
 **AMRAP 20 min**
   10 Push Press (115lb/75lb)

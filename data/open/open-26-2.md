@@ -1,6 +1,6 @@
 # 26.2
 
-Three rounds of a dumbbell lunge-and-snatch pairing, each round finishing with a harder pull-up variation — regular, then chest-to-bar, then muscle-up.
+Three rounds of a dumbbell lunge-and-snatch pairing, each round finishing with a harder pull-up variation: regular, then chest-to-bar, then muscle-up.
 
 **For Time**
   Dumbbell Overhead Lunge 24m (50lb/35lb)

@@ -1,6 +1,6 @@
 # Zimmerman
 
-A 25-minute AMRAP of chest-to-bar pull-ups, heavy deadlifts, and handstand push-ups — a long-format triplet at low, even reps.
+A 25-minute AMRAP of chest-to-bar pull-ups, heavy deadlifts, and handstand push-ups, a long-format triplet at low, even reps.
 
 **AMRAP 25 min**
   11 Chest To Bar Pull Up

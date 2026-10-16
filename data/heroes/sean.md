@@ -1,6 +1,6 @@
 # Sean
 
-Ten rounds of chest-to-bar pull-ups and front squats — a two-movement couplet at high round count.
+Ten rounds of chest-to-bar pull-ups and front squats, a two-movement couplet at high round count.
 
 **10 rounds for time**
   11 Chest To Bar Pull Up
