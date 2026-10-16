@@ -1,6 +1,6 @@
 # Jennifer
 
-A 26-minute AMRAP of pull-ups, kettlebell swings, and box jumps — a long-format triplet at ascending reps across the three movements.
+A 26-minute AMRAP of pull-ups, kettlebell swings, and box jumps, a long-format triplet at ascending reps across the three movements.
 
 **AMRAP 26 min**
   10 Pull Up

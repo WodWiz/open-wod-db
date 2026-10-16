@@ -1,6 +1,18 @@
 {
-  "count": 246,
+  "count": 314,
   "movements": [
+    {
+      "id": "a-skip",
+      "name": "A Skip",
+      "category": "monostructural",
+      "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A running drill that pairs a skip with a high knee drive, one leg at a time."
+    },
     {
       "id": "ab-mat-sit-up",
       "name": "Ab Mat Sit Up",
@@ -14,6 +26,18 @@
       ],
       "workouts": [],
       "description": "Sit-up performed with an Ab Mat under the lower back to allow a deeper hip extension at the bottom of each rep, feet anchored or held by a partner."
+    },
+    {
+      "id": "ab-wheel",
+      "name": "Ab Wheel",
+      "category": "gymnastics",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Rolling a wheel out from the knees or feet with the body extended, then pulling it back under control."
     },
     {
       "id": "air-squat",
@@ -43,11 +67,15 @@
         "luce",
         "maupin",
         "murph",
+        "nasty-girls",
         "rocket",
+        "tabata-something-else",
+        "tabata-this",
+        "the-chief",
         "triple-deuce",
         "wilmot"
       ],
-      "description": "A bodyweight squat to at least hip-crease-below-knee depth and back to standing, with no external load \u2014 the foundational squat pattern everything else builds on."
+      "description": "A bodyweight squat to at least hip-crease-below-knee depth and back to standing, with no external load, the foundational squat pattern everything else builds on."
     },
     {
       "id": "alternating-dumbbell-power-snatch",
@@ -106,6 +134,20 @@
       "description": "Kettlebell swing driven all the way to an overhead lockout at the top of each rep, rather than stopping at chest height."
     },
     {
+      "id": "arnold-press",
+      "name": "Arnold Press",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A dumbbell press that begins with the palms facing the body and rotates them outward as the weights go overhead."
+    },
+    {
       "id": "assault-bike",
       "name": "Assault Bike",
       "category": "monostructural",
@@ -129,9 +171,51 @@
       "patterns": [
         "hinge"
       ],
-      "aliases": [],
+      "aliases": [
+        "atlas stone"
+      ],
       "workouts": [],
       "description": "Lifting a round, weighted atlas stone from the ground and placing it over one shoulder in a single motion."
+    },
+    {
+      "id": "axle-deadlift",
+      "name": "Axle Deadlift",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A deadlift using a thick-handled axle bar, which makes the grip the limiting factor."
+    },
+    {
+      "id": "axle-press",
+      "name": "Axle Press",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Pressing a thick-handled axle bar from the shoulders to overhead, which challenges grip as well as the shoulders."
+    },
+    {
+      "id": "b-skip",
+      "name": "B Skip",
+      "category": "monostructural",
+      "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A running drill like the A-skip, with the lower leg extended forward and then pulled down and back under the hip."
     },
     {
       "id": "back-extension",
@@ -144,6 +228,7 @@
       "aliases": [],
       "workouts": [
         "cameron",
+        "filthy-fifty",
         "michael",
         "stephen"
       ],
@@ -163,7 +248,7 @@
       "workouts": [
         "games-21-event-15"
       ],
-      "description": "Barbell racked on the back as in a back squat while stepping into a lunge, alternating legs \u2014 combines squat-pattern loading with single-leg stability."
+      "description": "Barbell racked on the back as in a back squat while stepping into a lunge, alternating legs, which combines squat-pattern loading with single-leg stability."
     },
     {
       "id": "back-squat",
@@ -178,6 +263,7 @@
       "aliases": [],
       "workouts": [
         "alexander",
+        "bear-complex",
         "brehm",
         "brian",
         "bruck",
@@ -197,7 +283,7 @@
         "zembiec",
         "zeus"
       ],
-      "description": "A barbell held across the upper back (low- or high-bar) while squatting to at least hip-crease-below-knee depth, then standing back up \u2014 the foundational lower-body strength lift."
+      "description": "A barbell held across the upper back (low- or high-bar) while squatting to at least hip-crease-below-knee depth, then standing back up, the foundational lower-body strength lift."
     },
     {
       "id": "ball-slam",
@@ -207,7 +293,9 @@
       "patterns": [
         "core"
       ],
-      "aliases": [],
+      "aliases": [
+        "slam ball"
+      ],
       "workouts": [
         "games-20-swim-n-stuff",
         "whitt"
@@ -302,7 +390,21 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Barbell locked out overhead while lunging forward or walking \u2014 combines overhead stability with a single-leg squat pattern."
+      "description": "Barbell locked out overhead while lunging forward or walking, which combines overhead stability with a single-leg squat pattern."
+    },
+    {
+      "id": "barbell-squat-jump",
+      "name": "Barbell Squat Jump",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "squat"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A jump from a squat with a light barbell held on the back, landing softly back into the squat."
     },
     {
       "id": "barbell-step-up",
@@ -321,6 +423,18 @@
       "description": "Stepping up onto a box with a loaded barbell on the back or in the front rack, driving through the lead leg to full hip extension at the top."
     },
     {
+      "id": "battle-rope",
+      "name": "Battle Rope",
+      "category": "odd-object",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Making waves or slams with the ends of a heavy rope anchored at the middle, a conditioning drill for the shoulders and trunk."
+    },
+    {
       "id": "bear-crawl",
       "name": "Bear Crawl",
       "category": "bodyweight",
@@ -334,6 +448,32 @@
         "terry"
       ],
       "description": "Crawling forward on hands and feet with the knees hovering just off the ground, opposite hand and foot moving together."
+    },
+    {
+      "id": "bear-hug-carry",
+      "name": "Bear Hug Carry",
+      "category": "odd-object",
+      "equipment": [],
+      "patterns": [
+        "carry"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Carrying a heavy object such as a sandbag or stone held in both arms against the chest."
+    },
+    {
+      "id": "behind-the-neck-jerk",
+      "name": "Behind The Neck Jerk",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A jerk where the barbell starts and returns across the back of the shoulders, which asks for an upright torso and good shoulder mobility."
     },
     {
       "id": "bench-press",
@@ -356,7 +496,7 @@
         "qf-22-4",
         "roney"
       ],
-      "description": "Barbell lowered to the chest while lying on a bench and pressed back to full lockout \u2014 the classic horizontal pressing strength lift."
+      "description": "Barbell lowered to the chest while lying on a bench and pressed back to full lockout, the classic horizontal pressing strength lift."
     },
     {
       "id": "bent-over-row",
@@ -369,9 +509,25 @@
         "pull",
         "hinge"
       ],
+      "aliases": [
+        "barbell row"
+      ],
+      "workouts": [],
+      "description": "Torso hinged forward and near-parallel to the floor, pulling a barbell to the lower ribs/stomach and lowering under control, which targets the mid-back and lats."
+    },
+    {
+      "id": "bicep-curl",
+      "name": "Bicep Curl",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "patterns": [
+        "pull"
+      ],
       "aliases": [],
       "workouts": [],
-      "description": "Torso hinged forward and near-parallel to the floor, pulling a barbell to the lower ribs/stomach and lowering under control \u2014 targets the mid-back and lats."
+      "description": "Curling a weight from the hips to the shoulders by bending only the elbows."
     },
     {
       "id": "bike",
@@ -410,6 +566,18 @@
       "description": "A prescribed distance or calorie count on a Concept2 BikeErg, a standard-geometry stationary bike ergometer."
     },
     {
+      "id": "bird-dog",
+      "name": "Bird Dog",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "On hands and knees, extending one arm and the opposite leg at the same time and holding the position."
+    },
+    {
       "id": "bodyweight-clean-and-jerk",
       "name": "Bodyweight Clean And Jerk",
       "category": "barbell",
@@ -426,7 +594,7 @@
       "workouts": [
         "lyla"
       ],
-      "description": "A clean-and-jerk loaded relative to the athlete's own bodyweight rather than a fixed load, so the percentage \u2014 not the number on the bar \u2014 is the prescription."
+      "description": "A clean-and-jerk loaded relative to the athlete's own bodyweight rather than a fixed load, so the percentage, not the number on the bar, is the prescription."
     },
     {
       "id": "box-jump",
@@ -446,12 +614,15 @@
         "crain",
         "danny",
         "falkel",
+        "fight-gone-bad",
+        "filthy-fifty",
         "games-09-complex-chipper",
         "games-11-the-end-1",
         "games-11-the-end-2",
         "games-11-the-end-3",
         "games-16-100-percent",
         "gaza",
+        "hidalgo",
         "hope",
         "jack",
         "jennifer",
@@ -507,7 +678,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Back squat performed to a box or bench, briefly sitting back to touch it before standing \u2014 reinforces hip-driven depth and a controlled bottom position."
+      "description": "Back squat performed to a box or bench, briefly sitting back to touch it before standing, which reinforces hip-driven depth and a controlled bottom position."
     },
     {
       "id": "box-step-up",
@@ -526,6 +697,20 @@
       "description": "Stepping up onto a box one foot at a time (no jump), driving through the lead leg to full hip extension at the top."
     },
     {
+      "id": "bradford-press",
+      "name": "Bradford Press",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A barbell press that alternates between the front and back of the head, never locking out overhead, which keeps the shoulders under constant tension."
+    },
+    {
       "id": "broad-jump",
       "name": "Broad Jump",
       "category": "bodyweight",
@@ -536,6 +721,20 @@
         "games-12-broad-jump"
       ],
       "description": "A standing jump for maximum forward distance, taking off and landing on both feet."
+    },
+    {
+      "id": "bulgarian-split-squat",
+      "name": "Bulgarian Split Squat",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "patterns": [
+        "lunge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A single-leg squat with the rear foot resting on a bench behind, usually holding dumbbells or a barbell."
     },
     {
       "id": "burpee",
@@ -555,6 +754,7 @@
         "donny",
         "dork",
         "ellen",
+        "filthy-fifty",
         "forrest",
         "fournier",
         "games-08-workout-b",
@@ -575,6 +775,7 @@
         "hansen",
         "hope",
         "k27",
+        "kalsu",
         "klepto",
         "lumberjack-20",
         "marguerita",
@@ -591,11 +792,12 @@
         "sisson",
         "small",
         "the-don",
+        "the-ghost",
         "the-seven",
         "triple-deuce",
         "whitten"
       ],
-      "description": "From standing, dropping to the floor with the chest touching down, then pushing back up and jumping with a clap overhead \u2014 the classic full-body conditioning movement."
+      "description": "From standing, dropping to the floor with the chest touching down, then pushing back up and jumping with a clap overhead, the classic full-body conditioning movement."
     },
     {
       "id": "burpee-bar-muscle-up",
@@ -625,7 +827,8 @@
       ],
       "aliases": [],
       "workouts": [
-        "ship"
+        "ship",
+        "wood"
       ],
       "description": "Burpee immediately followed by jumping onto a box and standing to full hip extension at the top."
     },
@@ -753,7 +956,17 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "A continuous, circular kipping pull-up where the hips trace a loop rather than a front-to-back swing \u2014 the fastest competitive pull-up style once the timing is mastered."
+      "description": "A continuous, circular kipping pull-up where the hips trace a loop rather than a front-to-back swing, the fastest competitive pull-up style once the timing is mastered."
+    },
+    {
+      "id": "calf-raise",
+      "name": "Calf Raise",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [],
+      "aliases": [],
+      "workouts": [],
+      "description": "Rising onto the balls of the feet and lowering again, usually with added weight, to work the calf muscles."
     },
     {
       "id": "chest-to-bar-pull-up",
@@ -802,7 +1015,7 @@
         "willy",
         "zimmerman"
       ],
-      "description": "Pull-up (strict or kipping) where the chest, not just the chin, must reach the bar at the top of every rep \u2014 a longer range of motion than a standard pull-up."
+      "description": "Pull-up (strict or kipping) where the chest, not just the chin, must reach the bar at the top of every rep, a longer range of motion than a standard pull-up."
     },
     {
       "id": "chin-up",
@@ -815,7 +1028,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Pull-up performed with an underhand (supinated) grip rather than overhand \u2014 the biceps-forward grip variation."
+      "description": "Pull-up performed with an underhand (supinated) grip rather than overhand, the biceps-forward grip variation."
     },
     {
       "id": "clean",
@@ -844,6 +1057,7 @@
         "games-20-awful-annie",
         "games-21-event-6",
         "games-21-event-7",
+        "hall",
         "linda",
         "monti",
         "open-14-4",
@@ -853,7 +1067,7 @@
         "open-25-3",
         "qf-22-4"
       ],
-      "description": "Barbell pulled from the floor and received in a front-rack squat in one continuous motion \u2014 the catch-all term for the squat clean unless a variant is specified."
+      "description": "Barbell pulled from the floor and received in a front-rack squat in one continuous motion, the catch-all term for the squat clean unless a variant is specified."
     },
     {
       "id": "clean-and-jerk",
@@ -891,7 +1105,7 @@
         "qf-23-3",
         "qf-26-4"
       ],
-      "description": "A clean immediately followed by a jerk to lock the bar out overhead \u2014 the classic two-lift combination used to move the heaviest loads from the ground to overhead."
+      "description": "A clean immediately followed by a jerk to lock the bar out overhead, the classic two-lift combination used to move the heaviest loads from the ground to overhead."
     },
     {
       "id": "clean-pull",
@@ -907,7 +1121,49 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "The pulling portion of a clean (floor to full extension) performed without racking the bar \u2014 used to build pulling strength and speed without the catch."
+      "description": "The pulling portion of a clean (floor to full extension) performed without racking the bar, used to build pulling strength and speed without the catch."
+    },
+    {
+      "id": "close-grip-bench-press",
+      "name": "Close Grip Bench Press",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A bench press with the hands set closer than shoulder width, which shifts the work toward the triceps."
+    },
+    {
+      "id": "cluster",
+      "name": "Cluster",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "olympic",
+        "squat",
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A full squat clean flowing straight into a thruster without letting the barbell rest between the two lifts."
+    },
+    {
+      "id": "copenhagen-plank",
+      "name": "Copenhagen Plank",
+      "category": "gymnastics",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A side plank with the top leg resting on a bench and the bottom leg hanging beneath it, which loads the inner thigh."
     },
     {
       "id": "cossack-squat",
@@ -920,6 +1176,18 @@
       "aliases": [],
       "workouts": [],
       "description": "A wide-stance side-to-side squat, shifting weight fully onto one bent leg while the other stays straight, then shifting to the other side."
+    },
+    {
+      "id": "crab-walk",
+      "name": "Crab Walk",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Moving on hands and feet with the belly facing up and the hips lifted off the floor."
     },
     {
       "id": "crossover-single-under",
@@ -971,6 +1239,18 @@
       "description": "Lifting a D-ball from the ground and placing it over one shoulder in a single motion."
     },
     {
+      "id": "dead-bug",
+      "name": "Dead Bug",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Lying on the back with the arms and knees raised, then lowering the opposite arm and leg while keeping the lower back flat."
+    },
+    {
       "id": "deadlift",
       "name": "Deadlift",
       "category": "barbell",
@@ -1014,6 +1294,7 @@
         "johnson",
         "kelly-brown",
         "kevin",
+        "king-kong",
         "lee",
         "linda",
         "lumberjack-20",
@@ -1047,7 +1328,7 @@
         "the-seven",
         "zimmerman"
       ],
-      "description": "Barbell lifted from the floor to full hip and knee extension with a flat back and the bar close to the shins \u2014 the fundamental hip-hinge strength movement."
+      "description": "Barbell lifted from the floor to full hip and knee extension with a flat back and the bar close to the shins, the fundamental hip-hinge strength movement."
     },
     {
       "id": "deficit-deadlift",
@@ -1061,7 +1342,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Deadlift performed standing on a raised platform, increasing the range of motion off the floor \u2014 demands extra hip and ankle mobility off the bottom."
+      "description": "Deadlift performed standing on a raised platform, increasing the range of motion off the floor, which demands extra hip and ankle mobility off the bottom."
     },
     {
       "id": "deficit-handstand-push-up",
@@ -1100,7 +1381,7 @@
         "devil's press"
       ],
       "workouts": [],
-      "description": "A burpee with a dumbbell in each hand \u2014 chest to the floor beside the dumbbells, then standing and driving straight into a dumbbell snatch to overhead in one motion, both arms together."
+      "description": "A burpee with a dumbbell in each hand: chest to the floor beside the dumbbells, then standing and driving straight into a dumbbell snatch to overhead in one motion, both arms together."
     },
     {
       "id": "double-kettlebell-farmers-carry",
@@ -1184,6 +1465,7 @@
         "bradshaw",
         "bull",
         "dork",
+        "filthy-fifty",
         "games-09-complex-chipper",
         "games-10-event-3",
         "games-11-dog-sled",
@@ -1212,9 +1494,10 @@
         "open-25-2",
         "paul",
         "qf-26-3",
-        "the-don"
+        "the-don",
+        "the-ghost"
       ],
-      "description": "Jump rope pass where the rope passes under the feet twice per single jump \u2014 a faster wrist-driven turn than a basic single jump."
+      "description": "Jump rope pass where the rope passes under the feet twice per single jump, a faster wrist-driven turn than a basic single jump."
     },
     {
       "id": "dumbbell-bench-press",
@@ -1263,7 +1546,7 @@
       "workouts": [
         "tumilson"
       ],
-      "description": "A burpee performed with a pair of dumbbells on the floor \u2014 chest to the ground between the dumbbells, then standing up and deadlifting them before the next rep."
+      "description": "A burpee performed with a pair of dumbbells on the floor: chest to the ground between the dumbbells, then standing up and deadlifting them before the next rep."
     },
     {
       "id": "dumbbell-carry",
@@ -1295,7 +1578,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "A dumbbell (or pair) pulled from the floor and received in the front rack, typically with a slight squat \u2014 the dumbbell analog of the barbell clean."
+      "description": "A dumbbell (or pair) pulled from the floor and received in the front rack, typically with a slight squat, the dumbbell analog of the barbell clean."
     },
     {
       "id": "dumbbell-clean-and-jerk",
@@ -1400,7 +1683,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Squat holding a single dumbbell vertically against the chest with both hands cupping the top end \u2014 an accessible, upright-torso squat variation."
+      "description": "Squat holding a single dumbbell vertically against the chest with both hands cupping the top end, an accessible, upright-torso squat variation."
     },
     {
       "id": "dumbbell-hang-clean-and-jerk",
@@ -1522,7 +1805,7 @@
         "qf-22-1",
         "qf-23-2"
       ],
-      "description": "Lunge with one or two dumbbells locked out overhead throughout \u2014 a stability-heavy single-leg movement."
+      "description": "Lunge with one or two dumbbells locked out overhead throughout, a stability-heavy single-leg movement."
     },
     {
       "id": "dumbbell-overhead-squat",
@@ -1539,7 +1822,7 @@
         "games-18-chaos",
         "games-21-event-11"
       ],
-      "description": "Squat with one or two dumbbells locked out overhead throughout the full range of motion \u2014 demands significant shoulder stability."
+      "description": "Squat with one or two dumbbells locked out overhead throughout the full range of motion, which demands significant shoulder stability."
     },
     {
       "id": "dumbbell-power-clean",
@@ -1571,7 +1854,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Dumbbell snatch caught with a partial dip rather than a full squat receive \u2014 usually interchangeable with dumbbell-snatch, naming the catch depth explicitly."
+      "description": "Dumbbell snatch caught with a partial dip rather than a full squat receive, usually interchangeable with dumbbell-snatch, naming the catch depth explicitly."
     },
     {
       "id": "dumbbell-push-jerk",
@@ -1585,7 +1868,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Dumbbell driven overhead with a dip-drive and a quarter-squat receive \u2014 the dumbbell version of the push jerk."
+      "description": "Dumbbell driven overhead with a dip-drive and a quarter-squat receive, the dumbbell version of the push jerk."
     },
     {
       "id": "dumbbell-push-press",
@@ -1602,7 +1885,7 @@
         "games-09-complex-chipper",
         "games-17-triple-g-chipper"
       ],
-      "description": "Dumbbell pressed overhead using a short dip-and-drive from the legs \u2014 the dumbbell version of the barbell push press."
+      "description": "Dumbbell pressed overhead using a short dip-and-drive from the legs, the dumbbell version of the barbell push press."
     },
     {
       "id": "dumbbell-romanian-deadlift",
@@ -1630,7 +1913,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Single-arm dumbbell pulled from a hang to the hip/ribs, typically bracing on a bench or in a bent-over stance \u2014 targets the lat and mid-back."
+      "description": "Single-arm dumbbell pulled from a hang to the hip/ribs, typically bracing on a bench or in a bent-over stance, which targets the lat and mid-back."
     },
     {
       "id": "dumbbell-shoulder-press",
@@ -1644,7 +1927,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Dumbbell pressed from the shoulder to locked-out overhead with no leg drive \u2014 a strict, single- or double-arm overhead press."
+      "description": "Dumbbell pressed from the shoulder to locked-out overhead with no leg drive, a strict, single- or double-arm overhead press."
     },
     {
       "id": "dumbbell-shoulder-to-overhead",
@@ -1660,7 +1943,7 @@
       "workouts": [
         "games-25-all-crossed-up"
       ],
-      "description": "Any method of moving a dumbbell from the shoulder to locked-out overhead by the athlete's choice \u2014 press, push press, or push jerk."
+      "description": "Any method of moving a dumbbell from the shoulder to locked-out overhead by the athlete's choice: press, push press, or push jerk."
     },
     {
       "id": "dumbbell-snatch",
@@ -1687,7 +1970,7 @@
         "open-24-1",
         "qf-23-2"
       ],
-      "description": "A single dumbbell pulled from the floor to locked-out overhead in one continuous motion, typically alternating arms \u2014 the dumbbell analog of the barbell snatch."
+      "description": "A single dumbbell pulled from the floor to locked-out overhead in one continuous motion, typically alternating arms, the dumbbell analog of the barbell snatch."
     },
     {
       "id": "dumbbell-split-clean",
@@ -1744,7 +2027,7 @@
       "workouts": [
         "feeks"
       ],
-      "description": "A dumbbell squat clean received in the bottom of the squat and driven straight up into an overhead press without standing up in between \u2014 one continuous rep."
+      "description": "A dumbbell squat clean received in the bottom of the squat and driven straight up into an overhead press without standing up in between, one continuous rep."
     },
     {
       "id": "dumbbell-strict-press",
@@ -1778,7 +2061,7 @@
         "oda-7313",
         "open-20-2"
       ],
-      "description": "Front squat with a dumbbell (or two) at the shoulders driven directly into an overhead press as the athlete stands \u2014 the dumbbell version of the barbell thruster."
+      "description": "Front squat with a dumbbell (or two) at the shoulders driven directly into an overhead press as the athlete stands, the dumbbell version of the barbell thruster."
     },
     {
       "id": "dumbbell-waiters-walk",
@@ -1794,7 +2077,7 @@
       "workouts": [
         "weston"
       ],
-      "description": "Walking a set distance with a single dumbbell held overhead on a flat palm, arm fully locked out \u2014 a unilateral overhead-stability carry."
+      "description": "Walking a set distance with a single dumbbell held overhead on a flat palm, arm fully locked out, a unilateral overhead-stability carry."
     },
     {
       "id": "dumbbell-walking-lunge",
@@ -1833,6 +2116,18 @@
       "description": "A prescribed calorie count or distance on an Echo Bike, a fan bike similar in use to an Assault Bike."
     },
     {
+      "id": "face-pull",
+      "name": "Face Pull",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "pull"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Pulling a cable or band toward the face with the elbows high, which works the rear shoulders and upper back."
+    },
+    {
       "id": "farmers-carry",
       "name": "Farmers Carry",
       "category": "dumbbell",
@@ -1851,7 +2146,7 @@
         "thompson",
         "weston"
       ],
-      "description": "Walking a set distance holding a heavy dumbbell (or other implement) in each hand at the sides \u2014 a grip- and core-bracing loaded carry."
+      "description": "Walking a set distance holding a heavy dumbbell (or other implement) in each hand at the sides, a grip- and core-bracing loaded carry."
     },
     {
       "id": "floor-press",
@@ -1865,7 +2160,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Bench press performed lying on the floor instead of a bench, so the range of motion stops when the upper arms touch the ground \u2014 reduces shoulder strain and emphasizes lockout strength."
+      "description": "Bench press performed lying on the floor instead of a bench, so the range of motion stops when the upper arms touch the ground, which reduces shoulder strain and emphasizes lockout strength."
     },
     {
       "id": "flutter-kick",
@@ -1910,7 +2205,7 @@
         "games-24-push-pull-2",
         "robbie"
       ],
-      "description": "Handstand push-up performed balancing in the middle of the floor with no wall for support \u2014 demands full handstand balance in addition to the press."
+      "description": "Handstand push-up performed balancing in the middle of the floor with no wall for support, which demands full handstand balance in addition to the press."
     },
     {
       "id": "front-rack-lunge",
@@ -1926,7 +2221,21 @@
       "workouts": [
         "games-21-event-15"
       ],
-      "description": "Barbell held in the front rack (as in a front squat) while lunging \u2014 the upright torso the front rack demands makes this more quad- and core-dominant than a back-rack lunge."
+      "description": "Barbell held in the front rack (as in a front squat) while lunging, the upright torso the front rack demands makes this more quad- and core-dominant than a back-rack lunge."
+    },
+    {
+      "id": "front-raise",
+      "name": "Front Raise",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Raising a dumbbell or plate in front of the body to shoulder height with the arms nearly straight."
     },
     {
       "id": "front-squat",
@@ -1941,6 +2250,7 @@
       "aliases": [],
       "workouts": [
         "andi",
+        "bear-complex",
         "bell",
         "bulger",
         "games-11-killer-kage",
@@ -1948,6 +2258,7 @@
         "games-20-1rm-front-squat",
         "games-22-back-nine",
         "gator",
+        "hammer",
         "larry",
         "liam",
         "pheezy",
@@ -1958,7 +2269,7 @@
         "willy",
         "wyk"
       ],
-      "description": "Barbell racked across the front deltoids and collarbones with elbows high, squatting to full depth \u2014 builds quad and core strength and carries directly into the clean."
+      "description": "Barbell racked across the front deltoids and collarbones with elbows high, squatting to full depth, which builds quad and core strength and carries directly into the clean."
     },
     {
       "id": "ghd-hip-extension",
@@ -2001,7 +2312,33 @@
         "qf-23-4",
         "stephen"
       ],
-      "description": "Sit-up performed on a Glute-Ham Developer, hips anchored so the torso can hinge well past parallel behind the hips before curling all the way forward to touch the toes \u2014 a much larger range of motion than a floor sit-up."
+      "description": "Sit-up performed on a Glute-Ham Developer, hips anchored so the torso can hinge well past parallel behind the hips before curling all the way forward to touch the toes, a much larger range of motion than a floor sit-up."
+    },
+    {
+      "id": "glute-bridge",
+      "name": "Glute Bridge",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Lying on the back with the feet flat, lifting the hips until the body forms a line from shoulders to knees."
+    },
+    {
+      "id": "glute-ham-raise",
+      "name": "Glute Ham Raise",
+      "category": "gymnastics",
+      "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [
+        "ghr"
+      ],
+      "workouts": [],
+      "description": "On a glute-ham developer, lowering the torso toward the floor from the knees, then curling back up with the hamstrings and glutes."
     },
     {
       "id": "goblet-squat",
@@ -2017,7 +2354,7 @@
         "kettlebell goblet squat"
       ],
       "workouts": [],
-      "description": "Squat holding a single kettlebell (or dumbbell) vertically against the chest with both hands cupping the horns/top \u2014 an accessible, upright-torso squat."
+      "description": "Squat holding a single kettlebell (or dumbbell) vertically against the chest with both hands cupping the horns/top, an accessible, upright-torso squat."
     },
     {
       "id": "good-morning",
@@ -2031,7 +2368,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Barbell on the back, hinging forward at the hips with a flat back and soft knees until the torso nears parallel to the floor, then returning upright \u2014 targets the posterior chain."
+      "description": "Barbell on the back, hinging forward at the hips with a flat back and soft knees until the torso nears parallel to the floor, then returning upright, which targets the posterior chain."
     },
     {
       "id": "ground-to-overhead",
@@ -2051,7 +2388,21 @@
         "games-10-the-final-2",
         "open-20-1"
       ],
-      "description": "Any barbell movement taking the bar from the floor to locked out overhead by whatever method the athlete chooses \u2014 clean-and-jerk, clean-and-press, or a muscle clean into a press."
+      "description": "Any barbell movement taking the bar from the floor to locked out overhead by whatever method the athlete chooses: clean-and-jerk, clean-and-press, or a muscle clean into a press."
+    },
+    {
+      "id": "hammer-curl",
+      "name": "Hammer Curl",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "patterns": [
+        "pull"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A curl with the palms facing each other throughout, which works the forearms along with the biceps."
     },
     {
       "id": "hand-release-push-up",
@@ -2070,7 +2421,7 @@
         "pheezy",
         "severin"
       ],
-      "description": "Push-up where the hands lift completely off the floor at the bottom of each rep before pressing back up \u2014 ensures full chest-to-floor depth on every rep."
+      "description": "Push-up where the hands lift completely off the floor at the bottom of each rep before pressing back up, which ensures full chest-to-floor depth on every rep."
     },
     {
       "id": "handstand",
@@ -2130,6 +2481,7 @@
         "games-24-push-pull-2",
         "holleyman",
         "jt",
+        "king-kong",
         "lane",
         "maggie",
         "marco",
@@ -2150,7 +2502,7 @@
         "the-seven",
         "zimmerman"
       ],
-      "description": "Inverted against a wall for balance, lowering the head to the floor (or a target) and pressing back to a locked-out handstand \u2014 the vertical pressing bodyweight movement."
+      "description": "Inverted against a wall for balance, lowering the head to the floor (or a target) and pressing back to a locked-out handstand, the vertical pressing bodyweight movement."
     },
     {
       "id": "handstand-walk",
@@ -2197,7 +2549,22 @@
       "workouts": [
         "open-21-4"
       ],
-      "description": "Clean initiated from a 'hang' position (bar at or above the knee, not the floor) rather than pulling from the ground \u2014 removes the initial floor pull, emphasizing the second pull and catch."
+      "description": "Clean initiated from a 'hang' position (bar at or above the knee, not the floor) rather than pulling from the ground, which removes the initial floor pull, emphasizing the second pull and catch."
+    },
+    {
+      "id": "hang-high-pull",
+      "name": "Hang High Pull",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "olympic",
+        "pull"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A pull from the hang position that brings the barbell to chest height with the elbows high and outside, finishing on the toes."
     },
     {
       "id": "hang-power-clean",
@@ -2216,7 +2583,8 @@
         "games-15-heavy-dt",
         "games-16-double-dt",
         "k27",
-        "matt-16"
+        "matt-16",
+        "nasty-girls"
       ],
       "description": "Hang clean caught above parallel in a partial-depth squat rather than full depth."
     },
@@ -2280,7 +2648,7 @@
       "workouts": [
         "kevin"
       ],
-      "description": "Hanging from a bar or rings, raising the legs to touch the hips to the bar/rings \u2014 an advanced core movement between knees-to-elbows and toes-to-bar in difficulty."
+      "description": "Hanging from a bar or rings, raising the legs to touch the hips to the bar/rings, an advanced core movement between knees-to-elbows and toes-to-bar in difficulty."
     },
     {
       "id": "hanging-knee-raise",
@@ -2292,7 +2660,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Hanging from a bar, raising the knees toward the chest under control with little to no kip \u2014 an ab/hip-flexor strength movement."
+      "description": "Hanging from a bar, raising the knees toward the chest under control with little to no kip, an ab/hip-flexor strength movement."
     },
     {
       "id": "high-knees",
@@ -2319,6 +2687,20 @@
       "description": "General term for extending the hips from a flexed position back to neutral/extended against resistance or bodyweight, as prescribed on a GHD or hyperextension bench."
     },
     {
+      "id": "hip-thrust",
+      "name": "Hip Thrust",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Upper back resting on a bench with a barbell across the hips, driving the hips up to full extension to load the glutes."
+    },
+    {
       "id": "hollow-hold",
       "name": "Hollow Hold",
       "category": "gymnastics",
@@ -2340,7 +2722,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Holding a hollow body position (lower back pressed to the floor, arms and legs extended and slightly raised) while rocking gently front to back \u2014 a core-control and rhythm drill."
+      "description": "Holding a hollow body position (lower back pressed to the floor, arms and legs extended and slightly raised) while rocking gently front to back, a core-control and rhythm drill."
     },
     {
       "id": "husafell-carry",
@@ -2370,6 +2752,34 @@
       "description": "From standing, folding forward to place the hands on the floor, walking the hands out to a plank, then walking the feet up to the hands to return to standing."
     },
     {
+      "id": "incline-bench-press",
+      "name": "Incline Bench Press",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A bench press on an inclined bench, which moves more of the load to the upper chest and shoulders."
+    },
+    {
+      "id": "jefferson-curl",
+      "name": "Jefferson Curl",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Rolling down one vertebra at a time toward the floor under a light load and rolling back up, a loaded spinal flexion exercise."
+    },
+    {
       "id": "jerk",
       "name": "Jerk",
       "category": "barbell",
@@ -2382,11 +2792,12 @@
       "aliases": [],
       "workouts": [
         "bruck",
+        "hammer",
         "kutschbach",
         "open-11-3",
         "open-21-4"
       ],
-      "description": "Barbell driven from the front rack to locked-out overhead using a dip-drive and a foot-split (or push jerk) receiving position \u2014 the second half of the clean-and-jerk."
+      "description": "Barbell driven from the front rack to locked-out overhead using a dip-drive and a foot-split (or push jerk) receiving position, the second half of the clean-and-jerk."
     },
     {
       "id": "jerry-bag-carry",
@@ -2414,7 +2825,7 @@
       "workouts": [
         "marguerita"
       ],
-      "description": "Jumping to spread the feet wide while raising the arms overhead, then jumping back to the start position \u2014 a basic warm-up/conditioning movement."
+      "description": "Jumping to spread the feet wide while raising the arms overhead, then jumping back to the start position, a basic warm-up/conditioning movement."
     },
     {
       "id": "jumping-lunge",
@@ -2438,8 +2849,10 @@
         "gymnastics"
       ],
       "aliases": [],
-      "workouts": [],
-      "description": "Pull-up assisted by a small jump off the ground to help the chin clear the bar \u2014 a scaled version of a full pull-up for athletes still building pulling strength."
+      "workouts": [
+        "filthy-fifty"
+      ],
+      "description": "Pull-up assisted by a small jump off the ground to help the chin clear the bar, a scaled version of a full pull-up for athletes still building pulling strength."
     },
     {
       "id": "kayak",
@@ -2454,6 +2867,18 @@
         "games-21-event-1"
       ],
       "description": "Paddling a kayak a prescribed distance."
+    },
+    {
+      "id": "keg-carry",
+      "name": "Keg Carry",
+      "category": "odd-object",
+      "equipment": [],
+      "patterns": [
+        "carry"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Carrying a keg or similar awkward, shifting object a set distance, usually held at the chest or on a shoulder."
     },
     {
       "id": "kettlebell-clean",
@@ -2487,7 +2912,8 @@
       "aliases": [],
       "workouts": [
         "games-22-the-alpaca",
-        "games-23-alpaca-redux"
+        "games-23-alpaca-redux",
+        "jag-28"
       ],
       "description": "A kettlebell clean immediately followed by driving it overhead with a jerk-style dip and drive."
     },
@@ -2537,7 +2963,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Circling a kettlebell around the head, close to the skull, reversing direction each rep or set \u2014 a shoulder-mobility and control movement, not a strength lift."
+      "description": "Circling a kettlebell around the head, close to the skull, reversing direction each rep or set, a shoulder-mobility and control movement, not a strength lift."
     },
     {
       "id": "kettlebell-overhead-lunge",
@@ -2554,7 +2980,7 @@
         "games-17-fibonacci-final",
         "games-18-fibonacci"
       ],
-      "description": "Lunge with a kettlebell locked out overhead throughout \u2014 demands shoulder stability on top of the single-leg squat pattern."
+      "description": "Lunge with a kettlebell locked out overhead throughout, which demands shoulder stability on top of the single-leg squat pattern."
     },
     {
       "id": "kettlebell-press",
@@ -2599,7 +3025,9 @@
         "pull"
       ],
       "aliases": [],
-      "workouts": [],
+      "workouts": [
+        "hall"
+      ],
       "description": "A single kettlebell pulled from between the legs to locked-out overhead in one continuous motion, the bell rolling smoothly around the wrist rather than banging into the forearm."
     },
     {
@@ -2631,15 +3059,19 @@
       "patterns": [
         "hinge"
       ],
-      "aliases": [],
+      "aliases": [
+        "kb swing"
+      ],
       "workouts": [
         "arnie",
         "dork",
         "eva",
+        "filthy-fifty",
         "gaza",
         "hansen",
         "helen",
         "jack",
+        "jag-28",
         "jennifer",
         "lumberjack-20",
         "morrison",
@@ -2652,7 +3084,7 @@
         "willy",
         "wittman"
       ],
-      "description": "A kettlebell hiked back between the legs and driven forward by the hips to about chest or eye height \u2014 a hip-hinge power movement, not a shoulder lift."
+      "description": "A kettlebell hiked back between the legs and driven forward by the hips to about chest or eye height, a hip-hinge power movement, not a shoulder lift."
     },
     {
       "id": "kettlebell-thruster",
@@ -2685,7 +3117,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Standing with a kettlebell locked out overhead, hinging sideways at the hips to touch (or reach toward) the opposite foot while keeping the arm vertical \u2014 an overhead-stability and hip-mobility drill."
+      "description": "Standing with a kettlebell locked out overhead, hinging sideways at the hips to touch (or reach toward) the opposite foot while keeping the arm vertical, an overhead-stability and hip-mobility drill."
     },
     {
       "id": "kipping-handstand-push-up",
@@ -2729,12 +3161,13 @@
       "workouts": [
         "cameron",
         "desforges",
+        "filthy-fifty",
         "paul",
         "stephen",
         "the-don",
         "the-seven"
       ],
-      "description": "Hanging from a bar, bringing both knees up to touch the elbows and lowering back \u2014 a shorter-range regression of toes-to-bar."
+      "description": "Hanging from a bar, bringing both knees up to touch the elbows and lowering back, a shorter-range regression of toes-to-bar."
     },
     {
       "id": "l-pull-up",
@@ -2753,7 +3186,7 @@
         "joshie",
         "weaver"
       ],
-      "description": "Strict pull-up performed with the legs held straight out in front at a 90-degree angle (an L-sit position) for the entire rep \u2014 adds a core-and-hip-flexor demand to the pull."
+      "description": "Strict pull-up performed with the legs held straight out in front at a 90-degree angle (an L-sit position) for the entire rep, which adds a core-and-hip-flexor demand to the pull."
     },
     {
       "id": "l-sit",
@@ -2769,6 +3202,32 @@
       "description": "Supporting the body on the hands (on the floor, a box, or rings) with the legs held straight out in front at a 90-degree angle, held for time."
     },
     {
+      "id": "landmine-press",
+      "name": "Landmine Press",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Pressing the free end of a barbell anchored at the other end, which follows an arc up and away from the body."
+    },
+    {
+      "id": "lat-pulldown",
+      "name": "Lat Pulldown",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "pull"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Pulling a bar down to the upper chest from an overhead cable while seated, a machine-based relative of the pull-up."
+    },
+    {
       "id": "lateral-burpee",
       "name": "Lateral Burpee",
       "category": "bodyweight",
@@ -2782,6 +3241,32 @@
         "qf-24-2"
       ],
       "description": "Burpee where the jump/stand-up finishes with a lateral jump over a line or low object, changing sides each rep."
+    },
+    {
+      "id": "lateral-lunge",
+      "name": "Lateral Lunge",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Stepping out to the side and sitting back over that leg while the other stays straight, then pushing back to center."
+    },
+    {
+      "id": "lateral-raise",
+      "name": "Lateral Raise",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Raising dumbbells out to the sides to shoulder height with the arms nearly straight."
     },
     {
       "id": "legless-rope-climb",
@@ -2843,6 +3328,22 @@
       "aliases": [],
       "workouts": [],
       "description": "Pressing a loaded log from the shoulders/chest to locked-out overhead, typically without a squat clean to get it there first."
+    },
+    {
+      "id": "man-maker",
+      "name": "Man Maker",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "patterns": [
+        "push",
+        "pull",
+        "squat"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A sequence on a pair of dumbbells of a push-up, a row on each side, then a clean and press to standing."
     },
     {
       "id": "medicine-ball-box-step-over",
@@ -2930,7 +3431,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Clean received standing tall with no dip under the bar \u2014 pulled high enough to rack it without a re-bend of the knees, emphasizing pull strength over speed-under-the-bar."
+      "description": "Clean received standing tall with no dip under the bar, pulled high enough to rack it without a re-bend of the knees, emphasizing pull strength over speed-under-the-bar."
     },
     {
       "id": "muscle-snatch",
@@ -2947,7 +3448,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Snatch pulled and pressed out overhead with no re-bend of the knees to catch it \u2014 an overhead-strength and technique builder, not a max-load lift."
+      "description": "Snatch pulled and pressed out overhead with no re-bend of the knees to catch it, an overhead-strength and technique builder, not a max-load lift."
     },
     {
       "id": "muscle-up",
@@ -2980,11 +3481,13 @@
         "hortman",
         "jason",
         "johnson",
+        "king-kong",
         "lee",
         "luce",
         "lyla",
         "mccluskey",
         "meadows",
+        "nasty-girls",
         "nate",
         "open-11-4",
         "open-12-4",
@@ -3002,7 +3505,7 @@
         "tyler",
         "yeti"
       ],
-      "description": "A pull-up that continues past the bar/rings into a dip lockout above them in one continuous motion \u2014 combines a pull and a press into a single rep."
+      "description": "A pull-up that continues past the bar/rings into a dip lockout above them in one continuous motion, which combines a pull and a press into a single rep."
     },
     {
       "id": "negative-pull-up",
@@ -3015,7 +3518,19 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Starting at the top of a pull-up (chin over the bar) and lowering as slowly as possible to a full hang \u2014 builds pulling strength by isolating the eccentric portion."
+      "description": "Starting at the top of a pull-up (chin over the bar) and lowering as slowly as possible to a full hang, which builds pulling strength by isolating the eccentric portion."
+    },
+    {
+      "id": "nordic-curl",
+      "name": "Nordic Curl",
+      "category": "gymnastics",
+      "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Kneeling with the ankles held, lowering the torso forward as slowly as possible with the hamstrings, then pulling back up."
     },
     {
       "id": "obstacle-pirouette",
@@ -3030,7 +3545,7 @@
       "workouts": [
         "games-23-inverted-medley"
       ],
-      "description": "A rotational transition move over a raised obstacle or bar, pivoting the body around a single point of contact to clear it \u2014 a Games-specific obstacle-course skill."
+      "description": "A rotational transition move over a raised obstacle or bar, pivoting the body around a single point of contact to clear it, a Games-specific obstacle-course skill."
     },
     {
       "id": "overhead-squat",
@@ -3070,7 +3585,7 @@
         "qf-22-4",
         "qf-26-1"
       ],
-      "description": "Barbell locked out overhead in a wide snatch grip while squatting to full depth \u2014 demands shoulder stability, ankle/hip mobility, and a tight overhead position throughout."
+      "description": "Barbell locked out overhead in a wide snatch grip while squatting to full depth, which demands shoulder stability, ankle/hip mobility, and a tight overhead position throughout."
     },
     {
       "id": "overhead-walk",
@@ -3086,7 +3601,7 @@
       "workouts": [
         "paul"
       ],
-      "description": "Walking a set distance with a loaded barbell locked out overhead \u2014 a loaded carry that tests overhead stability and core bracing under fatigue."
+      "description": "Walking a set distance with a loaded barbell locked out overhead, a loaded carry that tests overhead stability and core bracing under fatigue."
     },
     {
       "id": "overhead-walking-lunge",
@@ -3104,6 +3619,7 @@
         "games-21-event-15",
         "games-23-echo-thruster-final",
         "games-25-atlas",
+        "hidalgo",
         "open-16-1",
         "white"
       ],
@@ -3124,6 +3640,18 @@
         "games-19-swim-paddle"
       ],
       "description": "Paddling a standup paddleboard a prescribed distance."
+    },
+    {
+      "id": "pallof-press",
+      "name": "Pallof Press",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Pressing a cable or band straight out from the chest while resisting its pull to rotate the torso."
     },
     {
       "id": "parallel-bar-traverse",
@@ -3169,7 +3697,9 @@
         "pull",
         "gymnastics"
       ],
-      "aliases": [],
+      "aliases": [
+        "peg board"
+      ],
       "workouts": [
         "games-15-pedal-to-the-metal-1",
         "games-16-redemption",
@@ -3193,7 +3723,19 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Bent-over row performed with the bar returning to a dead stop on the floor between every rep, torso held parallel throughout \u2014 a stricter, more explosive row variant."
+      "description": "Bent-over row performed with the bar returning to a dead stop on the floor between every rep, torso held parallel throughout, a stricter, more explosive row variant."
+    },
+    {
+      "id": "pike-push-up",
+      "name": "Pike Push Up",
+      "category": "gymnastics",
+      "equipment": [],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A push-up with the hips high and the head moving toward the floor between the hands, the stepping stone to the handstand push-up."
     },
     {
       "id": "pistol",
@@ -3220,7 +3762,7 @@
         "qf-21-2",
         "qf-22-2"
       ],
-      "description": "A single-leg squat to full depth with the non-working leg held straight out in front, then standing back up on the one leg \u2014 demands significant single-leg strength and balance."
+      "description": "A single-leg squat to full depth with the non-working leg held straight out in front, then standing back up on the one leg, which demands significant single-leg strength and balance."
     },
     {
       "id": "plank",
@@ -3276,17 +3818,20 @@
       "aliases": [],
       "workouts": [
         "alexander",
+        "bear-complex",
         "games-12-chipper",
+        "hammer",
         "holleyman",
         "hollywood",
         "open-11-5",
         "open-17-2",
         "santiago",
         "t-u-p",
+        "the-chief",
         "viola",
         "wittman"
       ],
-      "description": "Barbell pulled from the floor and caught in the front rack above parallel (a partial-depth squat) \u2014 demands more raw pulling power since there's less assistance from the squat."
+      "description": "Barbell pulled from the floor and caught in the front rack above parallel (a partial-depth squat), which demands more raw pulling power since there's less assistance from the squat."
     },
     {
       "id": "power-snatch",
@@ -3367,7 +3912,9 @@
         "games-20-atalanta",
         "gaza",
         "hamilton",
+        "hammer",
         "helen",
+        "holbrook",
         "jackie",
         "jared",
         "jennifer",
@@ -3389,6 +3936,8 @@
         "roy",
         "santiago",
         "t-u-p",
+        "tabata-something-else",
+        "tabata-this",
         "the-don",
         "the-seven",
         "triple-deuce",
@@ -3396,7 +3945,7 @@
         "weaver",
         "yeti"
       ],
-      "description": "Hanging from a bar with an overhand grip, pulling the chin over the bar and lowering back to a full hang \u2014 the baseline pulling bodyweight movement, strict or kipping depending on the workout."
+      "description": "Hanging from a bar with an overhand grip, pulling the chin over the bar and lowering back to a full hang, the baseline pulling bodyweight movement, strict or kipping depending on the workout."
     },
     {
       "id": "push-jerk",
@@ -3432,8 +3981,11 @@
       "aliases": [],
       "workouts": [
         "andi",
+        "bear-complex",
         "collin",
         "danny",
+        "fight-gone-bad",
+        "filthy-fifty",
         "jack",
         "matt-16",
         "open-12-3",
@@ -3478,11 +4030,14 @@
         "pike",
         "rj",
         "rocket",
+        "tabata-something-else",
+        "tabata-this",
         "terry",
+        "the-chief",
         "weaver",
         "zeus"
       ],
-      "description": "From a plank position, lowering the chest to the floor and pressing back to full arm extension \u2014 the baseline horizontal pressing bodyweight movement."
+      "description": "From a plank position, lowering the chest to the floor and pressing back to full arm extension, the baseline horizontal pressing bodyweight movement."
     },
     {
       "id": "renegade-row",
@@ -3497,7 +4052,19 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "From a push-up (plank) position with a hand on each dumbbell, rowing one dumbbell to the hip while balancing on the other \u2014 combines a core-stability plank with a rowing pull."
+      "description": "From a push-up (plank) position with a hand on each dumbbell, rowing one dumbbell to the hip while balancing on the other, which combines a core-stability plank with a rowing pull."
+    },
+    {
+      "id": "reverse-hyper",
+      "name": "Reverse Hyper",
+      "category": "gymnastics",
+      "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Lying face-down on a raised pad and swinging the legs up behind the body, which works the glutes and lower back."
     },
     {
       "id": "reverse-lunge",
@@ -3530,6 +4097,19 @@
         "wilmot"
       ],
       "description": "Dip performed supporting the body on gymnastics rings instead of parallel bars, adding significant stability demand as the rings want to swing and rotate."
+    },
+    {
+      "id": "ring-hamstring-curl",
+      "name": "Ring Hamstring Curl",
+      "category": "gymnastics",
+      "equipment": [],
+      "patterns": [
+        "hinge",
+        "pull"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Lying on the back with the heels in rings, lifting the hips and curling the heels toward the glutes."
     },
     {
       "id": "ring-handstand-push-up",
@@ -3582,7 +4162,7 @@
         "open-18-3",
         "topsy"
       ],
-      "description": "Muscle-up performed on gymnastics rings, which allow the hands to rotate through the transition \u2014 generally considered more technical than the bar version."
+      "description": "Muscle-up performed on gymnastics rings, which allow the hands to rotate through the transition, generally considered more technical than the bar version."
     },
     {
       "id": "ring-push-up",
@@ -3614,7 +4194,7 @@
       "workouts": [
         "meadows"
       ],
-      "description": "Body held at an angle underneath a set of rings (or a bar), pulling the chest to the rings and lowering back \u2014 a horizontal, scalable pulling movement."
+      "description": "Body held at an angle underneath a set of rings (or a bar), pulling the chest to the rings and lowering back, a horizontal, scalable pulling movement."
     },
     {
       "id": "romanian-deadlift",
@@ -3686,6 +4266,7 @@
       "aliases": [],
       "workouts": [
         "brehm",
+        "fight-gone-bad",
         "games-09-row-stake",
         "games-11-the-end-1",
         "games-11-the-end-2",
@@ -3726,6 +4307,8 @@
         "qf-24-1",
         "qf-26-4",
         "small",
+        "tabata-this",
+        "the-ghost",
         "topsy",
         "weston",
         "zeus"
@@ -3807,9 +4390,11 @@
         "gunny",
         "hamilton",
         "helen",
+        "hidalgo",
         "hollywood",
         "hoover",
         "hortman",
+        "jag-28",
         "jared",
         "jenny",
         "jerry",
@@ -3857,6 +4442,7 @@
         "whitt",
         "whitten",
         "willy",
+        "wood",
         "wyk",
         "yeti",
         "zembiec"
@@ -3892,6 +4478,18 @@
         "games-09-hspu-kb-ghd"
       ],
       "description": "Kettlebell swing driven only to approximately chest/eye height, arms staying roughly parallel to the floor at the top."
+    },
+    {
+      "id": "russian-twist",
+      "name": "Russian Twist",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Sitting with the torso leaned back and rotating the trunk side to side, often holding a weight."
     },
     {
       "id": "sandbag-carry",
@@ -3942,7 +4540,31 @@
       "workouts": [
         "triple-deuce"
       ],
-      "description": "Any method of moving a sandbag from the floor to one shoulder \u2014 a clean, a lap-and-heave, or a squat-and-press, athlete's choice unless specified."
+      "description": "Any method of moving a sandbag from the floor to one shoulder, a clean, a lap-and-heave, or a squat-and-press, athlete's choice unless specified."
+    },
+    {
+      "id": "sandbag-load-to-box",
+      "name": "Sandbag Load To Box",
+      "category": "odd-object",
+      "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Lifting a sandbag from the floor and placing it on a box or platform."
+    },
+    {
+      "id": "sandbag-lunge",
+      "name": "Sandbag Lunge",
+      "category": "odd-object",
+      "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Lunging with a sandbag held on the shoulder or at the chest, which shifts and resists in ways a barbell does not."
     },
     {
       "id": "sandbag-over-log",
@@ -3973,6 +4595,18 @@
       "description": "Squat holding a sandbag at the chest, on the back, or on the shoulders per the workout's prescription."
     },
     {
+      "id": "seated-row",
+      "name": "Seated Row",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "pull"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Pulling a handle or bar toward the torso from a seated position, usually on a cable or machine."
+    },
+    {
       "id": "shoulder-to-overhead",
       "name": "Shoulder To Overhead",
       "category": "barbell",
@@ -3992,7 +4626,20 @@
         "games-20-2007-reload",
         "open-13-2"
       ],
-      "description": "Any method of moving a loaded barbell from the front rack to locked-out overhead by the athlete's choice \u2014 strict press, push press, or jerk."
+      "description": "Any method of moving a loaded barbell from the front rack to locked-out overhead by the athlete's choice: strict press, push press, or jerk."
+    },
+    {
+      "id": "shrimp-squat",
+      "name": "Shrimp Squat",
+      "category": "gymnastics",
+      "equipment": [],
+      "patterns": [
+        "squat",
+        "gymnastics"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A single-leg squat with the rear foot held behind, lowering until the back knee touches the floor."
     },
     {
       "id": "shuttle-run",
@@ -4026,6 +4673,18 @@
       "description": "Sprinting to a marked line and back (or between two lines repeatedly) rather than a single straight-line distance."
     },
     {
+      "id": "side-plank",
+      "name": "Side Plank",
+      "category": "gymnastics",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Holding the body in a straight line on one forearm and the side of one foot."
+    },
+    {
       "id": "single-arm-dumbbell-thruster",
       "name": "Single Arm Dumbbell Thruster",
       "category": "dumbbell",
@@ -4038,7 +4697,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Thruster performed holding one dumbbell in a single-arm front rack, alternating or fixed to one side per the workout's prescription \u2014 adds an anti-rotation core demand."
+      "description": "Thruster performed holding one dumbbell in a single-arm front rack, alternating or fixed to one side per the workout's prescription, which adds an anti-rotation core demand."
     },
     {
       "id": "single-arm-kettlebell-swing",
@@ -4052,7 +4711,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Kettlebell swing performed with one arm, often switching hands mid-set \u2014 adds an anti-rotation core demand to the standard two-handed swing."
+      "description": "Kettlebell swing performed with one arm, often switching hands mid-set, which adds an anti-rotation core demand to the standard two-handed swing."
     },
     {
       "id": "single-arm-kettlebell-thruster",
@@ -4072,6 +4731,35 @@
       "description": "Kettlebell thruster performed holding the bell in one arm's front rack, adding an anti-rotation core demand."
     },
     {
+      "id": "single-leg-glute-bridge",
+      "name": "Single Leg Glute Bridge",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A glute bridge performed with one foot on the floor and the other leg extended."
+    },
+    {
+      "id": "single-leg-romanian-deadlift",
+      "name": "Single Leg Romanian Deadlift",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [
+        "single leg rdl",
+        "single leg deadlift"
+      ],
+      "workouts": [],
+      "description": "A hip hinge on one leg with the other extended behind, holding a barbell, which trains balance along with the hamstrings."
+    },
+    {
       "id": "single-under",
       "name": "Single Under",
       "category": "bodyweight",
@@ -4079,7 +4767,9 @@
       "patterns": [
         "monostructural"
       ],
-      "aliases": [],
+      "aliases": [
+        "jump rope"
+      ],
       "workouts": [],
       "description": "A standard jump rope pass, one rotation of the rope per jump."
     },
@@ -4102,9 +4792,21 @@
         "marguerita",
         "maupin",
         "michael",
+        "tabata-something-else",
+        "tabata-this",
         "the-don"
       ],
       "description": "Lying on the back with knees bent and feet anchored, curling the torso up to touch the chest to the knees (or per the workout's standard) and lowering back down."
+    },
+    {
+      "id": "skater-jump",
+      "name": "Skater Jump",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [],
+      "aliases": [],
+      "workouts": [],
+      "description": "A lateral bound from one leg to the other, landing on a single foot and sweeping the trailing leg behind."
     },
     {
       "id": "ski-erg",
@@ -4114,7 +4816,9 @@
       "patterns": [
         "monostructural"
       ],
-      "aliases": [],
+      "aliases": [
+        "ski"
+      ],
       "workouts": [
         "games-16-rope-chipper",
         "games-17-2223-intervals",
@@ -4126,6 +4830,33 @@
         "games-25-throttle-up"
       ],
       "description": "A prescribed distance or calorie count on a SkiErg machine, mimicking a double-pole cross-country ski motion."
+    },
+    {
+      "id": "skull-crusher",
+      "name": "Skull Crusher",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Lying on a bench and lowering a barbell toward the forehead by bending only the elbows, then extending them again."
+    },
+    {
+      "id": "sled-drag",
+      "name": "Sled Drag",
+      "category": "odd-object",
+      "equipment": [],
+      "patterns": [
+        "pull",
+        "carry"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Dragging a loaded sled behind you, either walking backward facing it or forward with a harness."
     },
     {
       "id": "sled-pull",
@@ -4184,12 +4915,14 @@
       "patterns": [
         "core"
       ],
-      "aliases": [],
+      "aliases": [
+        "sledgehammer"
+      ],
       "workouts": [
         "games-12-double-banger",
         "games-17-assault-banger"
       ],
-      "description": "Swinging a sledgehammer overhead to strike a tire or target, alternating sides \u2014 a rotational, explosive conditioning movement."
+      "description": "Swinging a sledgehammer overhead to strike a tire or target, alternating sides, a rotational, explosive conditioning movement."
     },
     {
       "id": "snatch",
@@ -4229,7 +4962,7 @@
         "qf-22-5",
         "qf-24-1"
       ],
-      "description": "Barbell pulled from the floor to locked-out overhead in one continuous motion, caught in a full overhead squat \u2014 the most technical lift in the sport."
+      "description": "Barbell pulled from the floor to locked-out overhead in one continuous motion, caught in a full overhead squat, the most technical lift in the sport."
     },
     {
       "id": "snatch-balance",
@@ -4244,7 +4977,21 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Barbell taken from behind the neck, dropped under with a slight dip and drive, and caught in an overhead squat \u2014 a speed-under-the-bar and overhead-stability drill for the snatch."
+      "description": "Barbell taken from behind the neck, dropped under with a slight dip and drive, and caught in an overhead squat, a speed-under-the-bar and overhead-stability drill for the snatch."
+    },
+    {
+      "id": "snatch-grip-deadlift",
+      "name": "Snatch Grip Deadlift",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A deadlift taken with the wide grip used for the snatch, which lengthens the pull and demands more from the upper back."
     },
     {
       "id": "snatch-pull",
@@ -4260,7 +5007,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "The pulling portion of a snatch (floor to full extension, wide grip) performed without the catch \u2014 builds pull speed and positions without receiving the bar."
+      "description": "The pulling portion of a snatch (floor to full extension, wide grip) performed without the catch, which builds pull speed and positions without receiving the bar."
     },
     {
       "id": "sots-press",
@@ -4274,7 +5021,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Overhead press performed from the bottom of an overhead squat position, bar taken from behind the neck \u2014 an advanced overhead-mobility and stability drill."
+      "description": "Overhead press performed from the bottom of an overhead squat position, bar taken from behind the neck, an advanced overhead-mobility and stability drill."
     },
     {
       "id": "split-jerk",
@@ -4288,7 +5035,19 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Jerk received with a front-to-back foot split, one leg forward and one back, locking the bar out overhead \u2014 the most common competitive jerk style."
+      "description": "Jerk received with a front-to-back foot split, one leg forward and one back, locking the bar out overhead, the most common competitive jerk style."
+    },
+    {
+      "id": "split-squat",
+      "name": "Split Squat",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "lunge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Lowering straight down and up from a fixed staggered stance, without stepping, which loads the front leg."
     },
     {
       "id": "sprint",
@@ -4305,7 +5064,9 @@
         "games-16-ranch-mini-chipper",
         "games-20-sprint-sled-sprint",
         "games-21-event-3",
-        "games-22-hat-trick"
+        "games-22-hat-trick",
+        "hall",
+        "holbrook"
       ],
       "description": "Running a short distance at maximum effort/speed."
     },
@@ -4327,14 +5088,44 @@
         "buriak",
         "games-22-elizabeth-elevated",
         "games-25-climbing-couplet",
+        "hidalgo",
         "johnson",
         "jorge",
+        "king-kong",
         "klepto",
         "lee",
         "open-11-3",
         "ship"
       ],
-      "description": "Barbell pulled from the floor and received in a full-depth front squat, standing up to complete the lift \u2014 the standard, most efficient way to move the heaviest load into the front rack."
+      "description": "Barbell pulled from the floor and received in a full-depth front squat, standing up to complete the lift, the standard, most efficient way to move the heaviest load into the front rack."
+    },
+    {
+      "id": "squat-jerk",
+      "name": "Squat Jerk",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "olympic",
+        "push",
+        "squat"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A jerk caught in a full overhead squat, with the barbell driven off the shoulders and received at depth."
+    },
+    {
+      "id": "squat-jump",
+      "name": "Squat Jump",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [],
+      "aliases": [
+        "jump squat"
+      ],
+      "workouts": [],
+      "description": "A bodyweight squat followed by a vertical jump, landing back in the squat."
     },
     {
       "id": "squat-snatch",
@@ -4356,7 +5147,7 @@
         "games-17-amanda-45",
         "games-19-first-cut"
       ],
-      "description": "Snatch received in a full-depth overhead squat, standing to complete the lift \u2014 the standard, most efficient snatch technique."
+      "description": "Snatch received in a full-depth overhead squat, standing to complete the lift, the standard, most efficient snatch technique."
     },
     {
       "id": "stair-climb",
@@ -4394,11 +5185,13 @@
       "patterns": [
         "hinge"
       ],
-      "aliases": [],
+      "aliases": [
+        "stiff leg deadlift"
+      ],
       "workouts": [
         "stephen"
       ],
-      "description": "Deadlift variation with minimal knee bend, hinging almost entirely from the hips \u2014 isolates the hamstrings and lower back."
+      "description": "Deadlift variation with minimal knee bend, hinging almost entirely from the hips, which isolates the hamstrings and lower back."
     },
     {
       "id": "strict-dip",
@@ -4411,7 +5204,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Dip performed with no kip or leg swing \u2014 a controlled lower and press using triceps/chest/shoulder strength alone."
+      "description": "Dip performed with no kip or leg swing, a controlled lower and press using triceps/chest/shoulder strength alone."
     },
     {
       "id": "strict-handstand-push-up",
@@ -4432,7 +5225,33 @@
         "qf-26-4",
         "restrepo"
       ],
-      "description": "Handstand push-up performed with no kip from the legs \u2014 a straight, controlled press from the bottom position back to full lockout."
+      "description": "Handstand push-up performed with no kip from the legs, a straight, controlled press from the bottom position back to full lockout."
+    },
+    {
+      "id": "strict-knee-raise",
+      "name": "Strict Knee Raise",
+      "category": "gymnastics",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Hanging from a bar and raising the knees toward the chest without swinging."
+    },
+    {
+      "id": "strict-knees-to-chest",
+      "name": "Strict Knees To Chest",
+      "category": "gymnastics",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [
+        "strict knee to chest"
+      ],
+      "workouts": [],
+      "description": "Hanging from a bar and drawing the knees all the way to the chest under control, with no kip."
     },
     {
       "id": "strict-muscle-up",
@@ -4446,7 +5265,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Muscle-up performed with no kip or swing \u2014 a strict pull straight into the transition and dip lockout."
+      "description": "Muscle-up performed with no kip or swing, a strict pull straight into the transition and dip lockout."
     },
     {
       "id": "strict-press",
@@ -4477,6 +5296,7 @@
       "aliases": [],
       "workouts": [
         "daniel-ray",
+        "jag-28",
         "justin",
         "maxton",
         "oda-7313",
@@ -4484,7 +5304,34 @@
         "severin",
         "tk"
       ],
-      "description": "Pull-up performed with no swing or leg drive \u2014 a dead-hang start, pulling the chin over the bar using upper-body strength alone."
+      "description": "Pull-up performed with no swing or leg drive, a dead-hang start, pulling the chin over the bar using upper-body strength alone."
+    },
+    {
+      "id": "strides",
+      "name": "Strides",
+      "category": "monostructural",
+      "equipment": [],
+      "patterns": [
+        "monostructural"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Short, controlled accelerations of 50 to 100 meters run at a fast but relaxed pace, used for speed and as a warm-up."
+    },
+    {
+      "id": "suitcase-carry",
+      "name": "Suitcase Carry",
+      "category": "dumbbell",
+      "equipment": [
+        "dumbbell"
+      ],
+      "patterns": [
+        "carry",
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Walking with a single heavy weight in one hand at the side, which makes the trunk resist leaning toward the load."
     },
     {
       "id": "sumo-deadlift",
@@ -4498,7 +5345,7 @@
       ],
       "aliases": [],
       "workouts": [],
-      "description": "Deadlift with a wide stance and hands inside the knees, more upright torso than a conventional pull \u2014 shifts more of the load to the hips and inner thighs."
+      "description": "Deadlift with a wide stance and hands inside the knees, more upright torso than a conventional pull, which shifts more of the load to the hips and inner thighs."
     },
     {
       "id": "sumo-deadlift-high-pull",
@@ -4517,11 +5364,25 @@
       "workouts": [
         "andi",
         "collin",
+        "fight-gone-bad",
         "fournier",
         "tyler",
+        "wood",
         "zeus"
       ],
       "description": "Sumo-stance deadlift pulled explosively upward past the hips into a high pull, elbows leading, bar finishing near the collarbone."
+    },
+    {
+      "id": "superman",
+      "name": "Superman",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Lying face-down and lifting the arms and legs off the floor together, which works the lower back and glutes."
     },
     {
       "id": "swim",
@@ -4551,6 +5412,21 @@
         "tully"
       ],
       "description": "Swimming a prescribed distance in a pool or open water."
+    },
+    {
+      "id": "tall-clean",
+      "name": "Tall Clean",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "olympic",
+        "pull"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A clean started from a standing position with the bar at the hips, catching it in a quarter squat or less with an emphasis on the fast turnover."
     },
     {
       "id": "thruster",
@@ -4589,8 +5465,10 @@
         "games-24-final-1815",
         "games-24-final-2421",
         "games-25-atlas",
+        "holbrook",
         "hope",
         "jackie",
+        "kalsu",
         "marco",
         "omar",
         "open-11-6",
@@ -4612,9 +5490,10 @@
         "the-seven",
         "tom",
         "tommy-v",
-        "topsy"
+        "topsy",
+        "wood"
       ],
-      "description": "Front squat driven directly into a push press as the athlete stands, using the leg drive out of the bottom of the squat to help send the bar overhead \u2014 one continuous squat-to-press movement."
+      "description": "Front squat driven directly into a push press as the athlete stands, using the leg drive out of the bottom of the squat to help send the bar overhead, one continuous squat-to-press movement."
     },
     {
       "id": "tire-flip",
@@ -4674,7 +5553,7 @@
         "tom",
         "white"
       ],
-      "description": "Hanging from a pull-up bar, bringing both feet up to touch the bar between the hands and lowering back to a hang \u2014 a kipping or strict core-and-grip movement."
+      "description": "Hanging from a pull-up bar, bringing both feet up to touch the bar between the hands and lowering back to a hang, a kipping or strict core-and-grip movement."
     },
     {
       "id": "toes-to-ring",
@@ -4693,6 +5572,44 @@
       "description": "Toes-to-bar performed hanging from gymnastics rings instead of a fixed bar."
     },
     {
+      "id": "toy-soldier",
+      "name": "Toy Soldier",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Walking forward with straight legs, kicking each leg up toward the opposite outstretched hand."
+    },
+    {
+      "id": "trap-bar-deadlift",
+      "name": "Trap Bar Deadlift",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A deadlift performed standing inside a hexagonal bar with neutral-grip handles at the sides, which shifts the load closer to the body's center."
+    },
+    {
+      "id": "tricep-extension",
+      "name": "Tricep Extension",
+      "category": "bodyweight",
+      "equipment": [],
+      "patterns": [
+        "push"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Extending the elbows against resistance, usually overhead or on a cable, to isolate the back of the upper arm."
+    },
+    {
       "id": "triple-under",
       "name": "Triple Under",
       "category": "bodyweight",
@@ -4704,7 +5621,7 @@
       "workouts": [
         "cameron"
       ],
-      "description": "Jump rope pass where the rope passes under the feet three times in a single jump \u2014 an advanced, very fast turn."
+      "description": "Jump rope pass where the rope passes under the feet three times in a single jump, an advanced, very fast turn."
     },
     {
       "id": "tuck-jump",
@@ -4730,7 +5647,7 @@
       "workouts": [
         "arnie"
       ],
-      "description": "A structured, multi-step transition from lying on the floor to standing tall, kettlebell held locked out overhead the entire time \u2014 a slow, technical full-body stability movement."
+      "description": "A structured, multi-step transition from lying on the floor to standing tall, kettlebell held locked out overhead the entire time, a slow, technical full-body stability movement."
     },
     {
       "id": "v-up",
@@ -4758,6 +5675,7 @@
       "workouts": [
         "bert",
         "cameron",
+        "filthy-fifty",
         "games-10-event-3",
         "loredo",
         "open-25-1",
@@ -4775,12 +5693,16 @@
         "squat",
         "push"
       ],
-      "aliases": [],
+      "aliases": [
+        "wall ball"
+      ],
       "workouts": [
         "adambrown",
         "blake",
         "cameron",
         "crain",
+        "fight-gone-bad",
+        "filthy-fifty",
         "games-09-wall-ball-snatch",
         "games-11-the-end-1",
         "games-11-the-end-2",
@@ -4837,7 +5759,7 @@
         "open-22-1",
         "open-25-3"
       ],
-      "description": "Starting in a push-up position with feet against a wall, walking the feet up the wall while walking the hands in until the chest is close to the wall in a handstand \u2014 used to reach a handstand position from the ground."
+      "description": "Starting in a push-up position with feet against a wall, walking the feet up the wall while walking the hands in until the chest is close to the wall in a handstand, used to reach a handstand position from the ground."
     },
     {
       "id": "wall-climb-over",
@@ -4870,7 +5792,7 @@
         "qf-23-1",
         "qf-24-3"
       ],
-      "description": "Handstand push-up performed facing the wall (toes or hands close to it) rather than back to the wall \u2014 a stricter balance and lockout standard, often called a chest-to-wall HSPU."
+      "description": "Handstand push-up performed facing the wall (toes or hands close to it) rather than back to the wall, a stricter balance and lockout standard, often called a chest-to-wall HSPU."
     },
     {
       "id": "wall-sit",
@@ -4909,7 +5831,9 @@
       "patterns": [
         "carry"
       ],
-      "aliases": [],
+      "aliases": [
+        "yoke walk"
+      ],
       "workouts": [
         "games-15-midline-madness",
         "games-17-strongmans-fear",
@@ -4919,7 +5843,64 @@
         "games-24-final-2421",
         "games-25-going-dark"
       ],
-      "description": "Walking a set distance under a loaded yoke frame resting across the upper back/shoulders \u2014 a heavy, stability-demanding loaded carry."
+      "description": "Walking a set distance under a loaded yoke frame resting across the upper back/shoulders, a heavy, stability-demanding loaded carry."
+    },
+    {
+      "id": "z-press",
+      "name": "Z Press",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "push",
+        "core"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A strict overhead press from a seated position on the floor with the legs out front, which removes any help from the legs."
+    },
+    {
+      "id": "zercher-carry",
+      "name": "Zercher Carry",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "carry"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "Walking a set distance with the barbell held in the crook of the elbows, which taxes the arms, trunk and legs."
+    },
+    {
+      "id": "zercher-deadlift",
+      "name": "Zercher Deadlift",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "hinge"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A deadlift with the barbell lifted from the floor and held in the crook of the elbows rather than in the hands."
+    },
+    {
+      "id": "zercher-squat",
+      "name": "Zercher Squat",
+      "category": "barbell",
+      "equipment": [
+        "barbell"
+      ],
+      "patterns": [
+        "squat"
+      ],
+      "aliases": [],
+      "workouts": [],
+      "description": "A squat with the barbell held in the crook of the elbows at the waist, which loads the front of the torso and the legs."
     }
   ]
 }

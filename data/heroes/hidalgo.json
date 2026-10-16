@@ -1,0 +1,74 @@
+{
+  "id": "hidalgo",
+  "name": "Hidalgo",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "run",
+      "distance_m": 3218,
+      "notes": "rest 2 minutes after this run"
+    },
+    {
+      "exercise": "squat-clean",
+      "reps": 20,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 20,
+      "load": {
+        "rx_male": "24\"",
+        "rx_female": "20\""
+      }
+    },
+    {
+      "exercise": "overhead-walking-lunge",
+      "reps": 20,
+      "load": {
+        "rx_male": "45lb plate",
+        "rx_female": "25lb plate"
+      }
+    },
+    {
+      "exercise": "box-jump",
+      "reps": 20,
+      "load": {
+        "rx_male": "24\"",
+        "rx_female": "20\""
+      }
+    },
+    {
+      "exercise": "squat-clean",
+      "reps": 20,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      },
+      "notes": "rest 2 minutes after this set"
+    },
+    {
+      "exercise": "run",
+      "distance_m": 3218
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "running",
+    "barbell",
+    "plyometric",
+    "vest-optional"
+  ],
+  "description": "Two-mile runs open and close the workout, with a middle block of squat cleans, box jumps and overhead walking lunges between two-minute rests.",
+  "source_notes": "crossfit.com/benchmark/hidalgo (official CrossFit Hero WOD page, first posted Dec 29, 2011), retrieved 2026-10-16; the page suggests a 20-lb vest or body armor if you have one",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

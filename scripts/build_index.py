@@ -12,7 +12,8 @@ def same_scheme(movements):
 
 def format_movement_line(m):
     name = title(m["exercise"])
-    load = f" ({m['load']['rx_male']}/{m['load']['rx_female']})" if m.get("load") else ""
+    loads = [v for v in (m["load"].get("rx_male"), m["load"].get("rx_female")) if v] if m.get("load") else []
+    load = " (" + "/".join(loads) + ")" if loads else ""
     dist = f" {m['distance_m']}m" if m.get("distance_m") else ""
     reps = m.get("reps")
     if isinstance(reps, list):
@@ -30,14 +31,21 @@ def render_block(fmt, meta, movements):
         scheme = "-".join(str(r) for r in movements[0]["reps"])
         lines.append(f"**{scheme}**")
         for m in movements:
-            load = f" ({m['load']['rx_male']}/{m['load']['rx_female']})" if m.get("load") else ""
+            loads = [v for v in (m["load"].get("rx_male"), m["load"].get("rx_female")) if v] if m.get("load") else []
+            load = " (" + "/".join(loads) + ")" if loads else ""
             lines.append(f"  {title(m['exercise'])}{load}")
     else:
         meta = meta or {}
+        interval_header = f"**{meta.get('rounds','?')} rounds for time**"
+        if meta.get("work_seconds"):
+            rest = meta.get("rest_seconds") or meta.get("rest_between_seconds")
+            interval_header = f"**{meta.get('rounds','?')} rounds of {meta['work_seconds']} s work" + (f", {rest} s rest**" if rest else "**")
         header = {
             "amrap": f"**AMRAP {meta.get('time_cap_minutes','?')} min**",
             "emom": f"**EMOM {meta.get('total_minutes','?')} min**",
-            "interval": f"**{meta.get('rounds','?')} rounds for time**",
+            "interval": interval_header,
+            "tabata": f"**Tabata: {meta.get('rounds',8)} rounds of {meta.get('work_seconds',20)} s on, {meta.get('rest_seconds',10)} s off, per movement**",
+            "complex": f"**Complex, {meta.get('rounds','?')} rounds**",
             "max_load": "**Max load**",
         }.get(fmt, f"**{title(fmt)}**")
         lines.append(header)

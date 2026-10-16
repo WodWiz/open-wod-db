@@ -1,6 +1,6 @@
 # Willy
 
-Three rounds of three different run distances, each paired with a different movement — a heavy low-rep front squat, chest-to-bar pull-ups, and kettlebell swings.
+Three rounds of three different run distances, each paired with a different movement, a heavy low-rep front squat, chest-to-bar pull-ups, and kettlebell swings.
 
 **3 rounds for time**
   Run 800m

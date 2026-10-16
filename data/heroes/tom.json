@@ -32,8 +32,8 @@
     "barbell",
     "gymnastics"
   ],
-  "description": "A 25-minute AMRAP of muscle-ups, heavy thrusters, and toes-to-bar \u2014 a long-format gymnastics-and-barbell triplet.",
+  "description": "A 25-minute AMRAP of muscle-ups, heavy thrusters, and toes-to-bar, a long-format gymnastics-and-barbell triplet.",
   "source_notes": "crossfit.com/benchmark/tom (official CrossFit Hero WOD page), retrieved 2026-07-09",
   "schema_version": "1.0",
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-10-16"
 }

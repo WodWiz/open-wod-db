@@ -1,0 +1,53 @@
+{
+  "id": "hammer",
+  "name": "Hammer",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 5,
+    "rest_between_seconds": 90,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "power-clean",
+      "reps": 5,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "front-squat",
+      "reps": 10,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "jerk",
+      "reps": 5,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 20
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "5-rounds"
+  ],
+  "description": "Five timed rounds of 5 power cleans, 10 front squats, 5 jerks and 20 pull-ups, with 90 seconds of rest between rounds.",
+  "source_notes": "crossfit.com/benchmark/hammer (official CrossFit Hero WOD page, first posted Apr 17, 2011), retrieved 2026-10-16; each round is timed on its own, 90 seconds of rest between rounds",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

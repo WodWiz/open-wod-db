@@ -1,6 +1,6 @@
 # Lee
 
-Five rounds of a running-led circuit finishing with a single heavy deadlift, three squat cleans, five push jerks, three muscle-ups, and a rope climb — a broad, low-rep, high-skill combination.
+Five rounds of a running-led circuit finishing with a single heavy deadlift, three squat cleans, five push jerks, three muscle-ups, and a rope climb, a broad, low-rep, high-skill combination.
 
 **5 rounds for time**
   Run 400m

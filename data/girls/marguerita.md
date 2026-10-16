@@ -1,6 +1,6 @@
 # Marguerita
 
-50 reps each of five bodyweight movements — burpees, push-ups, jumping jacks, sit-ups, and handstands — done straight through in order for time.
+50 reps each of five bodyweight movements (burpees, push-ups, jumping jacks, sit-ups, and handstands) done straight through in order for time.
 
 **For Time**
   50 Burpee

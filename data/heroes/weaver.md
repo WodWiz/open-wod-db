@@ -1,6 +1,6 @@
 # Weaver
 
-Four rounds of an ascending pull-up progression — l-pull-ups, then chest-to-bar, then regular pull-ups — with push-ups threaded between each variation.
+Four rounds of an ascending pull-up progression (l-pull-ups, then chest-to-bar, then regular pull-ups) with push-ups threaded between each variation.
 
 **4 rounds for time**
   10 L Pull Up

@@ -8,7 +8,7 @@ Maintained by [WodWiz](https://github.com/wodwiz).
 
 This repository contains two independently licensed things:
 
-- **Data** (`/data`) — [Creative Commons Attribution 4.0](./LICENSE-DATA) (CC BY 4.0). Use it commercially, remix it, redistribute it — just credit WodWiz.
+- **Data** (`/data`) — [Creative Commons Attribution 4.0](./LICENSE-DATA) (CC BY 4.0). Use it commercially, remix it, redistribute it. Credit it as **Open WOD Database, https://www.wodwiz.com/benchmarks (CC BY 4.0)** and link to [wodwiz.com/benchmarks](https://www.wodwiz.com/benchmarks).
 - **Code** (everything else — `/schema`, `/scripts`, `/.github`) — [MIT License](./LICENSE-CODE).
 
 The underlying workout prescriptions (movements + reps/time schemes) aren't independently copyrightable — see the note at the bottom of [LICENSE-DATA](./LICENSE-DATA). The CC BY 4.0 license covers this repo's structuring, schema, and original descriptions.

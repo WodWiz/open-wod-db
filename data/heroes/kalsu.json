@@ -1,0 +1,38 @@
+{
+  "id": "kalsu",
+  "name": "Kalsu",
+  "category": "hero",
+  "format": "for_time",
+  "format_meta": {
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "burpee",
+      "reps": 5,
+      "notes": "at the start of every minute, until the thrusters are finished"
+    },
+    {
+      "exercise": "thruster",
+      "reps": 100,
+      "load": {
+        "rx_male": "135lb",
+        "rx_female": "95lb"
+      },
+      "notes": "fit them into the rest of each minute"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "burpee",
+    "every-minute",
+    "high-volume"
+  ],
+  "description": "One hundred thrusters at 135 lb, with 5 burpees at the start of every minute until the thrusters are done. The score is the total time.",
+  "source_notes": "CrossFit discussion board thread 'Beware of Kalsu' (board.crossfit.com/archive/index.php/t-54457.html), retrieved 2026-10-16; not on the official Heroes list page, prescription confirmed by every secondary source; the 95-lb women's load is the commonly posted standard",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

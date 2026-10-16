@@ -1,0 +1,42 @@
+{
+  "id": "holbrook",
+  "name": "Holbrook",
+  "category": "hero",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 10,
+    "rest_between_seconds": 60,
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "thruster",
+      "reps": 5,
+      "load": {
+        "rx_male": "115lb",
+        "rx_female": "75lb"
+      }
+    },
+    {
+      "exercise": "pull-up",
+      "reps": 10
+    },
+    {
+      "exercise": "sprint",
+      "distance_m": 100
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "barbell",
+    "gymnastics",
+    "sprint",
+    "10-rounds"
+  ],
+  "description": "Ten separate rounds of 5 thrusters, 10 pull-ups and a 100 m sprint, each timed on its own with a minute of rest between them.",
+  "source_notes": "crossfit.com/benchmark/holbrook (official CrossFit Hero WOD page), retrieved 2026-10-16; each round is timed on its own, 1 minute of rest between rounds",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

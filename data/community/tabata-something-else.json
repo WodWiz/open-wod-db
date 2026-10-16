@@ -1,0 +1,38 @@
+{
+  "id": "tabata-something-else",
+  "name": "Tabata Something Else",
+  "category": "community",
+  "format": "tabata",
+  "format_meta": {
+    "work_seconds": 20,
+    "rest_seconds": 10,
+    "rounds": 8,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "pull-up"
+    },
+    {
+      "exercise": "push-up"
+    },
+    {
+      "exercise": "sit-up"
+    },
+    {
+      "exercise": "air-squat"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "benchmark",
+    "tabata",
+    "bodyweight"
+  ],
+  "description": "Four Tabata intervals back to back with no rest between them: pull-ups, push-ups, sit-ups and air squats. The score is the total reps across all 32 work intervals.",
+  "source_notes": "crossfit.com/workout/2017/08/25 (official CrossFit daily workout archive), retrieved 2026-10-16; 8 intervals of 20 seconds on, 10 off for each movement, no rest between movements, score the total reps of all 32 intervals",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

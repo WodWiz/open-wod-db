@@ -1,0 +1,59 @@
+{
+  "id": "fight-gone-bad",
+  "name": "Fight Gone Bad",
+  "category": "community",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 3,
+    "work_seconds": 60,
+    "rest_between_seconds": 60,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "wall-ball-shot",
+      "load": {
+        "rx_male": "20lb"
+      },
+      "notes": "10 ft target; 1 minute, scored in reps"
+    },
+    {
+      "exercise": "sumo-deadlift-high-pull",
+      "load": {
+        "rx_male": "75lb"
+      },
+      "notes": "1 minute, scored in reps"
+    },
+    {
+      "exercise": "box-jump",
+      "load": {
+        "rx_male": "20\""
+      },
+      "notes": "1 minute, scored in reps"
+    },
+    {
+      "exercise": "push-press",
+      "load": {
+        "rx_male": "75lb"
+      },
+      "notes": "1 minute, scored in reps"
+    },
+    {
+      "exercise": "row",
+      "notes": "1 minute, scored in calories"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "benchmark",
+    "5-stations",
+    "3-rounds",
+    "points"
+  ],
+  "description": "Three five-minute rounds of five stations worked for a minute each: wall-ball shots, sumo deadlift high pulls, box jumps, push presses and rowing. One point per rep (or calorie on the rower), with a minute of rest between rounds.",
+  "source_notes": "crossfit.com/workout/2008/06/25 (official CrossFit daily workout archive, first posted), retrieved 2026-10-16; one point per rep (per calorie on the rower), 1 minute of rest between the 5-minute rounds; the page lists a single set of loads",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

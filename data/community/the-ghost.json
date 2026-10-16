@@ -1,0 +1,38 @@
+{
+  "id": "the-ghost",
+  "name": "The Ghost",
+  "category": "community",
+  "format": "interval",
+  "format_meta": {
+    "rounds": 6,
+    "work_seconds": 60,
+    "rest_seconds": 60,
+    "scoring": "reps"
+  },
+  "movements": [
+    {
+      "exercise": "row",
+      "notes": "1 minute, scored in calories"
+    },
+    {
+      "exercise": "burpee",
+      "notes": "1 minute, scored in reps"
+    },
+    {
+      "exercise": "double-under",
+      "notes": "1 minute, scored in reps"
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "benchmark",
+    "monostructural",
+    "6-rounds"
+  ],
+  "description": "Six rounds of one minute each on the rower, in burpees and in double-unders, followed by a minute of rest. The score is the reps of each movement.",
+  "source_notes": "crossfit.com/workout/2014/06/17 (official CrossFit daily workout archive), retrieved 2026-10-16; 1 minute on each movement, then 1 minute of rest, six times; score the total of each movement",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

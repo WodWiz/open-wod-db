@@ -1,0 +1,44 @@
+{
+  "id": "bear-complex",
+  "name": "Bear Complex",
+  "category": "community",
+  "format": "complex",
+  "format_meta": {
+    "rounds": 5,
+    "scoring": "load"
+  },
+  "movements": [
+    {
+      "exercise": "power-clean",
+      "reps": 1
+    },
+    {
+      "exercise": "front-squat",
+      "reps": 1
+    },
+    {
+      "exercise": "push-press",
+      "reps": 1
+    },
+    {
+      "exercise": "back-squat",
+      "reps": 1
+    },
+    {
+      "exercise": "push-press",
+      "reps": 1
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "benchmark",
+    "barbell",
+    "complex"
+  ],
+  "description": "Five rounds of a barbell complex of power clean, front squat, push press, back squat and push press, done as 7 unbroken sets per round. Scored by the load used.",
+  "source_notes": "crossfit.com/essentials/the-power-clean (Common Power Clean Workouts), retrieved 2026-10-16; five rounds, each of 7 unbroken sets of the complex, scored by the load used",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

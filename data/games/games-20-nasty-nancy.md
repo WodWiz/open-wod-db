@@ -1,6 +1,6 @@
 # Nasty Nancy
 
-Five rounds of a run, heavy overhead squats, and bar-facing burpees — a heavier, longer relative of the classic Girl WOD Nancy.
+Five rounds of a run, heavy overhead squats, and bar-facing burpees, a heavier, longer relative of the classic Girl WOD Nancy.
 
 **5 rounds for time**
   Run 500m

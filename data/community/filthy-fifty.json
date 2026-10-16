@@ -1,0 +1,76 @@
+{
+  "id": "filthy-fifty",
+  "name": "Filthy Fifty",
+  "category": "community",
+  "format": "for_time",
+  "format_meta": {
+    "scoring": "time"
+  },
+  "movements": [
+    {
+      "exercise": "box-jump",
+      "reps": 50,
+      "load": {
+        "rx_male": "24\""
+      }
+    },
+    {
+      "exercise": "jumping-pull-up",
+      "reps": 50
+    },
+    {
+      "exercise": "kettlebell-swing",
+      "reps": 50,
+      "load": {
+        "rx_male": "1 pood"
+      }
+    },
+    {
+      "exercise": "walking-lunge",
+      "reps": 50,
+      "notes": "steps"
+    },
+    {
+      "exercise": "knees-to-elbows",
+      "reps": 50
+    },
+    {
+      "exercise": "push-press",
+      "reps": 50,
+      "load": {
+        "rx_male": "45lb"
+      }
+    },
+    {
+      "exercise": "back-extension",
+      "reps": 50
+    },
+    {
+      "exercise": "wall-ball-shot",
+      "reps": 50,
+      "load": {
+        "rx_male": "20lb"
+      }
+    },
+    {
+      "exercise": "burpee",
+      "reps": 50
+    },
+    {
+      "exercise": "double-under",
+      "reps": 50
+    }
+  ],
+  "partition": null,
+  "scaling": null,
+  "origin": null,
+  "tags": [
+    "chipper",
+    "benchmark",
+    "high-volume"
+  ],
+  "description": "A ten-movement chipper with 50 reps of each: box jumps, jumping pull-ups, kettlebell swings, walking lunge steps, knees-to-elbows, push presses, back extensions, wall-ball shots, burpees and double-unders.",
+  "source_notes": "crossfit.com/workout/2005/06/19 (official CrossFit daily workout archive, first posted; reposted 2009-04-23), retrieved 2026-10-16; the name comes from crossfit.com/essentials/crossfit-15-benchmarks, the posts themselves do not name it",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-16"
+}

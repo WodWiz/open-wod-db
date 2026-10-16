@@ -1,6 +1,6 @@
 # Capoot
 
-A descending push-up ladder (100 down to 25) paired with an ascending run distance after each set — the reps get easier as the runs get longer.
+A descending push-up ladder (100 down to 25) paired with an ascending run distance after each set. The reps get easier as the runs get longer.
 
 **For Time**
   100 Push Up

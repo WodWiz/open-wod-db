@@ -1,6 +1,6 @@
 # Squat Clean Pyramid
 
-A staged, ever-heavier squat clean ladder against tightening time windows — fewer reps required at each stage, but the barbell gets significantly heavier.
+A staged, ever-heavier squat clean ladder against tightening time windows: fewer reps required at each stage, but the barbell gets significantly heavier.
 
 **By 2:00**
 **For Time**

@@ -1,6 +1,6 @@
 # Bruck
 
-Four rounds of a 400m run followed by 24 back squats and 24 jerks — a running-anchored barbell couplet at fairly high rep counts for both lifts.
+Four rounds of a 400m run followed by 24 back squats and 24 jerks, a running-anchored barbell couplet at fairly high rep counts for both lifts.
 
 **4 rounds for time**
   Run 400m

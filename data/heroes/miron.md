@@ -1,6 +1,6 @@
 # Miron
 
-Five rounds of an 800m run followed by bodyweight-relative back squats and deadlifts — both barbell lifts are scaled to the athlete's own bodyweight rather than a fixed number.
+Five rounds of an 800m run followed by bodyweight-relative back squats and deadlifts. Both barbell lifts are scaled to the athlete's own bodyweight rather than a fixed number.
 
 **5 rounds for time**
   Run 800m

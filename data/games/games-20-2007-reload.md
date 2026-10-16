@@ -1,6 +1,6 @@
 # 2007 Reload
 
-Five rounds of a row, bar muscle-ups, and heavy shoulder-to-overhead — an homage to the Games' 2007 origins.
+Five rounds of a row, bar muscle-ups, and heavy shoulder-to-overhead, an homage to the Games' 2007 origins.
 
 **For Time**
   Row 1500m
